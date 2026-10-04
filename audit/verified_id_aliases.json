@@ -1,0 +1,8696 @@
+[
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3018096"
+      ],
+      [
+        "fangraphs",
+        "30165"
+      ],
+      [
+        "mlbam",
+        "694357"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3012630"
+      ],
+      [
+        "mlbam",
+        "808970"
+      ],
+      [
+        "fangraphs",
+        "33827"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020860"
+      ],
+      [
+        "mlbam",
+        "690990"
+      ],
+      [
+        "fangraphs",
+        "31872"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3017915"
+      ],
+      [
+        "mlbam",
+        "678024"
+      ],
+      [
+        "fangraphs",
+        "30105"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3011135"
+      ],
+      [
+        "mlbam",
+        "681520"
+      ],
+      [
+        "fangraphs",
+        "25611"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3014534"
+      ],
+      [
+        "mlbam",
+        "690953"
+      ],
+      [
+        "fangraphs",
+        "27756"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3017850"
+      ],
+      [
+        "mlbam",
+        "702021"
+      ],
+      [
+        "fangraphs",
+        "30061"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3008470"
+      ],
+      [
+        "mlbam",
+        "677952"
+      ],
+      [
+        "fangraphs",
+        "23793"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa1053035"
+      ],
+      [
+        "mlbam",
+        "681006"
+      ],
+      [
+        "fangraphs",
+        "25957"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3008244"
+      ],
+      [
+        "fangraphs",
+        "22200"
+      ],
+      [
+        "mlbam",
+        "669020"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3017868"
+      ],
+      [
+        "mlbam",
+        "693313"
+      ],
+      [
+        "fangraphs",
+        "30084"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3010299"
+      ],
+      [
+        "mlbam",
+        "663671"
+      ],
+      [
+        "fangraphs",
+        "25553"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3017876"
+      ],
+      [
+        "fangraphs",
+        "30081"
+      ],
+      [
+        "mlbam",
+        "701719"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3016940"
+      ],
+      [
+        "mlbam",
+        "687287"
+      ],
+      [
+        "fangraphs",
+        "29564"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3017949"
+      ],
+      [
+        "fangraphs",
+        "30153"
+      ],
+      [
+        "mlbam",
+        "687589"
+      ]
+    ],
+    "reason": "user-reviewed identity alias",
+    "review": {
+      "ids": [
+        [
+          "fangraphs",
+          "sa3017949"
+        ],
+        [
+          "fangraphs",
+          "30153"
+        ],
+        [
+          "mlbam",
+          "687589"
+        ]
+      ],
+      "reason": "Owner confirmed these IDs represent the same player with different recorded names.",
+      "verified_by": "project owner",
+      "verified_on": "2026-10-04"
+    }
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3014447"
+      ],
+      [
+        "fangraphs",
+        "27814"
+      ],
+      [
+        "mlbam",
+        "675660"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020644"
+      ],
+      [
+        "mlbam",
+        "694819"
+      ],
+      [
+        "fangraphs",
+        "31623"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3010315"
+      ],
+      [
+        "fangraphs",
+        "25703"
+      ],
+      [
+        "mlbam",
+        "687849"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3014492"
+      ],
+      [
+        "mlbam",
+        "693308"
+      ],
+      [
+        "fangraphs",
+        "27861"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3017977"
+      ],
+      [
+        "fangraphs",
+        "30179"
+      ],
+      [
+        "mlbam",
+        "701487"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3017103"
+      ],
+      [
+        "mlbam",
+        "696522"
+      ],
+      [
+        "fangraphs",
+        "29640"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3010816"
+      ],
+      [
+        "mlbam",
+        "687166"
+      ],
+      [
+        "fangraphs",
+        "26136"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3019426"
+      ],
+      [
+        "mlbam",
+        "676467"
+      ],
+      [
+        "fangraphs",
+        "31312"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3003159"
+      ],
+      [
+        "fangraphs",
+        "23237"
+      ],
+      [
+        "mlbam",
+        "675848"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3010633"
+      ],
+      [
+        "fangraphs",
+        "26429"
+      ],
+      [
+        "mlbam",
+        "689520"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3017390"
+      ],
+      [
+        "mlbam",
+        "695049"
+      ],
+      [
+        "fangraphs",
+        "29826"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3014477"
+      ],
+      [
+        "mlbam",
+        "685005"
+      ],
+      [
+        "fangraphs",
+        "27662"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3014478"
+      ],
+      [
+        "fangraphs",
+        "27666"
+      ],
+      [
+        "mlbam",
+        "685112"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3014876"
+      ],
+      [
+        "mlbam",
+        "699911"
+      ],
+      [
+        "fangraphs",
+        "27812"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3008067"
+      ],
+      [
+        "fangraphs",
+        "23479"
+      ],
+      [
+        "mlbam",
+        "676742"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3023361"
+      ],
+      [
+        "mlbam",
+        "801403"
+      ],
+      [
+        "fangraphs",
+        "33482"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3017428"
+      ],
+      [
+        "mlbam",
+        "696149"
+      ],
+      [
+        "fangraphs",
+        "29868"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3017880"
+      ],
+      [
+        "mlbam",
+        "691725"
+      ],
+      [
+        "fangraphs",
+        "30091"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3023407"
+      ],
+      [
+        "mlbam",
+        "687273"
+      ],
+      [
+        "fangraphs",
+        "33851"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020469"
+      ],
+      [
+        "mlbam",
+        "681343"
+      ],
+      [
+        "fangraphs",
+        "31687"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020949"
+      ],
+      [
+        "mlbam",
+        "702273"
+      ],
+      [
+        "fangraphs",
+        "32056"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3025685"
+      ],
+      [
+        "mlbam",
+        "608372"
+      ],
+      [
+        "fangraphs",
+        "35321"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3058454"
+      ],
+      [
+        "mlbam",
+        "829272"
+      ],
+      [
+        "fangraphs",
+        "35324"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3018097"
+      ],
+      [
+        "mlbam",
+        "702070"
+      ],
+      [
+        "fangraphs",
+        "30184"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3023032"
+      ],
+      [
+        "mlbam",
+        "684974"
+      ],
+      [
+        "fangraphs",
+        "33248"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020529"
+      ],
+      [
+        "mlbam",
+        "687931"
+      ],
+      [
+        "fangraphs",
+        "31676"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3023499"
+      ],
+      [
+        "mlbam",
+        "687075"
+      ],
+      [
+        "fangraphs",
+        "33850"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3019785"
+      ],
+      [
+        "mlbam",
+        "680684"
+      ],
+      [
+        "fangraphs",
+        "31318"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3010784"
+      ],
+      [
+        "mlbam",
+        "671162"
+      ],
+      [
+        "fangraphs",
+        "25873"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020080"
+      ],
+      [
+        "mlbam",
+        "701656"
+      ],
+      [
+        "fangraphs",
+        "31475"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3014926"
+      ],
+      [
+        "mlbam",
+        "687064"
+      ],
+      [
+        "fangraphs",
+        "27819"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3007612"
+      ],
+      [
+        "mlbam",
+        "681895"
+      ],
+      [
+        "fangraphs",
+        "24995"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020752"
+      ],
+      [
+        "mlbam",
+        "802419"
+      ],
+      [
+        "fangraphs",
+        "31989"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3017755"
+      ],
+      [
+        "mlbam",
+        "697812"
+      ],
+      [
+        "fangraphs",
+        "30016"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3014512"
+      ],
+      [
+        "mlbam",
+        "693855"
+      ],
+      [
+        "fangraphs",
+        "27932"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3015414"
+      ],
+      [
+        "mlbam",
+        "682769"
+      ],
+      [
+        "fangraphs",
+        "28040"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020707"
+      ],
+      [
+        "mlbam",
+        "702281"
+      ],
+      [
+        "fangraphs",
+        "31893"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3016946"
+      ],
+      [
+        "mlbam",
+        "695445"
+      ],
+      [
+        "fangraphs",
+        "29574"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020388"
+      ],
+      [
+        "mlbam",
+        "690279"
+      ],
+      [
+        "fangraphs",
+        "31663"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3017963"
+      ],
+      [
+        "mlbam",
+        "695534"
+      ],
+      [
+        "fangraphs",
+        "30170"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3014922"
+      ],
+      [
+        "mlbam",
+        "685068"
+      ],
+      [
+        "fangraphs",
+        "27508"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3006971"
+      ],
+      [
+        "mlbam",
+        "678316"
+      ],
+      [
+        "fangraphs",
+        "23875"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3011555"
+      ],
+      [
+        "mlbam",
+        "671936"
+      ],
+      [
+        "fangraphs",
+        "25590"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3015158"
+      ],
+      [
+        "mlbam",
+        "693713"
+      ],
+      [
+        "fangraphs",
+        "27999"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3018178"
+      ],
+      [
+        "mlbam",
+        "680916"
+      ],
+      [
+        "fangraphs",
+        "30195"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3011818"
+      ],
+      [
+        "mlbam",
+        "687473"
+      ],
+      [
+        "fangraphs",
+        "26440"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa828460"
+      ],
+      [
+        "mlbam",
+        "642376"
+      ],
+      [
+        "fangraphs",
+        "27902"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3007495"
+      ],
+      [
+        "mlbam",
+        "682445"
+      ],
+      [
+        "fangraphs",
+        "25241"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3023077"
+      ],
+      [
+        "mlbam",
+        "688138"
+      ],
+      [
+        "fangraphs",
+        "33699"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa917689"
+      ],
+      [
+        "mlbam",
+        "666711"
+      ],
+      [
+        "fangraphs",
+        "21951"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020812"
+      ],
+      [
+        "mlbam",
+        "695418"
+      ],
+      [
+        "fangraphs",
+        "31972"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3021981"
+      ],
+      [
+        "mlbam",
+        "693645"
+      ],
+      [
+        "fangraphs",
+        "32095"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020619"
+      ],
+      [
+        "mlbam",
+        "680729"
+      ],
+      [
+        "fangraphs",
+        "31751"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3008417"
+      ],
+      [
+        "mlbam",
+        "680701"
+      ],
+      [
+        "fangraphs",
+        "24590"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3017933"
+      ],
+      [
+        "mlbam",
+        "694477"
+      ],
+      [
+        "fangraphs",
+        "30113"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3008169"
+      ],
+      [
+        "mlbam",
+        "681168"
+      ],
+      [
+        "fangraphs",
+        "24710"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020569"
+      ],
+      [
+        "mlbam",
+        "702193"
+      ],
+      [
+        "fangraphs",
+        "31891"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020622"
+      ],
+      [
+        "mlbam",
+        "686930"
+      ],
+      [
+        "fangraphs",
+        "31741"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3017991"
+      ],
+      [
+        "mlbam",
+        "701519"
+      ],
+      [
+        "fangraphs",
+        "30180"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020473"
+      ],
+      [
+        "mlbam",
+        "687223"
+      ],
+      [
+        "fangraphs",
+        "31612"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3022951"
+      ],
+      [
+        "mlbam",
+        "805299"
+      ],
+      [
+        "fangraphs",
+        "33568"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3018110"
+      ],
+      [
+        "mlbam",
+        "680951"
+      ],
+      [
+        "fangraphs",
+        "30142"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3006617"
+      ],
+      [
+        "mlbam",
+        "680604"
+      ],
+      [
+        "fangraphs",
+        "26117"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020560"
+      ],
+      [
+        "mlbam",
+        "688642"
+      ],
+      [
+        "fangraphs",
+        "31552"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3008022"
+      ],
+      [
+        "mlbam",
+        "663795"
+      ],
+      [
+        "fangraphs",
+        "21546"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020255"
+      ],
+      [
+        "mlbam",
+        "687209"
+      ],
+      [
+        "fangraphs",
+        "31610"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3017070"
+      ],
+      [
+        "mlbam",
+        "694335"
+      ],
+      [
+        "fangraphs",
+        "29629"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3019913"
+      ],
+      [
+        "mlbam",
+        "802686"
+      ],
+      [
+        "fangraphs",
+        "31913"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3018275"
+      ],
+      [
+        "mlbam",
+        "690928"
+      ],
+      [
+        "fangraphs",
+        "30240"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3006507"
+      ],
+      [
+        "mlbam",
+        "679883"
+      ],
+      [
+        "fangraphs",
+        "24452"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020261"
+      ],
+      [
+        "mlbam",
+        "689254"
+      ],
+      [
+        "fangraphs",
+        "31553"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020661"
+      ],
+      [
+        "mlbam",
+        "687312"
+      ],
+      [
+        "fangraphs",
+        "31614"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3008687"
+      ],
+      [
+        "mlbam",
+        "682790"
+      ],
+      [
+        "fangraphs",
+        "26641"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3017418"
+      ],
+      [
+        "mlbam",
+        "686701"
+      ],
+      [
+        "fangraphs",
+        "29863"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3007599"
+      ],
+      [
+        "mlbam",
+        "678215"
+      ],
+      [
+        "fangraphs",
+        "23811"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3008313"
+      ],
+      [
+        "mlbam",
+        "664991"
+      ],
+      [
+        "fangraphs",
+        "21623"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3011418"
+      ],
+      [
+        "mlbam",
+        "669704"
+      ],
+      [
+        "fangraphs",
+        "26191"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3004211"
+      ],
+      [
+        "mlbam",
+        "676620"
+      ],
+      [
+        "fangraphs",
+        "20257"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020438"
+      ],
+      [
+        "mlbam",
+        "690382"
+      ],
+      [
+        "fangraphs",
+        "31501"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3011201"
+      ],
+      [
+        "mlbam",
+        "687074"
+      ],
+      [
+        "fangraphs",
+        "26030"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020746"
+      ],
+      [
+        "mlbam",
+        "691008"
+      ],
+      [
+        "fangraphs",
+        "31873"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa919291"
+      ],
+      [
+        "mlbam",
+        "665660"
+      ],
+      [
+        "fangraphs",
+        "21662"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3011575"
+      ],
+      [
+        "mlbam",
+        "691548"
+      ],
+      [
+        "fangraphs",
+        "27407"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa877578"
+      ],
+      [
+        "mlbam",
+        "660604"
+      ],
+      [
+        "fangraphs",
+        "19524"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa919012"
+      ],
+      [
+        "mlbam",
+        "668716"
+      ],
+      [
+        "fangraphs",
+        "27908"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3017917"
+      ],
+      [
+        "mlbam",
+        "681320"
+      ],
+      [
+        "fangraphs",
+        "30109"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3017914"
+      ],
+      [
+        "mlbam",
+        "672021"
+      ],
+      [
+        "fangraphs",
+        "30128"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3019956"
+      ],
+      [
+        "mlbam",
+        "701121"
+      ],
+      [
+        "fangraphs",
+        "31884"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3034809"
+      ],
+      [
+        "mlbam",
+        "696270"
+      ],
+      [
+        "fangraphs",
+        "35325"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "33703"
+      ],
+      [
+        "mlbam",
+        "690997"
+      ],
+      [
+        "fangraphs",
+        "sa3023053"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "31986"
+      ],
+      [
+        "mlbam",
+        "800048"
+      ],
+      [
+        "fangraphs",
+        "sa3020748"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "33927"
+      ],
+      [
+        "mlbam",
+        "691799"
+      ],
+      [
+        "fangraphs",
+        "sa3023634"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "33174"
+      ],
+      [
+        "mlbam",
+        "682995"
+      ],
+      [
+        "fangraphs",
+        "sa3022409"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "32227"
+      ],
+      [
+        "mlbam",
+        "806960"
+      ],
+      [
+        "fangraphs",
+        "sa3021487"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "33666"
+      ],
+      [
+        "mlbam",
+        "813349"
+      ],
+      [
+        "fangraphs",
+        "sa3023308"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "29914"
+      ],
+      [
+        "mlbam",
+        "674841"
+      ],
+      [
+        "fangraphs",
+        "sa3017531"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "24621"
+      ],
+      [
+        "mlbam",
+        "680802"
+      ],
+      [
+        "fangraphs",
+        "sa3007778"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "32157"
+      ],
+      [
+        "mlbam",
+        "804636"
+      ],
+      [
+        "fangraphs",
+        "sa3022324"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "31807"
+      ],
+      [
+        "mlbam",
+        "675512"
+      ],
+      [
+        "fangraphs",
+        "sa3020652"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "24609"
+      ],
+      [
+        "mlbam",
+        "680755"
+      ],
+      [
+        "fangraphs",
+        "sa3007929"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "31857"
+      ],
+      [
+        "mlbam",
+        "687570"
+      ],
+      [
+        "fangraphs",
+        "sa3020808"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "30661"
+      ],
+      [
+        "mlbam",
+        "800311"
+      ],
+      [
+        "fangraphs",
+        "sa3018841"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "33464"
+      ],
+      [
+        "mlbam",
+        "691946"
+      ],
+      [
+        "fangraphs",
+        "sa3023440"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "31468"
+      ],
+      [
+        "mlbam",
+        "678022"
+      ],
+      [
+        "fangraphs",
+        "sa3020076"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "33821"
+      ],
+      [
+        "mlbam",
+        "691769"
+      ],
+      [
+        "fangraphs",
+        "sa3023305"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "27926"
+      ],
+      [
+        "mlbam",
+        "689441"
+      ],
+      [
+        "fangraphs",
+        "sa3015142"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "31738"
+      ],
+      [
+        "mlbam",
+        "687985"
+      ],
+      [
+        "fangraphs",
+        "sa3019953"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "23394"
+      ],
+      [
+        "mlbam",
+        "676571"
+      ],
+      [
+        "fangraphs",
+        "sa3007223"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "29423"
+      ],
+      [
+        "mlbam",
+        "696070"
+      ],
+      [
+        "fangraphs",
+        "sa3016746"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "31701"
+      ],
+      [
+        "mlbam",
+        "694918"
+      ],
+      [
+        "fangraphs",
+        "sa3020177"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "31760"
+      ],
+      [
+        "mlbam",
+        "702275"
+      ],
+      [
+        "fangraphs",
+        "sa3020395"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "33862"
+      ],
+      [
+        "mlbam",
+        "694494"
+      ],
+      [
+        "fangraphs",
+        "sa3023410"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "30004"
+      ],
+      [
+        "mlbam",
+        "685326"
+      ],
+      [
+        "fangraphs",
+        "sa3017812"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "31815"
+      ],
+      [
+        "mlbam",
+        "806188"
+      ],
+      [
+        "fangraphs",
+        "sa3019914"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "20333"
+      ],
+      [
+        "mlbam",
+        "675919"
+      ],
+      [
+        "fangraphs",
+        "sa3004658"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "33027"
+      ],
+      [
+        "mlbam",
+        "703725"
+      ],
+      [
+        "fangraphs",
+        "sa3020964"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "30003"
+      ],
+      [
+        "mlbam",
+        "683352"
+      ],
+      [
+        "fangraphs",
+        "sa3017719"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "31616"
+      ],
+      [
+        "mlbam",
+        "688158"
+      ],
+      [
+        "fangraphs",
+        "sa3020260"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "32070"
+      ],
+      [
+        "mlbam",
+        "684442"
+      ],
+      [
+        "fangraphs",
+        "sa3021723"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "33628"
+      ],
+      [
+        "mlbam",
+        "815083"
+      ],
+      [
+        "fangraphs",
+        "sa3022912"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "29887"
+      ],
+      [
+        "mlbam",
+        "701780"
+      ],
+      [
+        "fangraphs",
+        "sa3017471"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "29615"
+      ],
+      [
+        "mlbam",
+        "679775"
+      ],
+      [
+        "fangraphs",
+        "sa3017068"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "29542"
+      ],
+      [
+        "mlbam",
+        "701552"
+      ],
+      [
+        "fangraphs",
+        "sa3016913"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "29107"
+      ],
+      [
+        "mlbam",
+        "699134"
+      ],
+      [
+        "fangraphs",
+        "sa3016035"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "31994"
+      ],
+      [
+        "mlbam",
+        "804926"
+      ],
+      [
+        "fangraphs",
+        "sa3020868"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "27757"
+      ],
+      [
+        "mlbam",
+        "690978"
+      ],
+      [
+        "fangraphs",
+        "sa3014535"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "31764"
+      ],
+      [
+        "mlbam",
+        "805123"
+      ],
+      [
+        "fangraphs",
+        "sa3020112"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "27853"
+      ],
+      [
+        "mlbam",
+        "670245"
+      ],
+      [
+        "fangraphs",
+        "sa3015070"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "33794"
+      ],
+      [
+        "mlbam",
+        "694346"
+      ],
+      [
+        "fangraphs",
+        "sa3023250"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "29961"
+      ],
+      [
+        "mlbam",
+        "700413"
+      ],
+      [
+        "fangraphs",
+        "sa3017643"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "29318"
+      ],
+      [
+        "mlbam",
+        "700327"
+      ],
+      [
+        "fangraphs",
+        "sa3016061"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "25796"
+      ],
+      [
+        "mlbam",
+        "689296"
+      ],
+      [
+        "fangraphs",
+        "sa3010171"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "31870"
+      ],
+      [
+        "mlbam",
+        "690155"
+      ],
+      [
+        "fangraphs",
+        "sa3019955"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "31959"
+      ],
+      [
+        "mlbam",
+        "687562"
+      ],
+      [
+        "fangraphs",
+        "sa3020737"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "33502"
+      ],
+      [
+        "mlbam",
+        "807743"
+      ],
+      [
+        "fangraphs",
+        "sa3023162"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "25501"
+      ],
+      [
+        "mlbam",
+        "687606"
+      ],
+      [
+        "fangraphs",
+        "sa3010626"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "35309"
+      ],
+      [
+        "mlbam",
+        "697811"
+      ],
+      [
+        "fangraphs",
+        "sa3025659"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "31811"
+      ],
+      [
+        "mlbam",
+        "695684"
+      ],
+      [
+        "fangraphs",
+        "sa3019459"
+      ]
+    ],
+    "reason": "user-reviewed identity alias",
+    "review": {
+      "ids": [
+        [
+          "fangraphs",
+          "31811"
+        ],
+        [
+          "mlbam",
+          "695684"
+        ],
+        [
+          "fangraphs",
+          "sa3019459"
+        ]
+      ],
+      "reason": "Owner confirmed these IDs represent the same player with different recorded names.",
+      "verified_by": "project owner",
+      "verified_on": "2026-10-04"
+    }
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "32155"
+      ],
+      [
+        "mlbam",
+        "804619"
+      ],
+      [
+        "fangraphs",
+        "sa3020405"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "33980"
+      ],
+      [
+        "mlbam",
+        "702752"
+      ],
+      [
+        "fangraphs",
+        "sa3024197"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "29036"
+      ],
+      [
+        "mlbam",
+        "699044"
+      ],
+      [
+        "fangraphs",
+        "sa3016504"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "33903"
+      ],
+      [
+        "mlbam",
+        "811315"
+      ],
+      [
+        "fangraphs",
+        "sa3023515"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "31621"
+      ],
+      [
+        "mlbam",
+        "693686"
+      ],
+      [
+        "fangraphs",
+        "sa3020475"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "31910"
+      ],
+      [
+        "mlbam",
+        "802408"
+      ],
+      [
+        "fangraphs",
+        "sa3020710"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "35205"
+      ],
+      [
+        "mlbam",
+        "696146"
+      ],
+      [
+        "fangraphs",
+        "sa3025544"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "29934"
+      ],
+      [
+        "mlbam",
+        "702303"
+      ],
+      [
+        "fangraphs",
+        "sa3017601"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "23381"
+      ],
+      [
+        "mlbam",
+        "676510"
+      ],
+      [
+        "fangraphs",
+        "sa3007471"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "27984"
+      ],
+      [
+        "mlbam",
+        "692030"
+      ],
+      [
+        "fangraphs",
+        "sa3015213"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "32026"
+      ],
+      [
+        "mlbam",
+        "805427"
+      ],
+      [
+        "fangraphs",
+        "sa3020885"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "33214"
+      ],
+      [
+        "mlbam",
+        "805345"
+      ],
+      [
+        "fangraphs",
+        "sa3022526"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "30166"
+      ],
+      [
+        "mlbam",
+        "694397"
+      ],
+      [
+        "fangraphs",
+        "sa3014550"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "29114"
+      ],
+      [
+        "mlbam",
+        "699151"
+      ],
+      [
+        "fangraphs",
+        "sa3016264"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "21924"
+      ],
+      [
+        "mlbam",
+        "666661"
+      ],
+      [
+        "fangraphs",
+        "sa917772"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "28148"
+      ],
+      [
+        "mlbam",
+        "691384"
+      ],
+      [
+        "fangraphs",
+        "sa3014677"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "30145"
+      ],
+      [
+        "mlbam",
+        "681916"
+      ],
+      [
+        "fangraphs",
+        "sa3018113"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "31953"
+      ],
+      [
+        "mlbam",
+        "683000"
+      ],
+      [
+        "fangraphs",
+        "sa3020830"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "21922"
+      ],
+      [
+        "mlbam",
+        "666659"
+      ],
+      [
+        "fangraphs",
+        "sa917331"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "29357"
+      ],
+      [
+        "mlbam",
+        "700712"
+      ],
+      [
+        "fangraphs",
+        "sa3018298"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "31886"
+      ],
+      [
+        "mlbam",
+        "701474"
+      ],
+      [
+        "fangraphs",
+        "sa3020394"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "24914"
+      ],
+      [
+        "mlbam",
+        "681751"
+      ],
+      [
+        "fangraphs",
+        "sa3005471"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "28901"
+      ],
+      [
+        "mlbam",
+        "696062"
+      ],
+      [
+        "fangraphs",
+        "sa3015163"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "27014"
+      ],
+      [
+        "mlbam",
+        "683742"
+      ],
+      [
+        "fangraphs",
+        "sa3008714"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "31850"
+      ],
+      [
+        "mlbam",
+        "685464"
+      ],
+      [
+        "fangraphs",
+        "sa3020805"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "31880"
+      ],
+      [
+        "mlbam",
+        "695380"
+      ],
+      [
+        "fangraphs",
+        "sa3020836"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "31743"
+      ],
+      [
+        "mlbam",
+        "689818"
+      ],
+      [
+        "fangraphs",
+        "sa3020606"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "27271"
+      ],
+      [
+        "mlbam",
+        "686228"
+      ],
+      [
+        "fangraphs",
+        "sa3009272"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "26344"
+      ],
+      [
+        "mlbam",
+        "688497"
+      ],
+      [
+        "fangraphs",
+        "sa3011597"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "30167"
+      ],
+      [
+        "mlbam",
+        "695239"
+      ],
+      [
+        "fangraphs",
+        "sa3018193"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "31920"
+      ],
+      [
+        "mlbam",
+        "805326"
+      ],
+      [
+        "fangraphs",
+        "sa3020712"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "27481"
+      ],
+      [
+        "mlbam",
+        "677961"
+      ],
+      [
+        "fangraphs",
+        "sa3014443"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "33785"
+      ],
+      [
+        "mlbam",
+        "694795"
+      ],
+      [
+        "fangraphs",
+        "sa3023204"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "29633"
+      ],
+      [
+        "mlbam",
+        "694851"
+      ],
+      [
+        "fangraphs",
+        "sa3017202"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "23162"
+      ],
+      [
+        "mlbam",
+        "674384"
+      ],
+      [
+        "fangraphs",
+        "sa3005284"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "25620"
+      ],
+      [
+        "mlbam",
+        "682825"
+      ],
+      [
+        "fangraphs",
+        "sa3010130"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "31942"
+      ],
+      [
+        "mlbam",
+        "671382"
+      ],
+      [
+        "fangraphs",
+        "sa3020735"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "26482"
+      ],
+      [
+        "mlbam",
+        "681151"
+      ],
+      [
+        "fangraphs",
+        "sa1170405"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "31615"
+      ],
+      [
+        "mlbam",
+        "687531"
+      ],
+      [
+        "fangraphs",
+        "sa3020527"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "26349"
+      ],
+      [
+        "mlbam",
+        "686560"
+      ],
+      [
+        "fangraphs",
+        "sa3011742"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "31936"
+      ],
+      [
+        "mlbam",
+        "696519"
+      ],
+      [
+        "fangraphs",
+        "sa3020862"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "31865"
+      ],
+      [
+        "mlbam",
+        "688883"
+      ],
+      [
+        "fangraphs",
+        "sa3020742"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "31571"
+      ],
+      [
+        "mlbam",
+        "801434"
+      ],
+      [
+        "fangraphs",
+        "sa3019957"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "22622"
+      ],
+      [
+        "mlbam",
+        "672442"
+      ],
+      [
+        "fangraphs",
+        "sa3002951"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "27967"
+      ],
+      [
+        "mlbam",
+        "691251"
+      ],
+      [
+        "fangraphs",
+        "sa3014716"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "30231"
+      ],
+      [
+        "mlbam",
+        "691945"
+      ],
+      [
+        "fangraphs",
+        "sa3014480"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "28052"
+      ],
+      [
+        "mlbam",
+        "684049"
+      ],
+      [
+        "fangraphs",
+        "sa3015277"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "25158"
+      ],
+      [
+        "mlbam",
+        "682144"
+      ],
+      [
+        "fangraphs",
+        "sa3007621"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "27570"
+      ],
+      [
+        "mlbam",
+        "669371"
+      ],
+      [
+        "fangraphs",
+        "sa3014446"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3017170"
+      ],
+      [
+        "mlbam",
+        "695657"
+      ],
+      [
+        "fangraphs",
+        "29712"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3019868"
+      ],
+      [
+        "mlbam",
+        "805300"
+      ],
+      [
+        "fangraphs",
+        "31370"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3009808"
+      ],
+      [
+        "mlbam",
+        "682877"
+      ],
+      [
+        "fangraphs",
+        "26693"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3005511"
+      ],
+      [
+        "mlbam",
+        "678391"
+      ],
+      [
+        "fangraphs",
+        "23917"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3017694"
+      ],
+      [
+        "mlbam",
+        "691781"
+      ],
+      [
+        "fangraphs",
+        "29993"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3015407"
+      ],
+      [
+        "mlbam",
+        "691620"
+      ],
+      [
+        "fangraphs",
+        "28272"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3005554"
+      ],
+      [
+        "mlbam",
+        "678760"
+      ],
+      [
+        "fangraphs",
+        "24151"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3009845"
+      ],
+      [
+        "mlbam",
+        "685744"
+      ],
+      [
+        "fangraphs",
+        "26244"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3006872"
+      ],
+      [
+        "mlbam",
+        "671655"
+      ],
+      [
+        "fangraphs",
+        "22541"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020211"
+      ],
+      [
+        "mlbam",
+        "701350"
+      ],
+      [
+        "fangraphs",
+        "31812"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3004153"
+      ],
+      [
+        "mlbam",
+        "675448"
+      ],
+      [
+        "fangraphs",
+        "23209"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3004048"
+      ],
+      [
+        "mlbam",
+        "672359"
+      ],
+      [
+        "fangraphs",
+        "22566"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3010899"
+      ],
+      [
+        "fangraphs",
+        "26143"
+      ],
+      [
+        "mlbam",
+        "687859"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3015168"
+      ],
+      [
+        "mlbam",
+        "691277"
+      ],
+      [
+        "fangraphs",
+        "27969"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3023011"
+      ],
+      [
+        "mlbam",
+        "692225"
+      ],
+      [
+        "fangraphs",
+        "33644"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020011"
+      ],
+      [
+        "mlbam",
+        "805367"
+      ],
+      [
+        "fangraphs",
+        "31580"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3025168"
+      ],
+      [
+        "mlbam",
+        "695681"
+      ],
+      [
+        "fangraphs",
+        "34979"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3022886"
+      ],
+      [
+        "mlbam",
+        "691019"
+      ],
+      [
+        "fangraphs",
+        "33549"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3012639"
+      ],
+      [
+        "mlbam",
+        "808975"
+      ],
+      [
+        "fangraphs",
+        "35322"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3015239"
+      ],
+      [
+        "mlbam",
+        "700337"
+      ],
+      [
+        "fangraphs",
+        "28022"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3019920"
+      ],
+      [
+        "mlbam",
+        "686948"
+      ],
+      [
+        "fangraphs",
+        "31539"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3019892"
+      ],
+      [
+        "mlbam",
+        "687221"
+      ],
+      [
+        "fangraphs",
+        "31382"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3017183"
+      ],
+      [
+        "mlbam",
+        "702332"
+      ],
+      [
+        "fangraphs",
+        "29646"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3009276"
+      ],
+      [
+        "mlbam",
+        "682663"
+      ],
+      [
+        "fangraphs",
+        "26546"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3025358"
+      ],
+      [
+        "mlbam",
+        "701358"
+      ],
+      [
+        "fangraphs",
+        "35108"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020212"
+      ],
+      [
+        "mlbam",
+        "702176"
+      ],
+      [
+        "fangraphs",
+        "31564"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020459"
+      ],
+      [
+        "mlbam",
+        "702284"
+      ],
+      [
+        "fangraphs",
+        "31680"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3017795"
+      ],
+      [
+        "mlbam",
+        "700246"
+      ],
+      [
+        "fangraphs",
+        "30038"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020219"
+      ],
+      [
+        "mlbam",
+        "802415"
+      ],
+      [
+        "fangraphs",
+        "31912"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3014711"
+      ],
+      [
+        "mlbam",
+        "691185"
+      ],
+      [
+        "fangraphs",
+        "27963"
+      ]
+    ],
+    "reason": "user-reviewed identity alias",
+    "review": {
+      "ids": [
+        [
+          "fangraphs",
+          "sa3014711"
+        ],
+        [
+          "mlbam",
+          "691185"
+        ],
+        [
+          "fangraphs",
+          "27963"
+        ]
+      ],
+      "reason": "Owner confirmed these IDs represent the same player with different recorded names.",
+      "verified_by": "project owner",
+      "verified_on": "2026-10-04"
+    }
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3015716"
+      ],
+      [
+        "mlbam",
+        "694212"
+      ],
+      [
+        "fangraphs",
+        "28824"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3017114"
+      ],
+      [
+        "mlbam",
+        "691785"
+      ],
+      [
+        "fangraphs",
+        "29668"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3017400"
+      ],
+      [
+        "mlbam",
+        "689414"
+      ],
+      [
+        "fangraphs",
+        "29844"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3022614"
+      ],
+      [
+        "mlbam",
+        "807712"
+      ],
+      [
+        "fangraphs",
+        "33321"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3014693"
+      ],
+      [
+        "mlbam",
+        "691181"
+      ],
+      [
+        "fangraphs",
+        "28084"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3015713"
+      ],
+      [
+        "mlbam",
+        "694208"
+      ],
+      [
+        "fangraphs",
+        "28820"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3025129"
+      ],
+      [
+        "mlbam",
+        "683953"
+      ],
+      [
+        "fangraphs",
+        "34967"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3021053"
+      ],
+      [
+        "mlbam",
+        "800050"
+      ],
+      [
+        "fangraphs",
+        "32127"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3011255"
+      ],
+      [
+        "mlbam",
+        "663968"
+      ],
+      [
+        "fangraphs",
+        "26202"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3017290"
+      ],
+      [
+        "mlbam",
+        "691777"
+      ],
+      [
+        "fangraphs",
+        "29779"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3019841"
+      ],
+      [
+        "mlbam",
+        "699625"
+      ],
+      [
+        "fangraphs",
+        "31354"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3017863"
+      ],
+      [
+        "mlbam",
+        "701678"
+      ],
+      [
+        "fangraphs",
+        "30080"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3015579"
+      ],
+      [
+        "mlbam",
+        "691858"
+      ],
+      [
+        "fangraphs",
+        "28326"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3019988"
+      ],
+      [
+        "mlbam",
+        "689200"
+      ],
+      [
+        "fangraphs",
+        "31661"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020713"
+      ],
+      [
+        "mlbam",
+        "687515"
+      ],
+      [
+        "fangraphs",
+        "31855"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa738605"
+      ],
+      [
+        "mlbam",
+        "641555"
+      ],
+      [
+        "fangraphs",
+        "20084"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3014441"
+      ],
+      [
+        "mlbam",
+        "669398"
+      ],
+      [
+        "fangraphs",
+        "27573"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3017374"
+      ],
+      [
+        "mlbam",
+        "691788"
+      ],
+      [
+        "fangraphs",
+        "29780"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3016970"
+      ],
+      [
+        "mlbam",
+        "694374"
+      ],
+      [
+        "fangraphs",
+        "29571"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3014461"
+      ],
+      [
+        "mlbam",
+        "690984"
+      ],
+      [
+        "fangraphs",
+        "27931"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020240"
+      ],
+      [
+        "mlbam",
+        "702222"
+      ],
+      [
+        "fangraphs",
+        "31791"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa1169598"
+      ],
+      [
+        "mlbam",
+        "683090"
+      ],
+      [
+        "fangraphs",
+        "25980"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3010700"
+      ],
+      [
+        "mlbam",
+        "683748"
+      ],
+      [
+        "fangraphs",
+        "25999"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa1169610"
+      ],
+      [
+        "mlbam",
+        "682997"
+      ],
+      [
+        "fangraphs",
+        "27497"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3025385"
+      ],
+      [
+        "mlbam",
+        "701762"
+      ],
+      [
+        "fangraphs",
+        "35110"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3015648"
+      ],
+      [
+        "mlbam",
+        "692585"
+      ],
+      [
+        "fangraphs",
+        "28552"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020758"
+      ],
+      [
+        "mlbam",
+        "687282"
+      ],
+      [
+        "fangraphs",
+        "31958"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3019980"
+      ],
+      [
+        "mlbam",
+        "687551"
+      ],
+      [
+        "fangraphs",
+        "31545"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3014701"
+      ],
+      [
+        "mlbam",
+        "690987"
+      ],
+      [
+        "fangraphs",
+        "27482"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3019969"
+      ],
+      [
+        "mlbam",
+        "682987"
+      ],
+      [
+        "fangraphs",
+        "31532"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3014465"
+      ],
+      [
+        "mlbam",
+        "683357"
+      ],
+      [
+        "fangraphs",
+        "27496"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3022757"
+      ],
+      [
+        "mlbam",
+        "805811"
+      ],
+      [
+        "fangraphs",
+        "33390"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa918676"
+      ],
+      [
+        "mlbam",
+        "669722"
+      ],
+      [
+        "fangraphs",
+        "25844"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020188"
+      ],
+      [
+        "mlbam",
+        "671284"
+      ],
+      [
+        "fangraphs",
+        "31522"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3014516"
+      ],
+      [
+        "mlbam",
+        "691728"
+      ],
+      [
+        "fangraphs",
+        "27770"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3006937"
+      ],
+      [
+        "mlbam",
+        "682183"
+      ],
+      [
+        "fangraphs",
+        "25183"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3025245"
+      ],
+      [
+        "mlbam",
+        "695506"
+      ],
+      [
+        "fangraphs",
+        "35041"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "33572"
+      ],
+      [
+        "mlbam",
+        "805808"
+      ],
+      [
+        "fangraphs",
+        "sa3022895"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "29858"
+      ],
+      [
+        "mlbam",
+        "672016"
+      ],
+      [
+        "fangraphs",
+        "sa3017426"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "31505"
+      ],
+      [
+        "mlbam",
+        "701398"
+      ],
+      [
+        "fangraphs",
+        "sa3020130"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "31695"
+      ],
+      [
+        "mlbam",
+        "687637"
+      ],
+      [
+        "fangraphs",
+        "sa3019983"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "34985"
+      ],
+      [
+        "mlbam",
+        "802139"
+      ],
+      [
+        "fangraphs",
+        "sa3025154"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "29478"
+      ],
+      [
+        "mlbam",
+        "695600"
+      ],
+      [
+        "fangraphs",
+        "sa3017339"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "29958"
+      ],
+      [
+        "mlbam",
+        "695670"
+      ],
+      [
+        "fangraphs",
+        "sa3017627"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "33575"
+      ],
+      [
+        "mlbam",
+        "806068"
+      ],
+      [
+        "fangraphs",
+        "sa3022923"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "29995"
+      ],
+      [
+        "mlbam",
+        "695734"
+      ],
+      [
+        "fangraphs",
+        "sa3017698"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "35177"
+      ],
+      [
+        "mlbam",
+        "701807"
+      ],
+      [
+        "fangraphs",
+        "sa3025452"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "33252"
+      ],
+      [
+        "mlbam",
+        "691720"
+      ],
+      [
+        "fangraphs",
+        "sa3022559"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "29704"
+      ],
+      [
+        "mlbam",
+        "690924"
+      ],
+      [
+        "fangraphs",
+        "sa3017164"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "33197"
+      ],
+      [
+        "mlbam",
+        "810938"
+      ],
+      [
+        "fangraphs",
+        "sa3022437"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "35061"
+      ],
+      [
+        "mlbam",
+        "814439"
+      ],
+      [
+        "fangraphs",
+        "sa3025261"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "31357"
+      ],
+      [
+        "mlbam",
+        "701675"
+      ],
+      [
+        "fangraphs",
+        "sa3019842"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "29596"
+      ],
+      [
+        "mlbam",
+        "695491"
+      ],
+      [
+        "fangraphs",
+        "sa3017022"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "22239"
+      ],
+      [
+        "mlbam",
+        "669236"
+      ],
+      [
+        "fangraphs",
+        "sa3007740"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "26991"
+      ],
+      [
+        "mlbam",
+        "683679"
+      ],
+      [
+        "fangraphs",
+        "sa3008916"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "31792"
+      ],
+      [
+        "mlbam",
+        "805249"
+      ],
+      [
+        "fangraphs",
+        "sa3020577"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "33571"
+      ],
+      [
+        "mlbam",
+        "805805"
+      ],
+      [
+        "fangraphs",
+        "sa3022894"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "31500"
+      ],
+      [
+        "mlbam",
+        "690022"
+      ],
+      [
+        "fangraphs",
+        "sa3020206"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "31583"
+      ],
+      [
+        "mlbam",
+        "805904"
+      ],
+      [
+        "fangraphs",
+        "sa3019937"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "33704"
+      ],
+      [
+        "mlbam",
+        "692216"
+      ],
+      [
+        "fangraphs",
+        "sa3023068"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "31665"
+      ],
+      [
+        "mlbam",
+        "690976"
+      ],
+      [
+        "fangraphs",
+        "sa3020653"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "33280"
+      ],
+      [
+        "mlbam",
+        "694728"
+      ],
+      [
+        "fangraphs",
+        "sa3022563"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "31991"
+      ],
+      [
+        "mlbam",
+        "804668"
+      ],
+      [
+        "fangraphs",
+        "sa3020243"
+      ]
+    ],
+    "reason": "user-reviewed identity alias",
+    "review": {
+      "ids": [
+        [
+          "fangraphs",
+          "31991"
+        ],
+        [
+          "mlbam",
+          "804668"
+        ],
+        [
+          "fangraphs",
+          "sa3020243"
+        ]
+      ],
+      "reason": "Owner confirmed these IDs represent the same player with different recorded names.",
+      "verified_by": "project owner",
+      "verified_on": "2026-10-04"
+    }
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "27915"
+      ],
+      [
+        "mlbam",
+        "696030"
+      ],
+      [
+        "fangraphs",
+        "sa3015127"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "35101"
+      ],
+      [
+        "mlbam",
+        "803011"
+      ],
+      [
+        "fangraphs",
+        "sa3025363"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "33279"
+      ],
+      [
+        "mlbam",
+        "694371"
+      ],
+      [
+        "fangraphs",
+        "sa3022561"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "28833"
+      ],
+      [
+        "mlbam",
+        "694224"
+      ],
+      [
+        "fangraphs",
+        "sa3015723"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "30384"
+      ],
+      [
+        "mlbam",
+        "703197"
+      ],
+      [
+        "fangraphs",
+        "sa3018429"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "29795"
+      ],
+      [
+        "mlbam",
+        "701649"
+      ],
+      [
+        "fangraphs",
+        "sa3017295"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "25629"
+      ],
+      [
+        "mlbam",
+        "683227"
+      ],
+      [
+        "fangraphs",
+        "sa3010153"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "24641"
+      ],
+      [
+        "mlbam",
+        "680862"
+      ],
+      [
+        "fangraphs",
+        "sa3007828"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "24574"
+      ],
+      [
+        "mlbam",
+        "680664"
+      ],
+      [
+        "fangraphs",
+        "sa3006622"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "29957"
+      ],
+      [
+        "mlbam",
+        "695490"
+      ],
+      [
+        "fangraphs",
+        "sa3017626"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "29905"
+      ],
+      [
+        "mlbam",
+        "696135"
+      ],
+      [
+        "fangraphs",
+        "sa3017513"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "31441"
+      ],
+      [
+        "mlbam",
+        "691740"
+      ],
+      [
+        "fangraphs",
+        "sa3019997"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "24878"
+      ],
+      [
+        "mlbam",
+        "681715"
+      ],
+      [
+        "fangraphs",
+        "sa3005630"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "23813"
+      ],
+      [
+        "mlbam",
+        "678218"
+      ],
+      [
+        "fangraphs",
+        "sa3005729"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "27569"
+      ],
+      [
+        "mlbam",
+        "669360"
+      ],
+      [
+        "fangraphs",
+        "sa3014420"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "27653"
+      ],
+      [
+        "mlbam",
+        "683766"
+      ],
+      [
+        "fangraphs",
+        "sa3011227"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "23802"
+      ],
+      [
+        "mlbam",
+        "678011"
+      ],
+      [
+        "fangraphs",
+        "sa3006894"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "20958"
+      ],
+      [
+        "mlbam",
+        "660710"
+      ],
+      [
+        "fangraphs",
+        "sa877500"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "29710"
+      ],
+      [
+        "mlbam",
+        "695508"
+      ],
+      [
+        "fangraphs",
+        "sa3017167"
+      ]
+    ],
+    "reason": "user-reviewed identity alias",
+    "review": {
+      "ids": [
+        [
+          "fangraphs",
+          "29710"
+        ],
+        [
+          "mlbam",
+          "695508"
+        ],
+        [
+          "fangraphs",
+          "sa3017167"
+        ]
+      ],
+      "reason": "Owner confirmed these IDs represent the same player with different recorded names.",
+      "verified_by": "project owner",
+      "verified_on": "2026-10-04"
+    }
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "21464"
+      ],
+      [
+        "mlbam",
+        "663494"
+      ],
+      [
+        "fangraphs",
+        "sa885119"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "31988"
+      ],
+      [
+        "mlbam",
+        "801501"
+      ],
+      [
+        "fangraphs",
+        "sa3020763"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "28142"
+      ],
+      [
+        "mlbam",
+        "691373"
+      ],
+      [
+        "fangraphs",
+        "sa3015523"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "26106"
+      ],
+      [
+        "mlbam",
+        "668974"
+      ],
+      [
+        "fangraphs",
+        "sa3010848"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "28816"
+      ],
+      [
+        "mlbam",
+        "694203"
+      ],
+      [
+        "fangraphs",
+        "sa3015711"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "29005"
+      ],
+      [
+        "mlbam",
+        "699013"
+      ],
+      [
+        "fangraphs",
+        "sa3015768"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "28848"
+      ],
+      [
+        "mlbam",
+        "695020"
+      ],
+      [
+        "fangraphs",
+        "sa3016805"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "28344"
+      ],
+      [
+        "mlbam",
+        "691907"
+      ],
+      [
+        "fangraphs",
+        "sa3015376"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "29189"
+      ],
+      [
+        "mlbam",
+        "699302"
+      ],
+      [
+        "fangraphs",
+        "sa3015828"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "21489"
+      ],
+      [
+        "mlbam",
+        "663584"
+      ],
+      [
+        "fangraphs",
+        "sa3007009"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "28199"
+      ],
+      [
+        "mlbam",
+        "691458"
+      ],
+      [
+        "fangraphs",
+        "sa3014537"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "30163"
+      ],
+      [
+        "mlbam",
+        "693409"
+      ],
+      [
+        "fangraphs",
+        "sa3018100"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "32119"
+      ],
+      [
+        "mlbam",
+        "703492"
+      ],
+      [
+        "fangraphs",
+        "sa3020418"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "24622"
+      ],
+      [
+        "mlbam",
+        "680837"
+      ],
+      [
+        "fangraphs",
+        "sa3006218"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "23790"
+      ],
+      [
+        "mlbam",
+        "677943"
+      ],
+      [
+        "fangraphs",
+        "sa3007973"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "25005"
+      ],
+      [
+        "mlbam",
+        "681909"
+      ],
+      [
+        "fangraphs",
+        "sa3007070"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "21842"
+      ],
+      [
+        "mlbam",
+        "666126"
+      ],
+      [
+        "fangraphs",
+        "sa3008079"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "25346"
+      ],
+      [
+        "mlbam",
+        "682927"
+      ],
+      [
+        "fangraphs",
+        "sa3008365"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "29830"
+      ],
+      [
+        "mlbam",
+        "676466"
+      ],
+      [
+        "fangraphs",
+        "sa3017393"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "23989"
+      ],
+      [
+        "mlbam",
+        "678577"
+      ],
+      [
+        "fangraphs",
+        "sa3005744"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "31793"
+      ],
+      [
+        "mlbam",
+        "689041"
+      ],
+      [
+        "fangraphs",
+        "sa3020124"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "29896"
+      ],
+      [
+        "mlbam",
+        "681047"
+      ],
+      [
+        "fangraphs",
+        "sa3017510"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "26468"
+      ],
+      [
+        "mlbam",
+        "682674"
+      ],
+      [
+        "fangraphs",
+        "sa3008767"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "27449"
+      ],
+      [
+        "mlbam",
+        "669899"
+      ],
+      [
+        "fangraphs",
+        "sa1169792"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "26148"
+      ],
+      [
+        "mlbam",
+        "663536"
+      ],
+      [
+        "fangraphs",
+        "sa876328"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "26047"
+      ],
+      [
+        "mlbam",
+        "687749"
+      ],
+      [
+        "fangraphs",
+        "sa3011267"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "31443"
+      ],
+      [
+        "mlbam",
+        "694514"
+      ],
+      [
+        "fangraphs",
+        "sa3019999"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "30063"
+      ],
+      [
+        "mlbam",
+        "671976"
+      ],
+      [
+        "fangraphs",
+        "sa3017851"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "25779"
+      ],
+      [
+        "mlbam",
+        "686475"
+      ],
+      [
+        "fangraphs",
+        "sa3010337"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "26536"
+      ],
+      [
+        "mlbam",
+        "682653"
+      ],
+      [
+        "fangraphs",
+        "sa3008761"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "26284"
+      ],
+      [
+        "mlbam",
+        "670231"
+      ],
+      [
+        "fangraphs",
+        "sa918890"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "33361"
+      ],
+      [
+        "mlbam",
+        "691002"
+      ],
+      [
+        "fangraphs",
+        "sa3022672"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "25714"
+      ],
+      [
+        "mlbam",
+        "688760"
+      ],
+      [
+        "fangraphs",
+        "sa3010170"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "29539"
+      ],
+      [
+        "mlbam",
+        "694673"
+      ],
+      [
+        "fangraphs",
+        "sa3016926"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "29805"
+      ],
+      [
+        "mlbam",
+        "681198"
+      ],
+      [
+        "fangraphs",
+        "sa3017330"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "33908"
+      ],
+      [
+        "mlbam",
+        "820862"
+      ],
+      [
+        "fangraphs",
+        "sa3023455"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "33664"
+      ],
+      [
+        "mlbam",
+        "808825"
+      ],
+      [
+        "fangraphs",
+        "sa3023133"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3025386"
+      ],
+      [
+        "mlbam",
+        "811965"
+      ],
+      [
+        "fangraphs",
+        "35121"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3023069"
+      ],
+      [
+        "mlbam",
+        "694876"
+      ],
+      [
+        "fangraphs",
+        "33708"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3017852"
+      ],
+      [
+        "mlbam",
+        "676044"
+      ],
+      [
+        "fangraphs",
+        "30028"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3018409"
+      ],
+      [
+        "mlbam",
+        "703155"
+      ],
+      [
+        "fangraphs",
+        "30361"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3025360"
+      ],
+      [
+        "mlbam",
+        "701785"
+      ],
+      [
+        "fangraphs",
+        "35111"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3017596"
+      ],
+      [
+        "mlbam",
+        "695378"
+      ],
+      [
+        "fangraphs",
+        "29945"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3022823"
+      ],
+      [
+        "mlbam",
+        "807727"
+      ],
+      [
+        "fangraphs",
+        "33323"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa1115817"
+      ],
+      [
+        "mlbam",
+        "669193"
+      ],
+      [
+        "fangraphs",
+        "26152"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3022887"
+      ],
+      [
+        "mlbam",
+        "694410"
+      ],
+      [
+        "fangraphs",
+        "33552"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3022596"
+      ],
+      [
+        "mlbam",
+        "694249"
+      ],
+      [
+        "fangraphs",
+        "33253"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3011249"
+      ],
+      [
+        "mlbam",
+        "687941"
+      ],
+      [
+        "fangraphs",
+        "26227"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3023234"
+      ],
+      [
+        "mlbam",
+        "807747"
+      ],
+      [
+        "fangraphs",
+        "33795"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3022304"
+      ],
+      [
+        "mlbam",
+        "676812"
+      ],
+      [
+        "fangraphs",
+        "33098"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3018591"
+      ],
+      [
+        "mlbam",
+        "800543"
+      ],
+      [
+        "fangraphs",
+        "30871"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3022706"
+      ],
+      [
+        "mlbam",
+        "815589"
+      ],
+      [
+        "fangraphs",
+        "33405"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3008573"
+      ],
+      [
+        "mlbam",
+        "683079"
+      ],
+      [
+        "fangraphs",
+        "25369"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3017664"
+      ],
+      [
+        "mlbam",
+        "700652"
+      ],
+      [
+        "fangraphs",
+        "29962"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3022683"
+      ],
+      [
+        "mlbam",
+        "703601"
+      ],
+      [
+        "fangraphs",
+        "33381"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3015706"
+      ],
+      [
+        "mlbam",
+        "694197"
+      ],
+      [
+        "fangraphs",
+        "28811"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3025371"
+      ],
+      [
+        "mlbam",
+        "828599"
+      ],
+      [
+        "fangraphs",
+        "35126"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020006"
+      ],
+      [
+        "mlbam",
+        "703607"
+      ],
+      [
+        "fangraphs",
+        "31448"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3025317"
+      ],
+      [
+        "mlbam",
+        "815873"
+      ],
+      [
+        "fangraphs",
+        "35094"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3019922"
+      ],
+      [
+        "mlbam",
+        "687394"
+      ],
+      [
+        "fangraphs",
+        "31471"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3022603"
+      ],
+      [
+        "mlbam",
+        "703520"
+      ],
+      [
+        "fangraphs",
+        "33312"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3017287"
+      ],
+      [
+        "mlbam",
+        "681230"
+      ],
+      [
+        "fangraphs",
+        "29767"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3022927"
+      ],
+      [
+        "mlbam",
+        "814430"
+      ],
+      [
+        "fangraphs",
+        "33514"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3010399"
+      ],
+      [
+        "mlbam",
+        "685301"
+      ],
+      [
+        "fangraphs",
+        "25855"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3015773"
+      ],
+      [
+        "mlbam",
+        "699024"
+      ],
+      [
+        "fangraphs",
+        "29016"
+      ]
+    ],
+    "reason": "user-reviewed identity alias",
+    "review": {
+      "ids": [
+        [
+          "fangraphs",
+          "sa3015773"
+        ],
+        [
+          "mlbam",
+          "699024"
+        ],
+        [
+          "fangraphs",
+          "29016"
+        ]
+      ],
+      "reason": "Owner confirmed these IDs represent the same player with different recorded names.",
+      "verified_by": "project owner",
+      "verified_on": "2026-10-04"
+    }
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020943"
+      ],
+      [
+        "mlbam",
+        "806367"
+      ],
+      [
+        "fangraphs",
+        "32053"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa1170010"
+      ],
+      [
+        "mlbam",
+        "687478"
+      ],
+      [
+        "fangraphs",
+        "25688"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3009879"
+      ],
+      [
+        "mlbam",
+        "683770"
+      ],
+      [
+        "fangraphs",
+        "25467"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3017561"
+      ],
+      [
+        "mlbam",
+        "693459"
+      ],
+      [
+        "fangraphs",
+        "29930"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3022670"
+      ],
+      [
+        "mlbam",
+        "687605"
+      ],
+      [
+        "fangraphs",
+        "33357"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3019935"
+      ],
+      [
+        "mlbam",
+        "805672"
+      ],
+      [
+        "fangraphs",
+        "31415"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3025383"
+      ],
+      [
+        "mlbam",
+        "695720"
+      ],
+      [
+        "fangraphs",
+        "35107"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3003262"
+      ],
+      [
+        "mlbam",
+        "672613"
+      ],
+      [
+        "fangraphs",
+        "22741"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3022867"
+      ],
+      [
+        "mlbam",
+        "806198"
+      ],
+      [
+        "fangraphs",
+        "33530"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3015834"
+      ],
+      [
+        "mlbam",
+        "699393"
+      ],
+      [
+        "fangraphs",
+        "29218"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3016975"
+      ],
+      [
+        "mlbam",
+        "701162"
+      ],
+      [
+        "fangraphs",
+        "29577"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa1169627"
+      ],
+      [
+        "mlbam",
+        "671155"
+      ],
+      [
+        "fangraphs",
+        "27593"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3022896"
+      ],
+      [
+        "mlbam",
+        "807726"
+      ],
+      [
+        "fangraphs",
+        "33500"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3014494"
+      ],
+      [
+        "mlbam",
+        "693306"
+      ],
+      [
+        "fangraphs",
+        "27774"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3009539"
+      ],
+      [
+        "mlbam",
+        "682818"
+      ],
+      [
+        "fangraphs",
+        "26664"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3022541"
+      ],
+      [
+        "mlbam",
+        "813841"
+      ],
+      [
+        "fangraphs",
+        "33270"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3022432"
+      ],
+      [
+        "mlbam",
+        "801126"
+      ],
+      [
+        "fangraphs",
+        "33191"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3022498"
+      ],
+      [
+        "mlbam",
+        "694378"
+      ],
+      [
+        "fangraphs",
+        "33225"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3022963"
+      ],
+      [
+        "mlbam",
+        "805999"
+      ],
+      [
+        "fangraphs",
+        "33656"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3022682"
+      ],
+      [
+        "mlbam",
+        "701852"
+      ],
+      [
+        "fangraphs",
+        "33380"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020951"
+      ],
+      [
+        "mlbam",
+        "676566"
+      ],
+      [
+        "fangraphs",
+        "32054"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3010328"
+      ],
+      [
+        "mlbam",
+        "667690"
+      ],
+      [
+        "fangraphs",
+        "25814"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3007288"
+      ],
+      [
+        "mlbam",
+        "669384"
+      ],
+      [
+        "fangraphs",
+        "22272"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3022699"
+      ],
+      [
+        "mlbam",
+        "814154"
+      ],
+      [
+        "fangraphs",
+        "33398"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3022891"
+      ],
+      [
+        "mlbam",
+        "805347"
+      ],
+      [
+        "fangraphs",
+        "33492"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3023233"
+      ],
+      [
+        "mlbam",
+        "806146"
+      ],
+      [
+        "fangraphs",
+        "33433"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020353"
+      ],
+      [
+        "mlbam",
+        "805346"
+      ],
+      [
+        "fangraphs",
+        "31710"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3016722"
+      ],
+      [
+        "mlbam",
+        "699115"
+      ],
+      [
+        "fangraphs",
+        "29455"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3018514"
+      ],
+      [
+        "mlbam",
+        "800325"
+      ],
+      [
+        "fangraphs",
+        "30675"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3017040"
+      ],
+      [
+        "mlbam",
+        "677060"
+      ],
+      [
+        "fangraphs",
+        "29614"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020881"
+      ],
+      [
+        "mlbam",
+        "806956"
+      ],
+      [
+        "fangraphs",
+        "32051"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3015204"
+      ],
+      [
+        "mlbam",
+        "699912"
+      ],
+      [
+        "fangraphs",
+        "28020"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3015688"
+      ],
+      [
+        "mlbam",
+        "694025"
+      ],
+      [
+        "fangraphs",
+        "28763"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3009871"
+      ],
+      [
+        "mlbam",
+        "669717"
+      ],
+      [
+        "fangraphs",
+        "25434"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3023171"
+      ],
+      [
+        "mlbam",
+        "683363"
+      ],
+      [
+        "fangraphs",
+        "33760"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3014925"
+      ],
+      [
+        "mlbam",
+        "687003"
+      ],
+      [
+        "fangraphs",
+        "27695"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020330"
+      ],
+      [
+        "mlbam",
+        "702566"
+      ],
+      [
+        "fangraphs",
+        "31761"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3003123"
+      ],
+      [
+        "mlbam",
+        "673820"
+      ],
+      [
+        "fangraphs",
+        "23091"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020528"
+      ],
+      [
+        "mlbam",
+        "687721"
+      ],
+      [
+        "fangraphs",
+        "31696"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3015952"
+      ],
+      [
+        "mlbam",
+        "692437"
+      ],
+      [
+        "fangraphs",
+        "28489"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3015437"
+      ],
+      [
+        "mlbam",
+        "692064"
+      ],
+      [
+        "fangraphs",
+        "28393"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020680"
+      ],
+      [
+        "mlbam",
+        "694341"
+      ],
+      [
+        "fangraphs",
+        "33043"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3014457"
+      ],
+      [
+        "mlbam",
+        "668831"
+      ],
+      [
+        "fangraphs",
+        "27485"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020174"
+      ],
+      [
+        "mlbam",
+        "687060"
+      ],
+      [
+        "fangraphs",
+        "31492"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3018180"
+      ],
+      [
+        "mlbam",
+        "689149"
+      ],
+      [
+        "fangraphs",
+        "30158"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020736"
+      ],
+      [
+        "mlbam",
+        "687309"
+      ],
+      [
+        "fangraphs",
+        "31853"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3006404"
+      ],
+      [
+        "mlbam",
+        "679922"
+      ],
+      [
+        "fangraphs",
+        "24458"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3022997"
+      ],
+      [
+        "mlbam",
+        "814490"
+      ],
+      [
+        "fangraphs",
+        "33515"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3010307"
+      ],
+      [
+        "mlbam",
+        "686249"
+      ],
+      [
+        "fangraphs",
+        "25474"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020879"
+      ],
+      [
+        "mlbam",
+        "702047"
+      ],
+      [
+        "fangraphs",
+        "32015"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3014915"
+      ],
+      [
+        "mlbam",
+        "669298"
+      ],
+      [
+        "fangraphs",
+        "27567"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020633"
+      ],
+      [
+        "mlbam",
+        "686934"
+      ],
+      [
+        "fangraphs",
+        "31773"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3014980"
+      ],
+      [
+        "mlbam",
+        "689546"
+      ],
+      [
+        "fangraphs",
+        "27741"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3008224"
+      ],
+      [
+        "mlbam",
+        "663884"
+      ],
+      [
+        "fangraphs",
+        "21573"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3017968"
+      ],
+      [
+        "mlbam",
+        "702474"
+      ],
+      [
+        "fangraphs",
+        "30187"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020382"
+      ],
+      [
+        "mlbam",
+        "686628"
+      ],
+      [
+        "fangraphs",
+        "31809"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3019283"
+      ],
+      [
+        "mlbam",
+        "801725"
+      ],
+      [
+        "fangraphs",
+        "30944"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020608"
+      ],
+      [
+        "mlbam",
+        "694680"
+      ],
+      [
+        "fangraphs",
+        "31878"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3002790"
+      ],
+      [
+        "mlbam",
+        "672629"
+      ],
+      [
+        "fangraphs",
+        "22754"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3014462"
+      ],
+      [
+        "mlbam",
+        "694360"
+      ],
+      [
+        "fangraphs",
+        "27877"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3011784"
+      ],
+      [
+        "mlbam",
+        "687239"
+      ],
+      [
+        "fangraphs",
+        "26406"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3023516"
+      ],
+      [
+        "mlbam",
+        "815081"
+      ],
+      [
+        "fangraphs",
+        "33603"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020265"
+      ],
+      [
+        "mlbam",
+        "702153"
+      ],
+      [
+        "fangraphs",
+        "31624"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3014713"
+      ],
+      [
+        "mlbam",
+        "669310"
+      ],
+      [
+        "fangraphs",
+        "27568"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3023473"
+      ],
+      [
+        "mlbam",
+        "694753"
+      ],
+      [
+        "fangraphs",
+        "33865"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3017539"
+      ],
+      [
+        "mlbam",
+        "681544"
+      ],
+      [
+        "fangraphs",
+        "29922"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3007850"
+      ],
+      [
+        "mlbam",
+        "681084"
+      ],
+      [
+        "fangraphs",
+        "24698"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3015489"
+      ],
+      [
+        "mlbam",
+        "699008"
+      ],
+      [
+        "fangraphs",
+        "29000"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3017857"
+      ],
+      [
+        "mlbam",
+        "675920"
+      ],
+      [
+        "fangraphs",
+        "30064"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3017653"
+      ],
+      [
+        "mlbam",
+        "684665"
+      ],
+      [
+        "fangraphs",
+        "29952"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3018207"
+      ],
+      [
+        "mlbam",
+        "801216"
+      ],
+      [
+        "fangraphs",
+        "30206"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3014811"
+      ],
+      [
+        "mlbam",
+        "694820"
+      ],
+      [
+        "fangraphs",
+        "27793"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3023505"
+      ],
+      [
+        "mlbam",
+        "804267"
+      ],
+      [
+        "fangraphs",
+        "33891"
+      ]
+    ],
+    "reason": "user-reviewed identity alias",
+    "review": {
+      "ids": [
+        [
+          "fangraphs",
+          "sa3023505"
+        ],
+        [
+          "mlbam",
+          "804267"
+        ],
+        [
+          "fangraphs",
+          "33891"
+        ]
+      ],
+      "reason": "Owner confirmed these IDs represent the same player with different recorded names.",
+      "verified_by": "project owner",
+      "verified_on": "2026-10-04"
+    }
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3011779"
+      ],
+      [
+        "mlbam",
+        "529017"
+      ],
+      [
+        "fangraphs",
+        "26489"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3004483"
+      ],
+      [
+        "mlbam",
+        "676910"
+      ],
+      [
+        "fangraphs",
+        "23563"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3023206"
+      ],
+      [
+        "mlbam",
+        "695034"
+      ],
+      [
+        "fangraphs",
+        "33787"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3010837"
+      ],
+      [
+        "mlbam",
+        "690440"
+      ],
+      [
+        "fangraphs",
+        "26097"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3019248"
+      ],
+      [
+        "mlbam",
+        "702885"
+      ],
+      [
+        "fangraphs",
+        "30334"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3015478"
+      ],
+      [
+        "mlbam",
+        "695001"
+      ],
+      [
+        "fangraphs",
+        "28846"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3006543"
+      ],
+      [
+        "mlbam",
+        "678868"
+      ],
+      [
+        "fangraphs",
+        "24248"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3009940"
+      ],
+      [
+        "mlbam",
+        "686678"
+      ],
+      [
+        "fangraphs",
+        "25480"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3022902"
+      ],
+      [
+        "mlbam",
+        "688692"
+      ],
+      [
+        "fangraphs",
+        "33458"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3017872"
+      ],
+      [
+        "mlbam",
+        "681252"
+      ],
+      [
+        "fangraphs",
+        "30086"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3020249"
+      ],
+      [
+        "mlbam",
+        "669449"
+      ],
+      [
+        "fangraphs",
+        "31598"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3006487"
+      ],
+      [
+        "mlbam",
+        "678576"
+      ],
+      [
+        "fangraphs",
+        "23988"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3017951"
+      ],
+      [
+        "mlbam",
+        "700842"
+      ],
+      [
+        "fangraphs",
+        "31280"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3011710"
+      ],
+      [
+        "mlbam",
+        "676454"
+      ],
+      [
+        "fangraphs",
+        "26318"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3011296"
+      ],
+      [
+        "mlbam",
+        "667652"
+      ],
+      [
+        "fangraphs",
+        "26104"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3011196"
+      ],
+      [
+        "mlbam",
+        "681973"
+      ],
+      [
+        "fangraphs",
+        "26163"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3011339"
+      ],
+      [
+        "mlbam",
+        "673965"
+      ],
+      [
+        "fangraphs",
+        "26255"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3021719"
+      ],
+      [
+        "mlbam",
+        "680899"
+      ],
+      [
+        "fangraphs",
+        "32065"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3011607"
+      ],
+      [
+        "mlbam",
+        "674073"
+      ],
+      [
+        "fangraphs",
+        "26333"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3024515"
+      ],
+      [
+        "mlbam",
+        "699823"
+      ],
+      [
+        "fangraphs",
+        "34847"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3018367"
+      ],
+      [
+        "mlbam",
+        "805074"
+      ],
+      [
+        "fangraphs",
+        "31097"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3018042"
+      ],
+      [
+        "mlbam",
+        "703615"
+      ],
+      [
+        "fangraphs",
+        "30412"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3009629"
+      ],
+      [
+        "mlbam",
+        "684516"
+      ],
+      [
+        "fangraphs",
+        "27144"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  },
+  {
+    "ids": [
+      [
+        "fangraphs",
+        "sa3021045"
+      ],
+      [
+        "mlbam",
+        "814305"
+      ],
+      [
+        "fangraphs",
+        "33026"
+      ]
+    ],
+    "reason": "configured prospect-to-numeric alias; single anchor ID and exact normalized name",
+    "review": null
+  }
+]
