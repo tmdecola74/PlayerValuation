@@ -1,0 +1,37 @@
+{
+  "warehouse": "data/warehouse_resolved/historical_projection_warehouse.sqlite",
+  "output": "outputs/accuracy_v1_0",
+  "correlation_min_n": 30,
+  "ranking_min_n": 30,
+  "player_types": {
+    "hitter": {
+      "exposure": "PA",
+      "derive_if_missing": {"OPS": {"sum": ["OBP", "SLG"]}},
+      "headline_cohort": "regular_playing_time",
+      "cohorts": [
+        {"name": "all_matched", "minimum_actual": 0, "minimum_projected": 0},
+        {"name": "established_sample", "minimum_actual": 100, "minimum_projected": 0},
+        {"name": "regular_playing_time", "minimum_actual": 300, "minimum_projected": 0}
+      ],
+      "metric_groups": {
+        "fantasy_outcome": ["R", "HR", "RBI", "SB", "AVG", "OPS"],
+        "opportunity": ["PA", "G"],
+        "skill": ["HR_per_PA", "R_per_PA", "RBI_per_PA", "SB_per_PA", "K%", "BB%", "ISO", "BABIP", "wOBA"]
+      }
+    },
+    "pitcher": {
+      "exposure": "IP",
+      "headline_cohort": "substantial_innings",
+      "cohorts": [
+        {"name": "all_matched", "minimum_actual": 0, "minimum_projected": 0},
+        {"name": "substantial_innings", "minimum_actual": 40, "minimum_projected": 0},
+        {"name": "high_innings", "minimum_actual": 100, "minimum_projected": 0}
+      ],
+      "metric_groups": {
+        "fantasy_outcome": ["W", "SV", "SO", "ERA", "WHIP", "QS", "SV_plus_HLD"],
+        "opportunity": ["IP", "G", "GS"],
+        "skill": ["K/9", "BB/9", "HR/9", "K%", "BB%", "K-BB%", "FIP", "BABIP"]
+      }
+    }
+  }
+}

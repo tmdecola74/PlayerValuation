@@ -1,4 +1,119 @@
-# PlayerValuation — Stage 1B
+# PlayerValuation — historical warehouse and projection accuracy
+
+## Stage 2B: held-out consensus blend tests
+
+The blend backtest has already been run. Start with
+`outputs/blend_backtest_v1_0/blend_backtest_report.md`. To generate another run:
+
+```powershell
+python backtest_projection_blends_v1_0.py --output outputs/blend_backtest_run2
+```
+
+Configuration lives in `config/blend_backtesting.json`. No new dependencies or
+input files are needed. The evaluator and backtester use Python's standard
+library and read the resolved warehouse without modifying it.
+
+Three methods are fixed before evaluation: equal weighting, inverse training
+MAE shrunk 50% toward equal weights, and nonnegative sum-to-one weights fitted
+to regularized training squared error. The ridge strength is fixed at 0.1 times
+training equal-blend MSE. No held-out outcomes enter fitting or parameter tuning.
+Training seasons receive equal total weight, irrespective of player counts.
+The optimizer uses feasible pairwise coordinate transfers on a convex objective
+and requires convergence before emitting fitted weights.
+
+The primary chronological tests train 2024 to predict 2025 and train 2024–2025
+to predict 2026. A separate train-2025/test-2026 fold examines newer source
+coverage; it does not count as a third independent validation year. Source pools
+are explicit: shared-history uses sources present in every training year;
+expanding pools assign each incomplete-history source a neutral equal share,
+then distribute the remaining share using the trained sources' relative weights.
+For example, a new source among four gets 25%; trained sources divide 75%.
+
+All methods score exactly the same held-out players within each comparison.
+The default hitter cohorts require positive actual PA or at least 300 PA;
+pitcher cohorts require positive actual IP or at least 40 IP. A separate saves
+cohort selects closer candidates using at least one participating source's
+preseason projection of five or more saves. It never filters on actual saves,
+so projected closers who finished with zero saves are scored. Unmatched players
+remain excluded rather than being assigned zero. Actual-playing-time thresholds
+condition the evaluation on realized opportunity and are not deployable player
+selection rules.
+
+The consistency screen asks for at least 1% MAE improvement in both primary
+years with no more than 1% RMSE deterioration in either. This is a fixed,
+descriptive screen, not statistical proof. Comparing methods on these tests
+and choosing one afterward still needs confirmation on a new season. The
+delivered fold weights are research artifacts, not final production weights.
+Individual player aggregation and coherent rate/count reconciliation belong in
+the subsequent consensus builder.
+
+`fold_weights.csv`, `heldout_predictions.csv` and `sample_memberships.jsonl`
+allow independent verification of every weight, forecast and earlier-season
+training sample. `fold_accuracy.csv` gives MAE/RMSE/bias, correlations, rank
+errors, and improvement against the same-sample equal baseline.
+
+## Stage 2: first accuracy report
+
+Stage 2 has been run against the resolved warehouse. Start with
+`outputs/accuracy_v1_0/accuracy_report.md` and `common_player_accuracy.csv`.
+No rerun is needed to review the delivered results. To generate a new run:
+
+```powershell
+python evaluate_historical_projection_accuracy_v1_0.py --output outputs/accuracy_run2
+```
+
+The evaluator uses only the Python standard library. It opens the warehouse
+read-only and records its SHA-256 hash. Thresholds, metric groups, warehouse
+location and output folder live in `config/accuracy_evaluation.json`.
+Relative configured paths resolve against the project folder. Optional
+`--warehouse` and `--output` paths resolve against the terminal's current folder.
+Existing outputs are never overwritten.
+
+The three hitter cohorts require positive actual PA, then thresholds of
+0, 100 or 300 PA. Pitcher cohorts similarly require positive actual IP with
+thresholds of 0, 40 or 100 IP. These are research cohorts, not a guarantee of
+fantasy relevance; the 100-IP cohort favors starters. Projected playing-time
+floors are configurable and default to zero. For fair comparisons, a player
+must satisfy every participating source's projected floor.
+Actual-threshold cohorts condition on observed playing time. They describe
+players who appeared in MLB, rather than the full preseason pool or the risk
+of never appearing. Compare the all-matched and higher-threshold results when
+assessing injuries and playing-time misses.
+
+Each season/metric/cohort has separate individual-source, all-source common
+player and pairwise source samples. All-source comparisons include every source
+with a finite projection for that metric in that season, before cohort filters.
+Metric-unavailable sources are shown in `metric_availability.csv` and omitted
+only for that metric. If a capable source has no eligible players, the common
+sample is empty rather than quietly removing that source. Uneven historical
+source coverage is preserved, and seasons are not pooled.
+
+Every comparison requires complete projected and actual values. Unmatched
+players never enter scoring and are never assigned zero actual statistics.
+All reviewed duplicate exclusions and Greg Jones's unresolved advanced metrics
+carry through from Stage 1B. Actual OPS is derived from OBP + SLG where absent;
+every derivation is logged. Existing source values are not replaced. Skill
+metrics such as HR/PA and K/9 are separate from opportunity and counting stats.
+Rate outcomes such as AVG, ERA and WHIP also appear in the fantasy group.
+
+Bias is **projection minus actual**, so positive means overprojection. MAE and
+RMSE retain metric units. Percentage metrics are fractions: an error of .02
+means two percentage points. Scores are equally weighted by player. No pooled
+AVG, ERA or WHIP is calculated, and missing hitter AB is not invented for rate
+weighting. Pearson and Spearman correlations, average tied ranks, absolute rank
+error and normalized rank error require 30 observations; constant-series
+correlations are unavailable. Lowest-MAE labels also require at least 30 pairs
+and are descriptive, without statistical significance claims.
+
+`evaluation_pairs.csv` stores linked player-level values/errors. Exact common
+samples are saved in `cohort_memberships.jsonl` under `sample_id`; summary and
+pairwise outputs reference that ID. `input_coverage.csv` accounts for every
+selected projection. `missing_metric_pairs.csv` records missing-value exclusions.
+Start future consensus work only after reviewing these results. This evaluator
+fits no weights: optimized consensus requires earlier-season training and a
+held-out season for testing.
+
+## Stage 1B: reviewed warehouse
 
 The latest delivered build is `data/warehouse_resolved/`. It includes the seven
 identity groups and 16 duplicate selections confirmed by the project owner on

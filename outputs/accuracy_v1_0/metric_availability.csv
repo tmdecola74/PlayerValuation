@@ -1,0 +1,352 @@
+﻿player_type,season,source,metric,classification,projection_values,matched_rows,paired_metric_rows
+hitter,2024,Steamer,R,fantasy_outcome,3711,649,649
+hitter,2024,Steamer,HR,fantasy_outcome,3711,649,649
+hitter,2024,Steamer,RBI,fantasy_outcome,3711,649,649
+hitter,2024,Steamer,SB,fantasy_outcome,3711,649,649
+hitter,2024,Steamer,AVG,fantasy_outcome,3711,649,649
+hitter,2024,Steamer,OPS,fantasy_outcome,3711,649,649
+hitter,2024,Steamer,PA,opportunity,3711,649,649
+hitter,2024,Steamer,G,opportunity,3711,649,649
+hitter,2024,Steamer,HR_per_PA,skill,3711,649,649
+hitter,2024,Steamer,R_per_PA,skill,3711,649,649
+hitter,2024,Steamer,RBI_per_PA,skill,3711,649,649
+hitter,2024,Steamer,SB_per_PA,skill,3711,649,649
+hitter,2024,Steamer,K%,skill,3711,649,649
+hitter,2024,Steamer,BB%,skill,3711,649,649
+hitter,2024,Steamer,ISO,skill,3711,649,649
+hitter,2024,Steamer,BABIP,skill,3711,649,649
+hitter,2024,Steamer,wOBA,skill,3711,649,649
+hitter,2024,THE BAT X,R,fantasy_outcome,729,530,530
+hitter,2024,THE BAT X,HR,fantasy_outcome,729,530,530
+hitter,2024,THE BAT X,RBI,fantasy_outcome,729,530,530
+hitter,2024,THE BAT X,SB,fantasy_outcome,729,530,530
+hitter,2024,THE BAT X,AVG,fantasy_outcome,729,530,530
+hitter,2024,THE BAT X,OPS,fantasy_outcome,729,530,530
+hitter,2024,THE BAT X,PA,opportunity,729,530,530
+hitter,2024,THE BAT X,G,opportunity,729,530,530
+hitter,2024,THE BAT X,HR_per_PA,skill,729,530,530
+hitter,2024,THE BAT X,R_per_PA,skill,729,530,530
+hitter,2024,THE BAT X,RBI_per_PA,skill,729,530,530
+hitter,2024,THE BAT X,SB_per_PA,skill,729,530,530
+hitter,2024,THE BAT X,K%,skill,729,530,530
+hitter,2024,THE BAT X,BB%,skill,729,530,530
+hitter,2024,THE BAT X,ISO,skill,729,530,530
+hitter,2024,THE BAT X,BABIP,skill,729,530,530
+hitter,2024,THE BAT X,wOBA,skill,729,530,530
+hitter,2025,OOPSY,R,fantasy_outcome,3818,665,665
+hitter,2025,OOPSY,HR,fantasy_outcome,3818,665,665
+hitter,2025,OOPSY,RBI,fantasy_outcome,3818,665,665
+hitter,2025,OOPSY,SB,fantasy_outcome,3818,665,665
+hitter,2025,OOPSY,AVG,fantasy_outcome,3818,665,665
+hitter,2025,OOPSY,OPS,fantasy_outcome,3818,665,665
+hitter,2025,OOPSY,PA,opportunity,3818,665,665
+hitter,2025,OOPSY,G,opportunity,3818,665,665
+hitter,2025,OOPSY,HR_per_PA,skill,3817,665,665
+hitter,2025,OOPSY,R_per_PA,skill,3817,665,665
+hitter,2025,OOPSY,RBI_per_PA,skill,3817,665,665
+hitter,2025,OOPSY,SB_per_PA,skill,3817,665,665
+hitter,2025,OOPSY,K%,skill,3818,665,665
+hitter,2025,OOPSY,BB%,skill,3818,665,665
+hitter,2025,OOPSY,ISO,skill,3818,665,665
+hitter,2025,OOPSY,BABIP,skill,3818,665,665
+hitter,2025,OOPSY,wOBA,skill,3818,665,665
+hitter,2025,Steamer,R,fantasy_outcome,4140,666,666
+hitter,2025,Steamer,HR,fantasy_outcome,4140,666,666
+hitter,2025,Steamer,RBI,fantasy_outcome,4140,666,666
+hitter,2025,Steamer,SB,fantasy_outcome,4140,666,666
+hitter,2025,Steamer,AVG,fantasy_outcome,4140,666,666
+hitter,2025,Steamer,OPS,fantasy_outcome,4140,666,666
+hitter,2025,Steamer,PA,opportunity,4140,666,666
+hitter,2025,Steamer,G,opportunity,4140,666,666
+hitter,2025,Steamer,HR_per_PA,skill,4140,666,666
+hitter,2025,Steamer,R_per_PA,skill,4140,666,666
+hitter,2025,Steamer,RBI_per_PA,skill,4140,666,666
+hitter,2025,Steamer,SB_per_PA,skill,4140,666,666
+hitter,2025,Steamer,K%,skill,4140,666,666
+hitter,2025,Steamer,BB%,skill,4140,666,666
+hitter,2025,Steamer,ISO,skill,4140,666,666
+hitter,2025,Steamer,BABIP,skill,4140,666,666
+hitter,2025,Steamer,wOBA,skill,4140,666,666
+hitter,2025,THE BAT X,R,fantasy_outcome,696,586,586
+hitter,2025,THE BAT X,HR,fantasy_outcome,696,586,586
+hitter,2025,THE BAT X,RBI,fantasy_outcome,696,586,586
+hitter,2025,THE BAT X,SB,fantasy_outcome,696,586,586
+hitter,2025,THE BAT X,AVG,fantasy_outcome,696,586,586
+hitter,2025,THE BAT X,OPS,fantasy_outcome,696,586,586
+hitter,2025,THE BAT X,PA,opportunity,696,586,586
+hitter,2025,THE BAT X,G,opportunity,696,586,586
+hitter,2025,THE BAT X,HR_per_PA,skill,696,586,586
+hitter,2025,THE BAT X,R_per_PA,skill,696,586,586
+hitter,2025,THE BAT X,RBI_per_PA,skill,696,586,586
+hitter,2025,THE BAT X,SB_per_PA,skill,696,586,586
+hitter,2025,THE BAT X,K%,skill,696,586,586
+hitter,2025,THE BAT X,BB%,skill,696,586,586
+hitter,2025,THE BAT X,ISO,skill,696,586,586
+hitter,2025,THE BAT X,BABIP,skill,696,586,586
+hitter,2025,THE BAT X,wOBA,skill,696,586,586
+hitter,2026,Depth Charts,R,fantasy_outcome,638,555,555
+hitter,2026,Depth Charts,HR,fantasy_outcome,638,555,555
+hitter,2026,Depth Charts,RBI,fantasy_outcome,638,555,555
+hitter,2026,Depth Charts,SB,fantasy_outcome,638,555,555
+hitter,2026,Depth Charts,AVG,fantasy_outcome,638,555,555
+hitter,2026,Depth Charts,OPS,fantasy_outcome,638,555,555
+hitter,2026,Depth Charts,PA,opportunity,638,555,555
+hitter,2026,Depth Charts,G,opportunity,638,555,555
+hitter,2026,Depth Charts,HR_per_PA,skill,638,555,555
+hitter,2026,Depth Charts,R_per_PA,skill,638,555,555
+hitter,2026,Depth Charts,RBI_per_PA,skill,638,555,555
+hitter,2026,Depth Charts,SB_per_PA,skill,638,555,555
+hitter,2026,Depth Charts,K%,skill,638,555,555
+hitter,2026,Depth Charts,BB%,skill,638,555,555
+hitter,2026,Depth Charts,ISO,skill,638,555,555
+hitter,2026,Depth Charts,BABIP,skill,638,555,555
+hitter,2026,Depth Charts,wOBA,skill,638,555,555
+hitter,2026,OOPSY,R,fantasy_outcome,2802,649,649
+hitter,2026,OOPSY,HR,fantasy_outcome,2802,649,649
+hitter,2026,OOPSY,RBI,fantasy_outcome,2802,649,649
+hitter,2026,OOPSY,SB,fantasy_outcome,2802,649,649
+hitter,2026,OOPSY,AVG,fantasy_outcome,2802,649,649
+hitter,2026,OOPSY,OPS,fantasy_outcome,2802,649,649
+hitter,2026,OOPSY,PA,opportunity,2802,649,649
+hitter,2026,OOPSY,G,opportunity,2802,649,649
+hitter,2026,OOPSY,HR_per_PA,skill,2802,649,649
+hitter,2026,OOPSY,R_per_PA,skill,2802,649,649
+hitter,2026,OOPSY,RBI_per_PA,skill,2802,649,649
+hitter,2026,OOPSY,SB_per_PA,skill,2802,649,649
+hitter,2026,OOPSY,K%,skill,2802,649,649
+hitter,2026,OOPSY,BB%,skill,2802,649,649
+hitter,2026,OOPSY,ISO,skill,2802,649,649
+hitter,2026,OOPSY,BABIP,skill,2802,649,649
+hitter,2026,OOPSY,wOBA,skill,2802,649,649
+hitter,2026,Steamer,R,fantasy_outcome,4186,659,659
+hitter,2026,Steamer,HR,fantasy_outcome,4186,659,659
+hitter,2026,Steamer,RBI,fantasy_outcome,4186,659,659
+hitter,2026,Steamer,SB,fantasy_outcome,4186,659,659
+hitter,2026,Steamer,AVG,fantasy_outcome,4186,659,659
+hitter,2026,Steamer,OPS,fantasy_outcome,4186,659,659
+hitter,2026,Steamer,PA,opportunity,4186,659,659
+hitter,2026,Steamer,G,opportunity,4186,659,659
+hitter,2026,Steamer,HR_per_PA,skill,4186,659,659
+hitter,2026,Steamer,R_per_PA,skill,4186,659,659
+hitter,2026,Steamer,RBI_per_PA,skill,4186,659,659
+hitter,2026,Steamer,SB_per_PA,skill,4186,659,659
+hitter,2026,Steamer,K%,skill,4186,659,659
+hitter,2026,Steamer,BB%,skill,4186,659,659
+hitter,2026,Steamer,ISO,skill,4186,659,659
+hitter,2026,Steamer,BABIP,skill,4186,659,659
+hitter,2026,Steamer,wOBA,skill,4186,659,659
+hitter,2026,THE BAT X,R,fantasy_outcome,697,583,583
+hitter,2026,THE BAT X,HR,fantasy_outcome,697,583,583
+hitter,2026,THE BAT X,RBI,fantasy_outcome,697,583,583
+hitter,2026,THE BAT X,SB,fantasy_outcome,697,583,583
+hitter,2026,THE BAT X,AVG,fantasy_outcome,697,583,583
+hitter,2026,THE BAT X,OPS,fantasy_outcome,697,583,583
+hitter,2026,THE BAT X,PA,opportunity,697,583,583
+hitter,2026,THE BAT X,G,opportunity,697,583,583
+hitter,2026,THE BAT X,HR_per_PA,skill,697,583,583
+hitter,2026,THE BAT X,R_per_PA,skill,697,583,583
+hitter,2026,THE BAT X,RBI_per_PA,skill,697,583,583
+hitter,2026,THE BAT X,SB_per_PA,skill,697,583,583
+hitter,2026,THE BAT X,K%,skill,697,583,583
+hitter,2026,THE BAT X,BB%,skill,697,583,583
+hitter,2026,THE BAT X,ISO,skill,697,583,583
+hitter,2026,THE BAT X,BABIP,skill,697,583,583
+hitter,2026,THE BAT X,wOBA,skill,697,583,583
+pitcher,2024,ATC,W,fantasy_outcome,917,622,622
+pitcher,2024,ATC,SV,fantasy_outcome,917,622,622
+pitcher,2024,ATC,SO,fantasy_outcome,917,622,622
+pitcher,2024,ATC,ERA,fantasy_outcome,917,622,622
+pitcher,2024,ATC,WHIP,fantasy_outcome,917,622,622
+pitcher,2024,ATC,QS,fantasy_outcome,917,622,622
+pitcher,2024,ATC,SV_plus_HLD,fantasy_outcome,917,622,622
+pitcher,2024,ATC,IP,opportunity,917,622,622
+pitcher,2024,ATC,G,opportunity,917,622,622
+pitcher,2024,ATC,GS,opportunity,917,622,622
+pitcher,2024,ATC,K/9,skill,917,622,622
+pitcher,2024,ATC,BB/9,skill,917,622,622
+pitcher,2024,ATC,HR/9,skill,917,622,622
+pitcher,2024,ATC,K%,skill,917,622,622
+pitcher,2024,ATC,BB%,skill,917,622,622
+pitcher,2024,ATC,K-BB%,skill,917,622,622
+pitcher,2024,ATC,FIP,skill,917,622,622
+pitcher,2024,ATC,BABIP,skill,917,622,622
+pitcher,2024,Steamer,W,fantasy_outcome,5168,783,783
+pitcher,2024,Steamer,SV,fantasy_outcome,5168,783,783
+pitcher,2024,Steamer,SO,fantasy_outcome,5168,783,783
+pitcher,2024,Steamer,ERA,fantasy_outcome,5168,783,783
+pitcher,2024,Steamer,WHIP,fantasy_outcome,5168,783,783
+pitcher,2024,Steamer,QS,fantasy_outcome,5168,783,783
+pitcher,2024,Steamer,SV_plus_HLD,fantasy_outcome,5168,783,783
+pitcher,2024,Steamer,IP,opportunity,5168,783,783
+pitcher,2024,Steamer,G,opportunity,5168,783,783
+pitcher,2024,Steamer,GS,opportunity,5168,783,783
+pitcher,2024,Steamer,K/9,skill,5168,783,783
+pitcher,2024,Steamer,BB/9,skill,5168,783,783
+pitcher,2024,Steamer,HR/9,skill,5168,783,783
+pitcher,2024,Steamer,K%,skill,5168,783,783
+pitcher,2024,Steamer,BB%,skill,5168,783,783
+pitcher,2024,Steamer,K-BB%,skill,5168,783,783
+pitcher,2024,Steamer,FIP,skill,5168,783,783
+pitcher,2024,Steamer,BABIP,skill,5168,783,783
+pitcher,2025,ATC,W,fantasy_outcome,882,688,688
+pitcher,2025,ATC,SV,fantasy_outcome,882,688,688
+pitcher,2025,ATC,SO,fantasy_outcome,882,688,688
+pitcher,2025,ATC,ERA,fantasy_outcome,882,688,688
+pitcher,2025,ATC,WHIP,fantasy_outcome,882,688,688
+pitcher,2025,ATC,QS,fantasy_outcome,882,688,688
+pitcher,2025,ATC,SV_plus_HLD,fantasy_outcome,882,688,688
+pitcher,2025,ATC,IP,opportunity,882,688,688
+pitcher,2025,ATC,G,opportunity,882,688,688
+pitcher,2025,ATC,GS,opportunity,882,688,688
+pitcher,2025,ATC,K/9,skill,882,688,688
+pitcher,2025,ATC,BB/9,skill,882,688,688
+pitcher,2025,ATC,HR/9,skill,882,688,688
+pitcher,2025,ATC,K%,skill,882,688,688
+pitcher,2025,ATC,BB%,skill,882,688,688
+pitcher,2025,ATC,K-BB%,skill,882,688,688
+pitcher,2025,ATC,FIP,skill,882,688,688
+pitcher,2025,ATC,BABIP,skill,882,688,688
+pitcher,2025,OOPSY,W,fantasy_outcome,4995,818,818
+pitcher,2025,OOPSY,SV,fantasy_outcome,4995,818,818
+pitcher,2025,OOPSY,SO,fantasy_outcome,4995,818,818
+pitcher,2025,OOPSY,ERA,fantasy_outcome,4995,818,818
+pitcher,2025,OOPSY,WHIP,fantasy_outcome,4995,818,818
+pitcher,2025,OOPSY,QS,fantasy_outcome,4995,818,818
+pitcher,2025,OOPSY,SV_plus_HLD,fantasy_outcome,4995,818,818
+pitcher,2025,OOPSY,IP,opportunity,4995,818,818
+pitcher,2025,OOPSY,G,opportunity,4995,818,818
+pitcher,2025,OOPSY,GS,opportunity,4995,818,818
+pitcher,2025,OOPSY,K/9,skill,4995,818,818
+pitcher,2025,OOPSY,BB/9,skill,4995,818,818
+pitcher,2025,OOPSY,HR/9,skill,4995,818,818
+pitcher,2025,OOPSY,K%,skill,4995,818,818
+pitcher,2025,OOPSY,BB%,skill,4995,818,818
+pitcher,2025,OOPSY,K-BB%,skill,4995,818,818
+pitcher,2025,OOPSY,FIP,skill,4995,818,818
+pitcher,2025,OOPSY,BABIP,skill,4995,818,818
+pitcher,2025,RotoWire,W,fantasy_outcome,1207,598,598
+pitcher,2025,RotoWire,SV,fantasy_outcome,1207,598,598
+pitcher,2025,RotoWire,SO,fantasy_outcome,1207,598,598
+pitcher,2025,RotoWire,ERA,fantasy_outcome,1207,598,598
+pitcher,2025,RotoWire,WHIP,fantasy_outcome,1207,598,598
+pitcher,2025,RotoWire,QS,fantasy_outcome,1207,598,598
+pitcher,2025,RotoWire,SV_plus_HLD,fantasy_outcome,1207,598,598
+pitcher,2025,RotoWire,IP,opportunity,1207,598,598
+pitcher,2025,RotoWire,G,opportunity,1207,598,598
+pitcher,2025,RotoWire,GS,opportunity,1207,598,598
+pitcher,2025,RotoWire,K/9,skill,1207,598,598
+pitcher,2025,RotoWire,BB/9,skill,1207,598,598
+pitcher,2025,RotoWire,HR/9,skill,1207,598,598
+pitcher,2025,RotoWire,K%,skill,0,598,0
+pitcher,2025,RotoWire,BB%,skill,0,598,0
+pitcher,2025,RotoWire,K-BB%,skill,0,598,0
+pitcher,2025,RotoWire,FIP,skill,0,598,0
+pitcher,2025,RotoWire,BABIP,skill,0,598,0
+pitcher,2025,Steamer,W,fantasy_outcome,5215,791,791
+pitcher,2025,Steamer,SV,fantasy_outcome,5215,791,791
+pitcher,2025,Steamer,SO,fantasy_outcome,5215,791,791
+pitcher,2025,Steamer,ERA,fantasy_outcome,5215,791,791
+pitcher,2025,Steamer,WHIP,fantasy_outcome,5215,791,791
+pitcher,2025,Steamer,QS,fantasy_outcome,5215,791,791
+pitcher,2025,Steamer,SV_plus_HLD,fantasy_outcome,5215,791,791
+pitcher,2025,Steamer,IP,opportunity,5215,791,791
+pitcher,2025,Steamer,G,opportunity,5215,791,791
+pitcher,2025,Steamer,GS,opportunity,5215,791,791
+pitcher,2025,Steamer,K/9,skill,5215,791,791
+pitcher,2025,Steamer,BB/9,skill,5215,791,791
+pitcher,2025,Steamer,HR/9,skill,5215,791,791
+pitcher,2025,Steamer,K%,skill,5215,791,791
+pitcher,2025,Steamer,BB%,skill,5215,791,791
+pitcher,2025,Steamer,K-BB%,skill,5215,791,791
+pitcher,2025,Steamer,FIP,skill,5215,791,791
+pitcher,2025,Steamer,BABIP,skill,5215,791,791
+pitcher,2026,ATC,W,fantasy_outcome,855,681,681
+pitcher,2026,ATC,SV,fantasy_outcome,855,681,681
+pitcher,2026,ATC,SO,fantasy_outcome,855,681,681
+pitcher,2026,ATC,ERA,fantasy_outcome,855,681,681
+pitcher,2026,ATC,WHIP,fantasy_outcome,855,681,681
+pitcher,2026,ATC,QS,fantasy_outcome,855,681,681
+pitcher,2026,ATC,SV_plus_HLD,fantasy_outcome,855,681,681
+pitcher,2026,ATC,IP,opportunity,855,681,681
+pitcher,2026,ATC,G,opportunity,855,681,681
+pitcher,2026,ATC,GS,opportunity,855,681,681
+pitcher,2026,ATC,K/9,skill,855,681,681
+pitcher,2026,ATC,BB/9,skill,855,681,681
+pitcher,2026,ATC,HR/9,skill,855,681,681
+pitcher,2026,ATC,K%,skill,855,681,681
+pitcher,2026,ATC,BB%,skill,855,681,681
+pitcher,2026,ATC,K-BB%,skill,855,681,681
+pitcher,2026,ATC,FIP,skill,855,681,681
+pitcher,2026,ATC,BABIP,skill,855,681,681
+pitcher,2026,Depth Charts,W,fantasy_outcome,802,666,666
+pitcher,2026,Depth Charts,SV,fantasy_outcome,802,666,666
+pitcher,2026,Depth Charts,SO,fantasy_outcome,802,666,666
+pitcher,2026,Depth Charts,ERA,fantasy_outcome,802,666,666
+pitcher,2026,Depth Charts,WHIP,fantasy_outcome,802,666,666
+pitcher,2026,Depth Charts,QS,fantasy_outcome,802,666,666
+pitcher,2026,Depth Charts,SV_plus_HLD,fantasy_outcome,802,666,666
+pitcher,2026,Depth Charts,IP,opportunity,802,666,666
+pitcher,2026,Depth Charts,G,opportunity,802,666,666
+pitcher,2026,Depth Charts,GS,opportunity,802,666,666
+pitcher,2026,Depth Charts,K/9,skill,802,666,666
+pitcher,2026,Depth Charts,BB/9,skill,802,666,666
+pitcher,2026,Depth Charts,HR/9,skill,802,666,666
+pitcher,2026,Depth Charts,K%,skill,802,666,666
+pitcher,2026,Depth Charts,BB%,skill,802,666,666
+pitcher,2026,Depth Charts,K-BB%,skill,802,666,666
+pitcher,2026,Depth Charts,FIP,skill,802,666,666
+pitcher,2026,Depth Charts,BABIP,skill,802,666,666
+pitcher,2026,OOPSY,W,fantasy_outcome,4232,796,796
+pitcher,2026,OOPSY,SV,fantasy_outcome,4232,796,796
+pitcher,2026,OOPSY,SO,fantasy_outcome,4232,796,796
+pitcher,2026,OOPSY,ERA,fantasy_outcome,4232,796,796
+pitcher,2026,OOPSY,WHIP,fantasy_outcome,4232,796,796
+pitcher,2026,OOPSY,QS,fantasy_outcome,4232,796,796
+pitcher,2026,OOPSY,SV_plus_HLD,fantasy_outcome,4232,796,796
+pitcher,2026,OOPSY,IP,opportunity,4232,796,796
+pitcher,2026,OOPSY,G,opportunity,4232,796,796
+pitcher,2026,OOPSY,GS,opportunity,4232,796,796
+pitcher,2026,OOPSY,K/9,skill,4232,796,796
+pitcher,2026,OOPSY,BB/9,skill,4232,796,796
+pitcher,2026,OOPSY,HR/9,skill,4232,796,796
+pitcher,2026,OOPSY,K%,skill,4232,796,796
+pitcher,2026,OOPSY,BB%,skill,4232,796,796
+pitcher,2026,OOPSY,K-BB%,skill,4232,796,796
+pitcher,2026,OOPSY,FIP,skill,4232,796,796
+pitcher,2026,OOPSY,BABIP,skill,4232,796,796
+pitcher,2026,RotoWire,W,fantasy_outcome,2439,713,713
+pitcher,2026,RotoWire,SV,fantasy_outcome,2439,713,713
+pitcher,2026,RotoWire,SO,fantasy_outcome,2439,713,713
+pitcher,2026,RotoWire,ERA,fantasy_outcome,2439,713,713
+pitcher,2026,RotoWire,WHIP,fantasy_outcome,2439,713,713
+pitcher,2026,RotoWire,QS,fantasy_outcome,2439,713,713
+pitcher,2026,RotoWire,SV_plus_HLD,fantasy_outcome,2439,713,713
+pitcher,2026,RotoWire,IP,opportunity,2439,713,713
+pitcher,2026,RotoWire,G,opportunity,2439,713,713
+pitcher,2026,RotoWire,GS,opportunity,2439,713,713
+pitcher,2026,RotoWire,K/9,skill,2439,713,713
+pitcher,2026,RotoWire,BB/9,skill,2439,713,713
+pitcher,2026,RotoWire,HR/9,skill,2439,713,713
+pitcher,2026,RotoWire,K%,skill,0,713,0
+pitcher,2026,RotoWire,BB%,skill,0,713,0
+pitcher,2026,RotoWire,K-BB%,skill,0,713,0
+pitcher,2026,RotoWire,FIP,skill,0,713,0
+pitcher,2026,RotoWire,BABIP,skill,0,713,0
+pitcher,2026,Steamer,W,fantasy_outcome,5162,799,799
+pitcher,2026,Steamer,SV,fantasy_outcome,5162,799,799
+pitcher,2026,Steamer,SO,fantasy_outcome,5162,799,799
+pitcher,2026,Steamer,ERA,fantasy_outcome,5162,799,799
+pitcher,2026,Steamer,WHIP,fantasy_outcome,5162,799,799
+pitcher,2026,Steamer,QS,fantasy_outcome,5162,799,799
+pitcher,2026,Steamer,SV_plus_HLD,fantasy_outcome,5162,799,799
+pitcher,2026,Steamer,IP,opportunity,5162,799,799
+pitcher,2026,Steamer,G,opportunity,5162,799,799
+pitcher,2026,Steamer,GS,opportunity,5162,799,799
+pitcher,2026,Steamer,K/9,skill,5162,799,799
+pitcher,2026,Steamer,BB/9,skill,5162,799,799
+pitcher,2026,Steamer,HR/9,skill,5162,799,799
+pitcher,2026,Steamer,K%,skill,5162,799,799
+pitcher,2026,Steamer,BB%,skill,5162,799,799
+pitcher,2026,Steamer,K-BB%,skill,5162,799,799
+pitcher,2026,Steamer,FIP,skill,5162,799,799
+pitcher,2026,Steamer,BABIP,skill,5162,799,799

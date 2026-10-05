@@ -1,0 +1,297 @@
+{
+  "version": "1.0",
+  "built_at_utc": "2026-10-04T23:16:27.054775+00:00",
+  "warehouse": "C:\\Users\\tmdec\\Documents\\Codex\\2026-10-04\\referenced-chatgpt-conversation-this-is-an\\outputs\\PlayerValuation\\data\\warehouse_resolved\\historical_projection_warehouse.sqlite",
+  "warehouse_sha256": "cb769557e8ee5e4d0603bb5640dc52ba21603778c2987a23dce9da0f2d86e74f",
+  "selected_projection_rows": 53291,
+  "matched_projection_rows": 13497,
+  "unmatched_projection_rows": 39794,
+  "excluded_projection_records": 16,
+  "metric_pairs": 230849,
+  "missing_metric_pairs": 6555,
+  "summary_rows": 4692,
+  "derived_metric_values": 5542,
+  "pairwise_comparisons": 1323,
+  "sample_sets": 2661,
+  "bias_definition": "projection minus actual; positive means overprojection",
+  "weighting": "one equal-weight observation per matched player-season within each sample",
+  "pooled_seasons": false,
+  "coverage": [
+    {
+      "player_type": "hitter",
+      "season": 2024,
+      "source": "Steamer",
+      "selected_projection_rows": 3711,
+      "matched_rows": 649,
+      "unmatched_rows": 3062
+    },
+    {
+      "player_type": "hitter",
+      "season": 2024,
+      "source": "THE BAT X",
+      "selected_projection_rows": 729,
+      "matched_rows": 530,
+      "unmatched_rows": 199
+    },
+    {
+      "player_type": "hitter",
+      "season": 2025,
+      "source": "OOPSY",
+      "selected_projection_rows": 3818,
+      "matched_rows": 665,
+      "unmatched_rows": 3153
+    },
+    {
+      "player_type": "hitter",
+      "season": 2025,
+      "source": "Steamer",
+      "selected_projection_rows": 4140,
+      "matched_rows": 666,
+      "unmatched_rows": 3474
+    },
+    {
+      "player_type": "hitter",
+      "season": 2025,
+      "source": "THE BAT X",
+      "selected_projection_rows": 696,
+      "matched_rows": 586,
+      "unmatched_rows": 110
+    },
+    {
+      "player_type": "hitter",
+      "season": 2026,
+      "source": "Depth Charts",
+      "selected_projection_rows": 638,
+      "matched_rows": 555,
+      "unmatched_rows": 83
+    },
+    {
+      "player_type": "hitter",
+      "season": 2026,
+      "source": "OOPSY",
+      "selected_projection_rows": 2802,
+      "matched_rows": 649,
+      "unmatched_rows": 2153
+    },
+    {
+      "player_type": "hitter",
+      "season": 2026,
+      "source": "Steamer",
+      "selected_projection_rows": 4186,
+      "matched_rows": 659,
+      "unmatched_rows": 3527
+    },
+    {
+      "player_type": "hitter",
+      "season": 2026,
+      "source": "THE BAT X",
+      "selected_projection_rows": 697,
+      "matched_rows": 583,
+      "unmatched_rows": 114
+    },
+    {
+      "player_type": "pitcher",
+      "season": 2024,
+      "source": "ATC",
+      "selected_projection_rows": 917,
+      "matched_rows": 622,
+      "unmatched_rows": 295
+    },
+    {
+      "player_type": "pitcher",
+      "season": 2024,
+      "source": "Steamer",
+      "selected_projection_rows": 5168,
+      "matched_rows": 783,
+      "unmatched_rows": 4385
+    },
+    {
+      "player_type": "pitcher",
+      "season": 2025,
+      "source": "ATC",
+      "selected_projection_rows": 882,
+      "matched_rows": 688,
+      "unmatched_rows": 194
+    },
+    {
+      "player_type": "pitcher",
+      "season": 2025,
+      "source": "OOPSY",
+      "selected_projection_rows": 4995,
+      "matched_rows": 818,
+      "unmatched_rows": 4177
+    },
+    {
+      "player_type": "pitcher",
+      "season": 2025,
+      "source": "RotoWire",
+      "selected_projection_rows": 1207,
+      "matched_rows": 598,
+      "unmatched_rows": 609
+    },
+    {
+      "player_type": "pitcher",
+      "season": 2025,
+      "source": "Steamer",
+      "selected_projection_rows": 5215,
+      "matched_rows": 791,
+      "unmatched_rows": 4424
+    },
+    {
+      "player_type": "pitcher",
+      "season": 2026,
+      "source": "ATC",
+      "selected_projection_rows": 855,
+      "matched_rows": 681,
+      "unmatched_rows": 174
+    },
+    {
+      "player_type": "pitcher",
+      "season": 2026,
+      "source": "Depth Charts",
+      "selected_projection_rows": 802,
+      "matched_rows": 666,
+      "unmatched_rows": 136
+    },
+    {
+      "player_type": "pitcher",
+      "season": 2026,
+      "source": "OOPSY",
+      "selected_projection_rows": 4232,
+      "matched_rows": 796,
+      "unmatched_rows": 3436
+    },
+    {
+      "player_type": "pitcher",
+      "season": 2026,
+      "source": "RotoWire",
+      "selected_projection_rows": 2439,
+      "matched_rows": 713,
+      "unmatched_rows": 1726
+    },
+    {
+      "player_type": "pitcher",
+      "season": 2026,
+      "source": "Steamer",
+      "selected_projection_rows": 5162,
+      "matched_rows": 799,
+      "unmatched_rows": 4363
+    }
+  ],
+  "config": {
+    "warehouse": "data/warehouse_resolved/historical_projection_warehouse.sqlite",
+    "output": "outputs/accuracy_v1_0",
+    "correlation_min_n": 30,
+    "ranking_min_n": 30,
+    "player_types": {
+      "hitter": {
+        "exposure": "PA",
+        "derive_if_missing": {
+          "OPS": {
+            "sum": [
+              "OBP",
+              "SLG"
+            ]
+          }
+        },
+        "headline_cohort": "regular_playing_time",
+        "cohorts": [
+          {
+            "name": "all_matched",
+            "minimum_actual": 0,
+            "minimum_projected": 0
+          },
+          {
+            "name": "established_sample",
+            "minimum_actual": 100,
+            "minimum_projected": 0
+          },
+          {
+            "name": "regular_playing_time",
+            "minimum_actual": 300,
+            "minimum_projected": 0
+          }
+        ],
+        "metric_groups": {
+          "fantasy_outcome": [
+            "R",
+            "HR",
+            "RBI",
+            "SB",
+            "AVG",
+            "OPS"
+          ],
+          "opportunity": [
+            "PA",
+            "G"
+          ],
+          "skill": [
+            "HR_per_PA",
+            "R_per_PA",
+            "RBI_per_PA",
+            "SB_per_PA",
+            "K%",
+            "BB%",
+            "ISO",
+            "BABIP",
+            "wOBA"
+          ]
+        }
+      },
+      "pitcher": {
+        "exposure": "IP",
+        "headline_cohort": "substantial_innings",
+        "cohorts": [
+          {
+            "name": "all_matched",
+            "minimum_actual": 0,
+            "minimum_projected": 0
+          },
+          {
+            "name": "substantial_innings",
+            "minimum_actual": 40,
+            "minimum_projected": 0
+          },
+          {
+            "name": "high_innings",
+            "minimum_actual": 100,
+            "minimum_projected": 0
+          }
+        ],
+        "metric_groups": {
+          "fantasy_outcome": [
+            "W",
+            "SV",
+            "SO",
+            "ERA",
+            "WHIP",
+            "QS",
+            "SV_plus_HLD"
+          ],
+          "opportunity": [
+            "IP",
+            "G",
+            "GS"
+          ],
+          "skill": [
+            "K/9",
+            "BB/9",
+            "HR/9",
+            "K%",
+            "BB%",
+            "K-BB%",
+            "FIP",
+            "BABIP"
+          ]
+        }
+      }
+    }
+  },
+  "notes": [
+    "Sources are ranked only within the same season, metric, cohort and common-player sample.",
+    "Lower MAE is descriptive; it does not establish statistically significant superiority.",
+    "Source-specific results use different player populations and must not be ranked against one another.",
+    "Missing/unmatched statistics are never assigned zero. Rate metrics are evaluated unweighted.",
+    "This is retrospective evaluation of supplied preseason files, not fitted consensus or future out-of-sample evidence."
+  ]
+}

@@ -1,0 +1,1783 @@
+{
+  "1B": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "context",
+    "metric_type": "counting",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "2B": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "context",
+    "metric_type": "counting",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "3B": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "context",
+    "metric_type": "counting",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "AB": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "opportunity",
+    "metric_type": "counting",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "ADP": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "market",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "AVG": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "higher",
+    "denominator": "AB",
+    "fantasy_formats": [
+      "NFBC",
+      "Yahoo"
+    ]
+  },
+  "BABIP": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "BB": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "context",
+    "metric_type": "counting",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "BB%": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": "player_type_specific",
+    "fantasy_formats": [],
+    "denominator_by_player_type": {
+      "hitter": "PA",
+      "pitcher": "TBF"
+    }
+  },
+  "BB/K": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "Barrel%": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "Barrels": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "context",
+    "metric_type": "counting",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "BatSpd": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "skill",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "BsR": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "context",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "CS": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "context",
+    "metric_type": "counting",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "CStr%": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "Contact%": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "Def": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "context",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "Dim": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "uncertainty",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "EV": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "skill",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "EV90": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "skill",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "Events": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "context",
+    "metric_type": "counting",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "F-Strike%": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "FB%": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "FPTS": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "context",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "FPTS/G": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "context",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "Fld": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "context",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "G": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "opportunity",
+    "metric_type": "counting",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "GB%": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "GDP": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "context",
+    "metric_type": "counting",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "H": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "context",
+    "metric_type": "counting",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "HBP": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "context",
+    "metric_type": "counting",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "HR": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "fantasy_outcome",
+    "metric_type": "counting",
+    "direction": "higher",
+    "denominator": null,
+    "fantasy_formats": [
+      "NFBC",
+      "Yahoo"
+    ]
+  },
+  "HR/FB": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "context",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "Hard%": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "HardHit": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "context",
+    "metric_type": "counting",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "HardHit%": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "IBB": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "context",
+    "metric_type": "counting",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "IFFB%": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "ISO": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "higher",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "InterSD": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "uncertainty",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "InterSK": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "uncertainty",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "IntraSD": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "uncertainty",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "K%": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": "player_type_specific",
+    "fantasy_formats": [],
+    "denominator_by_player_type": {
+      "hitter": "PA",
+      "pitcher": "TBF"
+    }
+  },
+  "LA": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "skill",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "LD%": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "Med%": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "O-Contact%": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "O-Swing%": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "OBP": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "higher",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "OPS": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "higher",
+    "denominator": null,
+    "fantasy_formats": [
+      "Yahoo"
+    ]
+  },
+  "Off": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "context",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "P10": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "uncertainty",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "P20": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "uncertainty",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "P30": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "uncertainty",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "P40": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "uncertainty",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "P50": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "uncertainty",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "P60": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "uncertainty",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "P70": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "uncertainty",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "P80": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "uncertainty",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "P90": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "uncertainty",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "PA": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "opportunity",
+    "metric_type": "counting",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "Pull%": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "R": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "fantasy_outcome",
+    "metric_type": "counting",
+    "direction": "higher",
+    "denominator": null,
+    "fantasy_formats": [
+      "NFBC",
+      "Yahoo"
+    ]
+  },
+  "RBI": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "fantasy_outcome",
+    "metric_type": "counting",
+    "direction": "higher",
+    "denominator": null,
+    "fantasy_formats": [
+      "NFBC",
+      "Yahoo"
+    ]
+  },
+  "SB": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "fantasy_outcome",
+    "metric_type": "counting",
+    "direction": "higher",
+    "denominator": null,
+    "fantasy_formats": [
+      "NFBC",
+      "Yahoo"
+    ]
+  },
+  "SF": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "context",
+    "metric_type": "counting",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "SH": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "context",
+    "metric_type": "counting",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "SLG": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "higher",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "SO": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "fantasy_outcome",
+    "metric_type": "counting",
+    "direction": "higher",
+    "denominator": null,
+    "fantasy_formats": [
+      "NFBC",
+      "Yahoo"
+    ]
+  },
+  "SPTS": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "context",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "SPTS/G": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "context",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "Skew": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "uncertainty",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "Soft%": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "Spd": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "context",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "SwStr%": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "Swing%": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "TT10": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "uncertainty",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "TT20": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "uncertainty",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "TT30": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "uncertainty",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "TT40": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "uncertainty",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "TT50": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "uncertainty",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "TT60": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "uncertainty",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "TT70": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "uncertainty",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "TT80": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "uncertainty",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "TT90": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "uncertainty",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "UBR": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "context",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "Vol": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "uncertainty",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "WAR": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "context",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "Z-Contact%": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "Z-Swing%": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "Zone%": {
+    "player_types": [
+      "hitter",
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "maxEV": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "skill",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "wOBA": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "higher",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "wRAA": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "context",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "wRC": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "context",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "wRC+": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "context",
+    "metric_type": "numeric",
+    "direction": "higher",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "wSB": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "context",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "xBA": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "xSLG": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "xwOBA": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "higher",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "BB/9": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "lower",
+    "denominator": "IP",
+    "fantasy_formats": []
+  },
+  "BK": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "context",
+    "metric_type": "counting",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "BS": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "context",
+    "metric_type": "counting",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "Balls": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "context",
+    "metric_type": "counting",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "CB%": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "CBv": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "context",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "CG": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "context",
+    "metric_type": "counting",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "CH%": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "CHv": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "context",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "CSW%": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "CT%": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "CTv": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "context",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "ER": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "context",
+    "metric_type": "counting",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "ERA": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "lower",
+    "denominator": "IP",
+    "fantasy_formats": [
+      "NFBC",
+      "Yahoo"
+    ]
+  },
+  "FBv": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "context",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "FIP": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "lower",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "FPTS/IP": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "context",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "GB/FB": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "context",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "GS": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "opportunity",
+    "metric_type": "counting",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "HLD": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "fantasy_outcome",
+    "metric_type": "counting",
+    "direction": "higher",
+    "denominator": null,
+    "fantasy_formats": [
+      "Yahoo"
+    ]
+  },
+  "HR/9": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "lower",
+    "denominator": "IP",
+    "fantasy_formats": []
+  },
+  "IP": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "opportunity",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "K-BB%": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": "player_type_specific",
+    "fantasy_formats": [],
+    "denominator_by_player_type": {
+      "hitter": "PA",
+      "pitcher": "TBF"
+    }
+  },
+  "K/9": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "higher",
+    "denominator": "IP",
+    "fantasy_formats": []
+  },
+  "K/BB": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "KN%": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "KNv": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "context",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "L": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "context",
+    "metric_type": "counting",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "LOB%": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "Location+": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "Pitches": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "context",
+    "metric_type": "counting",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "Pitching+": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "QS": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "fantasy_outcome",
+    "metric_type": "counting",
+    "direction": "higher",
+    "denominator": null,
+    "fantasy_formats": [
+      "Yahoo"
+    ]
+  },
+  "RA9-WAR": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "context",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "SF%": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "SFv": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "context",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "SHO": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "context",
+    "metric_type": "counting",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "SIERA": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "lower",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "SL%": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "SLv": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "context",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "SPTS/IP": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "context",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "SV": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "fantasy_outcome",
+    "metric_type": "counting",
+    "direction": "higher",
+    "denominator": null,
+    "fantasy_formats": [
+      "NFBC",
+      "Yahoo"
+    ]
+  },
+  "ShO": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "context",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "Strikes": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "context",
+    "metric_type": "counting",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "Stuff+": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "TBF": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "opportunity",
+    "metric_type": "counting",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "W": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "fantasy_outcome",
+    "metric_type": "counting",
+    "direction": "higher",
+    "denominator": null,
+    "fantasy_formats": [
+      "NFBC",
+      "Yahoo"
+    ]
+  },
+  "WHIP": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "lower",
+    "denominator": "IP",
+    "fantasy_formats": [
+      "NFBC",
+      "Yahoo"
+    ]
+  },
+  "WP": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "context",
+    "metric_type": "counting",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "XX%": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "vFA (pi)": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "context",
+    "metric_type": "numeric",
+    "direction": "context",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "xERA": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "lower",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "xFIP": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "lower",
+    "denominator": null,
+    "fantasy_formats": []
+  },
+  "HR_per_PA": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": "PA",
+    "fantasy_formats": [],
+    "derive": {
+      "numerator": "HR",
+      "denominator": "PA",
+      "scale": 1
+    }
+  },
+  "R_per_PA": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": "PA",
+    "fantasy_formats": [],
+    "derive": {
+      "numerator": "R",
+      "denominator": "PA",
+      "scale": 1
+    }
+  },
+  "RBI_per_PA": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": "PA",
+    "fantasy_formats": [],
+    "derive": {
+      "numerator": "RBI",
+      "denominator": "PA",
+      "scale": 1
+    }
+  },
+  "SB_per_PA": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": "PA",
+    "fantasy_formats": [],
+    "derive": {
+      "numerator": "SB",
+      "denominator": "PA",
+      "scale": 1
+    }
+  },
+  "SO_per_PA": {
+    "player_types": [
+      "hitter"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": "PA",
+    "fantasy_formats": [],
+    "derive": {
+      "numerator": "SO",
+      "denominator": "PA",
+      "scale": 1
+    }
+  },
+  "SO_per_9": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": "IP",
+    "fantasy_formats": [],
+    "derive": {
+      "numerator": "SO",
+      "denominator": "IP",
+      "scale": 9
+    }
+  },
+  "BB_per_9": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": "IP",
+    "fantasy_formats": [],
+    "derive": {
+      "numerator": "BB",
+      "denominator": "IP",
+      "scale": 9
+    }
+  },
+  "HR_per_9": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "skill",
+    "metric_type": "rate",
+    "direction": "context",
+    "denominator": "IP",
+    "fantasy_formats": [],
+    "derive": {
+      "numerator": "HR",
+      "denominator": "IP",
+      "scale": 9
+    }
+  },
+  "SV_plus_HLD": {
+    "player_types": [
+      "pitcher"
+    ],
+    "classification": "fantasy_outcome",
+    "metric_type": "counting",
+    "direction": "higher",
+    "denominator": null,
+    "fantasy_formats": [
+      "Yahoo"
+    ],
+    "derive": {
+      "sum": [
+        "SV",
+        "HLD"
+      ]
+    }
+  }
+}
