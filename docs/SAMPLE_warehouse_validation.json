@@ -1,0 +1,294 @@
+{
+  "generated_at": "2026-10-06T22:18:34.680929+00:00",
+  "script_version": "1.0.0",
+  "pass": true,
+  "checks": [
+    {
+      "check": "FILE_RECONCILIATION",
+      "dataset": "projection_hitter",
+      "version": "458cde97702f473eaad3ff9a8c6d1902",
+      "pass": true,
+      "rows": 2
+    },
+    {
+      "check": "IDENTITY_UNIQUENESS",
+      "dataset": "projection_hitter",
+      "version": "458cde97702f473eaad3ff9a8c6d1902",
+      "pass": true
+    },
+    {
+      "check": "MLBAM_COVERAGE",
+      "dataset": "projection_hitter",
+      "version": "458cde97702f473eaad3ff9a8c6d1902",
+      "pass": true,
+      "unresolved": 0,
+      "severity": "INFO"
+    },
+    {
+      "check": "NULL_RATE",
+      "dataset": "projection_hitter",
+      "version": "458cde97702f473eaad3ff9a8c6d1902",
+      "field": "PA",
+      "nulls": 2,
+      "rows": 2,
+      "pass": true
+    },
+    {
+      "check": "NULL_RATE",
+      "dataset": "projection_hitter",
+      "version": "458cde97702f473eaad3ff9a8c6d1902",
+      "field": "AB",
+      "nulls": 2,
+      "rows": 2,
+      "pass": true
+    },
+    {
+      "check": "NULL_RATE",
+      "dataset": "projection_hitter",
+      "version": "458cde97702f473eaad3ff9a8c6d1902",
+      "field": "H",
+      "nulls": 2,
+      "rows": 2,
+      "pass": true
+    },
+    {
+      "check": "NULL_RATE",
+      "dataset": "projection_hitter",
+      "version": "458cde97702f473eaad3ff9a8c6d1902",
+      "field": "R",
+      "nulls": 2,
+      "rows": 2,
+      "pass": true
+    },
+    {
+      "check": "NULL_RATE",
+      "dataset": "projection_hitter",
+      "version": "458cde97702f473eaad3ff9a8c6d1902",
+      "field": "HR",
+      "nulls": 0,
+      "rows": 2,
+      "pass": true
+    },
+    {
+      "check": "NULL_RATE",
+      "dataset": "projection_hitter",
+      "version": "458cde97702f473eaad3ff9a8c6d1902",
+      "field": "RBI",
+      "nulls": 2,
+      "rows": 2,
+      "pass": true
+    },
+    {
+      "check": "NULL_RATE",
+      "dataset": "projection_hitter",
+      "version": "458cde97702f473eaad3ff9a8c6d1902",
+      "field": "SB",
+      "nulls": 2,
+      "rows": 2,
+      "pass": true
+    },
+    {
+      "check": "NULL_RATE",
+      "dataset": "projection_hitter",
+      "version": "458cde97702f473eaad3ff9a8c6d1902",
+      "field": "CS",
+      "nulls": 2,
+      "rows": 2,
+      "pass": true
+    },
+    {
+      "check": "NULL_RATE",
+      "dataset": "projection_hitter",
+      "version": "458cde97702f473eaad3ff9a8c6d1902",
+      "field": "BB",
+      "nulls": 2,
+      "rows": 2,
+      "pass": true
+    },
+    {
+      "check": "NULL_RATE",
+      "dataset": "projection_hitter",
+      "version": "458cde97702f473eaad3ff9a8c6d1902",
+      "field": "SO",
+      "nulls": 2,
+      "rows": 2,
+      "pass": true
+    },
+    {
+      "check": "NULL_RATE",
+      "dataset": "projection_hitter",
+      "version": "458cde97702f473eaad3ff9a8c6d1902",
+      "field": "AVG",
+      "nulls": 2,
+      "rows": 2,
+      "pass": true
+    },
+    {
+      "check": "NULL_RATE",
+      "dataset": "projection_hitter",
+      "version": "458cde97702f473eaad3ff9a8c6d1902",
+      "field": "OBP",
+      "nulls": 2,
+      "rows": 2,
+      "pass": true
+    },
+    {
+      "check": "NULL_RATE",
+      "dataset": "projection_hitter",
+      "version": "458cde97702f473eaad3ff9a8c6d1902",
+      "field": "SLG",
+      "nulls": 2,
+      "rows": 2,
+      "pass": true
+    },
+    {
+      "check": "NULL_RATE",
+      "dataset": "projection_hitter",
+      "version": "458cde97702f473eaad3ff9a8c6d1902",
+      "field": "OPS",
+      "nulls": 2,
+      "rows": 2,
+      "pass": true
+    },
+    {
+      "check": "NULL_RATE",
+      "dataset": "projection_hitter",
+      "version": "458cde97702f473eaad3ff9a8c6d1902",
+      "field": "IP",
+      "nulls": 2,
+      "rows": 2,
+      "pass": true
+    },
+    {
+      "check": "NULL_RATE",
+      "dataset": "projection_hitter",
+      "version": "458cde97702f473eaad3ff9a8c6d1902",
+      "field": "ER",
+      "nulls": 2,
+      "rows": 2,
+      "pass": true
+    },
+    {
+      "check": "NULL_RATE",
+      "dataset": "projection_hitter",
+      "version": "458cde97702f473eaad3ff9a8c6d1902",
+      "field": "HA",
+      "nulls": 2,
+      "rows": 2,
+      "pass": true
+    },
+    {
+      "check": "NULL_RATE",
+      "dataset": "projection_hitter",
+      "version": "458cde97702f473eaad3ff9a8c6d1902",
+      "field": "BBA",
+      "nulls": 2,
+      "rows": 2,
+      "pass": true
+    },
+    {
+      "check": "NULL_RATE",
+      "dataset": "projection_hitter",
+      "version": "458cde97702f473eaad3ff9a8c6d1902",
+      "field": "W",
+      "nulls": 2,
+      "rows": 2,
+      "pass": true
+    },
+    {
+      "check": "NULL_RATE",
+      "dataset": "projection_hitter",
+      "version": "458cde97702f473eaad3ff9a8c6d1902",
+      "field": "SV",
+      "nulls": 2,
+      "rows": 2,
+      "pass": true
+    },
+    {
+      "check": "NULL_RATE",
+      "dataset": "projection_hitter",
+      "version": "458cde97702f473eaad3ff9a8c6d1902",
+      "field": "HLD",
+      "nulls": 2,
+      "rows": 2,
+      "pass": true
+    },
+    {
+      "check": "NULL_RATE",
+      "dataset": "projection_hitter",
+      "version": "458cde97702f473eaad3ff9a8c6d1902",
+      "field": "GS",
+      "nulls": 2,
+      "rows": 2,
+      "pass": true
+    },
+    {
+      "check": "NULL_RATE",
+      "dataset": "projection_hitter",
+      "version": "458cde97702f473eaad3ff9a8c6d1902",
+      "field": "G",
+      "nulls": 2,
+      "rows": 2,
+      "pass": true
+    },
+    {
+      "check": "NULL_RATE",
+      "dataset": "projection_hitter",
+      "version": "458cde97702f473eaad3ff9a8c6d1902",
+      "field": "ERA",
+      "nulls": 2,
+      "rows": 2,
+      "pass": true
+    },
+    {
+      "check": "NULL_RATE",
+      "dataset": "projection_hitter",
+      "version": "458cde97702f473eaad3ff9a8c6d1902",
+      "field": "WHIP",
+      "nulls": 2,
+      "rows": 2,
+      "pass": true
+    },
+    {
+      "check": "NULL_RATE",
+      "dataset": "projection_hitter",
+      "version": "458cde97702f473eaad3ff9a8c6d1902",
+      "field": "QS",
+      "nulls": 2,
+      "rows": 2,
+      "pass": true
+    },
+    {
+      "check": "DUCKDB_ROW_RECONCILIATION",
+      "dataset": "projection_hitter",
+      "pass": true,
+      "expected": 2,
+      "actual": 2
+    },
+    {
+      "check": "DUCKDB_ROW_RECONCILIATION",
+      "dataset": "projection_pitcher",
+      "pass": true,
+      "expected": 0,
+      "actual": 0
+    },
+    {
+      "check": "DUCKDB_ROW_RECONCILIATION",
+      "dataset": "actual_hitter",
+      "pass": true,
+      "expected": 0,
+      "actual": 0
+    },
+    {
+      "check": "DUCKDB_ROW_RECONCILIATION",
+      "dataset": "actual_pitcher",
+      "pass": true,
+      "expected": 0,
+      "actual": 0
+    },
+    {
+      "check": "NONEMPTY_WAREHOUSE",
+      "pass": true
+    }
+  ]
+}

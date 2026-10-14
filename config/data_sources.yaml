@@ -1,0 +1,3 @@
+# Deliberately empty: real local filenames, sheet names and headings must be inspected.
+# Copy entries from examples/data_sources.example.yaml after running an inventory.
+sources: []

@@ -1,5 +1,95 @@
 # PlayerValuation — historical warehouse and projection accuracy
 
+## Stage 3 historical backtest
+
+Run `python backtest_consensus_projections_v1_0.py`. Configuration is in
+`config/consensus_backtesting.json`; results are in
+`outputs/consensus_backtest_v1_0/backtest_report.md`.
+For another run, supply `--output outputs/consensus_backtest_run2`.
+The builder protects existing nonempty results and opens the warehouse read-only.
+
+This test calls the unchanged Stage 3 generator for 2024, 2025 and 2026,
+with season-available source coverage and the configured weights. It compares
+component-derived forecasts against source-statistic means and a diagnostic
+common-component source pool on identical players. Actual results never enter
+forecast generation or source weights. Unmatched forecasts remain in the
+season exports and are excluded from accuracy, not scored as zero.
+
+The report includes MAE, RMSE, signed bias, correlations and rank errors;
+exact paired sample membership; source coverage and missing-value exclusions;
+and projected-roster, disagreement, low-exposure and component-pool diagnostics.
+The projected-roster cohorts require preseason consensus PA >= 300 or IP >= 40
+and positive actual exposure for retrospective scoring. They are an analysis
+proxy for roster relevance, not a league-specific roster definition.
+Counting baselines are independently checked on the exact available-source
+Stage 3 pools, which differ from Stage 2B complete-source samples.
+These years informed earlier model choices, so this is retrospective validation,
+not a new independent holdout. Diagnostic alternatives do not modify the
+production consensus or its configuration.
+
+## Stage 3: 2026 consensus projections
+
+The consensus has already been generated. Start with
+`outputs/consensus_2026_v1_0/audit/consensus_report.md`, then open
+`hitter_consensus.csv` and `pitcher_consensus.csv` in that output folder.
+To generate another build:
+
+```powershell
+python build_consensus_projections_v1_0.py --output outputs/consensus_2026_run2
+```
+
+Configuration is in `config/consensus_projections.json`. It selects season 2026
+and the reviewed analytical warehouse. All analytical players are included,
+including projections unmatched to actuals, prospects and low-playing-time
+players. No actual-stat values enter aggregation. Names, ID namespaces, teams,
+source coverage and original contributing record IDs accompany every player.
+Two-way players retain one row in each applicable player-type output.
+
+Base stats use equal weights among available sources by default. A zero value
+is a real projection and participates; missing values do not. Source weights
+are renormalized for every player/statistic. A single available source can
+produce a consensus and is flagged as limited coverage.
+
+For example, the following hitter override gives Steamer twice the influence
+of BAT X for HR, with the other configured sources retaining their base weights:
+
+```json
+"metric_weight_overrides": {"HR": {"Steamer": 2, "THE BAT X": 1}}
+```
+
+Weights must be finite and nonnegative; zero excludes a source from that stat.
+Derived-rate overrides must be applied to their components rather than setting
+an unrelated AVG/ERA/WHIP weight. All contributing weights and source values are
+recorded in `metric_provenance.csv`. Decimal output counts are intentional.
+
+Rates use the exact consensus components: AVG = H/AB; OBP =
+(H+BB+HBP)/(AB+BB+HBP+SF); SLG = (1B+2*2B+3*3B+4*HR)/AB; OPS = OBP+SLG;
+ERA = 9*ER/IP; WHIP = (H allowed+BB)/IP. K/9, BB/9, HR/9, counting QS and
+SV+HLD are included. Missing components and zero denominators yield unavailable
+rates, never zeros or substitutes from actuals. CSV blanks correspond to JSON
+null. FIP, BABIP and wOBA retain weighted source estimates.
+
+The earlier blend backtest averaged source rates directly. These coherent
+component-derived rates are a different aggregation. The separate historical
+test is now delivered in `outputs/consensus_backtest_v1_0`; it evaluates both
+accuracy and low-exposure distortions without claiming independent holdout
+evidence or guaranteed improvement from this reconciliation.
+
+Available component source pools can differ. Every difference is recorded in
+`audit/mixed_component_pools.csv`; no missing component is invented to force
+identical coverage. Rounded source counts, especially for tiny playing-time
+projections, can yield rates that differ from supplied source skill rates.
+`audit/derived_vs_source_rates.csv` highlights material differences. The player
+coverage audit flags exposure below 100 PA or 20 IP for rate interpretation;
+these players remain included.
+
+`audit/high_disagreement.csv` flags coefficients of variation of at least .25
+when two or more contributors exist. Source spread is descriptive disagreement,
+not calibrated confidence. For derived rates the spread uses original source
+rates, while formulas/components describe the actual consensus rate. Review
+`audit/missing_components.csv` and `audit/player_coverage.csv` before selecting
+the player pool for valuation. Original files and the warehouse are unchanged.
+
 ## Stage 2B: held-out consensus blend tests
 
 The blend backtest has already been run. Start with

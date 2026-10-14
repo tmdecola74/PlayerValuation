@@ -1,0 +1,70 @@
+{
+  "target_season": 2026,
+  "training_seasons": [
+    2024,
+    2025
+  ],
+  "history_lookback_seasons": 3,
+  "feature_rules": {
+    "whiff_pct": [
+      "swings",
+      100,
+      400
+    ],
+    "chase_pct": [
+      "out_zone_pitches",
+      100,
+      400
+    ],
+    "swstr_pct": [
+      "thrown_pitches",
+      200,
+      500
+    ],
+    "csw_pct": [
+      "thrown_pitches",
+      200,
+      500
+    ],
+    "zone_pct": [
+      "zone_known_pitches",
+      200,
+      500
+    ],
+    "ev": [
+      "ev_observations",
+      30,
+      100
+    ],
+    "hardhit_pct": [
+      "ev_observations",
+      30,
+      100
+    ],
+    "barrel_pct": [
+      "barrel_observations",
+      30,
+      100
+    ],
+    "xwobacon": [
+      "expected_contact_observations",
+      30,
+      100
+    ],
+    "velocity": [
+      "velocity_observations",
+      100,
+      300
+    ],
+    "k_pct_scored": [
+      "scored_exposure",
+      50,
+      300
+    ],
+    "bb_pct_scored": [
+      "scored_exposure",
+      50,
+      300
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "season": 2026,
+  "warehouse": "data/warehouse_resolved/historical_projection_warehouse.sqlite",
+  "output": "outputs/consensus_2026_v1_0",
+  "source_weights": {"Steamer": 1, "THE BAT X": 1, "ATC": 1, "OOPSY": 1, "Depth Charts": 1, "RotoWire": 1},
+  "minimum_sources_for_agreement": 2,
+  "high_disagreement_cv": 0.25,
+  "rate_difference_thresholds": {"AVG": 0.025, "OBP": 0.025, "SLG": 0.05, "OPS": 0.075, "ERA": 0.25, "WHIP": 0.1},
+  "player_types": {
+    "hitter": {
+      "exposure": "PA",
+      "rate_interpretation_exposure_floor": 100,
+      "base_metrics": ["G", "PA", "AB", "H", "1B", "2B", "3B", "HR", "R", "RBI", "SB", "CS", "BB", "SO", "HBP", "SF", "SH", "BABIP", "wOBA"],
+      "nonnegative_metrics": ["G", "PA", "AB", "H", "1B", "2B", "3B", "HR", "R", "RBI", "SB", "CS", "BB", "SO", "HBP", "SF", "SH", "BABIP", "wOBA"],
+      "metric_weight_overrides": {},
+      "derived_metrics": {
+        "AVG": {"numerator": {"H": 1}, "denominator": {"AB": 1}},
+        "OBP": {"numerator": {"H": 1, "BB": 1, "HBP": 1}, "denominator": {"AB": 1, "BB": 1, "HBP": 1, "SF": 1}},
+        "SLG": {"numerator": {"1B": 1, "2B": 2, "3B": 3, "HR": 4}, "denominator": {"AB": 1}},
+        "OPS": {"sum": {"OBP": 1, "SLG": 1}},
+        "ISO": {"sum": {"SLG": 1, "AVG": -1}},
+        "K%": {"numerator": {"SO": 1}, "denominator": {"PA": 1}},
+        "BB%": {"numerator": {"BB": 1}, "denominator": {"PA": 1}},
+        "HR_per_PA": {"numerator": {"HR": 1}, "denominator": {"PA": 1}},
+        "SB_per_PA": {"numerator": {"SB": 1}, "denominator": {"PA": 1}}
+      }
+    },
+    "pitcher": {
+      "exposure": "IP",
+      "rate_interpretation_exposure_floor": 20,
+      "base_metrics": ["W", "L", "SV", "HLD", "QS", "G", "GS", "IP", "H", "ER", "BB", "SO", "HR", "TBF", "FIP", "BABIP"],
+      "nonnegative_metrics": ["W", "L", "SV", "HLD", "QS", "G", "GS", "IP", "H", "ER", "BB", "SO", "HR", "TBF", "FIP", "BABIP"],
+      "metric_weight_overrides": {},
+      "derived_metrics": {
+        "ERA": {"numerator": {"ER": 1}, "denominator": {"IP": 1}, "scale": 9},
+        "WHIP": {"numerator": {"H": 1, "BB": 1}, "denominator": {"IP": 1}},
+        "K/9": {"numerator": {"SO": 1}, "denominator": {"IP": 1}, "scale": 9},
+        "BB/9": {"numerator": {"BB": 1}, "denominator": {"IP": 1}, "scale": 9},
+        "HR/9": {"numerator": {"HR": 1}, "denominator": {"IP": 1}, "scale": 9},
+        "K%": {"numerator": {"SO": 1}, "denominator": {"TBF": 1}},
+        "BB%": {"numerator": {"BB": 1}, "denominator": {"TBF": 1}},
+        "K-BB%": {"sum": {"K%": 1, "BB%": -1}},
+        "SV_plus_HLD": {"sum": {"SV": 1, "HLD": 1}}
+      }
+    }
+  }
+}

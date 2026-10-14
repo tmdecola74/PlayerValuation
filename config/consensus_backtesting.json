@@ -1,0 +1,21 @@
+{
+  "warehouse": "data/warehouse_resolved/historical_projection_warehouse.sqlite",
+  "consensus_config": "config/consensus_projections.json",
+  "output": "outputs/consensus_backtest_v1_0",
+  "seasons": [2024, 2025, 2026],
+  "correlation_min_n": 30,
+  "player_types": {
+    "hitter": {
+      "exposure": "PA", "projected_exposure_floor": 100,
+      "headline_cohort": "regular_playing_time",
+      "metrics": ["R", "HR", "RBI", "SB", "AVG", "OPS", "PA", "HR_per_PA", "SB_per_PA", "K%", "BB%"],
+      "cohorts": [{"name": "all_matched", "minimum_actual": 0}, {"name": "established_sample", "minimum_actual": 100}, {"name": "regular_playing_time", "minimum_actual": 300}, {"name": "projected_roster_pool", "minimum_actual": 0, "minimum_projected": 300}]
+    },
+    "pitcher": {
+      "exposure": "IP", "projected_exposure_floor": 20,
+      "headline_cohort": "substantial_innings",
+      "metrics": ["W", "SV", "SO", "ERA", "WHIP", "QS", "SV_plus_HLD", "IP", "K/9", "BB/9", "HR/9"],
+      "cohorts": [{"name": "all_matched", "minimum_actual": 0}, {"name": "substantial_innings", "minimum_actual": 40}, {"name": "high_innings", "minimum_actual": 100}, {"name": "projected_roster_pool", "minimum_actual": 0, "minimum_projected": 40}, {"name": "closer_candidates", "minimum_actual": 0, "projected_any_sv_minimum": 5, "metrics": ["SV"]}]
+    }
+  }
+}

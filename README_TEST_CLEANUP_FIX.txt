@@ -1,0 +1,1 @@
+Extract into your PlayerValuation folder, replacing tests/test_statcast_model_inputs_v1_0.py. This fixes test-only SQLite connection and CSV handle cleanup on Windows. The assembler and its outputs are unchanged. Run the 19-test suite again, then python statcast_model_inputs_v1_0.py.

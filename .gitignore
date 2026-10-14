@@ -1,10 +1,63 @@
-.idea/
+# Python environment and caches
 .venv/
+venv/
 __pycache__/
-*.pyc
-data/raw/*
-!data/raw/.gitkeep
-data/warehouse/
-work/
-*.sqlite
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local IDE settings
 .idea/
+
+# Downloaded data, databases, generated results, and backups
+/data/
+/outputs/
+/backups/
+/logs/
+
+# Database files and temporary sidecars
+*.sqlite
+*.sqlite3
+*.duckdb
+*.db
+*.wal
+*-wal
+*-shm
+*-journal
+*.parquet
+
+# Downloaded delivery archives
+*.zip
+*.7z
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+/config/data_sources.local.yaml
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.backup*
+~$*
+/source_inventory.jsonl
+
+# Local source workbooks and market exports
+/*.xlsx
+/*ADP*.tsv
+/*AAV*.tsv
+
+# Generated delivery results
+/results_dc_2026_v1_1/
+/results_from_supplied_data/
+/preliminary_uploaded_file_audit/
+
+# Generated test logs
+/audit/*test_results.txt
+
+# Nested copy of the original delivery package
+/PlayerValuation/

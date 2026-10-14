@@ -1,0 +1,39 @@
+{
+  "fit_season": 2024,
+  "validation_season": 2025,
+  "holdout_season": 2026,
+  "ridge_strength": 10.0,
+  "minimum_fit_players": 80,
+  "minimum_validation_players": 60,
+  "minimum_usable_player_features": 2,
+  "minimum_mae_gain_pct": 2.0,
+  "maximum_rmse_decline_pct": 0.0,
+  "player_types": {
+    "hitter": {
+      "exposure": "PA",
+      "headline_actual_exposure": 300,
+      "features": ["whiff_pct", "chase_pct", "barrel_pct", "hardhit_pct", "xwobacon", "ev", "k_pct_scored", "bb_pct_scored"],
+      "team_features": ["runs_per_game", "official_sb_attempts_per_pa"],
+      "metrics": {
+        "R": {"kind": "count", "maximum_relative_change": 0.10},
+        "HR": {"kind": "count", "maximum_relative_change": 0.20},
+        "RBI": {"kind": "count", "maximum_relative_change": 0.10},
+        "SB": {"kind": "count", "maximum_relative_change": 0.20},
+        "AVG": {"kind": "rate", "maximum_absolute_change": 0.010, "lower_bound": 0.0, "upper_bound": 1.0}
+      }
+    },
+    "pitcher": {
+      "exposure": "IP",
+      "headline_actual_exposure": 40,
+      "features": ["velocity", "whiff_pct", "csw_pct", "chase_pct", "zone_pct", "hardhit_pct", "k_pct_scored", "bb_pct_scored"],
+      "team_features": ["runs_per_game", "pythag_wpct"],
+      "metrics": {
+        "W": {"kind": "count", "maximum_relative_change": 0.15},
+        "SV": {"kind": "count", "maximum_relative_change": 0.20, "minimum_projected_value_for_adjustment": 5.0},
+        "SO": {"kind": "count", "maximum_relative_change": 0.15},
+        "ERA": {"kind": "rate", "maximum_absolute_change": 0.35, "lower_bound": 0.0},
+        "WHIP": {"kind": "rate", "maximum_absolute_change": 0.05, "lower_bound": 0.0}
+      }
+    }
+  }
+}

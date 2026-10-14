@@ -1,0 +1,5 @@
+project_root: ..
+database: data/database/player_valuation.duckdb
+raw: data/raw
+parquet: data/parquet
+audit: audit

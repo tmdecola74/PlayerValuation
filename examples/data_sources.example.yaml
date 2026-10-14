@@ -1,0 +1,36 @@
+sources:
+  - dataset: projection_hitter
+    source: steamer
+    season: 2026
+    path: 'D:/JonAPythonClass/pycharm/last3yrsproj/REPLACE_WITH_FILENAME.csv'
+    snapshot_date: '2026-03-20' # replace with verified export date
+    available_at: '2026-03-20' # earliest verified availability, not today's ingest date
+    rate_scale: fraction
+    columns:
+      name: Name
+      fangraphs_id: playerid
+      PA: PA
+      AB: AB
+      H: H
+      R: R
+      HR: HR
+      RBI: RBI
+      SB: SB
+      AVG: AVG
+  - dataset: actual_pitcher
+    source: end_of_year
+    season: 2026
+    path: 'D:/JonAPythonClass/pycharm/EOYstatistics/REPLACE_WITH_FILENAME.xlsx'
+    sheet: REPLACE_WITH_SHEET_NAME
+    header_row: 1
+    ip_format: baseball # use decimal if 10.3333 represents 10 innings plus one out
+    columns:
+      name: Name
+      mlbam_id: MLBAM_ID
+      IP: IP
+      W: W
+      SV: SV
+      HLD: HLD
+      SO: K
+      ERA: ERA
+      WHIP: WHIP

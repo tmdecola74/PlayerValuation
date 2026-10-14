@@ -1,0 +1,90 @@
+{
+  "version": "1.1.0",
+  "league": "NFBC Draft Champions 15-team 5x5",
+  "season": 2026,
+  "teams": 15,
+  "active_slots": {
+    "C": 2,
+    "1B": 1,
+    "2B": 1,
+    "3B": 1,
+    "SS": 1,
+    "CI": 1,
+    "MI": 1,
+    "OF": 5,
+    "UT": 1,
+    "P": 9
+  },
+  "bench_per_team": 27,
+  "auction_budget_per_team": 260,
+  "minimum_bid": 1,
+  "hitter_budget_share": 0.67,
+  "eligibility_file": "data/valuation_inputs_dc_v1_1/nfbc15_dc_eligibility.csv",
+  "calibration_file": "data/valuation_inputs_dc_v1_1/nfbc15_dc_sgp_calibration.json",
+  "minimum_projected_exposure": {
+    "hitter": {
+      "PA": 1,
+      "AB": 1
+    },
+    "pitcher": {
+      "IP": 1
+    }
+  },
+  "rate_reference_method": "historical_calibration",
+  "maximum_reference_iterations": 20,
+  "categories": {
+    "hitter": {
+      "R": {
+        "kind": "count",
+        "metric": "R"
+      },
+      "HR": {
+        "kind": "count",
+        "metric": "HR"
+      },
+      "RBI": {
+        "kind": "count",
+        "metric": "RBI"
+      },
+      "SB": {
+        "kind": "count",
+        "metric": "SB"
+      },
+      "AVG": {
+        "kind": "rate",
+        "numerator": "H",
+        "denominator": "AB"
+      }
+    },
+    "pitcher": {
+      "W": {
+        "kind": "count",
+        "metric": "W"
+      },
+      "SV": {
+        "kind": "count",
+        "metric": "SV"
+      },
+      "K": {
+        "kind": "count",
+        "metric": "SO"
+      },
+      "ERA": {
+        "kind": "rate",
+        "numerator": "ER",
+        "denominator": "IP",
+        "scale": 9
+      },
+      "WHIP": {
+        "kind": "rate",
+        "numerator": [
+          "H",
+          "BB"
+        ],
+        "denominator": "IP"
+      }
+    }
+  },
+  "format": "Draft Champions",
+  "draft_rank_method": "sgp_above_replacement"
+}

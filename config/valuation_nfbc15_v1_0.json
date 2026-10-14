@@ -1,0 +1,88 @@
+{
+  "version": "1.0.0",
+  "league": "NFBC 15-team 5x5",
+  "season": 2026,
+  "teams": 15,
+  "active_slots": {
+    "C": 2,
+    "1B": 1,
+    "2B": 1,
+    "3B": 1,
+    "SS": 1,
+    "CI": 1,
+    "MI": 1,
+    "OF": 5,
+    "UT": 1,
+    "P": 9
+  },
+  "bench_per_team": 7,
+  "auction_budget_per_team": 260,
+  "minimum_bid": 1,
+  "hitter_budget_share": 0.67,
+  "eligibility_file": "data/valuation_inputs/nfbc15_eligibility.csv",
+  "calibration_file": "data/valuation_inputs/nfbc15_sgp_calibration.json",
+  "minimum_projected_exposure": {
+    "hitter": {
+      "PA": 100,
+      "AB": 50
+    },
+    "pitcher": {
+      "IP": 20
+    }
+  },
+  "rate_reference_method": "iterated_selected_active_pool",
+  "maximum_reference_iterations": 20,
+  "categories": {
+    "hitter": {
+      "R": {
+        "kind": "count",
+        "metric": "R"
+      },
+      "HR": {
+        "kind": "count",
+        "metric": "HR"
+      },
+      "RBI": {
+        "kind": "count",
+        "metric": "RBI"
+      },
+      "SB": {
+        "kind": "count",
+        "metric": "SB"
+      },
+      "AVG": {
+        "kind": "rate",
+        "numerator": "H",
+        "denominator": "AB"
+      }
+    },
+    "pitcher": {
+      "W": {
+        "kind": "count",
+        "metric": "W"
+      },
+      "SV": {
+        "kind": "count",
+        "metric": "SV"
+      },
+      "K": {
+        "kind": "count",
+        "metric": "SO"
+      },
+      "ERA": {
+        "kind": "rate",
+        "numerator": "ER",
+        "denominator": "IP",
+        "scale": 9
+      },
+      "WHIP": {
+        "kind": "rate",
+        "numerator": [
+          "H",
+          "BB"
+        ],
+        "denominator": "IP"
+      }
+    }
+  }
+}

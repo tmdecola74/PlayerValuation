@@ -1,0 +1,20 @@
+{
+  "archive_seasons": [2023, 2024, 2025, 2026],
+  "first_target_season": 2026,
+  "first_target_feature_cutoff": "2025-12-31",
+  "historical_skill_seasons": [2023, 2024, 2025],
+  "residual_training_target_seasons": [2024, 2025],
+  "holdout_actual_season": 2026,
+  "next_target_season": 2027,
+  "next_target_feature_cutoff": "2026-12-31",
+  "status": "design_contract_not_yet_model_implementation",
+  "rules": [
+    "2024 target training rows can use 2023 skill history, never 2024 end-of-season skills.",
+    "2025 target training rows can use 2023-2024 skill history, never 2025 end-of-season skills.",
+    "2026 valuations use 2026 preseason projections plus 2023-2025 historical skills and pre-draft opportunity context.",
+    "Freeze hyperparameters and valuation settings before examining 2026 holdout outcomes.",
+    "2026 final outcomes are labels for scoring only; exclude 2026 Statcast/team outcomes from 2026 forecasts.",
+    "2027 valuations may use 2026 historical skills when 2027 preseason projections become available.",
+    "Backfilled historical downloads are not proof of exact historical publication dates or data vintages."
+  ]
+}
