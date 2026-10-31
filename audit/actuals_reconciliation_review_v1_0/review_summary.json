@@ -1,0 +1,69 @@
+{
+  "discrepancy_rows": 1499,
+  "numerical_difference_rows": 245,
+  "numerical_difference_player_seasons": 228,
+  "exposure_difference_rows": 217,
+  "other_numerical_difference_rows": 28,
+  "missing_reference_pitcher_seasons": 142,
+  "unresolved_pa_sequences": 10,
+  "unresolved_sequences_return_to_first_batter": true,
+  "unknown_event": "game_advisory",
+  "unknown_event_year": 2017,
+  "unknown_event_rows": 2,
+  "target_games": 44,
+  "target_selection": "10 unresolved-PA games plus 34 separate games whose traces involve numerically discrepant player-seasons; candidate investigation only",
+  "numerical_metric_breakdown": [
+    {
+      "player_type": "hitter",
+      "metric": "1B",
+      "rows": 4
+    },
+    {
+      "player_type": "hitter",
+      "metric": "2B",
+      "rows": 1
+    },
+    {
+      "player_type": "hitter",
+      "metric": "AB",
+      "rows": 11
+    },
+    {
+      "player_type": "hitter",
+      "metric": "H",
+      "rows": 5
+    },
+    {
+      "player_type": "hitter",
+      "metric": "HBP",
+      "rows": 1
+    },
+    {
+      "player_type": "hitter",
+      "metric": "PA",
+      "rows": 92
+    },
+    {
+      "player_type": "pitcher",
+      "metric": "H",
+      "rows": 5
+    },
+    {
+      "player_type": "pitcher",
+      "metric": "HBP",
+      "rows": 1
+    },
+    {
+      "player_type": "pitcher",
+      "metric": "TBF",
+      "rows": 125
+    }
+  ],
+  "limitations": [
+    "No MLB evidence has yet been fetched or used in this review.",
+    "Missing FanGraphs pitchers may include zero-out appearances; not confirmed without evidence.",
+    "game_advisory is not reclassified or counted until its rows are inspected.",
+    "No source data, counts, scoring rules or model eligibility were changed.",
+    "44 games are an initial diagnostic batch; remaining differences may need additional targeted evidence."
+  ]
+}

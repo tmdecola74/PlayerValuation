@@ -1,0 +1,10 @@
+test_bot_bottom_and_top_bottom (test_actuals_audit_link_fix_v1_0_1.LinkFixTests.test_bot_bottom_and_top_bottom) ... ok
+test_fast_repair_no_raw_rescan_and_verified_backup (test_actuals_audit_link_fix_v1_0_1.LinkFixTests.test_fast_repair_no_raw_rescan_and_verified_backup) ... Scanning 1 frozen daily CSVs for 1 target player-season roles...
+ok
+test_tampered_feed_rejected_before_publish (test_actuals_audit_link_fix_v1_0_1.LinkFixTests.test_tampered_feed_rejected_before_publish) ... Scanning 1 frozen daily CSVs for 1 target player-season roles...
+ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.018s
+
+OK

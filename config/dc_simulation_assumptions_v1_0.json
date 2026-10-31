@@ -1,0 +1,16 @@
+{
+  "effective_date": "2026-03-24",
+  "effective_date_basis": "User confirmed projections and ADP effective date",
+  "teams": 15,
+  "rounds": 50,
+  "active_hitters": 14,
+  "active_pitchers": 9,
+  "ADP_jitter_standard_deviation_picks": 12,
+  "target_percentile": 0.8,
+  "strategies": ["value", "category"],
+  "category_utility_scale": 100,
+  "category_strategy_value_weight": 0.15,
+  "category_coverage_bonus": 2,
+  "opponent_coverage_bonus_picks": 10,
+  "note": "Documentation of fixed v1.0 constants; command-line seeds/repetitions/seats are configurable. This JSON is not a runtime tuning interface."
+}

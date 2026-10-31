@@ -1,0 +1,12 @@
+{
+  "input_discrepancy_rows": 3401,
+  "evidence_only_rows": 1907,
+  "evidence_only_hitter_rows": 1904,
+  "evidence_only_pitcher_rows": 3,
+  "confirmed_pa_cases": 10,
+  "sequence_review_rows_confirmed": 260,
+  "remaining_numerical_difference_rows": 240,
+  "expected_discrepancy_rows_after_repair": 1234,
+  "source": "Derived from supplied targeted discrepancy/PBP exports. Complete repair must run on PC with source output folder and verified cache.",
+  "counts_changed": false
+}

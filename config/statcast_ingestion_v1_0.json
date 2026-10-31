@@ -1,30 +1,70 @@
 {
-  "root": "data/statcast_v1_0",
-  "seasons": [
-    {
-      "season": 2023,
-      "start": "2023-03-01",
-      "end": "2023-11-01"
-    },
-    {
-      "season": 2024,
-      "start": "2024-03-01",
-      "end": "2024-11-01"
-    },
-    {
-      "season": 2025,
-      "start": "2025-03-01",
-      "end": "2025-11-01"
-    },
-    {
-      "season": 2026,
-      "start": "2026-03-01",
-      "end": "2026-11-01"
-    }
-  ],
-  "attempts": 3,
-  "timeout_seconds": 120,
-  "retry_seconds": 3,
-  "pause_seconds": 2,
-  "max_response_bytes": 268435456
+    "root":  "data/statcast_v1_0",
+    "seasons":  [
+                    {
+                        "season":  2015,
+                        "start":  "2015-03-01",
+                        "end":  "2015-11-01"
+                    },
+                    {
+                        "season":  2016,
+                        "start":  "2016-03-01",
+                        "end":  "2016-11-01"
+                    },
+                    {
+                        "season":  2017,
+                        "start":  "2017-03-01",
+                        "end":  "2017-11-01"
+                    },
+                    {
+                        "season":  2018,
+                        "start":  "2018-03-01",
+                        "end":  "2018-11-01"
+                    },
+                    {
+                        "season":  2019,
+                        "start":  "2019-03-01",
+                        "end":  "2019-11-01"
+                    },
+                    {
+                        "season":  2020,
+                        "start":  "2020-03-01",
+                        "end":  "2020-11-01"
+                    },
+                    {
+                        "season":  2021,
+                        "start":  "2021-03-01",
+                        "end":  "2021-11-01"
+                    },
+                    {
+                        "season":  2022,
+                        "start":  "2022-03-01",
+                        "end":  "2022-11-01"
+                    },
+                    {
+                        "season":  2023,
+                        "start":  "2023-03-01",
+                        "end":  "2023-11-01"
+                    },
+                    {
+                        "season":  2024,
+                        "start":  "2024-03-01",
+                        "end":  "2024-11-01"
+                    },
+                    {
+                        "season":  2025,
+                        "start":  "2025-03-01",
+                        "end":  "2025-11-01"
+                    },
+                    {
+                        "season":  2026,
+                        "start":  "2026-03-01",
+                        "end":  "2026-11-01"
+                    }
+                ],
+    "attempts":  3,
+    "timeout_seconds":  120,
+    "retry_seconds":  3,
+    "pause_seconds":  2,
+    "max_response_bytes":  268435456
 }

@@ -1,0 +1,33 @@
+test_boxscore_sum_validation_and_outs (test_actuals_scoring_v1_0.EvidenceTests.test_boxscore_sum_validation_and_outs) ... ok
+test_invalid_game_type_and_cache_resume_hash (test_actuals_scoring_v1_0.EvidenceTests.test_invalid_game_type_and_cache_resume_hash) ... 2015 game 1: cached
+ok
+test_duplicate_identity_and_team_splits_rejected (test_actuals_scoring_v1_0.ImportTests.test_duplicate_identity_and_team_splits_rejected) ... ok
+test_import_preserves_zero_and_complete_backup (test_actuals_scoring_v1_0.ImportTests.test_import_preserves_zero_and_complete_backup) ... ok
+test_innings_null_rates_and_duplicate_headers (test_actuals_scoring_v1_0.ImportTests.test_innings_null_rates_and_duplicate_headers) ... ok
+test_complete_game_evidence_enables_outs_comparison (test_actuals_scoring_v1_0.PipelineTests.test_complete_game_evidence_enables_outs_comparison) ... Verifying registered source versions and file hashes...
+2015: scanning pitches and tracing scoring credit...
+2015: 7 pitches; 1 games; 2 changed PAs
+ok
+test_duplicate_pitches_fail_without_publishing (test_actuals_scoring_v1_0.PipelineTests.test_duplicate_pitches_fail_without_publishing) ... Verifying registered source versions and file hashes...
+2015: scanning pitches and tracing scoring credit...
+ok
+test_partial_game_evidence_does_not_certify_full_season_outs (test_actuals_scoring_v1_0.PipelineTests.test_partial_game_evidence_does_not_certify_full_season_outs) ... Verifying registered source versions and file hashes...
+2015: scanning pitches and tracing scoring credit...
+2015: 14 pitches; 2 games; 4 changed PAs
+ok
+test_rule_corrections_conserve_counts_unsupported_not_zero_and_holdout_excluded (test_actuals_scoring_v1_0.PipelineTests.test_rule_corrections_conserve_counts_unsupported_not_zero_and_holdout_excluded) ... Verifying registered source versions and file hashes...
+2015: scanning pitches and tracing scoring credit...
+2015: 7 pitches; 1 games; 2 changed PAs
+ok
+test_tampered_source_rejected (test_actuals_scoring_v1_0.PipelineTests.test_tampered_source_rejected) ... Verifying registered source versions and file hashes...
+ok
+test_inherited_walk_counts_and_other_outcomes (test_actuals_scoring_v1_0.RulesTests.test_inherited_walk_counts_and_other_outcomes) ... ok
+test_missing_counts_gaps_multichange_and_incomplete_start (test_actuals_scoring_v1_0.RulesTests.test_missing_counts_gaps_multichange_and_incomplete_start) ... ok
+test_nonterminal_and_special_pa_events (test_actuals_scoring_v1_0.RulesTests.test_nonterminal_and_special_pa_events) ... ok
+test_one_strike_replacement_and_non_strikeout_final_batter (test_actuals_scoring_v1_0.RulesTests.test_one_strike_replacement_and_non_strikeout_final_batter) ... ok
+test_two_strike_batter_credit_and_pitcher_terminal_strikeout (test_actuals_scoring_v1_0.RulesTests.test_two_strike_batter_credit_and_pitcher_terminal_strikeout) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 1.378s
+
+OK

@@ -1,0 +1,16 @@
+{
+  "games": 25,
+  "candidate_metric_rows": 30,
+  "counts_changed": false,
+  "selection_is_proof": false,
+  "input_sha256": {
+    "pa_inventory.csv": "222a485b6d0409a547bf8effe3259e9b05f6024dd82e6a0e38b07dcf6dd483ef",
+    "discrepancies(6).csv": "5da12143f4c2a03e6c2182b90a9cd3cdf63d24aec9ed4c2cde9600bdfb20bbc4",
+    "final_difference_primary_evidence.zip": "bc6b4626aed7f1300d2b8b9357ea3f1bd246586892c550e88034c6368e524836"
+  },
+  "limitations": [
+    "Only error-labelled candidates, not an exhaustive hit reclassification census.",
+    "Prior audit cache status is stale; supplied 25-game primary batch explicitly excluded.",
+    "No correction or scoring revision is inferred from selection."
+  ]
+}

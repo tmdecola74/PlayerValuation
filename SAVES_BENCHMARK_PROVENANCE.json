@@ -1,0 +1,18 @@
+{
+  "effective_date": "2026-03-24",
+  "decision_target": {
+    "method": "Equal-season mean of 2023-2025 historical Draft Champions overall-team 80th percentiles",
+    "2023": 74,
+    "2024": 71,
+    "2025": 66,
+    "mean": 70.33333333333333,
+    "source": "Supplied historical DC category workbook; 2024 and 2025 also confirmed by user"
+  },
+  "user_reported_retrospective_benchmark": {
+    "2026": 67,
+    "role": "Report-only retrospective context; not used for selection, roster utility, constraints or calibration",
+    "confirmation_date": "2026-10-16"
+  },
+  "saves_target_is_hard_constraint": false,
+  "note": "V1.2 enforces requested roster composition, projected innings and eligibility coverage. Saves remain a separately measured category."
+}

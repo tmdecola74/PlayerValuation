@@ -1,0 +1,16 @@
+{
+  "data/actuals_reference_v1_0/player_seasons.csv": "643adb1a57985757cf4afa267e7a37d8182df02a9a8fd2bd99b3fab6f2a31a75",
+  "data/actuals_reference_v1_0/actual_counts.parquet": "46e9e66c632056ed935a6bc15d88ead92cf6ecb9345ec36979deb3fac29fcff8",
+  "data/actuals_reference_v1_0/source_rows.parquet": "986230cdc84517e74319e295a758b95862d76ccd0e0511ab946487be80d04477",
+  "data/actuals_reference_v1_0/derived_rates.parquet": "688814e49a2e1ee122d34d8ccfc83e71d90acb2b001f58558e4aa132cb2ac3ec",
+  "data/actuals_reference_v1_0/derived_rates.csv": "5a02ed79be128e810343fc418fc06be31c0067b2417ca84240d8fc4fa822bdc3",
+  "data/actuals_reference_v1_0/source_rows.csv": "4deb175d7a2697cf603da1a3f32d3a18a71fb5aaa2750065552f735cf7f2f593",
+  "data/actuals_reference_v1_0/import_review.csv": "80825f833ffeaec3263e4de336924cc848c670876fe93b15d962def3d1b60380",
+  "data/actuals_reference_v1_0/actual_counts.csv": "aab120f40c6f4fcd1c764baea4ed0237d4d0ed46a1cf2f8ca5d39e1be121e1de",
+  "data/actuals_reference_v1_0/import_report.json": "37f1dbe93b25416bfeef57a8b1412a92cd83d454a13dde53f51108b95a8f0bb9",
+  "data/actuals_reference_v1_0/reference_cross_role_totals.csv": "67338f16ced38b2fd1f943c21d9f0657567f6c7dec43a40f26bfd2969fb3057b",
+  "data/actuals_reference_v1_0/player_seasons.parquet": "b8ecaf2de7aaf70084f90194d77936ef74f8a1daaad1c73bca139099a668c0bd",
+  "data/actuals_reference_v1_0/actuals_reference.duckdb": "136a31adba9083ccdce8c9693048624f20b6e60a7c933045ed0159071747252d",
+  "data/actuals_reference_v1_0/source_files/hitters.csv": "f1ed34135ec132f5afe04227f2ca537e8c434f95ea885881ea36fe8e613699c1",
+  "data/actuals_reference_v1_0/source_files/pitchers.csv": "c702d17fca059c42e55fbffc79af269191f0786336a1722ba8bb58d9f6e955cf"
+}
