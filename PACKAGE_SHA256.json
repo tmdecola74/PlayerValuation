@@ -1,0 +1,9 @@
+{
+  "README_STANDALONE_OPPORTUNITY_v1_1.md": "61f89473503568aee5a86faee981d02772dc04e460ad368a875fbe7762b20c10",
+  "standalone_opportunity_v1_1.py": "65beee0af1155b0e1feab44174990a0ed1262579a86393115cf9f97363c0886a",
+  "backtest_standalone_opportunity_v1_1.py": "ab291fc229233e47623c156842b9ec6f31643af258600f498e73a68f434b732c",
+  "evaluate_standalone_opportunity_v1_1.py": "9c4a02c94193516d98769e1c4b80f437704749f8a5aed340d7882bc54b03a7ba",
+  "VALIDATION_v1_1.txt": "1ca2e4dfe68acb843b9a95fd3852af9977215eee00c4c75de60692d299b766c7",
+  "tests/test_standalone_opportunity_v1_1.py": "8bc053e719dbb70d4d831a208f904bb29c36306ed89ce30b20dc26a0a898a275",
+  "config/standalone_opportunity_v1_1.json": "0e076fb2bfdf67838c850b36070f8f9121db7c3bf53919733e2eb08e993b1f01"
+}

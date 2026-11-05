@@ -1,0 +1,10 @@
+{
+  "README_STANDALONE_ROLE_WORKLOAD_v1_2.md": "e4a2be3ea6af1f3f3b96126c0b8971c260cad1a4875163b31e2ba58e4d303a44",
+  "VALIDATION_ROLE_WORKLOAD_v1_2.txt": "a06b8e71dbf384ac7cfc4d2b5290a9cfe6327650a799afe41364dea40604bf75",
+  "backtest_standalone_role_workload_v1_2.py": "311ce8edbf0a86da40669923bfeb156e42938529b34339f0056c506c0c86dcf5",
+  "config/standalone_role_workload_v1_2.json": "30c4529a2012b9bf48d4559df6bb3ae48c9eb5370e511bf9e88e0fd1286eae25",
+  "evaluate_standalone_role_workload_v1_2.py": "3c4a3662cbbbe0727b5d69ad57ef1c3882fbbaa32ffc3f8db2161e7d8812bfa7",
+  "role_workload_io_v1_2.py": "b2c96202c1b79e5cd7fd9962bd1eef0259e37f4326a4b18229bf5b95193e7477",
+  "standalone_role_workload_v1_2.py": "9b848d5271b9ac2fe21573182ac0d65e4170002065ec11b8c8d5a4703d25915f",
+  "tests/test_standalone_role_workload_v1_2.py": "251571d0df7ba2f4ee584c202e1203cfe84c78fcd27b585fbca46d7321f392de"
+}

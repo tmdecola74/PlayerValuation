@@ -1,0 +1,4 @@
+Standalone workload experiments v1.3
+18 synthetic tests passed on DuckDB 1.4.3 and 2.0.0.
+Validated: frozen-reference and classification/saves preservation; complete backups; identical common pools; no 2026 outcome influence; no later-validation influence on earlier forecasts; conditional growth/loss fitting; source-2020 anchors; missing versus zero; ties/nonappearance; one-sign support fallback; independent probability inputs; both-comparator and prior-cohort gates; coherent count scaling; direction-score matched pools; external benchmark pools; nonchronological probability rejection; bounded magnitudes; hash tamper and no-overwrite guards.
+Full production data fitting/accuracy is not executed in this environment. Tests use reduced fixture support settings, not production model controls.

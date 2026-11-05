@@ -1,0 +1,32 @@
+{
+  "version": "1.0.0",
+  "built_at": "2026-10-31T15:51:02.317376+00:00",
+  "status": "REVIEW_REQUIRED",
+  "model_ready": false,
+  "selected_metric_differences": 15,
+  "player_season_roles": 10,
+  "requests": 20,
+  "game_metric_comparisons": 929,
+  "mismatched_game_metric_rows": 6,
+  "specific_games_to_inspect": 3,
+  "season_statuses": {
+    "GAME_LOGS_AND_RECONSTRUCTION_AGREE_SOURCE_SEASON_TOTAL_DISAGREEMENT": 13,
+    "SPECIFIC_GAME_REVIEW_REQUIRED": 2
+  },
+  "baseline_game_totals_reproduced": true,
+  "mlb_log_sums_match_mlb_season_totals": true,
+  "game_count_warning_rows": 2,
+  "inputs_unchanged": true,
+  "counts_modified": false,
+  "output": "/workspace/scratch/3f3d0c589229/gamelog_live_results",
+  "backup": "/workspace/scratch/3f3d0c589229/gamelog_live_backups/gamelog_live_results_20261031_155102_317321",
+  "limitations": [
+    "Retrospective MLB retrieval, not an archived as-of scoring vintage.",
+    "Matching present MLB and reconstructed counts cannot locate the origin of a differing FanGraphs season total without FanGraphs game-level evidence.",
+    "A source disagreement is not proof of when or why a scoring revision occurred.",
+    "Missing game entries are unknown, not zero; pagination, duplicate games, bad identities and sum mismatches fail validation.",
+    "MLB season gamesPlayed may include participation absent from role-specific game logs; game-count differences are reported and no all-appearance completeness claim is made.",
+    "Only selected hit metrics are tested. No PA/TBF, IP/ER or model-readiness certification.",
+    "Older supplied game totals are accepted only when every selected season terminal/rule/evidence total reproduces the current discrepancy baseline."
+  ]
+}

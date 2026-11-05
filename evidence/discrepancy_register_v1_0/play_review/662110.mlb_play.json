@@ -1,0 +1,340 @@
+{
+  "result": {
+    "type": "atBat",
+    "event": "Field Error",
+    "eventType": "field_error",
+    "description": "Luis Gonzalez reaches on a fielding error by third baseman Rodolfo Castro.",
+    "rbi": 0,
+    "awayScore": 0,
+    "homeScore": 2,
+    "isOut": false
+  },
+  "about": {
+    "atBatIndex": 45,
+    "halfInning": "bottom",
+    "isTopInning": false,
+    "inning": 6,
+    "startTime": "2022-08-14T02:54:11.592Z",
+    "endTime": "2022-08-14T02:55:15.764Z",
+    "isComplete": true,
+    "isScoringPlay": false,
+    "hasReview": false,
+    "hasOut": false,
+    "captivatingIndex": 0
+  },
+  "count": {
+    "balls": 0,
+    "strikes": 2,
+    "outs": 0
+  },
+  "matchup": {
+    "batter": {
+      "id": 670768,
+      "fullName": "Luis Gonz\u00e1lez",
+      "link": "/api/v1/people/670768"
+    },
+    "batSide": {
+      "code": "L",
+      "description": "Left"
+    },
+    "pitcher": {
+      "id": 621249,
+      "fullName": "Duane Underwood Jr.",
+      "link": "/api/v1/people/621249"
+    },
+    "pitchHand": {
+      "code": "R",
+      "description": "Right"
+    },
+    "postOnFirst": {
+      "id": 670768,
+      "fullName": "Luis Gonz\u00e1lez",
+      "link": "/api/v1/people/670768"
+    },
+    "batterHotColdZones": [],
+    "pitcherHotColdZones": [],
+    "splits": {
+      "batter": "vs_RHP",
+      "pitcher": "vs_LHB",
+      "menOnBase": "Men_On"
+    }
+  },
+  "pitchIndex": [
+    0,
+    1,
+    2
+  ],
+  "actionIndex": [],
+  "runnerIndex": [
+    0
+  ],
+  "runners": [
+    {
+      "movement": {
+        "originBase": null,
+        "start": null,
+        "end": "1B",
+        "outBase": null,
+        "isOut": false,
+        "outNumber": null
+      },
+      "details": {
+        "event": "Field Error",
+        "eventType": "field_error",
+        "movementReason": null,
+        "runner": {
+          "id": 670768,
+          "fullName": "Luis Gonz\u00e1lez",
+          "link": "/api/v1/people/670768"
+        },
+        "responsiblePitcher": null,
+        "isScoringEvent": false,
+        "rbi": false,
+        "earned": false,
+        "teamUnearned": false,
+        "playIndex": 2
+      },
+      "credits": [
+        {
+          "player": {
+            "id": 666801,
+            "link": "/api/v1/people/666801"
+          },
+          "position": {
+            "code": "5",
+            "name": "Third Base",
+            "type": "Infielder",
+            "abbreviation": "3B"
+          },
+          "credit": "f_fielding_error"
+        }
+      ]
+    }
+  ],
+  "playEvents": [
+    {
+      "details": {
+        "call": {
+          "code": "C",
+          "description": "Called Strike"
+        },
+        "description": "Called Strike",
+        "code": "C",
+        "ballColor": "rgba(170, 21, 11, 1.0)",
+        "trailColor": "rgba(152, 0, 101, 1.0)",
+        "isInPlay": false,
+        "isStrike": true,
+        "isBall": false,
+        "type": {
+          "code": "FC",
+          "description": "Cutter"
+        },
+        "isOut": false,
+        "hasReview": false
+      },
+      "count": {
+        "balls": 0,
+        "strikes": 1,
+        "outs": 0
+      },
+      "pitchData": {
+        "startSpeed": 91.1,
+        "endSpeed": 84.4,
+        "strikeZoneTop": 3.45973861718361,
+        "strikeZoneBottom": 1.62339109784558,
+        "coordinates": {
+          "aY": 25.744533220610304,
+          "aZ": -24.535258411904923,
+          "pfxX": -2.761175233971769,
+          "pfxZ": 4.236555817195509,
+          "pX": -0.6597079670861175,
+          "pZ": 2.6079180298774496,
+          "vX0": 4.51030775140297,
+          "vY0": -132.72300729021336,
+          "vZ0": -5.083384554545722,
+          "x": 142.15,
+          "y": 168.37,
+          "x0": -2.014609986467189,
+          "y0": 50.001523882913425,
+          "z0": 6.312147855306529,
+          "aX": -4.975841060014291
+        },
+        "breaks": {
+          "breakAngle": 9.6,
+          "breakLength": 6.0,
+          "breakY": 24.0,
+          "breakVertical": -25.8,
+          "breakVerticalInduced": 6.8,
+          "breakHorizontal": 4.1,
+          "spinRate": 1984,
+          "spinDirection": 208
+        },
+        "zone": 4,
+        "typeConfidence": 0.9,
+        "plateTime": 0.41113364277176423,
+        "extension": 6.411421278819094
+      },
+      "index": 0,
+      "playId": "c875622d-4bcb-4857-87f7-d765012af164",
+      "pitchNumber": 1,
+      "startTime": "2022-08-14T02:54:23.254Z",
+      "endTime": "2022-08-14T02:54:27.563Z",
+      "isPitch": true,
+      "type": "pitch"
+    },
+    {
+      "details": {
+        "call": {
+          "code": "F",
+          "description": "Foul"
+        },
+        "description": "Foul",
+        "code": "F",
+        "ballColor": "rgba(170, 21, 11, 1.0)",
+        "trailColor": "rgba(152, 0, 101, 1.0)",
+        "isInPlay": false,
+        "isStrike": true,
+        "isBall": false,
+        "type": {
+          "code": "FC",
+          "description": "Cutter"
+        },
+        "isOut": false,
+        "hasReview": false
+      },
+      "count": {
+        "balls": 0,
+        "strikes": 2,
+        "outs": 0
+      },
+      "pitchData": {
+        "startSpeed": 90.1,
+        "endSpeed": 83.4,
+        "strikeZoneTop": 3.29,
+        "strikeZoneBottom": 1.56,
+        "coordinates": {
+          "aY": 25.401389540484814,
+          "aZ": -20.630233855876387,
+          "pfxX": 0.3651463581410237,
+          "pfxZ": 6.5649568038732955,
+          "pX": 0.38407937917878465,
+          "pZ": 2.684028735665065,
+          "vX0": 6.22099711128384,
+          "vY0": -131.17599472389426,
+          "vZ0": -5.388170411255315,
+          "x": 102.36,
+          "y": 166.31,
+          "x0": -2.0567569448941616,
+          "y0": 50.003283486596295,
+          "z0": 6.283595076007581,
+          "aX": 0.6412473527435222
+        },
+        "breaks": {
+          "breakAngle": 4.8,
+          "breakLength": 4.8,
+          "breakY": 24.0,
+          "breakVertical": -22.4,
+          "breakVerticalInduced": 11.0,
+          "breakHorizontal": -1.9,
+          "spinRate": 1855,
+          "spinDirection": 200
+        },
+        "zone": 6,
+        "typeConfidence": 0.9,
+        "plateTime": 0.4161269804748371,
+        "extension": 6.290833420280387
+      },
+      "index": 1,
+      "playId": "11005049-5ea1-4c19-96e6-6864abc1edc2",
+      "pitchNumber": 2,
+      "startTime": "2022-08-14T02:54:41.400Z",
+      "endTime": "2022-08-14T02:54:45.119Z",
+      "isPitch": true,
+      "type": "pitch"
+    },
+    {
+      "details": {
+        "call": {
+          "code": "D",
+          "description": "In play, no out"
+        },
+        "description": "In play, no out",
+        "code": "D",
+        "ballColor": "rgba(26, 86, 190, 1.0)",
+        "trailColor": "rgba(0, 85, 254, 1.0)",
+        "isInPlay": true,
+        "isStrike": false,
+        "isBall": false,
+        "type": {
+          "code": "CH",
+          "description": "Changeup"
+        },
+        "isOut": false,
+        "hasReview": false
+      },
+      "count": {
+        "balls": 0,
+        "strikes": 2,
+        "outs": 0
+      },
+      "pitchData": {
+        "startSpeed": 88.0,
+        "endSpeed": 82.7,
+        "strikeZoneTop": 3.29,
+        "strikeZoneBottom": 1.56,
+        "coordinates": {
+          "aY": 20.08145035347299,
+          "aZ": -23.556438586627685,
+          "pfxX": -6.5378688461422865,
+          "pfxZ": 5.054013745548518,
+          "pX": -0.8453436831288499,
+          "pZ": 1.983633167605568,
+          "vX0": 5.0643419593375905,
+          "vY0": -128.13251475449323,
+          "vZ0": -6.124767259738108,
+          "x": 149.22,
+          "y": 185.22,
+          "x0": -1.9733211692057497,
+          "y0": 50.00383138110852,
+          "z0": 6.181649926046927,
+          "aX": -11.151692389291608
+        },
+        "breaks": {
+          "breakAngle": 22.8,
+          "breakLength": 6.0,
+          "breakY": 24.0,
+          "breakVertical": -26.3,
+          "breakVerticalInduced": 8.4,
+          "breakHorizontal": 11.0,
+          "spinRate": 1396,
+          "spinDirection": 232
+        },
+        "zone": 13,
+        "typeConfidence": 0.88,
+        "plateTime": 0.4233353205838708,
+        "extension": 6.494091196872421
+      },
+      "hitData": {
+        "launchSpeed": 83.2,
+        "launchAngle": 8.0,
+        "totalDistance": 126.0,
+        "trajectory": "ground_ball",
+        "hardness": "medium",
+        "location": "5",
+        "coordinates": {
+          "coordX": 106.54,
+          "coordY": 164.87
+        }
+      },
+      "index": 2,
+      "playId": "5e645c25-8a19-4694-95d0-6b4dcde2b60e",
+      "pitchNumber": 3,
+      "startTime": "2022-08-14T02:55:05.449Z",
+      "endTime": "2022-08-14T02:55:15.764Z",
+      "isPitch": true,
+      "type": "pitch"
+    }
+  ],
+  "playEndTime": "2022-08-14T02:55:15.764Z",
+  "atBatIndex": 45
+}

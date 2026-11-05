@@ -1,0 +1,43 @@
+test_duplicate_physical_pitch_rejected_even_with_updated_file_hash (test_lagged_features_v1_0.LagTests.test_duplicate_physical_pitch_rejected_even_with_updated_file_hash) ... Checking frozen daily windows and physical measurements...
+2024: aggregating verified physical measurements
+ok
+test_future_windows_never_opened (test_lagged_features_v1_0.LagTests.test_future_windows_never_opened) ... Checking frozen daily windows and physical measurements...
+2024: aggregating verified physical measurements
+2025: aggregating verified physical measurements
+ok
+test_holdout_cold_start_does_not_select_feature_population (test_lagged_features_v1_0.LagTests.test_holdout_cold_start_does_not_select_feature_population) ... Checking frozen daily windows and physical measurements...
+2024: aggregating verified physical measurements
+2025: aggregating verified physical measurements
+ok
+test_holdout_outcome_and_target_age_invariance (test_lagged_features_v1_0.LagTests.test_holdout_outcome_and_target_age_invariance) ... Checking frozen daily windows and physical measurements...
+2024: aggregating verified physical measurements
+2025: aggregating verified physical measurements
+Checking frozen daily windows and physical measurements...
+2024: aggregating verified physical measurements
+2025: aggregating verified physical measurements
+ok
+test_label_manifest_tamper (test_lagged_features_v1_0.LagTests.test_label_manifest_tamper) ... ok
+test_lags_and_labels_and_backup (test_lagged_features_v1_0.LagTests.test_lags_and_labels_and_backup) ... Checking frozen daily windows and physical measurements...
+2024: aggregating verified physical measurements
+2025: aggregating verified physical measurements
+ok
+test_masked_prior_actual_label_not_backfilled (test_lagged_features_v1_0.LagTests.test_masked_prior_actual_label_not_backfilled) ... Checking frozen daily windows and physical measurements...
+2024: aggregating verified physical measurements
+2025: aggregating verified physical measurements
+ok
+test_missing_window_and_hash_tamper (test_lagged_features_v1_0.LagTests.test_missing_window_and_hash_tamper) ... Checking frozen daily windows and physical measurements...
+Checking frozen daily windows and physical measurements...
+ok
+test_sample_gate_and_no_zero_imputation (test_lagged_features_v1_0.LagTests.test_sample_gate_and_no_zero_imputation) ... Checking frozen daily windows and physical measurements...
+2024: aggregating verified physical measurements
+2025: aggregating verified physical measurements
+ok
+test_windows_encoding_and_output_guard (test_lagged_features_v1_0.LagTests.test_windows_encoding_and_output_guard) ... Checking frozen daily windows and physical measurements...
+2024: aggregating verified physical measurements
+2025: aggregating verified physical measurements
+ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 5.796s
+
+OK

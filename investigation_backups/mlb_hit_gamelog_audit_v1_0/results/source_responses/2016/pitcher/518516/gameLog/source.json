@@ -1,0 +1,11 @@
+{
+  "target": [
+    2016,
+    "pitcher",
+    518516
+  ],
+  "kind": "gameLog",
+  "url": "https://statsapi.mlb.com/api/v1/people/518516/stats?stats=gameLog&group=pitching&season=2016&gameType=R&sportIds=1&limit=1000",
+  "retrieved_at": "2026-10-31T15:50:30.552148+00:00",
+  "sha256": "869de192c6ee0f0f6d50204e4964345ecb553918d51dbde902890087da2c193c"
+}

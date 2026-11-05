@@ -1,0 +1,7 @@
+{
+ "version":"1.3.0","first_origin":2019,"evaluation_year":2026,
+ "minimum_change_rows":50,"minimum_direction_class_rows":20,"direction_penalty":0.05,"direction_iterations":200,
+ "minimum_validation_rows":30,"minimum_guard_rows":20,"minimum_selection_folds":2,
+ "minimum_workload_improvement":0.01,"maximum_workload_mae_degradation":0.01,
+ "hitter_guard_prior_PA":300,"volume_caps":{"hitter":800,"pitcher":900},"source_2020_multiplier":2.7
+}

@@ -1,0 +1,89 @@
+{
+  "version": "1.0.0",
+  "first_inner_origin": 2018,
+  "first_report_origin": 2019,
+  "last_training_year": 2025,
+  "holdout_year": 2026,
+  "minimum_fit_rows": 50,
+  "minimum_validation_rows": 30,
+  "minimum_selection_folds": 2,
+  "ridge_alpha": 1.0,
+  "clip_z": 8,
+  "lag_weights": [
+    0.5,
+    0.3,
+    0.2
+  ],
+  "minimum_mse_improvement": 0.01,
+  "maximum_mae_degradation": 0.01,
+  "maximum_exposure_weight": 600,
+  "exclude_playing_time_target_seasons": [
+    2020
+  ],
+  "source_2020_volume_multiplier": 2.7,
+  "volume_metrics": [
+    "G",
+    "PA",
+    "AB",
+    "H",
+    "1B",
+    "2B",
+    "3B",
+    "HR",
+    "R",
+    "RBI",
+    "SB",
+    "CS",
+    "BB",
+    "IBB",
+    "SO",
+    "HBP",
+    "SF",
+    "SH",
+    "OUTS",
+    "GS",
+    "W",
+    "L",
+    "SV",
+    "HLD",
+    "QS",
+    "TBF"
+  ],
+  "context_features": [
+    "history_seasons",
+    "age_at_target_estimate",
+    "has_any_actual_history",
+    "has_any_statcast_history"
+  ],
+  "actual_features": {
+    "hitter": [
+      "PA",
+      "G",
+      "AVG",
+      "OBP",
+      "ISO",
+      "K%",
+      "BB%",
+      "HR_per_PA",
+      "SB_per_PA"
+    ],
+    "pitcher": [
+      "OUTS",
+      "G",
+      "GS",
+      "ERA",
+      "WHIP",
+      "K/9",
+      "BB/9",
+      "HR/9",
+      "K%",
+      "BB%",
+      "SV"
+    ]
+  },
+  "structural_zero_baseline_counts": [
+    "SV",
+    "HLD",
+    "QS"
+  ]
+}

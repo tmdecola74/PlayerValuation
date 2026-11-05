@@ -1,0 +1,10 @@
+{
+  "README_STANDALONE_WORKLOAD_EXPERIMENTS_v1_3.md": "d246eb73f087912059260a1a1388750c279e62f41d131c527af56dd6a9412ab3",
+  "VALIDATION_WORKLOAD_EXPERIMENTS_v1_3.txt": "254061d81e2287a9c02d09dce95fe6d38d9f2d97a289c909178083cd427ee4d5",
+  "backtest_standalone_workload_experiments_v1_3.py": "bef60a33ab8937e466236cd946eb82b27f431ca93950c506da223f4c6d0cefc3",
+  "config/standalone_workload_experiments_v1_3.json": "15516c4b050f79bf46edcb4ab72a1991a9518b67ed34dbdb9909481b5f597bdb",
+  "evaluate_standalone_workload_experiments_v1_3.py": "b92f1a4b535c5a3705d78b22479fb2dbf2d352b4d62c134ac9bb70b6a24d835c",
+  "standalone_workload_experiments_v1_3.py": "0b8f72a2719ed81a21a559bdf78453d8ece77fa40e78f9b30c5f6cd38fcfd54c",
+  "tests/test_standalone_workload_experiments_v1_3.py": "c91a23c894fd00e6287a01c62078141f781b4da7b651a5ddfff47f244b1db258",
+  "workload_experiments_io_v1_3.py": "defc097fdf7e439b2f9f615e5cea99d2a2c3876356a4934752f46d420b473aa7"
+}

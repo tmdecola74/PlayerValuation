@@ -1,0 +1,4907 @@
+[
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 425794,
+    "game_pk": 446877,
+    "date": "2016-04-03",
+    "H": 0,
+    "2B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 425794,
+    "game_pk": 446954,
+    "date": "2016-04-10",
+    "H": 0,
+    "2B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 425794,
+    "game_pk": 447026,
+    "date": "2016-04-16",
+    "H": 0,
+    "2B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 425794,
+    "game_pk": 447115,
+    "date": "2016-04-22",
+    "H": 0,
+    "2B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 425794,
+    "game_pk": 447190,
+    "date": "2016-04-27",
+    "H": 1,
+    "2B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 425794,
+    "game_pk": 447249,
+    "date": "2016-05-02",
+    "H": 2,
+    "2B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 425794,
+    "game_pk": 447320,
+    "date": "2016-05-07",
+    "H": 1,
+    "2B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 425794,
+    "game_pk": 447463,
+    "date": "2016-05-18",
+    "H": 0,
+    "2B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 425794,
+    "game_pk": 447531,
+    "date": "2016-05-23",
+    "H": 0,
+    "2B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 425794,
+    "game_pk": 447608,
+    "date": "2016-05-28",
+    "H": 1,
+    "2B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 425794,
+    "game_pk": 447689,
+    "date": "2016-06-03",
+    "H": 0,
+    "2B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 425794,
+    "game_pk": 447770,
+    "date": "2016-06-09",
+    "H": 0,
+    "2B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 425794,
+    "game_pk": 447785,
+    "date": "2016-06-10",
+    "H": 1,
+    "2B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 425794,
+    "game_pk": 447847,
+    "date": "2016-06-15",
+    "H": 0,
+    "2B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 425794,
+    "game_pk": 447933,
+    "date": "2016-06-21",
+    "H": 0,
+    "2B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 425794,
+    "game_pk": 448082,
+    "date": "2016-07-02",
+    "H": 0,
+    "2B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 425794,
+    "game_pk": 448153,
+    "date": "2016-07-07",
+    "H": 0,
+    "2B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 425794,
+    "game_pk": 448226,
+    "date": "2016-07-16",
+    "H": 0,
+    "2B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 425794,
+    "game_pk": 448296,
+    "date": "2016-07-21",
+    "H": 0,
+    "2B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 425794,
+    "game_pk": 448382,
+    "date": "2016-07-27",
+    "H": 0,
+    "2B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 425794,
+    "game_pk": 448457,
+    "date": "2016-08-02",
+    "H": 1,
+    "2B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 425794,
+    "game_pk": 448518,
+    "date": "2016-08-07",
+    "H": 0,
+    "2B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 425794,
+    "game_pk": 448595,
+    "date": "2016-08-12",
+    "H": 1,
+    "2B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 425794,
+    "game_pk": 448688,
+    "date": "2016-08-19",
+    "H": 0,
+    "2B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 425794,
+    "game_pk": 448768,
+    "date": "2016-08-25",
+    "H": 0,
+    "2B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 425794,
+    "game_pk": 448841,
+    "date": "2016-08-30",
+    "H": 0,
+    "2B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 425794,
+    "game_pk": 448921,
+    "date": "2016-09-05",
+    "H": 2,
+    "2B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 425794,
+    "game_pk": 448984,
+    "date": "2016-09-10",
+    "H": 1,
+    "2B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 425794,
+    "game_pk": 449058,
+    "date": "2016-09-15",
+    "H": 0,
+    "2B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 425794,
+    "game_pk": 449128,
+    "date": "2016-09-20",
+    "H": 2,
+    "2B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 425794,
+    "game_pk": 449215,
+    "date": "2016-09-27",
+    "H": 0,
+    "2B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 425794,
+    "game_pk": 449294,
+    "date": "2016-10-02",
+    "H": 0,
+    "2B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 446870,
+    "date": "2016-04-05",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 446893,
+    "date": "2016-04-06",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 446906,
+    "date": "2016-04-07",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 446919,
+    "date": "2016-04-08",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 446949,
+    "date": "2016-06-02",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 446976,
+    "date": "2016-04-12",
+    "H": 2,
+    "1B": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 446992,
+    "date": "2016-04-13",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447004,
+    "date": "2016-04-14",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447019,
+    "date": "2016-04-15",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447034,
+    "date": "2016-04-16",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447068,
+    "date": "2016-04-19",
+    "H": 2,
+    "1B": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447083,
+    "date": "2016-04-20",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447097,
+    "date": "2016-04-21",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447116,
+    "date": "2016-04-22",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447131,
+    "date": "2016-04-23",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447146,
+    "date": "2016-04-24",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447156,
+    "date": "2016-04-25",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447185,
+    "date": "2016-04-27",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447209,
+    "date": "2016-04-29",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447224,
+    "date": "2016-04-30",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447239,
+    "date": "2016-05-01",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447263,
+    "date": "2016-05-03",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447278,
+    "date": "2016-05-04",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447290,
+    "date": "2016-05-05",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447311,
+    "date": "2016-05-07",
+    "H": 2,
+    "1B": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447326,
+    "date": "2016-05-08",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447345,
+    "date": "2016-05-09",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447358,
+    "date": "2016-05-10",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447373,
+    "date": "2016-05-11",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447385,
+    "date": "2016-05-12",
+    "H": 2,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447392,
+    "date": "2016-05-13",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447407,
+    "date": "2016-05-14",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447422,
+    "date": "2016-05-15",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447441,
+    "date": "2016-05-16",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447453,
+    "date": "2016-05-17",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447468,
+    "date": "2016-05-18",
+    "H": 2,
+    "1B": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447481,
+    "date": "2016-05-19",
+    "H": 2,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447510,
+    "date": "2016-05-21",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447525,
+    "date": "2016-05-22",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447554,
+    "date": "2016-05-24",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447569,
+    "date": "2016-05-25",
+    "H": 2,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447578,
+    "date": "2016-05-26",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447588,
+    "date": "2016-05-27",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447603,
+    "date": "2016-05-28",
+    "H": 3,
+    "1B": 3
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447631,
+    "date": "2016-05-30",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447646,
+    "date": "2016-05-31",
+    "H": 2,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447661,
+    "date": "2016-06-01",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447687,
+    "date": "2016-06-03",
+    "H": 2,
+    "1B": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447702,
+    "date": "2016-06-04",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447717,
+    "date": "2016-06-05",
+    "H": 2,
+    "1B": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447730,
+    "date": "2016-06-06",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447741,
+    "date": "2016-06-07",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447767,
+    "date": "2016-06-09",
+    "H": 2,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447776,
+    "date": "2016-06-10",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447791,
+    "date": "2016-06-11",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447806,
+    "date": "2016-06-12",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447837,
+    "date": "2016-06-14",
+    "H": 2,
+    "1B": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447852,
+    "date": "2016-06-15",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447861,
+    "date": "2016-06-16",
+    "H": 2,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447875,
+    "date": "2016-06-17",
+    "H": 2,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447890,
+    "date": "2016-06-18",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447905,
+    "date": "2016-06-19",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447925,
+    "date": "2016-06-21",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447940,
+    "date": "2016-06-22",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447966,
+    "date": "2016-06-24",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447981,
+    "date": "2016-06-25",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 447996,
+    "date": "2016-06-26",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448014,
+    "date": "2016-06-27",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448029,
+    "date": "2016-06-28",
+    "H": 2,
+    "1B": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448044,
+    "date": "2016-06-29",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448056,
+    "date": "2016-06-30",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448068,
+    "date": "2016-07-01",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448083,
+    "date": "2016-07-02",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448111,
+    "date": "2016-07-04",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448126,
+    "date": "2016-07-05",
+    "H": 3,
+    "1B": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448141,
+    "date": "2016-07-06",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448150,
+    "date": "2016-07-07",
+    "H": 2,
+    "1B": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448164,
+    "date": "2016-07-08",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448179,
+    "date": "2016-07-09",
+    "H": 2,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448194,
+    "date": "2016-07-10",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448204,
+    "date": "2016-07-15",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448219,
+    "date": "2016-07-16",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448234,
+    "date": "2016-07-17",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448249,
+    "date": "2016-07-18",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448260,
+    "date": "2016-07-19",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448290,
+    "date": "2016-07-21",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448310,
+    "date": "2016-07-22",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448325,
+    "date": "2016-07-23",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448340,
+    "date": "2016-07-24",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448350,
+    "date": "2016-07-25",
+    "H": 2,
+    "1B": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448362,
+    "date": "2016-07-26",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448377,
+    "date": "2016-07-27",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448401,
+    "date": "2016-07-29",
+    "H": 2,
+    "1B": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448416,
+    "date": "2016-07-30",
+    "H": 2,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448431,
+    "date": "2016-07-31",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448443,
+    "date": "2016-08-01",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448453,
+    "date": "2016-08-02",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448468,
+    "date": "2016-08-03",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448481,
+    "date": "2016-08-04",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448493,
+    "date": "2016-08-05",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448508,
+    "date": "2016-08-06",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448523,
+    "date": "2016-08-07",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448550,
+    "date": "2016-08-09",
+    "H": 2,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448566,
+    "date": "2016-08-10",
+    "H": 2,
+    "1B": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448578,
+    "date": "2016-08-11",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448596,
+    "date": "2016-08-12",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448611,
+    "date": "2016-08-13",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448633,
+    "date": "2016-08-15",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448648,
+    "date": "2016-08-16",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448663,
+    "date": "2016-08-17",
+    "H": 2,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448716,
+    "date": "2016-08-21",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448729,
+    "date": "2016-08-22",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448773,
+    "date": "2016-08-26",
+    "H": 2,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448822,
+    "date": "2016-08-29",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448836,
+    "date": "2016-08-30",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448851,
+    "date": "2016-08-31",
+    "H": 2,
+    "1B": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448873,
+    "date": "2016-09-02",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448888,
+    "date": "2016-09-03",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448903,
+    "date": "2016-09-04",
+    "H": 2,
+    "1B": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448923,
+    "date": "2016-09-05",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448938,
+    "date": "2016-09-06",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448953,
+    "date": "2016-09-07",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448959,
+    "date": "2016-09-08",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 448974,
+    "date": "2016-09-09",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 449004,
+    "date": "2016-09-11",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 449010,
+    "date": "2016-09-12",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 449025,
+    "date": "2016-09-13",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 449040,
+    "date": "2016-09-14",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 449055,
+    "date": "2016-09-15",
+    "H": 2,
+    "1B": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 449068,
+    "date": "2016-09-16",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 449083,
+    "date": "2016-09-17",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 449152,
+    "date": "2016-09-22",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 449164,
+    "date": "2016-09-23",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 449194,
+    "date": "2016-09-25",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 449207,
+    "date": "2016-09-26",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 449213,
+    "date": "2016-09-27",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 449228,
+    "date": "2016-09-28",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 449243,
+    "date": "2016-09-29",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 449253,
+    "date": "2016-09-30",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 452104,
+    "game_pk": 449268,
+    "date": "2016-10-01",
+    "H": 2,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 518586,
+    "game_pk": 446871,
+    "date": "2016-04-04",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 518586,
+    "game_pk": 446907,
+    "date": "2016-04-07",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 518586,
+    "game_pk": 446916,
+    "date": "2016-04-08",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 518586,
+    "game_pk": 446931,
+    "date": "2016-04-09",
+    "H": 2,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 518586,
+    "game_pk": 446968,
+    "date": "2016-04-12",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 518586,
+    "game_pk": 447018,
+    "date": "2016-04-15",
+    "H": 2,
+    "1B": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 518586,
+    "game_pk": 447033,
+    "date": "2016-04-16",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 518586,
+    "game_pk": 447080,
+    "date": "2016-04-20",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 518586,
+    "game_pk": 447094,
+    "date": "2016-04-21",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 518586,
+    "game_pk": 447137,
+    "date": "2016-04-24",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 518586,
+    "game_pk": 447155,
+    "date": "2016-04-25",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 518586,
+    "game_pk": 447261,
+    "date": "2016-05-03",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 518586,
+    "game_pk": 447276,
+    "date": "2016-05-04",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 518586,
+    "game_pk": 447347,
+    "date": "2016-05-09",
+    "H": 2,
+    "1B": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 518586,
+    "game_pk": 447439,
+    "date": "2016-05-16",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 518586,
+    "game_pk": 448279,
+    "date": "2016-07-20",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 518586,
+    "game_pk": 448743,
+    "date": "2016-08-23",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 518586,
+    "game_pk": 448770,
+    "date": "2016-08-25",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 518586,
+    "game_pk": 448774,
+    "date": "2016-08-26",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 518586,
+    "game_pk": 448789,
+    "date": "2016-08-27",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 518586,
+    "game_pk": 448804,
+    "date": "2016-08-28",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 518586,
+    "game_pk": 448819,
+    "date": "2016-08-29",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 518586,
+    "game_pk": 448848,
+    "date": "2016-08-31",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 518586,
+    "game_pk": 448904,
+    "date": "2016-09-04",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 518586,
+    "game_pk": 448909,
+    "date": "2016-09-05",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 518586,
+    "game_pk": 448939,
+    "date": "2016-09-07",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 518586,
+    "game_pk": 449094,
+    "date": "2016-09-18",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 518586,
+    "game_pk": 449142,
+    "date": "2016-09-21",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 518586,
+    "game_pk": 449176,
+    "date": "2016-09-24",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 518586,
+    "game_pk": 449191,
+    "date": "2016-09-25",
+    "H": 3,
+    "1B": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 518586,
+    "game_pk": 449218,
+    "date": "2016-09-27",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 518586,
+    "game_pk": 449248,
+    "date": "2016-09-29",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 518586,
+    "game_pk": 449258,
+    "date": "2016-09-30",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 518586,
+    "game_pk": 449288,
+    "date": "2016-10-02",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 448390,
+    "date": "2016-07-28",
+    "H": 3,
+    "1B": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 448403,
+    "date": "2016-07-29",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 448418,
+    "date": "2016-07-30",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 448433,
+    "date": "2016-07-31",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 448456,
+    "date": "2016-08-02",
+    "H": 3,
+    "1B": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 448471,
+    "date": "2016-08-03",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 448484,
+    "date": "2016-08-04",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 448499,
+    "date": "2016-08-05",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 448514,
+    "date": "2016-08-06",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 448529,
+    "date": "2016-08-07",
+    "H": 2,
+    "1B": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 448538,
+    "date": "2016-08-08",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 448551,
+    "date": "2016-08-09",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 448567,
+    "date": "2016-08-10",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 448587,
+    "date": "2016-08-12",
+    "H": 2,
+    "1B": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 448602,
+    "date": "2016-08-13",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 448617,
+    "date": "2016-08-14",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 448638,
+    "date": "2016-08-16",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 448653,
+    "date": "2016-08-17",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 448669,
+    "date": "2016-08-18",
+    "H": 2,
+    "1B": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 448688,
+    "date": "2016-08-19",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 448703,
+    "date": "2016-08-20",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 448718,
+    "date": "2016-08-21",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 448742,
+    "date": "2016-08-23",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 448758,
+    "date": "2016-08-24",
+    "H": 2,
+    "1B": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 448782,
+    "date": "2016-08-26",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 448797,
+    "date": "2016-08-27",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 448812,
+    "date": "2016-08-28",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 448829,
+    "date": "2016-08-29",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 448844,
+    "date": "2016-08-30",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 448859,
+    "date": "2016-08-31",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 448865,
+    "date": "2016-09-02",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 448880,
+    "date": "2016-09-03",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 448895,
+    "date": "2016-09-04",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 448919,
+    "date": "2016-09-05",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 448934,
+    "date": "2016-09-06",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 448949,
+    "date": "2016-09-07",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 448958,
+    "date": "2016-09-08",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 448971,
+    "date": "2016-09-09",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 448986,
+    "date": "2016-09-10",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 449001,
+    "date": "2016-09-11",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 449031,
+    "date": "2016-09-13",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 449046,
+    "date": "2016-09-14",
+    "H": 3,
+    "1B": 3
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 449057,
+    "date": "2016-09-15",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 449065,
+    "date": "2016-09-16",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 449080,
+    "date": "2016-09-17",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 449095,
+    "date": "2016-09-18",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 449119,
+    "date": "2016-09-20",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 449134,
+    "date": "2016-09-21",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 449153,
+    "date": "2016-09-22",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 449180,
+    "date": "2016-09-24",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 449195,
+    "date": "2016-09-25",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 449223,
+    "date": "2016-09-27",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 449238,
+    "date": "2016-09-28",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 449251,
+    "date": "2016-09-29",
+    "H": 2,
+    "1B": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 449262,
+    "date": "2016-09-30",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 449277,
+    "date": "2016-10-01",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "hitter",
+    "mlbam_id": 571437,
+    "game_pk": 449292,
+    "date": "2016-10-02",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 285064,
+    "game_pk": 446922,
+    "date": "2016-04-08",
+    "H": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 285064,
+    "game_pk": 446987,
+    "date": "2016-04-13",
+    "H": 4
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 285064,
+    "game_pk": 447069,
+    "date": "2016-04-19",
+    "H": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 285064,
+    "game_pk": 447143,
+    "date": "2016-04-24",
+    "H": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 285064,
+    "game_pk": 447188,
+    "date": "2016-04-27",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 285064,
+    "game_pk": 447231,
+    "date": "2016-05-01",
+    "H": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 285064,
+    "game_pk": 447272,
+    "date": "2016-05-04",
+    "H": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 285064,
+    "game_pk": 447335,
+    "date": "2016-05-08",
+    "H": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 285064,
+    "game_pk": 447349,
+    "date": "2016-05-09",
+    "H": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 285064,
+    "game_pk": 447401,
+    "date": "2016-05-13",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 285064,
+    "game_pk": 447444,
+    "date": "2016-05-17",
+    "H": 5
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 285064,
+    "game_pk": 447521,
+    "date": "2016-05-23",
+    "H": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 285064,
+    "game_pk": 448483,
+    "date": "2016-08-04",
+    "H": 3
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 285064,
+    "game_pk": 448568,
+    "date": "2016-08-10",
+    "H": 3
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 285064,
+    "game_pk": 448630,
+    "date": "2016-08-15",
+    "H": 9
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 285064,
+    "game_pk": 448712,
+    "date": "2016-08-21",
+    "H": 3
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 285064,
+    "game_pk": 448783,
+    "date": "2016-08-26",
+    "H": 4
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 285064,
+    "game_pk": 448853,
+    "date": "2016-08-31",
+    "H": 6
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 285064,
+    "game_pk": 448936,
+    "date": "2016-09-06",
+    "H": 6
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 285064,
+    "game_pk": 448994,
+    "date": "2016-09-11",
+    "H": 7
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 285064,
+    "game_pk": 449070,
+    "date": "2016-09-16",
+    "H": 7
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 285064,
+    "game_pk": 449154,
+    "date": "2016-09-22",
+    "H": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 285064,
+    "game_pk": 449214,
+    "date": "2016-09-27",
+    "H": 4
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 285064,
+    "game_pk": 449294,
+    "date": "2016-10-02",
+    "H": 4
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 446896,
+    "date": "2016-04-05",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 446921,
+    "date": "2016-04-08",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 446951,
+    "date": "2016-04-10",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 446974,
+    "date": "2016-04-12",
+    "H": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 446990,
+    "date": "2016-04-13",
+    "H": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 447032,
+    "date": "2016-04-16",
+    "H": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 447082,
+    "date": "2016-04-19",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 447096,
+    "date": "2016-04-20",
+    "H": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 447110,
+    "date": "2016-04-22",
+    "H": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 447140,
+    "date": "2016-04-24",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 447179,
+    "date": "2016-04-27",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 447226,
+    "date": "2016-04-30",
+    "H": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 447270,
+    "date": "2016-05-04",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 447302,
+    "date": "2016-05-06",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 447332,
+    "date": "2016-05-08",
+    "H": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 447347,
+    "date": "2016-05-09",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 447414,
+    "date": "2016-05-14",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 447429,
+    "date": "2016-05-15",
+    "H": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 447473,
+    "date": "2016-05-18",
+    "H": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 447524,
+    "date": "2016-05-22",
+    "H": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 447549,
+    "date": "2016-05-24",
+    "H": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 447600,
+    "date": "2016-05-28",
+    "H": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 447640,
+    "date": "2016-05-31",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 447656,
+    "date": "2016-06-01",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 447686,
+    "date": "2016-06-03",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 447701,
+    "date": "2016-06-04",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 447731,
+    "date": "2016-06-07",
+    "H": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 447758,
+    "date": "2016-06-08",
+    "H": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 447781,
+    "date": "2016-06-10",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 447839,
+    "date": "2016-06-14",
+    "H": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 447883,
+    "date": "2016-06-18",
+    "H": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 448740,
+    "date": "2016-08-23",
+    "H": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 448768,
+    "date": "2016-08-25",
+    "H": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 448797,
+    "date": "2016-08-27",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 448812,
+    "date": "2016-08-28",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 448834,
+    "date": "2016-08-30",
+    "H": 3
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 448893,
+    "date": "2016-09-03",
+    "H": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 448970,
+    "date": "2016-09-09",
+    "H": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 449014,
+    "date": "2016-09-12",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 449117,
+    "date": "2016-09-20",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 449153,
+    "date": "2016-09-22",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 449180,
+    "date": "2016-09-24",
+    "H": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 449206,
+    "date": "2016-09-26",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 449104,
+    "game_pk": 449292,
+    "date": "2016-10-02",
+    "H": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 518516,
+    "game_pk": 446875,
+    "date": "2016-04-04",
+    "H": 5
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 518516,
+    "game_pk": 446931,
+    "date": "2016-04-09",
+    "H": 6
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 518516,
+    "game_pk": 447018,
+    "date": "2016-04-15",
+    "H": 8
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 518516,
+    "game_pk": 447074,
+    "date": "2016-04-20",
+    "H": 5
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 518516,
+    "game_pk": 447159,
+    "date": "2016-04-25",
+    "H": 6
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 518516,
+    "game_pk": 447241,
+    "date": "2016-05-01",
+    "H": 6
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 518516,
+    "game_pk": 447297,
+    "date": "2016-05-06",
+    "H": 7
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 518516,
+    "game_pk": 447382,
+    "date": "2016-05-11",
+    "H": 3
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 518516,
+    "game_pk": 447454,
+    "date": "2016-05-17",
+    "H": 5
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 518516,
+    "game_pk": 447519,
+    "date": "2016-05-22",
+    "H": 3
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 518516,
+    "game_pk": 447607,
+    "date": "2016-05-28",
+    "H": 5
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 518516,
+    "game_pk": 447676,
+    "date": "2016-06-02",
+    "H": 4
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 518516,
+    "game_pk": 447750,
+    "date": "2016-06-08",
+    "H": 4
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 518516,
+    "game_pk": 447835,
+    "date": "2016-06-14",
+    "H": 4
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 518516,
+    "game_pk": 447916,
+    "date": "2016-06-20",
+    "H": 5
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 518516,
+    "game_pk": 447984,
+    "date": "2016-06-25",
+    "H": 5
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 518516,
+    "game_pk": 448055,
+    "date": "2016-06-30",
+    "H": 7
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 518516,
+    "game_pk": 448120,
+    "date": "2016-07-05",
+    "H": 4
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 518516,
+    "game_pk": 448187,
+    "date": "2016-07-10",
+    "H": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 518516,
+    "game_pk": 448215,
+    "date": "2016-07-15",
+    "H": 7
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 518516,
+    "game_pk": 448310,
+    "date": "2016-07-22",
+    "H": 7
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 518516,
+    "game_pk": 448373,
+    "date": "2016-07-27",
+    "H": 5
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 518516,
+    "game_pk": 448456,
+    "date": "2016-08-02",
+    "H": 10
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 518516,
+    "game_pk": 448530,
+    "date": "2016-08-07",
+    "H": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 518516,
+    "game_pk": 448599,
+    "date": "2016-08-13",
+    "H": 3
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 518516,
+    "game_pk": 448673,
+    "date": "2016-08-18",
+    "H": 6
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 518516,
+    "game_pk": 448743,
+    "date": "2016-08-23",
+    "H": 9
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 518516,
+    "game_pk": 448802,
+    "date": "2016-08-28",
+    "H": 5
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 518516,
+    "game_pk": 448890,
+    "date": "2016-09-03",
+    "H": 5
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 518516,
+    "game_pk": 448972,
+    "date": "2016-09-09",
+    "H": 6
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 518516,
+    "game_pk": 449047,
+    "date": "2016-09-14",
+    "H": 7
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 518516,
+    "game_pk": 449112,
+    "date": "2016-09-19",
+    "H": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 518516,
+    "game_pk": 449181,
+    "date": "2016-09-24",
+    "H": 4
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 518516,
+    "game_pk": 449258,
+    "date": "2016-09-30",
+    "H": 9
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 446888,
+    "date": "2016-04-06",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 446927,
+    "date": "2016-04-09",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 446970,
+    "date": "2016-04-12",
+    "H": 5
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 447050,
+    "date": "2016-04-17",
+    "H": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 447071,
+    "date": "2016-04-19",
+    "H": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 447104,
+    "date": "2016-04-22",
+    "H": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 447149,
+    "date": "2016-04-25",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 447224,
+    "date": "2016-04-30",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 447285,
+    "date": "2016-05-05",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 447361,
+    "date": "2016-05-10",
+    "H": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 447395,
+    "date": "2016-05-13",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 447425,
+    "date": "2016-05-15",
+    "H": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 447490,
+    "date": "2016-05-20",
+    "H": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 447610,
+    "date": "2016-05-29",
+    "H": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 447639,
+    "date": "2016-05-31",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 447670,
+    "date": "2016-06-02",
+    "H": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 447735,
+    "date": "2016-06-07",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 447788,
+    "date": "2016-06-11",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 447913,
+    "date": "2016-06-20",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 447938,
+    "date": "2016-06-22",
+    "H": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 447976,
+    "date": "2016-06-25",
+    "H": 3
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 448005,
+    "date": "2016-06-27",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 448080,
+    "date": "2016-07-02",
+    "H": 5
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 448116,
+    "date": "2016-07-04",
+    "H": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 448170,
+    "date": "2016-07-08",
+    "H": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 448204,
+    "date": "2016-07-15",
+    "H": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 448234,
+    "date": "2016-07-17",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 448270,
+    "date": "2016-07-19",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 448285,
+    "date": "2016-07-20",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 448306,
+    "date": "2016-07-22",
+    "H": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 448321,
+    "date": "2016-07-23",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 448360,
+    "date": "2016-07-26",
+    "H": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 448438,
+    "date": "2016-08-01",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 448476,
+    "date": "2016-08-04",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 448505,
+    "date": "2016-08-06",
+    "H": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 448566,
+    "date": "2016-08-10",
+    "H": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 448597,
+    "date": "2016-08-13",
+    "H": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 448635,
+    "date": "2016-08-16",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 448666,
+    "date": "2016-08-18",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 448732,
+    "date": "2016-08-23",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 448748,
+    "date": "2016-08-24",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 448793,
+    "date": "2016-08-27",
+    "H": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 448808,
+    "date": "2016-08-28",
+    "H": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 448857,
+    "date": "2016-08-31",
+    "H": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 448912,
+    "date": "2016-09-05",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 448992,
+    "date": "2016-09-11",
+    "H": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 449021,
+    "date": "2016-09-13",
+    "H": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 449068,
+    "date": "2016-09-16",
+    "H": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 449083,
+    "date": "2016-09-17",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 449158,
+    "date": "2016-09-23",
+    "H": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 449173,
+    "date": "2016-09-24",
+    "H": 0
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 449213,
+    "date": "2016-09-27",
+    "H": 2
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 449243,
+    "date": "2016-09-29",
+    "H": 1
+  },
+  {
+    "season": 2016,
+    "player_type": "pitcher",
+    "mlbam_id": 543726,
+    "game_pk": 449297,
+    "date": "2016-10-02",
+    "H": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 661122,
+    "date": "2022-06-19",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 661123,
+    "date": "2022-06-18",
+    "H": 2,
+    "1B": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 661142,
+    "date": "2022-06-21",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 661143,
+    "date": "2022-06-20",
+    "H": 2,
+    "1B": 2
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 661210,
+    "date": "2022-04-25",
+    "H": 2,
+    "1B": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 661219,
+    "date": "2022-09-08",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 661233,
+    "date": "2022-09-08",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 661394,
+    "date": "2022-06-05",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 661396,
+    "date": "2022-06-03",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 661397,
+    "date": "2022-06-02",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 661612,
+    "date": "2022-06-01",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 661613,
+    "date": "2022-05-30",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 661618,
+    "date": "2022-05-31",
+    "H": 4,
+    "1B": 2
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 661657,
+    "date": "2022-08-27",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 661663,
+    "date": "2022-08-28",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 661984,
+    "date": "2022-05-15",
+    "H": 2,
+    "1B": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 661985,
+    "date": "2022-05-14",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 661986,
+    "date": "2022-05-13",
+    "H": 2,
+    "1B": 2
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662001,
+    "date": "2022-08-29",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662025,
+    "date": "2022-09-18",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662026,
+    "date": "2022-09-16",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662028,
+    "date": "2022-09-13",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662029,
+    "date": "2022-09-12",
+    "H": 2,
+    "1B": 2
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662030,
+    "date": "2022-09-04",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662031,
+    "date": "2022-09-03",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662032,
+    "date": "2022-09-02",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662033,
+    "date": "2022-08-31",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662034,
+    "date": "2022-08-15",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662055,
+    "date": "2022-08-03",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662056,
+    "date": "2022-08-02",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662057,
+    "date": "2022-07-29",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662066,
+    "date": "2022-04-27",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662068,
+    "date": "2022-06-14",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662069,
+    "date": "2022-06-13",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662070,
+    "date": "2022-08-01",
+    "H": 2,
+    "1B": 2
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662071,
+    "date": "2022-07-31",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662074,
+    "date": "2022-05-24",
+    "H": 3,
+    "1B": 2
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662075,
+    "date": "2022-05-23",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662076,
+    "date": "2022-05-22",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662077,
+    "date": "2022-05-21",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662078,
+    "date": "2022-05-20",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662081,
+    "date": "2022-04-29",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662082,
+    "date": "2022-06-15",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662084,
+    "date": "2022-04-30",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662085,
+    "date": "2022-06-12",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662086,
+    "date": "2022-04-26",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662089,
+    "date": "2022-06-11",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662090,
+    "date": "2022-06-10",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662091,
+    "date": "2022-06-09",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662092,
+    "date": "2022-06-07",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662094,
+    "date": "2022-06-08",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662095,
+    "date": "2022-05-11",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662096,
+    "date": "2022-05-10",
+    "H": 2,
+    "1B": 2
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662097,
+    "date": "2022-05-09",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662098,
+    "date": "2022-05-08",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662100,
+    "date": "2022-07-11",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662102,
+    "date": "2022-05-07",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662103,
+    "date": "2022-05-06",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662105,
+    "date": "2022-05-05",
+    "H": 2,
+    "1B": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662106,
+    "date": "2022-05-01",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662107,
+    "date": "2022-07-13",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662108,
+    "date": "2022-07-12",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662109,
+    "date": "2022-07-14",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662110,
+    "date": "2022-08-13",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662111,
+    "date": "2022-08-12",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662112,
+    "date": "2022-07-30",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662113,
+    "date": "2022-07-16",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662114,
+    "date": "2022-08-04",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662198,
+    "date": "2022-07-10",
+    "H": 2,
+    "1B": 2
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662217,
+    "date": "2022-08-10",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662218,
+    "date": "2022-08-08",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662246,
+    "date": "2022-08-09",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662266,
+    "date": "2022-07-09",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662308,
+    "date": "2022-08-06",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662332,
+    "date": "2022-08-07",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662437,
+    "date": "2022-06-17",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662539,
+    "date": "2022-04-24",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662549,
+    "date": "2022-04-23",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662557,
+    "date": "2022-04-22",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662582,
+    "date": "2022-09-07",
+    "H": 2,
+    "1B": 2
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662589,
+    "date": "2022-07-22",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662608,
+    "date": "2022-07-23",
+    "H": 2,
+    "1B": 2
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662682,
+    "date": "2022-07-24",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662685,
+    "date": "2022-07-21",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662707,
+    "date": "2022-05-04",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662708,
+    "date": "2022-05-03",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662886,
+    "date": "2022-09-19",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662898,
+    "date": "2022-09-22",
+    "H": 2,
+    "1B": 2
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 662899,
+    "date": "2022-09-21",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 663072,
+    "date": "2022-05-29",
+    "H": 1,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 663080,
+    "date": "2022-05-27",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 663118,
+    "date": "2022-05-28",
+    "H": 2,
+    "1B": 2
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 663127,
+    "date": "2022-09-10",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 663130,
+    "date": "2022-09-11",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 663282,
+    "date": "2022-09-23",
+    "H": 1,
+    "1B": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 663294,
+    "date": "2022-07-27",
+    "H": 0,
+    "1B": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 663314,
+    "date": "2022-07-26",
+    "H": 2,
+    "1B": 2
+  },
+  {
+    "season": 2022,
+    "player_type": "hitter",
+    "mlbam_id": 670768,
+    "game_pk": 663315,
+    "date": "2022-07-25",
+    "H": 2,
+    "1B": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 661050,
+    "date": "2022-08-06",
+    "H": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 661065,
+    "date": "2022-07-25",
+    "H": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 661080,
+    "date": "2022-07-17",
+    "H": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 661102,
+    "date": "2022-07-03",
+    "H": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 661160,
+    "date": "2022-06-11",
+    "H": 2
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 661167,
+    "date": "2022-08-29",
+    "H": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 661178,
+    "date": "2022-07-10",
+    "H": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 661224,
+    "date": "2022-07-09",
+    "H": 2
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 661229,
+    "date": "2022-09-20",
+    "H": 3
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 661375,
+    "date": "2022-07-14",
+    "H": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 661376,
+    "date": "2022-07-13",
+    "H": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 661598,
+    "date": "2022-08-28",
+    "H": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 661954,
+    "date": "2022-10-02",
+    "H": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 661958,
+    "date": "2022-09-30",
+    "H": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 662021,
+    "date": "2022-04-07",
+    "H": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 662110,
+    "date": "2022-08-13",
+    "H": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 662241,
+    "date": "2022-09-27",
+    "H": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 662243,
+    "date": "2022-09-25",
+    "H": 2
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 662264,
+    "date": "2022-09-22",
+    "H": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 662265,
+    "date": "2022-09-10",
+    "H": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 662279,
+    "date": "2022-05-29",
+    "H": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 662281,
+    "date": "2022-05-27",
+    "H": 2
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 662283,
+    "date": "2022-09-07",
+    "H": 2
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 662286,
+    "date": "2022-09-03",
+    "H": 2
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 662299,
+    "date": "2022-09-04",
+    "H": 4
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 662301,
+    "date": "2022-08-17",
+    "H": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 662303,
+    "date": "2022-08-04",
+    "H": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 662319,
+    "date": "2022-10-04",
+    "H": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 662324,
+    "date": "2022-08-03",
+    "H": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 662325,
+    "date": "2022-09-11",
+    "H": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 662329,
+    "date": "2022-07-05",
+    "H": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 662357,
+    "date": "2022-07-24",
+    "H": 3
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 662371,
+    "date": "2022-08-24",
+    "H": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 662372,
+    "date": "2022-05-12",
+    "H": 4
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 662394,
+    "date": "2022-08-22",
+    "H": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 662395,
+    "date": "2022-08-20",
+    "H": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 662396,
+    "date": "2022-08-19",
+    "H": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 662402,
+    "date": "2022-09-18",
+    "H": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 662404,
+    "date": "2022-09-16",
+    "H": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 662415,
+    "date": "2022-07-30",
+    "H": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 662435,
+    "date": "2022-07-29",
+    "H": 3
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 662449,
+    "date": "2022-06-07",
+    "H": 2
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 662451,
+    "date": "2022-06-04",
+    "H": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 662454,
+    "date": "2022-05-24",
+    "H": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 662478,
+    "date": "2022-05-21",
+    "H": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 662735,
+    "date": "2022-05-31",
+    "H": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 663071,
+    "date": "2022-07-07",
+    "H": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 663106,
+    "date": "2022-09-13",
+    "H": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 663156,
+    "date": "2022-05-18",
+    "H": 0
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 663293,
+    "date": "2022-08-11",
+    "H": 1
+  },
+  {
+    "season": 2022,
+    "player_type": "pitcher",
+    "mlbam_id": 621249,
+    "game_pk": 663303,
+    "date": "2022-08-09",
+    "H": 5
+  }
+]

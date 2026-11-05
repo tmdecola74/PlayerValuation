@@ -1,0 +1,18 @@
+game_pk,date,batter,batter_id,pitcher_id,paired_discrepant_pitcher,at_bat_index,inning,half,event,event_type,description,evidence_status
+449213,2016-09-27,Chase Headley,452104,456034,False,7,1,bottom,Groundout,field_out,"Chase Headley grounds out, third baseman Brock Holt to first baseman Hanley Ramirez.",MLB_PLAY_ONLY_NOT_FANGRAPHS_PLAY_ALIGNMENT
+449213,2016-09-27,Chase Headley,452104,456034,False,27,4,bottom,Flyout,field_out,Chase Headley flies out to right fielder Mookie Betts.,MLB_PLAY_ONLY_NOT_FANGRAPHS_PLAY_ALIGNMENT
+449213,2016-09-27,Chase Headley,452104,456034,False,45,6,bottom,Double Play,double_play,"Chase Headley lines into a double play, right fielder Mookie Betts to first baseman Hanley Ramirez. Starlin Castro out at 1st.",MLB_PLAY_ONLY_NOT_FANGRAPHS_PLAY_ALIGNMENT
+449213,2016-09-27,Chase Headley,452104,543726,True,65,8,bottom,Single,single,Chase Headley singles on a line drive to shortstop Xander Bogaerts.,MLB_PLAY_ONLY_NOT_FANGRAPHS_PLAY_ALIGNMENT
+449258,2016-09-30,Charlie Culberson,518586,518516,True,14,2,top,Single,single,"Charlie Culberson singles on a ground ball to shortstop Brandon Crawford. Enrique Hernandez out at 3rd, shortstop Brandon Crawford to second baseman Kelby Tomlinson.",MLB_PLAY_ONLY_NOT_FANGRAPHS_PLAY_ALIGNMENT
+449258,2016-09-30,Charlie Culberson,518586,518516,True,30,4,top,Groundout,field_out,"Charlie Culberson grounds out, shortstop Brandon Crawford to first baseman Brandon Belt.",MLB_PLAY_ONLY_NOT_FANGRAPHS_PLAY_ALIGNMENT
+449258,2016-09-30,Charlie Culberson,518586,518516,True,47,6,top,Groundout,field_out,"Charlie Culberson grounds out, third baseman Gordon Beckham to first baseman Brandon Belt.",MLB_PLAY_ONLY_NOT_FANGRAPHS_PLAY_ALIGNMENT
+449292,2016-10-02,Aaron Altherr,571437,593679,False,13,2,bottom,Pop Out,field_out,Aaron Altherr pops out to catcher Kevin Plawecki.,MLB_PLAY_ONLY_NOT_FANGRAPHS_PLAY_ALIGNMENT
+449292,2016-10-02,Aaron Altherr,571437,593679,False,29,4,bottom,Walk,walk,Aaron Altherr walks.,MLB_PLAY_ONLY_NOT_FANGRAPHS_PLAY_ALIGNMENT
+449292,2016-10-02,Aaron Altherr,571437,592340,False,52,7,bottom,Walk,walk,Aaron Altherr walks.,MLB_PLAY_ONLY_NOT_FANGRAPHS_PLAY_ALIGNMENT
+449292,2016-10-02,Aaron Altherr,571437,449104,True,64,8,bottom,Field Error,field_error,Aaron Altherr reaches on a fielding error by pitcher Jim Henderson. Maikel Franco scores. Andres Blanco to 3rd.,MLB_PLAY_ONLY_NOT_FANGRAPHS_PLAY_ALIGNMENT
+449294,2016-10-02,Adam Wainwright,425794,285064,True,19,3,bottom,Pop Out,field_out,Adam Wainwright pops out to second baseman Alen Hanson.,MLB_PLAY_ONLY_NOT_FANGRAPHS_PLAY_ALIGNMENT
+449294,2016-10-02,Adam Wainwright,425794,285064,True,32,4,bottom,Field Error,field_error,Adam Wainwright reaches on a fielding error by third baseman Jung Ho Kang. Jedd Gyorko to 3rd. Adam Wainwright to 2nd.,MLB_PLAY_ONLY_NOT_FANGRAPHS_PLAY_ALIGNMENT
+662110,2022-08-13,Luis González,670768,595881,False,13,2,bottom,Flyout,field_out,Luis Gonzalez flies out to left fielder Tucupita Marcano.,MLB_PLAY_ONLY_NOT_FANGRAPHS_PLAY_ALIGNMENT
+662110,2022-08-13,Luis González,670768,657770,False,29,4,bottom,Strikeout,strikeout,Luis Gonzalez strikes out swinging.,MLB_PLAY_ONLY_NOT_FANGRAPHS_PLAY_ALIGNMENT
+662110,2022-08-13,Luis González,670768,621249,True,45,6,bottom,Field Error,field_error,Luis Gonzalez reaches on a fielding error by third baseman Rodolfo Castro.,MLB_PLAY_ONLY_NOT_FANGRAPHS_PLAY_ALIGNMENT
+662110,2022-08-13,Luis González,670768,608328,False,64,8,bottom,Groundout,field_out,"Luis Gonzalez grounds out, shortstop Oneil Cruz to first baseman Josh VanMeter.",MLB_PLAY_ONLY_NOT_FANGRAPHS_PLAY_ALIGNMENT

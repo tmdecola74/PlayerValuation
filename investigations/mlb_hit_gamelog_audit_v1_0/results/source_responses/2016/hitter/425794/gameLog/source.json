@@ -1,0 +1,11 @@
+{
+  "target": [
+    2016,
+    "hitter",
+    425794
+  ],
+  "kind": "gameLog",
+  "url": "https://statsapi.mlb.com/api/v1/people/425794/stats?stats=gameLog&group=hitting&season=2016&gameType=R&sportIds=1&limit=1000",
+  "retrieved_at": "2026-10-31T15:47:07.568332+00:00",
+  "sha256": "9a744f288211889adc28fa99758ed6b5e0b3ac3c047c88773d5f3f2f3cdc8112"
+}

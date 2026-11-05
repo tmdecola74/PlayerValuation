@@ -1,0 +1,16 @@
+season,player_type,mlbam_id,name,metric,date,game_pk,team,opponent,fangraphs_game_count,mlb_game_count,reconstructed_game_count,fg_minus_mlb,status,source_file,mlb_feed_boxscore,feed_agrees_with_frozen_mlb
+2016,hitter,452104,Chase Headley,H,2016-09-27,449213,NYY,BOS,0,1,1,-1,DIFFERENCE,fangraphs-game-log-chase-headley-2016.csv,1,True
+2016,hitter,452104,Chase Headley,1B,2016-09-27,449213,NYY,BOS,0,1,1,-1,DIFFERENCE,fangraphs-game-log-chase-headley-2016.csv,1,True
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-09-27,449213,BOS,@NYY,1,2,2,-1,DIFFERENCE,fangraphs-game-log-robbie-ross-jr.-2016.csv,2,True
+2016,hitter,518586,Charlie Culberson,H,2016-09-30,449258,LAD,@SFG,0,1,1,-1,DIFFERENCE,fangraphs-game-log-charlie-culberson-2016.csv,1,True
+2016,hitter,518586,Charlie Culberson,1B,2016-09-30,449258,LAD,@SFG,0,1,1,-1,DIFFERENCE,fangraphs-game-log-charlie-culberson-2016.csv,1,True
+2016,pitcher,518516,Madison Bumgarner,H,2016-09-30,449258,SFG,LAD,8,9,9,-1,DIFFERENCE,fangraphs-game-log-madison-bumgarner-2016.csv,9,True
+2016,hitter,571437,Aaron Altherr,H,2016-10-02,449292,PHI,NYM,1,0,0,1,DIFFERENCE,fangraphs-game-log-aaron-altherr-2016.csv,0,True
+2016,hitter,571437,Aaron Altherr,1B,2016-10-02,449292,PHI,NYM,1,0,0,1,DIFFERENCE,fangraphs-game-log-aaron-altherr-2016.csv,0,True
+2016,pitcher,449104,Jim Henderson,H,2016-10-02,449292,NYM,@PHI,3,2,2,1,DIFFERENCE,fangraphs-game-log-jim-henderson-2016.csv,2,True
+2016,hitter,425794,Adam Wainwright,H,2016-10-02,449294,STL,PIT,1,0,0,1,DIFFERENCE,fangraphs-game-log-adam-wainwright-2016.csv,0,True
+2016,hitter,425794,Adam Wainwright,2B,2016-10-02,449294,STL,PIT,1,0,0,1,DIFFERENCE,fangraphs-game-log-adam-wainwright-2016.csv,0,True
+2016,pitcher,285064,Ryan Vogelsong,H,2016-10-02,449294,PIT,@STL,5,4,4,1,DIFFERENCE,fangraphs-game-log-ryan-vogelsong-2016.csv,4,True
+2022,hitter,670768,Luis González,H,2022-08-13,662110,SFG,PIT,1,0,0,1,DIFFERENCE,fangraphs-game-log-luis-gonzález-2022.csv,0,True
+2022,hitter,670768,Luis González,1B,2022-08-13,662110,SFG,PIT,1,0,0,1,DIFFERENCE,fangraphs-game-log-luis-gonzález-2022.csv,0,True
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-08-13,662110,PIT,@SFG,1,0,0,1,DIFFERENCE,fangraphs-game-log-duane-underwood-jr.-2022.csv,0,True

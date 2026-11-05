@@ -1,0 +1,11 @@
+{
+  "README_STANDALONE_GROWTH_SB_v1_6.md": "ca96715695d882750e3cfaa4f1f409d52b762f603a2afcdf313d85635a23222c",
+  "VALIDATION_GROWTH_SB_v1_6.txt": "b4bc5aa92483e9b1d3be1c181ab0dbec16ec2036fb26c16f1d1efe8e90a117f5",
+  "backtest_standalone_growth_sb_v1_6.py": "d32b58097088f108c7c5c2daf3e4df081e502e936a9a60f3bb5bdb74073c6a07",
+  "config/standalone_growth_sb_v1_6.json": "e464c561f013c38508a7a18f46cf0645aa1b11ed5a0239f76e441c4f3aba823b",
+  "evaluate_standalone_growth_sb_v1_6.py": "a49d63cf1f413aca775be38bbf33e00732837eb9756f539eb6d61cbe5bc53a4d",
+  "growth_sb_io_v1_6.py": "e0c8c78da0119c09b0c6ca336e9fd7ec6a310305558dd55e4035bad67bd09a3a",
+  "growth_sb_scores_v1_6.py": "193d8983dfefa5e98deec77559d76e85962bf980ab26c360568a3c938579d307",
+  "standalone_growth_sb_v1_6.py": "25f1faf8b6b72b2e804916df6bb320e69055d212164cbc7614c3f49f897f7ae9",
+  "tests/test_standalone_growth_sb_v1_6.py": "e09983b84998e694ea9be345a6588130b852847ebb034d02949028d1a3c35959"
+}

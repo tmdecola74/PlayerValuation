@@ -1,0 +1,8 @@
+{
+ "version":"1.2.0","first_report_origin":2019,"holdout_year":2026,
+ "minimum_role_fit_rows":50,"minimum_role_class_rows":5,"softmax_penalty":0.05,"softmax_iterations":200,
+ "prior_role_probability_mass":0.9,"minimum_validation_rows":30,"minimum_known_prior_rows":20,
+ "minimum_selection_folds":2,"minimum_probability_improvement":0.01,"maximum_logloss_degradation":0.01,
+ "minimum_workload_improvement":0.01,"maximum_workload_mae_degradation":0.01,
+ "minimum_expert_rows":50,"minimum_prior_starter_rows":20
+}

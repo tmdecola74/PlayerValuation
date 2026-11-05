@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "confirmation_date": "2026-10-31",
+  "basis": "USER_CONFIRMED_IN_CONVERSATION",
+  "statement": "yes those are the logs from 2016 and 2022 respectively regardless of date in the workbook. looks like excel made them 2026 dates when i did copy/paste",
+  "expected_dates": [
+    "2016-09-27",
+    "2016-09-30",
+    "2016-10-02",
+    "2016-10-02",
+    "2022-08-13"
+  ],
+  "workbook_dates_preserved": true,
+  "scores_excluded_from_alignment": true,
+  "independently_archived_year_verification": false
+}

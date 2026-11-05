@@ -1,0 +1,435 @@
+{
+  "result": {
+    "type": "atBat",
+    "event": "Single",
+    "eventType": "single",
+    "description": "Charlie Culberson singles on a ground ball to shortstop Brandon Crawford. Enrique Hernandez out at 3rd, shortstop Brandon Crawford to second baseman Kelby Tomlinson.",
+    "rbi": 0,
+    "awayScore": 2,
+    "homeScore": 2,
+    "isOut": true
+  },
+  "about": {
+    "atBatIndex": 14,
+    "halfInning": "top",
+    "isTopInning": true,
+    "inning": 2,
+    "startTime": "2016-10-01T02:58:49.622Z",
+    "endTime": "2016-10-01T03:00:34.122Z",
+    "isComplete": true,
+    "isScoringPlay": false,
+    "hasReview": false,
+    "hasOut": true,
+    "captivatingIndex": 33
+  },
+  "count": {
+    "balls": 1,
+    "strikes": 1,
+    "outs": 1
+  },
+  "matchup": {
+    "batter": {
+      "id": 518586,
+      "fullName": "Charlie Culberson",
+      "link": "/api/v1/people/518586"
+    },
+    "batSide": {
+      "code": "R",
+      "description": "Right"
+    },
+    "pitcher": {
+      "id": 518516,
+      "fullName": "Madison Bumgarner",
+      "link": "/api/v1/people/518516"
+    },
+    "pitchHand": {
+      "code": "L",
+      "description": "Left"
+    },
+    "postOnFirst": {
+      "id": 518586,
+      "fullName": "Charlie Culberson",
+      "link": "/api/v1/people/518586"
+    },
+    "batterHotColdZones": [],
+    "pitcherHotColdZones": [],
+    "splits": {
+      "batter": "vs_LHP",
+      "pitcher": "vs_RHB",
+      "menOnBase": "Men_On"
+    }
+  },
+  "pitchIndex": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "actionIndex": [],
+  "runnerIndex": [
+    0,
+    1,
+    2
+  ],
+  "runners": [
+    {
+      "movement": {
+        "originBase": null,
+        "start": null,
+        "end": "1B",
+        "outBase": null,
+        "isOut": false,
+        "outNumber": null
+      },
+      "details": {
+        "event": "Single",
+        "eventType": "single",
+        "movementReason": null,
+        "runner": {
+          "id": 518586,
+          "fullName": "Charlie Culberson",
+          "link": "/api/v1/people/518586"
+        },
+        "responsiblePitcher": null,
+        "isScoringEvent": false,
+        "rbi": false,
+        "earned": false,
+        "teamUnearned": false,
+        "playIndex": 3
+      },
+      "credits": [
+        {
+          "player": {
+            "id": 543063,
+            "link": "/api/v1/people/543063"
+          },
+          "position": {
+            "code": "6",
+            "name": "Shortstop",
+            "type": "Infielder",
+            "abbreviation": "SS"
+          },
+          "credit": "f_fielded_ball"
+        }
+      ]
+    },
+    {
+      "movement": {
+        "originBase": "1B",
+        "start": "1B",
+        "end": "2B",
+        "outBase": null,
+        "isOut": false,
+        "outNumber": null
+      },
+      "details": {
+        "event": "Single",
+        "eventType": "single",
+        "movementReason": "r_adv_force",
+        "runner": {
+          "id": 571771,
+          "fullName": "Enrique Hern\u00e1ndez",
+          "link": "/api/v1/people/571771"
+        },
+        "responsiblePitcher": null,
+        "isScoringEvent": false,
+        "rbi": false,
+        "earned": false,
+        "teamUnearned": false,
+        "playIndex": 3
+      },
+      "credits": []
+    },
+    {
+      "movement": {
+        "originBase": "1B",
+        "start": "2B",
+        "end": null,
+        "outBase": "3B",
+        "isOut": true,
+        "outNumber": 1
+      },
+      "details": {
+        "event": "Runner Out",
+        "eventType": "other_out",
+        "movementReason": "r_runner_out",
+        "runner": {
+          "id": 571771,
+          "fullName": "Enrique Hern\u00e1ndez",
+          "link": "/api/v1/people/571771"
+        },
+        "responsiblePitcher": null,
+        "isScoringEvent": false,
+        "rbi": false,
+        "earned": false,
+        "teamUnearned": false,
+        "playIndex": 3
+      },
+      "credits": [
+        {
+          "player": {
+            "id": 543063,
+            "link": "/api/v1/people/543063"
+          },
+          "position": {
+            "code": "6",
+            "name": "Shortstop",
+            "type": "Infielder",
+            "abbreviation": "SS"
+          },
+          "credit": "f_assist"
+        },
+        {
+          "player": {
+            "id": 605509,
+            "link": "/api/v1/people/605509"
+          },
+          "position": {
+            "code": "4",
+            "name": "Second Base",
+            "type": "Infielder",
+            "abbreviation": "2B"
+          },
+          "credit": "f_putout"
+        }
+      ]
+    }
+  ],
+  "playEvents": [
+    {
+      "details": {
+        "description": "Pickoff Attempt 1B",
+        "code": "1",
+        "isOut": false,
+        "hasReview": false,
+        "fromCatcher": false,
+        "disengagementNum": 1
+      },
+      "count": {
+        "balls": 0,
+        "strikes": 0,
+        "outs": 0
+      },
+      "index": 0,
+      "playId": "04492586-0156-0003-001c-f08cd117d70a",
+      "startTime": "2016-10-01T02:58:30.320Z",
+      "endTime": "2016-10-01T02:58:52.622Z",
+      "isPitch": false,
+      "type": "pickoff"
+    },
+    {
+      "details": {
+        "call": {
+          "code": "B",
+          "description": "Ball"
+        },
+        "description": "Ball",
+        "code": "B",
+        "ballColor": "rgba(39, 161, 39, 1.0)",
+        "trailColor": "rgba(152, 0, 101, 1.0)",
+        "isInPlay": false,
+        "isStrike": false,
+        "isBall": true,
+        "type": {
+          "code": "FC",
+          "description": "Cutter"
+        },
+        "isOut": false,
+        "hasReview": false,
+        "disengagementNum": 1
+      },
+      "count": {
+        "balls": 1,
+        "strikes": 0,
+        "outs": 0
+      },
+      "pitchData": {
+        "startSpeed": 85.2,
+        "endSpeed": 78.8,
+        "strikeZoneTop": 3.39,
+        "strikeZoneBottom": 1.52,
+        "coordinates": {
+          "aY": 25.103,
+          "aZ": -23.239,
+          "pfxX": -2.46,
+          "pfxZ": 5.6,
+          "pX": 1.433,
+          "pZ": 3.003,
+          "vX0": -2.765,
+          "vY0": -124.949,
+          "vZ0": -2.873,
+          "x": 62.38,
+          "y": 157.7,
+          "x0": 2.873,
+          "y0": 50.0,
+          "z0": 6.076,
+          "aX": -3.889
+        },
+        "breaks": {
+          "breakAngle": 10.8,
+          "breakLength": 6.0,
+          "breakY": 24.0,
+          "spinRate": 1131,
+          "spinDirection": 203
+        },
+        "zone": 12,
+        "typeConfidence": 2.0
+      },
+      "index": 1,
+      "pfxId": "160930_200151",
+      "playId": "8e277634-565a-476f-8352-c93bf3e4942f",
+      "pitchNumber": 1,
+      "startTime": "2016-10-01T02:58:52.622Z",
+      "endTime": "2016-10-01T02:59:16.833Z",
+      "isPitch": true,
+      "type": "pitch"
+    },
+    {
+      "details": {
+        "call": {
+          "code": "C",
+          "description": "Called Strike"
+        },
+        "description": "Called Strike",
+        "code": "C",
+        "ballColor": "rgba(170, 21, 11, 1.0)",
+        "trailColor": "rgba(188, 0, 33, 1.0)",
+        "isInPlay": false,
+        "isStrike": true,
+        "isBall": false,
+        "type": {
+          "code": "FF",
+          "description": "Four-Seam Fastball"
+        },
+        "isOut": false,
+        "hasReview": false,
+        "disengagementNum": 1
+      },
+      "count": {
+        "balls": 1,
+        "strikes": 1,
+        "outs": 0
+      },
+      "pitchData": {
+        "startSpeed": 88.2,
+        "endSpeed": 81.0,
+        "strikeZoneTop": 3.39,
+        "strikeZoneBottom": 1.52,
+        "coordinates": {
+          "aY": 27.389,
+          "aZ": -12.517,
+          "pfxX": 4.48,
+          "pfxZ": 11.65,
+          "pX": 0.485,
+          "pZ": 2.452,
+          "vX0": -7.2,
+          "vY0": -129.003,
+          "vZ0": -6.437,
+          "x": 98.51,
+          "y": 172.58,
+          "x0": 2.732,
+          "y0": 50.0,
+          "z0": 5.948,
+          "aX": 7.538
+        },
+        "breaks": {
+          "breakAngle": 24.0,
+          "breakLength": 3.6,
+          "breakY": 24.0,
+          "spinRate": 2368,
+          "spinDirection": 159
+        },
+        "zone": 6,
+        "typeConfidence": 2.0
+      },
+      "index": 2,
+      "pfxId": "160930_200216",
+      "playId": "adcf4cfd-56ce-43a5-ad6f-15e070472dfd",
+      "pitchNumber": 2,
+      "startTime": "2016-10-01T02:59:16.833Z",
+      "endTime": "2016-10-01T02:59:56.163Z",
+      "isPitch": true,
+      "type": "pitch"
+    },
+    {
+      "details": {
+        "call": {
+          "code": "X",
+          "description": "In play, out(s)"
+        },
+        "description": "In play, out(s)",
+        "code": "X",
+        "ballColor": "rgba(26, 86, 190, 1.0)",
+        "trailColor": "rgba(152, 0, 101, 1.0)",
+        "isInPlay": true,
+        "isStrike": false,
+        "isBall": false,
+        "type": {
+          "code": "FC",
+          "description": "Cutter"
+        },
+        "isOut": true,
+        "hasReview": false
+      },
+      "count": {
+        "balls": 1,
+        "strikes": 1,
+        "outs": 0
+      },
+      "pitchData": {
+        "startSpeed": 85.4,
+        "endSpeed": 78.4,
+        "strikeZoneTop": 3.39,
+        "strikeZoneBottom": 1.52,
+        "coordinates": {
+          "aY": 27.0,
+          "aZ": -22.951,
+          "pfxX": -1.83,
+          "pfxZ": 5.82,
+          "pX": 0.513,
+          "pZ": 2.661,
+          "vX0": -4.971,
+          "vY0": -125.059,
+          "vZ0": -3.58,
+          "x": 97.45,
+          "y": 166.93,
+          "x0": 2.77,
+          "y0": 50.0,
+          "z0": 6.01,
+          "aX": -2.883
+        },
+        "breaks": {
+          "breakAngle": 9.6,
+          "breakLength": 6.0,
+          "breakY": 24.0,
+          "spinRate": 1121,
+          "spinDirection": 197
+        },
+        "zone": 6,
+        "typeConfidence": 2.0
+      },
+      "hitData": {
+        "launchSpeed": 90.6,
+        "launchAngle": -27.0,
+        "totalDistance": 6.0,
+        "trajectory": "ground_ball",
+        "hardness": "medium",
+        "location": "6",
+        "coordinates": {
+          "coordX": 107.09,
+          "coordY": 148.86
+        }
+      },
+      "index": 3,
+      "pfxId": "160930_200241",
+      "playId": "efbd38b8-bee9-43b0-89cb-fee0cae087e6",
+      "pitchNumber": 3,
+      "startTime": "2016-10-01T02:59:56.163Z",
+      "endTime": "2016-10-01T03:00:34.122Z",
+      "isPitch": true,
+      "type": "pitch"
+    }
+  ],
+  "playEndTime": "2016-10-01T03:00:34.122Z",
+  "atBatIndex": 14
+}

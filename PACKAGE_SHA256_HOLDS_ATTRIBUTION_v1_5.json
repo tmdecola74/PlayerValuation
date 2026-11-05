@@ -1,0 +1,11 @@
+{
+  "README_STANDALONE_HOLDS_ATTRIBUTION_v1_5.md": "b077a2e0a255404ce3266c2a0e583ea324c89e9c0f83d3e89b1cc0d797e064b0",
+  "VALIDATION_HOLDS_ATTRIBUTION_v1_5.txt": "b1b3163680c4544b1f27c16cfa7059421d9bf98f9ea5c525863496311542c8ff",
+  "backtest_standalone_holds_attribution_v1_5.py": "3b7c09cf2c61eb387e7e4300cd6deee84def5b955a225e16e9a3b31a675e0c9f",
+  "config/standalone_holds_attribution_v1_5.json": "7d9c972fd0acd60d12a09f6f8570c1120b452ae338518388e1be799df04f776b",
+  "evaluate_standalone_holds_attribution_v1_5.py": "cc2a1a598182bf4e0c481d0af88ab1b70da54d1ec28ad1f6ff7d6d6f470b3294",
+  "holds_io_v1_5.py": "da66de23df7cf0ce374574e5825bae2965ce147b2392c14f3cb58c83eeba18fc",
+  "standalone_attribution_v1_5.py": "cf905c122e194e169519ba03ffae76a014edaa1ea8429acbb679d7599d3238d8",
+  "standalone_holds_v1_5.py": "c88e17ca3c95b3d2efde303a577571e6eb744c1880570698da254b782a8c5ccb",
+  "tests/test_standalone_holds_attribution_v1_5.py": "241a6377bbcc9c630cf04e0c2d26aacdb47e25ff6c0ddfd68351121b324fa5c1"
+}

@@ -1,0 +1,392 @@
+{
+  "result": {
+    "type": "atBat",
+    "event": "Field Error",
+    "eventType": "field_error",
+    "description": "Aaron Altherr reaches on a fielding error by pitcher Jim Henderson. Maikel Franco scores. Andres Blanco to 3rd.",
+    "rbi": 0,
+    "awayScore": 2,
+    "homeScore": 5,
+    "isOut": false
+  },
+  "about": {
+    "atBatIndex": 64,
+    "halfInning": "bottom",
+    "isTopInning": false,
+    "inning": 8,
+    "startTime": "2016-10-02T21:33:29.061Z",
+    "endTime": "2016-10-02T21:34:37.871Z",
+    "isComplete": true,
+    "isScoringPlay": true,
+    "hasReview": false,
+    "hasOut": false,
+    "captivatingIndex": 0
+  },
+  "count": {
+    "balls": 0,
+    "strikes": 2,
+    "outs": 2
+  },
+  "matchup": {
+    "batter": {
+      "id": 571437,
+      "fullName": "Aaron Altherr",
+      "link": "/api/v1/people/571437"
+    },
+    "batSide": {
+      "code": "R",
+      "description": "Right"
+    },
+    "pitcher": {
+      "id": 449104,
+      "fullName": "Jim Henderson",
+      "link": "/api/v1/people/449104"
+    },
+    "pitchHand": {
+      "code": "R",
+      "description": "Right"
+    },
+    "postOnFirst": {
+      "id": 571437,
+      "fullName": "Aaron Altherr",
+      "link": "/api/v1/people/571437"
+    },
+    "postOnThird": {
+      "id": 433217,
+      "fullName": "Andr\u00e9s Blanco",
+      "link": "/api/v1/people/433217"
+    },
+    "batterHotColdZones": [],
+    "pitcherHotColdZones": [],
+    "splits": {
+      "batter": "vs_RHP",
+      "pitcher": "vs_RHB",
+      "menOnBase": "RISP"
+    }
+  },
+  "pitchIndex": [
+    0,
+    1,
+    2
+  ],
+  "actionIndex": [],
+  "runnerIndex": [
+    0,
+    1,
+    2
+  ],
+  "runners": [
+    {
+      "movement": {
+        "originBase": null,
+        "start": null,
+        "end": "1B",
+        "outBase": null,
+        "isOut": false,
+        "outNumber": null
+      },
+      "details": {
+        "event": "Field Error",
+        "eventType": "field_error",
+        "movementReason": null,
+        "runner": {
+          "id": 571437,
+          "fullName": "Aaron Altherr",
+          "link": "/api/v1/people/571437"
+        },
+        "responsiblePitcher": null,
+        "isScoringEvent": false,
+        "rbi": false,
+        "earned": false,
+        "teamUnearned": false,
+        "playIndex": 2
+      },
+      "credits": [
+        {
+          "player": {
+            "id": 449104,
+            "link": "/api/v1/people/449104"
+          },
+          "position": {
+            "code": "1",
+            "name": "Pitcher",
+            "type": "Pitcher",
+            "abbreviation": "P"
+          },
+          "credit": "f_fielding_error"
+        }
+      ]
+    },
+    {
+      "movement": {
+        "originBase": "3B",
+        "start": "3B",
+        "end": "score",
+        "outBase": null,
+        "isOut": false,
+        "outNumber": null
+      },
+      "details": {
+        "event": "Field Error",
+        "eventType": "field_error",
+        "movementReason": "r_adv_play",
+        "runner": {
+          "id": 596748,
+          "fullName": "Maikel Franco",
+          "link": "/api/v1/people/596748"
+        },
+        "responsiblePitcher": {
+          "id": 449104,
+          "link": "/api/v1/people/449104"
+        },
+        "isScoringEvent": true,
+        "rbi": false,
+        "earned": false,
+        "teamUnearned": true,
+        "playIndex": 2
+      },
+      "credits": []
+    },
+    {
+      "movement": {
+        "originBase": "2B",
+        "start": "2B",
+        "end": "3B",
+        "outBase": null,
+        "isOut": false,
+        "outNumber": null
+      },
+      "details": {
+        "event": "Field Error",
+        "eventType": "field_error",
+        "movementReason": "r_adv_play",
+        "runner": {
+          "id": 433217,
+          "fullName": "Andr\u00e9s Blanco",
+          "link": "/api/v1/people/433217"
+        },
+        "responsiblePitcher": null,
+        "isScoringEvent": false,
+        "rbi": false,
+        "earned": false,
+        "teamUnearned": false,
+        "playIndex": 2
+      },
+      "credits": []
+    }
+  ],
+  "playEvents": [
+    {
+      "details": {
+        "call": {
+          "code": "S",
+          "description": "Swinging Strike"
+        },
+        "description": "Swinging Strike",
+        "code": "S",
+        "ballColor": "rgba(170, 21, 11, 1.0)",
+        "trailColor": "rgba(188, 0, 33, 1.0)",
+        "isInPlay": false,
+        "isStrike": true,
+        "isBall": false,
+        "type": {
+          "code": "FF",
+          "description": "Four-Seam Fastball"
+        },
+        "isOut": false,
+        "hasReview": false
+      },
+      "count": {
+        "balls": 0,
+        "strikes": 1,
+        "outs": 2
+      },
+      "pitchData": {
+        "startSpeed": 93.9,
+        "endSpeed": 85.1,
+        "strikeZoneTop": 4.01,
+        "strikeZoneBottom": 1.82,
+        "coordinates": {
+          "aY": 34.946,
+          "aZ": -12.329,
+          "pfxX": -6.83,
+          "pfxZ": 10.51,
+          "pX": 0.584,
+          "pZ": 3.268,
+          "vX0": 7.869,
+          "vY0": -137.387,
+          "vZ0": -4.062,
+          "x": 94.74,
+          "y": 150.54,
+          "x0": -1.452,
+          "y0": 50.0,
+          "z0": 5.624,
+          "aX": -12.843
+        },
+        "breaks": {
+          "breakAngle": 39.6,
+          "breakLength": 3.6,
+          "breakY": 24.0,
+          "spinRate": 2496,
+          "spinDirection": 212
+        },
+        "zone": 6,
+        "typeConfidence": 2.0
+      },
+      "index": 0,
+      "pfxId": "161002_173328",
+      "playId": "e05c302e-fce8-46d9-a05e-e9a0106cc249",
+      "pitchNumber": 1,
+      "startTime": "2016-10-02T21:33:31.295Z",
+      "endTime": "2016-10-02T21:33:53.757Z",
+      "isPitch": true,
+      "type": "pitch"
+    },
+    {
+      "details": {
+        "call": {
+          "code": "F",
+          "description": "Foul"
+        },
+        "description": "Foul",
+        "code": "F",
+        "ballColor": "rgba(170, 21, 11, 1.0)",
+        "trailColor": "rgba(188, 0, 33, 1.0)",
+        "isInPlay": false,
+        "isStrike": true,
+        "isBall": false,
+        "type": {
+          "code": "FF",
+          "description": "Four-Seam Fastball"
+        },
+        "isOut": false,
+        "hasReview": false
+      },
+      "count": {
+        "balls": 0,
+        "strikes": 2,
+        "outs": 2
+      },
+      "pitchData": {
+        "startSpeed": 94.3,
+        "endSpeed": 85.7,
+        "strikeZoneTop": 4.01,
+        "strikeZoneBottom": 1.82,
+        "coordinates": {
+          "aY": 34.543,
+          "aZ": -14.017,
+          "pfxX": -7.41,
+          "pfxZ": 9.5,
+          "pX": 0.149,
+          "pZ": 2.955,
+          "vX0": 6.986,
+          "vY0": -137.996,
+          "vZ0": -4.365,
+          "x": 111.32,
+          "y": 159.0,
+          "x0": -1.469,
+          "y0": 50.0,
+          "z0": 5.521,
+          "aX": -14.098
+        },
+        "breaks": {
+          "breakAngle": 39.6,
+          "breakLength": 3.6,
+          "breakY": 24.0,
+          "spinRate": 2417,
+          "spinDirection": 217
+        },
+        "zone": 5,
+        "typeConfidence": 2.0
+      },
+      "index": 1,
+      "pfxId": "161002_173348",
+      "playId": "acab1a66-4e66-4b4a-b949-66a32767a0cc",
+      "pitchNumber": 2,
+      "startTime": "2016-10-02T21:33:53.757Z",
+      "endTime": "2016-10-02T21:34:21.868Z",
+      "isPitch": true,
+      "type": "pitch"
+    },
+    {
+      "details": {
+        "call": {
+          "code": "E",
+          "description": "In play, run(s)"
+        },
+        "description": "In play, run(s)",
+        "code": "E",
+        "ballColor": "rgba(26, 86, 190, 1.0)",
+        "trailColor": "rgba(188, 0, 33, 1.0)",
+        "isInPlay": true,
+        "isStrike": false,
+        "isBall": false,
+        "type": {
+          "code": "FF",
+          "description": "Four-Seam Fastball"
+        },
+        "isOut": false,
+        "hasReview": false
+      },
+      "count": {
+        "balls": 0,
+        "strikes": 2,
+        "outs": 2
+      },
+      "pitchData": {
+        "startSpeed": 94.5,
+        "endSpeed": 86.1,
+        "strikeZoneTop": 4.01,
+        "strikeZoneBottom": 1.82,
+        "coordinates": {
+          "aY": 33.57,
+          "aZ": -13.631,
+          "pfxX": -6.41,
+          "pfxZ": 9.63,
+          "pX": 0.96,
+          "pZ": 3.067,
+          "vX0": 8.353,
+          "vY0": -138.252,
+          "vZ0": -4.37,
+          "x": 80.41,
+          "y": 155.97,
+          "x0": -1.282,
+          "y0": 50.0,
+          "z0": 5.597,
+          "aX": -12.285
+        },
+        "breaks": {
+          "breakAngle": 34.8,
+          "breakLength": 3.6,
+          "breakY": 24.0,
+          "spinRate": 2334,
+          "spinDirection": 213
+        },
+        "zone": 12,
+        "typeConfidence": 2.0
+      },
+      "hitData": {
+        "launchSpeed": 88.6,
+        "launchAngle": -23.0,
+        "totalDistance": 8.0,
+        "trajectory": "ground_ball",
+        "hardness": "medium",
+        "location": "1",
+        "coordinates": {
+          "coordX": 120.3,
+          "coordY": 172.77
+        }
+      },
+      "index": 2,
+      "pfxId": "161002_173416",
+      "playId": "7acdda6f-e03a-4da9-bd94-99ab6f2a5a08",
+      "pitchNumber": 3,
+      "startTime": "2016-10-02T21:34:21.868Z",
+      "endTime": "2016-10-02T21:34:37.871Z",
+      "isPitch": true,
+      "type": "pitch"
+    }
+  ],
+  "playEndTime": "2016-10-02T21:34:37.871Z",
+  "atBatIndex": 64
+}

@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "primary_season_label_source": "FROZEN_FANGRAPHS_ACTUALS",
+  "expected_reference_hashes": {
+    "actual_counts.parquet": "a8751586af90673babd9c4681fbcefc560da5136fc55ee7e4e1d247a5a624de1",
+    "player_seasons.parquet": "7c4e40039b01d8282acab338a16f8983823b921cb59cac412058683c12de4209"
+  },
+  "secondary_sources": [
+    "MLB_GAME_LOGS_AND_SCORING_FEEDS",
+    "SCORING_AWARE_STATCAST_RECONSTRUCTION"
+  ],
+  "disputed_metric_action": "EXCLUDE_METRIC_AND_DEPENDENT_LABELS",
+  "cross_source_component_substitution": false,
+  "training_max_season": 2025,
+  "holdout_season": 2026,
+  "source_retrieval_basis": "Retrospective; not archived preseason vintages",
+  "global_model_ready": false,
+  "rate_exposure_policy": "Integer OUTS; never parse baseball IP as decimal innings",
+  "unsupported_metric_action": "EXCLUDE",
+  "coherent_bundle_policy": "A joint model target vector is excluded if any member is excluded",
+  "history_policy": "New release/output per change; no overwrite; stable case IDs; preserve predecessor snapshots"
+}

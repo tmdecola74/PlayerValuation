@@ -1,0 +1,57 @@
+{
+  "version": "1.0.0",
+  "source_seasons": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "training_target_seasons": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "holdout_target_season": 2026,
+  "lags": [
+    1,
+    2,
+    3
+  ],
+  "window_start_mmdd": "03-01",
+  "window_end_mmdd": "11-01",
+  "minimum_observations": {
+    "whiff_pct": 100,
+    "chase_pct": 100,
+    "zone_pct": 200,
+    "ev": 30,
+    "hardhit_pct": 30,
+    "barrel_pct": 30,
+    "xwobacon": 30,
+    "velocity": 100,
+    "spin_rpm": 100,
+    "extension_ft": 100
+  },
+  "minimum_measurement_coverage": 0.5,
+  "first_rolling_evaluation_year": 2019,
+  "era_sources": [
+    "https://baseballsavant.mlb.com/csv-docs",
+    "https://www.mlb.com/news/2020-statcast-update-includes-pose-tracking-capabilities"
+  ],
+  "era_policy": "Separate lag values and explicit source-year tracking-era codes; no pooled cross-era mean or year-over-year delta",
+  "raw_outcome_features": false,
+  "bat_tracking_features": false
+}

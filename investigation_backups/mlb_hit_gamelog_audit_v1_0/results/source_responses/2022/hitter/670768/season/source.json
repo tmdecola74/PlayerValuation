@@ -1,0 +1,11 @@
+{
+  "target": [
+    2022,
+    "hitter",
+    670768
+  ],
+  "kind": "season",
+  "url": "https://statsapi.mlb.com/api/v1/people/670768/stats?stats=season&group=hitting&season=2022&gameType=R&sportIds=1&limit=1000",
+  "retrieved_at": "2026-10-31T15:50:49.981935+00:00",
+  "sha256": "e5f1042fca0f17ad6a4d9b36eff4d3318a177977527423012cafb0ae6d7286b8"
+}

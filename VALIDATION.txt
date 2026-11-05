@@ -1,0 +1,1 @@
+10 tests passed: real 32-case build, classifications, immutable evidence, complete backup hashes, stable case IDs, dependency masks, no source replacement, holdout boundaries, missing versus zero, integer outs, joint-vector exclusion, reference guard, output guard, confirmation mismatch and feed-tamper rejection. No full actuals dataset was present or materialized.

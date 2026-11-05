@@ -1,0 +1,11 @@
+{
+  "target": [
+    2016,
+    "hitter",
+    571437
+  ],
+  "kind": "season",
+  "url": "https://statsapi.mlb.com/api/v1/people/571437/stats?stats=season&group=hitting&season=2016&gameType=R&sportIds=1&limit=1000",
+  "retrieved_at": "2026-10-31T15:50:11.292789+00:00",
+  "sha256": "7b26a1321d95693f7bdcdf21915c2cc61842772a33227152938b2996445ea73b"
+}

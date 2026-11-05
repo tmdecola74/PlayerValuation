@@ -1,0 +1,4 @@
+Standalone opportunity v1.1
+12 synthetic tests passed on DuckDB 1.4.3 and 2.0.0.
+Tests cover v1.0 preservation, complete verified backup, fit chronology, 2026 outcome invariance, later-validation invariance, missing versus zero and zero-out appearances, role thresholds, count/rate coherence, verified nonappearance evidence, supported/blocked participation, saves-relevant gates, common benchmark pools, read-only warehouse, tamper and output guards.
+Full user dataset fitting and accuracy are not executed here.

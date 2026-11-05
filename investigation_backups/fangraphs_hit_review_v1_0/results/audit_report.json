@@ -1,0 +1,126 @@
+{
+  "version": "1.0.0",
+  "target_player_season_roles": 10,
+  "selected_metric_rows": 15,
+  "compared_game_metric_rows": 925,
+  "differing_metric_rows": 15,
+  "distinct_games": 5,
+  "all_fangraphs_logs_reproduce_original_season_totals": true,
+  "unmatched_or_ambiguous_dates": [
+    {
+      "season": "2016",
+      "mlbam_id": "425794",
+      "metric": "H",
+      "date": "2016-05-12",
+      "fg_rows": 1,
+      "mlb_rows": 0,
+      "fangraphs_count": 0,
+      "mlb_count": null,
+      "status": "UNMATCHED_DATE_NO_GUESS"
+    },
+    {
+      "season": "2016",
+      "mlbam_id": "425794",
+      "metric": "H",
+      "date": "2016-06-27",
+      "fg_rows": 1,
+      "mlb_rows": 0,
+      "fangraphs_count": 0,
+      "mlb_count": null,
+      "status": "UNMATCHED_DATE_NO_GUESS"
+    },
+    {
+      "season": "2016",
+      "mlbam_id": "425794",
+      "metric": "2B",
+      "date": "2016-05-12",
+      "fg_rows": 1,
+      "mlb_rows": 0,
+      "fangraphs_count": 0,
+      "mlb_count": null,
+      "status": "UNMATCHED_DATE_NO_GUESS"
+    },
+    {
+      "season": "2016",
+      "mlbam_id": "425794",
+      "metric": "2B",
+      "date": "2016-06-27",
+      "fg_rows": 1,
+      "mlb_rows": 0,
+      "fangraphs_count": 0,
+      "mlb_count": null,
+      "status": "UNMATCHED_DATE_NO_GUESS"
+    }
+  ],
+  "doubleheader_date_aggregates": [
+    {
+      "season": "2022",
+      "mlbam_id": "670768",
+      "metric": "H",
+      "date": "2022-09-08",
+      "fg_rows": 2,
+      "mlb_rows": 2,
+      "fangraphs_date_total": 0,
+      "mlb_date_total": 0,
+      "difference": 0,
+      "status": "DATE_AGGREGATE_ONLY_NO_GAME_ASSIGNMENT"
+    },
+    {
+      "season": "2022",
+      "mlbam_id": "670768",
+      "metric": "1B",
+      "date": "2022-09-08",
+      "fg_rows": 2,
+      "mlb_rows": 2,
+      "fangraphs_date_total": 0,
+      "mlb_date_total": 0,
+      "difference": 0,
+      "status": "DATE_AGGREGATE_ONLY_NO_GAME_ASSIGNMENT"
+    }
+  ],
+  "source_heading_warnings": [
+    {
+      "file": "fangraphs-game-log-duane-underwood-jr.-2022.csv",
+      "duplicate_headers": {
+        "GS": 2
+      },
+      "policy": "Unused GS duplicates retained in original source only"
+    },
+    {
+      "file": "fangraphs-game-log-jim-henderson-2016.csv",
+      "duplicate_headers": {
+        "GS": 2
+      },
+      "policy": "Unused GS duplicates retained in original source only"
+    },
+    {
+      "file": "fangraphs-game-log-madison-bumgarner-2016.csv",
+      "duplicate_headers": {
+        "GS": 2
+      },
+      "policy": "Unused GS duplicates retained in original source only"
+    },
+    {
+      "file": "fangraphs-game-log-robbie-ross-jr.-2016.csv",
+      "duplicate_headers": {
+        "GS": 2
+      },
+      "policy": "Unused GS duplicates retained in original source only"
+    },
+    {
+      "file": "fangraphs-game-log-ryan-vogelsong-2016.csv",
+      "duplicate_headers": {
+        "GS": 2
+      },
+      "policy": "Unused GS duplicates retained in original source only"
+    }
+  ],
+  "counts_modified": false,
+  "model_ready": false,
+  "limitations": [
+    "Game log differences locate dates, not individual scoring decisions.",
+    "MLB play candidates are not FanGraphs play alignment or proof of dated scoring revisions.",
+    "Two zero-hit Wainwright appearances have no frozen MLB role game-log entry.",
+    "No original actuals reference or Statcast file is changed."
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "built_at": "2026-10-31T15:51:40.753772+00:00",
+  "games": 3,
+  "player_games": 3,
+  "counts_modified": false,
+  "limitations": [
+    "Current MLB feed, not dated scoring revision evidence.",
+    "Absent reconstructed games remain absent; zero-hit MLB appearances are not inserted into physical Statcast."
+  ]
+}

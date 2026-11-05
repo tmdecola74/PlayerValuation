@@ -1,0 +1,9 @@
+v1.4 validation
+
+21 tests passed with DuckDB 1.4.3 and NumPy 2.5.4.
+21 tests passed with DuckDB 2.0.0 and NumPy 2.5.4.
+All delivered Python files compile.
+
+Coverage: historical gate replay and future-fit rejection; no 2026 outcome reads during build; 2026-label invariance of composition and forecasts; unchanged classifications and exact saves; hitter and pitcher component ratios; missing and zero-denominator handling; no reconstruction of missing/excluded labels; external SV+HLD exclusions and read-only warehouse access; identical eligible comparison pools; all fantasy category scoring; complete verified backups and unchanged inputs; rejection of tampered, duplicate and incomplete forecasts; existing-output protection; interrupt-stage cleanup; separate pitcher-change research candidate.
+
+Tests use synthetic fixtures assembled with the installed v1.0-v1.3 test helpers. Production accuracy has not been calculated here. Run against the full local frozen outputs before assessing category improvements. 2026 remains previously reviewed disclosed evaluation data.

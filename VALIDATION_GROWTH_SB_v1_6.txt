@@ -1,0 +1,9 @@
+Standalone growth/SB v1.6 validation
+
+25 tests passed on DuckDB 1.4.3 and NumPy 2.5.4.
+25 tests passed on DuckDB 2.0.0 and NumPy 2.5.4.
+All delivered Python files compile.
+
+Verified: complete synthetic source-chain build through v1.5; independent workload and SB arms; role-probability growth mixture; log-magnitude count bounds; sparse role-expert pooled fallback; missing versus zero anchors and source-2020 normalization; no target-label predictors; fold-specific preprocessing and strict fit chronology; future-label invariance of earlier fits; no 2026 label parsing during build; invariance of frozen models, historical choices and forecasts to 2026 outcome changes; protected prior-starter/reliever and prior-runner/zero-SB cohorts; exclusion of 2020/future folds from selection; masked SB components never backfilled; true zero outcomes retained; identical internal/external comparison pools; unsupported candidate fallback; exact frozen holds and saves; unchanged hitter playing time; separate selected forecasts; coherent full vectors; tamper and rehashed altered-selection/hold checks; incomplete-vector rejection; complete verified backups and input immutability; existing-output protection; interrupted staging cleanup.
+
+Production accuracy and model adoption have not been computed here. Tests use synthetic fixtures and the installed v1.0-v1.5 test helpers. Historical folds alone must determine choices. 2026 remains previously reviewed disclosed evaluation data.

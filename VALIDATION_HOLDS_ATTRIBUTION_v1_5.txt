@@ -1,0 +1,9 @@
+Validation of standalone holds/attribution v1.5
+
+22 tests passed with DuckDB 1.4.3 and NumPy 2.5.4.
+22 tests passed with DuckDB 2.0.0 and NumPy 2.5.4.
+All delivered Python files compile.
+
+Verified: exact symmetric workload/rate identity and counterfactuals; MSE interaction reconstruction; pure workload and pure rate errors; missing/zero denominator handling and true zero counts; chronological folds and training-only preprocessing; future-target-label invariance; 2026 outcome invariance of frozen models/choices/forecasts; no builder parsing of 2026 labels; source HLD/G/GS label checks; unsupported class/count fallback; positive-history versus missing/zero distinction; both-baseline and both-prior-cohort gates; exclusion of 2020/future folds from selection; preserved saves and non-holds vectors; identical comparison pools; external benchmark pool mechanics; role/workload diagnostics; ranked outliers; complete verified backups; source immutability; existing-output protection; tamper rejection; rejection of altered saves or selections even after checksum updates; interrupt-stage cleanup.
+
+Integration fixtures use installed v1.0-v1.4 test helpers and synthetic labels. Full local production accuracy, adoption and outlier explanations have not been computed here. Run the two scripts against your complete frozen local outputs. Historical data alone determine selection; 2026 remains previously reviewed disclosed evaluation data.

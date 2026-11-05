@@ -1,0 +1,7 @@
+season,player_type,mlbam_id,name,metric,game_pk,date,reconstructed_terminal,reconstructed_rule,reconstructed_evidence,mlb_game_log_count,mlb_minus_reconstructed,status
+2016,hitter,518586,Charlie Culberson,H,446916,2016-04-08,,,,0,,MISSING_RECONSTRUCTED_GAME
+2016,hitter,518586,Charlie Culberson,H,447137,2016-04-24,,,,0,,MISSING_RECONSTRUCTED_GAME
+2016,hitter,518586,Charlie Culberson,H,448909,2016-09-05,,,,0,,MISSING_RECONSTRUCTED_GAME
+2016,hitter,518586,Charlie Culberson,1B,446916,2016-04-08,,,,0,,MISSING_RECONSTRUCTED_GAME
+2016,hitter,518586,Charlie Culberson,1B,447137,2016-04-24,,,,0,,MISSING_RECONSTRUCTED_GAME
+2016,hitter,518586,Charlie Culberson,1B,448909,2016-09-05,,,,0,,MISSING_RECONSTRUCTED_GAME

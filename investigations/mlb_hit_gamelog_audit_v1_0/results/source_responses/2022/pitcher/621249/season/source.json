@@ -1,0 +1,11 @@
+{
+  "target": [
+    2022,
+    "pitcher",
+    621249
+  ],
+  "kind": "season",
+  "url": "https://statsapi.mlb.com/api/v1/people/621249/stats?stats=season&group=pitching&season=2022&gameType=R&sportIds=1&limit=1000",
+  "retrieved_at": "2026-10-31T15:51:02.102478+00:00",
+  "sha256": "0be7ecba10b6711e6c6bd9f439690056ade866c17688f6f1c40e8a498e9efd2b"
+}

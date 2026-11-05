@@ -1,0 +1,1 @@
+{"version":"1.1.0","first_origin":2019,"holdout_year":2026,"minimum_fit_rows":50,"minimum_validation_rows":30,"minimum_selection_folds":2,"minimum_mse_improvement":0.01,"maximum_mae_degradation":0.01,"participation_minimum_each_class":20,"minimum_saves_cohort_rows":15}

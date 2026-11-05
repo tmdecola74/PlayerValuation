@@ -1,0 +1,926 @@
+season,player_type,mlbam_id,name,metric,date,game_pk,team,opponent,fangraphs_game_count,mlb_game_count,reconstructed_game_count,fg_minus_mlb,status,source_file
+2016,hitter,425794,Adam Wainwright,H,2016-04-03,446877,STL,@PIT,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,H,2016-04-10,446954,STL,@ATL,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,H,2016-04-16,447026,STL,CIN,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,H,2016-04-22,447115,STL,@SDP,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,H,2016-04-27,447190,STL,@ARI,1,1,1,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,H,2016-05-02,447249,STL,PHI,2,2,2,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,H,2016-05-07,447320,STL,PIT,1,1,1,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,H,2016-05-18,447463,STL,COL,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,H,2016-05-23,447531,STL,CHC,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,H,2016-05-28,447608,STL,@WSN,1,1,1,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,H,2016-06-03,447689,STL,SFG,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,H,2016-06-09,447770,STL,@CIN,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,H,2016-06-10,447785,STL,@PIT,1,1,1,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,H,2016-06-15,447847,STL,HOU,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,H,2016-06-21,447933,STL,@CHC,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,H,2016-07-02,448082,STL,MIL,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,H,2016-07-07,448153,STL,PIT,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,H,2016-07-16,448226,STL,MIA,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,H,2016-07-21,448296,STL,SDP,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,H,2016-07-27,448382,STL,@NYM,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,H,2016-08-02,448457,STL,@CIN,1,1,1,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,H,2016-08-07,448518,STL,ATL,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,H,2016-08-12,448595,STL,@CHC,1,1,1,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,H,2016-08-19,448688,STL,@PHI,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,H,2016-08-25,448768,STL,NYM,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,H,2016-08-30,448841,STL,@MIL,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,H,2016-09-05,448921,STL,@PIT,2,2,2,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,H,2016-09-10,448984,STL,MIL,1,1,1,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,H,2016-09-15,449058,STL,@SFG,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,H,2016-09-20,449128,STL,@COL,2,2,2,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,H,2016-09-27,449215,STL,CIN,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,H,2016-10-02,449294,STL,PIT,1,0,0,1,DIFFERENCE,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,2B,2016-04-03,446877,STL,@PIT,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,2B,2016-04-10,446954,STL,@ATL,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,2B,2016-04-16,447026,STL,CIN,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,2B,2016-04-22,447115,STL,@SDP,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,2B,2016-04-27,447190,STL,@ARI,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,2B,2016-05-02,447249,STL,PHI,1,1,1,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,2B,2016-05-07,447320,STL,PIT,1,1,1,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,2B,2016-05-18,447463,STL,COL,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,2B,2016-05-23,447531,STL,CHC,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,2B,2016-05-28,447608,STL,@WSN,1,1,1,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,2B,2016-06-03,447689,STL,SFG,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,2B,2016-06-09,447770,STL,@CIN,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,2B,2016-06-10,447785,STL,@PIT,1,1,1,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,2B,2016-06-15,447847,STL,HOU,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,2B,2016-06-21,447933,STL,@CHC,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,2B,2016-07-02,448082,STL,MIL,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,2B,2016-07-07,448153,STL,PIT,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,2B,2016-07-16,448226,STL,MIA,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,2B,2016-07-21,448296,STL,SDP,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,2B,2016-07-27,448382,STL,@NYM,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,2B,2016-08-02,448457,STL,@CIN,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,2B,2016-08-07,448518,STL,ATL,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,2B,2016-08-12,448595,STL,@CHC,1,1,1,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,2B,2016-08-19,448688,STL,@PHI,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,2B,2016-08-25,448768,STL,NYM,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,2B,2016-08-30,448841,STL,@MIL,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,2B,2016-09-05,448921,STL,@PIT,1,1,1,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,2B,2016-09-10,448984,STL,MIL,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,2B,2016-09-15,449058,STL,@SFG,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,2B,2016-09-20,449128,STL,@COL,1,1,1,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,2B,2016-09-27,449215,STL,CIN,0,0,0,0,MATCH,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,425794,Adam Wainwright,2B,2016-10-02,449294,STL,PIT,1,0,0,1,DIFFERENCE,fangraphs-game-log-adam-wainwright-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-04-05,446870,NYY,HOU,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-04-06,446893,NYY,HOU,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-04-07,446906,NYY,HOU,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-04-08,446919,NYY,@DET,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-04-12,446976,NYY,@TOR,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-04-13,446992,NYY,@TOR,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-04-14,447004,NYY,@TOR,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-04-15,447019,NYY,SEA,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-04-16,447034,NYY,SEA,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-04-19,447068,NYY,OAK,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-04-20,447083,NYY,OAK,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-04-21,447097,NYY,OAK,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-04-22,447116,NYY,TBR,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-04-23,447131,NYY,TBR,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-04-24,447146,NYY,TBR,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-04-25,447156,NYY,@TEX,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-04-27,447185,NYY,@TEX,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-04-29,447209,NYY,@BOS,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-04-30,447224,NYY,@BOS,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-05-01,447239,NYY,@BOS,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-05-03,447263,NYY,@BAL,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-05-04,447278,NYY,@BAL,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-05-05,447290,NYY,@BAL,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-05-07,447311,NYY,BOS,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-05-08,447326,NYY,BOS,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-05-09,447345,NYY,KCR,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-05-10,447358,NYY,KCR,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-05-11,447373,NYY,KCR,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-05-12,447385,NYY,KCR,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-05-13,447392,NYY,CHW,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-05-14,447407,NYY,CHW,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-05-15,447422,NYY,CHW,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-05-16,447441,NYY,@ARI,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-05-17,447453,NYY,@ARI,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-05-18,447468,NYY,@ARI,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-05-19,447481,NYY,@OAK,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-05-21,447510,NYY,@OAK,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-05-22,447525,NYY,@OAK,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-05-24,447554,NYY,TOR,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-05-25,447569,NYY,TOR,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-05-26,447578,NYY,TOR,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-05-27,447588,NYY,@TBR,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-05-28,447603,NYY,@TBR,3,3,3,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-05-30,447631,NYY,@TOR,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-05-31,447646,NYY,@TOR,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-06-01,447661,NYY,@TOR,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-06-02,446949,NYY,@DET,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-06-03,447687,NYY,@BAL,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-06-04,447702,NYY,@BAL,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-06-05,447717,NYY,@BAL,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-06-06,447730,NYY,LAA,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-06-07,447741,NYY,LAA,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-06-09,447767,NYY,LAA,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-06-10,447776,NYY,DET,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-06-11,447791,NYY,DET,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-06-12,447806,NYY,DET,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-06-14,447837,NYY,@COL,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-06-15,447852,NYY,@COL,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-06-16,447861,NYY,@MIN,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-06-17,447875,NYY,@MIN,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-06-18,447890,NYY,@MIN,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-06-19,447905,NYY,@MIN,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-06-21,447925,NYY,COL,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-06-22,447940,NYY,COL,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-06-24,447966,NYY,MIN,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-06-25,447981,NYY,MIN,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-06-26,447996,NYY,MIN,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-06-27,448014,NYY,TEX,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-06-28,448029,NYY,TEX,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-06-29,448044,NYY,TEX,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-06-30,448056,NYY,TEX,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-07-01,448068,NYY,@SDP,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-07-02,448083,NYY,@SDP,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-07-04,448111,NYY,@CHW,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-07-05,448126,NYY,@CHW,3,3,3,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-07-06,448141,NYY,@CHW,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-07-07,448150,NYY,@CLE,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-07-08,448164,NYY,@CLE,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-07-09,448179,NYY,@CLE,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-07-10,448194,NYY,@CLE,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-07-15,448204,NYY,BOS,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-07-16,448219,NYY,BOS,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-07-17,448234,NYY,BOS,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-07-18,448249,NYY,BAL,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-07-19,448260,NYY,BAL,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-07-21,448290,NYY,BAL,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-07-22,448310,NYY,SFG,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-07-23,448325,NYY,SFG,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-07-24,448340,NYY,SFG,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-07-25,448350,NYY,@HOU,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-07-26,448362,NYY,@HOU,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-07-27,448377,NYY,@HOU,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-07-29,448401,NYY,@TBR,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-07-30,448416,NYY,@TBR,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-07-31,448431,NYY,@TBR,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-08-01,448443,NYY,@NYM,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-08-02,448453,NYY,@NYM,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-08-03,448468,NYY,NYM,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-08-04,448481,NYY,NYM,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-08-05,448493,NYY,CLE,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-08-06,448508,NYY,CLE,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-08-07,448523,NYY,CLE,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-08-09,448550,NYY,@BOS,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-08-10,448566,NYY,@BOS,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-08-11,448578,NYY,@BOS,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-08-12,448596,NYY,TBR,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-08-13,448611,NYY,TBR,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-08-15,448633,NYY,TOR,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-08-16,448648,NYY,TOR,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-08-17,448663,NYY,TOR,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-08-21,448716,NYY,@LAA,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-08-22,448729,NYY,@SEA,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-08-26,448773,NYY,BAL,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-08-29,448822,NYY,@KCR,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-08-30,448836,NYY,@KCR,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-08-31,448851,NYY,@KCR,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-09-02,448873,NYY,@BAL,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-09-03,448888,NYY,@BAL,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-09-04,448903,NYY,@BAL,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-09-05,448923,NYY,TOR,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-09-06,448938,NYY,TOR,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-09-07,448953,NYY,TOR,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-09-08,448959,NYY,TBR,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-09-09,448974,NYY,TBR,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-09-11,449004,NYY,TBR,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-09-12,449010,NYY,LAD,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-09-13,449025,NYY,LAD,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-09-14,449040,NYY,LAD,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-09-15,449055,NYY,@BOS,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-09-16,449068,NYY,@BOS,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-09-17,449083,NYY,@BOS,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-09-22,449152,NYY,@TBR,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-09-23,449164,NYY,@TOR,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-09-25,449194,NYY,@TOR,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-09-26,449207,NYY,@TOR,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-09-27,449213,NYY,BOS,0,1,1,-1,DIFFERENCE,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-09-28,449228,NYY,BOS,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-09-29,449243,NYY,BOS,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-09-30,449253,NYY,BAL,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,H,2016-10-01,449268,NYY,BAL,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-04-05,446870,NYY,HOU,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-04-06,446893,NYY,HOU,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-04-07,446906,NYY,HOU,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-04-08,446919,NYY,@DET,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-04-12,446976,NYY,@TOR,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-04-13,446992,NYY,@TOR,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-04-14,447004,NYY,@TOR,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-04-15,447019,NYY,SEA,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-04-16,447034,NYY,SEA,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-04-19,447068,NYY,OAK,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-04-20,447083,NYY,OAK,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-04-21,447097,NYY,OAK,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-04-22,447116,NYY,TBR,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-04-23,447131,NYY,TBR,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-04-24,447146,NYY,TBR,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-04-25,447156,NYY,@TEX,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-04-27,447185,NYY,@TEX,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-04-29,447209,NYY,@BOS,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-04-30,447224,NYY,@BOS,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-05-01,447239,NYY,@BOS,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-05-03,447263,NYY,@BAL,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-05-04,447278,NYY,@BAL,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-05-05,447290,NYY,@BAL,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-05-07,447311,NYY,BOS,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-05-08,447326,NYY,BOS,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-05-09,447345,NYY,KCR,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-05-10,447358,NYY,KCR,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-05-11,447373,NYY,KCR,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-05-12,447385,NYY,KCR,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-05-13,447392,NYY,CHW,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-05-14,447407,NYY,CHW,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-05-15,447422,NYY,CHW,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-05-16,447441,NYY,@ARI,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-05-17,447453,NYY,@ARI,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-05-18,447468,NYY,@ARI,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-05-19,447481,NYY,@OAK,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-05-21,447510,NYY,@OAK,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-05-22,447525,NYY,@OAK,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-05-24,447554,NYY,TOR,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-05-25,447569,NYY,TOR,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-05-26,447578,NYY,TOR,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-05-27,447588,NYY,@TBR,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-05-28,447603,NYY,@TBR,3,3,3,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-05-30,447631,NYY,@TOR,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-05-31,447646,NYY,@TOR,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-06-01,447661,NYY,@TOR,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-06-02,446949,NYY,@DET,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-06-03,447687,NYY,@BAL,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-06-04,447702,NYY,@BAL,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-06-05,447717,NYY,@BAL,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-06-06,447730,NYY,LAA,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-06-07,447741,NYY,LAA,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-06-09,447767,NYY,LAA,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-06-10,447776,NYY,DET,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-06-11,447791,NYY,DET,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-06-12,447806,NYY,DET,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-06-14,447837,NYY,@COL,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-06-15,447852,NYY,@COL,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-06-16,447861,NYY,@MIN,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-06-17,447875,NYY,@MIN,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-06-18,447890,NYY,@MIN,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-06-19,447905,NYY,@MIN,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-06-21,447925,NYY,COL,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-06-22,447940,NYY,COL,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-06-24,447966,NYY,MIN,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-06-25,447981,NYY,MIN,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-06-26,447996,NYY,MIN,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-06-27,448014,NYY,TEX,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-06-28,448029,NYY,TEX,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-06-29,448044,NYY,TEX,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-06-30,448056,NYY,TEX,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-07-01,448068,NYY,@SDP,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-07-02,448083,NYY,@SDP,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-07-04,448111,NYY,@CHW,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-07-05,448126,NYY,@CHW,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-07-06,448141,NYY,@CHW,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-07-07,448150,NYY,@CLE,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-07-08,448164,NYY,@CLE,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-07-09,448179,NYY,@CLE,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-07-10,448194,NYY,@CLE,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-07-15,448204,NYY,BOS,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-07-16,448219,NYY,BOS,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-07-17,448234,NYY,BOS,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-07-18,448249,NYY,BAL,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-07-19,448260,NYY,BAL,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-07-21,448290,NYY,BAL,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-07-22,448310,NYY,SFG,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-07-23,448325,NYY,SFG,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-07-24,448340,NYY,SFG,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-07-25,448350,NYY,@HOU,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-07-26,448362,NYY,@HOU,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-07-27,448377,NYY,@HOU,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-07-29,448401,NYY,@TBR,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-07-30,448416,NYY,@TBR,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-07-31,448431,NYY,@TBR,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-08-01,448443,NYY,@NYM,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-08-02,448453,NYY,@NYM,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-08-03,448468,NYY,NYM,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-08-04,448481,NYY,NYM,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-08-05,448493,NYY,CLE,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-08-06,448508,NYY,CLE,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-08-07,448523,NYY,CLE,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-08-09,448550,NYY,@BOS,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-08-10,448566,NYY,@BOS,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-08-11,448578,NYY,@BOS,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-08-12,448596,NYY,TBR,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-08-13,448611,NYY,TBR,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-08-15,448633,NYY,TOR,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-08-16,448648,NYY,TOR,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-08-17,448663,NYY,TOR,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-08-21,448716,NYY,@LAA,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-08-22,448729,NYY,@SEA,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-08-26,448773,NYY,BAL,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-08-29,448822,NYY,@KCR,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-08-30,448836,NYY,@KCR,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-08-31,448851,NYY,@KCR,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-09-02,448873,NYY,@BAL,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-09-03,448888,NYY,@BAL,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-09-04,448903,NYY,@BAL,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-09-05,448923,NYY,TOR,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-09-06,448938,NYY,TOR,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-09-07,448953,NYY,TOR,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-09-08,448959,NYY,TBR,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-09-09,448974,NYY,TBR,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-09-11,449004,NYY,TBR,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-09-12,449010,NYY,LAD,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-09-13,449025,NYY,LAD,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-09-14,449040,NYY,LAD,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-09-15,449055,NYY,@BOS,2,2,2,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-09-16,449068,NYY,@BOS,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-09-17,449083,NYY,@BOS,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-09-22,449152,NYY,@TBR,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-09-23,449164,NYY,@TOR,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-09-25,449194,NYY,@TOR,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-09-26,449207,NYY,@TOR,1,1,1,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-09-27,449213,NYY,BOS,0,1,1,-1,DIFFERENCE,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-09-28,449228,NYY,BOS,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-09-29,449243,NYY,BOS,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-09-30,449253,NYY,BAL,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,452104,Chase Headley,1B,2016-10-01,449268,NYY,BAL,0,0,0,0,MATCH,fangraphs-game-log-chase-headley-2016.csv
+2016,hitter,518586,Charlie Culberson,H,2016-04-04,446871,LAD,@SDP,0,0,0,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,H,2016-04-07,446907,LAD,@SFG,0,0,0,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,H,2016-04-08,446916,LAD,@SFG,0,0,,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,H,2016-04-09,446931,LAD,@SFG,2,2,2,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,H,2016-04-12,446968,LAD,ARI,0,0,0,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,H,2016-04-15,447018,LAD,SFG,2,2,2,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,H,2016-04-16,447033,LAD,SFG,0,0,0,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,H,2016-04-20,447080,LAD,@ATL,0,0,0,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,H,2016-04-21,447094,LAD,@ATL,0,0,0,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,H,2016-04-24,447137,LAD,@COL,0,0,,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,H,2016-04-25,447155,LAD,MIA,1,1,1,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,H,2016-05-03,447261,LAD,@TBR,0,0,0,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,H,2016-05-04,447276,LAD,@TBR,0,0,0,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,H,2016-05-09,447347,LAD,NYM,2,2,2,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,H,2016-05-16,447439,LAD,LAA,0,0,0,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,H,2016-07-20,448279,LAD,@WSN,1,1,1,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,H,2016-08-23,448743,LAD,SFG,0,0,0,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,H,2016-08-25,448770,LAD,SFG,0,0,0,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,H,2016-08-26,448774,LAD,CHC,1,1,1,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,H,2016-08-27,448789,LAD,CHC,0,0,0,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,H,2016-08-28,448804,LAD,CHC,0,0,0,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,H,2016-08-29,448819,LAD,@COL,0,0,0,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,H,2016-08-31,448848,LAD,@COL,1,1,1,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,H,2016-09-04,448904,LAD,SDP,1,1,1,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,H,2016-09-05,448909,LAD,ARI,0,0,,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,H,2016-09-07,448939,LAD,ARI,0,0,0,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,H,2016-09-18,449094,LAD,@ARI,1,1,1,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,H,2016-09-21,449142,LAD,SFG,1,1,1,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,H,2016-09-24,449176,LAD,COL,1,1,1,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,H,2016-09-25,449191,LAD,COL,3,3,3,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,H,2016-09-27,449218,LAD,@SDP,1,1,1,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,H,2016-09-29,449248,LAD,@SDP,1,1,1,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,H,2016-09-30,449258,LAD,@SFG,0,1,1,-1,DIFFERENCE,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,H,2016-10-02,449288,LAD,@SFG,0,0,0,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,1B,2016-04-04,446871,LAD,@SDP,0,0,0,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,1B,2016-04-07,446907,LAD,@SFG,0,0,0,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,1B,2016-04-08,446916,LAD,@SFG,0,0,,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,1B,2016-04-09,446931,LAD,@SFG,0,0,0,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,1B,2016-04-12,446968,LAD,ARI,0,0,0,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,1B,2016-04-15,447018,LAD,SFG,2,2,2,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,1B,2016-04-16,447033,LAD,SFG,0,0,0,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,1B,2016-04-20,447080,LAD,@ATL,0,0,0,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,1B,2016-04-21,447094,LAD,@ATL,0,0,0,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,1B,2016-04-24,447137,LAD,@COL,0,0,,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,1B,2016-04-25,447155,LAD,MIA,1,1,1,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,1B,2016-05-03,447261,LAD,@TBR,0,0,0,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,1B,2016-05-04,447276,LAD,@TBR,0,0,0,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,1B,2016-05-09,447347,LAD,NYM,2,2,2,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,1B,2016-05-16,447439,LAD,LAA,0,0,0,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,1B,2016-07-20,448279,LAD,@WSN,1,1,1,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,1B,2016-08-23,448743,LAD,SFG,0,0,0,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,1B,2016-08-25,448770,LAD,SFG,0,0,0,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,1B,2016-08-26,448774,LAD,CHC,1,1,1,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,1B,2016-08-27,448789,LAD,CHC,0,0,0,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,1B,2016-08-28,448804,LAD,CHC,0,0,0,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,1B,2016-08-29,448819,LAD,@COL,0,0,0,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,1B,2016-08-31,448848,LAD,@COL,1,1,1,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,1B,2016-09-04,448904,LAD,SDP,1,1,1,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,1B,2016-09-05,448909,LAD,ARI,0,0,,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,1B,2016-09-07,448939,LAD,ARI,0,0,0,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,1B,2016-09-18,449094,LAD,@ARI,1,1,1,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,1B,2016-09-21,449142,LAD,SFG,1,1,1,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,1B,2016-09-24,449176,LAD,COL,1,1,1,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,1B,2016-09-25,449191,LAD,COL,2,2,2,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,1B,2016-09-27,449218,LAD,@SDP,1,1,1,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,1B,2016-09-29,449248,LAD,@SDP,0,0,0,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,1B,2016-09-30,449258,LAD,@SFG,0,1,1,-1,DIFFERENCE,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,518586,Charlie Culberson,1B,2016-10-02,449288,LAD,@SFG,0,0,0,0,MATCH,fangraphs-game-log-charlie-culberson-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-07-28,448390,PHI,@ATL,3,3,3,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-07-29,448403,PHI,@ATL,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-07-30,448418,PHI,@ATL,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-07-31,448433,PHI,@ATL,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-08-02,448456,PHI,SFG,3,3,3,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-08-03,448471,PHI,SFG,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-08-04,448484,PHI,SFG,1,1,1,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-08-05,448499,PHI,@SDP,1,1,1,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-08-06,448514,PHI,@SDP,1,1,1,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-08-07,448529,PHI,@SDP,2,2,2,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-08-08,448538,PHI,@LAD,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-08-09,448551,PHI,@LAD,1,1,1,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-08-10,448567,PHI,@LAD,1,1,1,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-08-12,448587,PHI,COL,2,2,2,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-08-13,448602,PHI,COL,1,1,1,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-08-14,448617,PHI,COL,1,1,1,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-08-16,448638,PHI,LAD,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-08-17,448653,PHI,LAD,1,1,1,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-08-18,448669,PHI,LAD,2,2,2,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-08-19,448688,PHI,STL,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-08-20,448703,PHI,STL,1,1,1,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-08-21,448718,PHI,STL,1,1,1,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-08-23,448742,PHI,@CHW,1,1,1,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-08-24,448758,PHI,@CHW,2,2,2,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-08-26,448782,PHI,@NYM,1,1,1,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-08-27,448797,PHI,@NYM,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-08-28,448812,PHI,@NYM,1,1,1,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-08-29,448829,PHI,WSN,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-08-30,448844,PHI,WSN,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-08-31,448859,PHI,WSN,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-09-02,448865,PHI,ATL,1,1,1,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-09-03,448880,PHI,ATL,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-09-04,448895,PHI,ATL,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-09-05,448919,PHI,@MIA,1,1,1,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-09-06,448934,PHI,@MIA,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-09-07,448949,PHI,@MIA,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-09-08,448958,PHI,@WSN,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-09-09,448971,PHI,@WSN,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-09-10,448986,PHI,@WSN,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-09-11,449001,PHI,@WSN,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-09-13,449031,PHI,PIT,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-09-14,449046,PHI,PIT,3,3,3,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-09-15,449057,PHI,PIT,1,1,1,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-09-16,449065,PHI,MIA,1,1,1,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-09-17,449080,PHI,MIA,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-09-18,449095,PHI,MIA,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-09-20,449119,PHI,CHW,1,1,1,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-09-21,449134,PHI,CHW,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-09-22,449153,PHI,@NYM,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-09-24,449180,PHI,@NYM,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-09-25,449195,PHI,@NYM,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-09-27,449223,PHI,@ATL,1,1,1,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-09-28,449238,PHI,@ATL,1,1,1,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-09-29,449251,PHI,@ATL,2,2,2,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-09-30,449262,PHI,NYM,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-10-01,449277,PHI,NYM,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,H,2016-10-02,449292,PHI,NYM,1,0,0,1,DIFFERENCE,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-07-28,448390,PHI,@ATL,2,2,2,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-07-29,448403,PHI,@ATL,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-07-30,448418,PHI,@ATL,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-07-31,448433,PHI,@ATL,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-08-02,448456,PHI,SFG,2,2,2,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-08-03,448471,PHI,SFG,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-08-04,448484,PHI,SFG,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-08-05,448499,PHI,@SDP,1,1,1,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-08-06,448514,PHI,@SDP,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-08-07,448529,PHI,@SDP,2,2,2,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-08-08,448538,PHI,@LAD,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-08-09,448551,PHI,@LAD,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-08-10,448567,PHI,@LAD,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-08-12,448587,PHI,COL,2,2,2,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-08-13,448602,PHI,COL,1,1,1,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-08-14,448617,PHI,COL,1,1,1,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-08-16,448638,PHI,LAD,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-08-17,448653,PHI,LAD,1,1,1,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-08-18,448669,PHI,LAD,2,2,2,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-08-19,448688,PHI,STL,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-08-20,448703,PHI,STL,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-08-21,448718,PHI,STL,1,1,1,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-08-23,448742,PHI,@CHW,1,1,1,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-08-24,448758,PHI,@CHW,2,2,2,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-08-26,448782,PHI,@NYM,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-08-27,448797,PHI,@NYM,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-08-28,448812,PHI,@NYM,1,1,1,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-08-29,448829,PHI,WSN,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-08-30,448844,PHI,WSN,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-08-31,448859,PHI,WSN,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-09-02,448865,PHI,ATL,1,1,1,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-09-03,448880,PHI,ATL,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-09-04,448895,PHI,ATL,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-09-05,448919,PHI,@MIA,1,1,1,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-09-06,448934,PHI,@MIA,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-09-07,448949,PHI,@MIA,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-09-08,448958,PHI,@WSN,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-09-09,448971,PHI,@WSN,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-09-10,448986,PHI,@WSN,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-09-11,449001,PHI,@WSN,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-09-13,449031,PHI,PIT,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-09-14,449046,PHI,PIT,3,3,3,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-09-15,449057,PHI,PIT,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-09-16,449065,PHI,MIA,1,1,1,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-09-17,449080,PHI,MIA,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-09-18,449095,PHI,MIA,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-09-20,449119,PHI,CHW,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-09-21,449134,PHI,CHW,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-09-22,449153,PHI,@NYM,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-09-24,449180,PHI,@NYM,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-09-25,449195,PHI,@NYM,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-09-27,449223,PHI,@ATL,1,1,1,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-09-28,449238,PHI,@ATL,1,1,1,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-09-29,449251,PHI,@ATL,2,2,2,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-09-30,449262,PHI,NYM,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-10-01,449277,PHI,NYM,0,0,0,0,MATCH,fangraphs-game-log-aaron-altherr-2016.csv
+2016,hitter,571437,Aaron Altherr,1B,2016-10-02,449292,PHI,NYM,1,0,0,1,DIFFERENCE,fangraphs-game-log-aaron-altherr-2016.csv
+2016,pitcher,285064,Ryan Vogelsong,H,2016-04-08,446922,PIT,@CIN,1,1,1,0,MATCH,fangraphs-game-log-ryan-vogelsong-2016.csv
+2016,pitcher,285064,Ryan Vogelsong,H,2016-04-13,446987,PIT,DET,4,4,4,0,MATCH,fangraphs-game-log-ryan-vogelsong-2016.csv
+2016,pitcher,285064,Ryan Vogelsong,H,2016-04-19,447069,PIT,@SDP,1,1,1,0,MATCH,fangraphs-game-log-ryan-vogelsong-2016.csv
+2016,pitcher,285064,Ryan Vogelsong,H,2016-04-24,447143,PIT,@ARI,2,2,2,0,MATCH,fangraphs-game-log-ryan-vogelsong-2016.csv
+2016,pitcher,285064,Ryan Vogelsong,H,2016-04-27,447188,PIT,@COL,0,0,0,0,MATCH,fangraphs-game-log-ryan-vogelsong-2016.csv
+2016,pitcher,285064,Ryan Vogelsong,H,2016-05-01,447231,PIT,CIN,2,2,2,0,MATCH,fangraphs-game-log-ryan-vogelsong-2016.csv
+2016,pitcher,285064,Ryan Vogelsong,H,2016-05-04,447272,PIT,CHC,1,1,1,0,MATCH,fangraphs-game-log-ryan-vogelsong-2016.csv
+2016,pitcher,285064,Ryan Vogelsong,H,2016-05-08,447335,PIT,@STL,2,2,2,0,MATCH,fangraphs-game-log-ryan-vogelsong-2016.csv
+2016,pitcher,285064,Ryan Vogelsong,H,2016-05-09,447349,PIT,@CIN,2,2,2,0,MATCH,fangraphs-game-log-ryan-vogelsong-2016.csv
+2016,pitcher,285064,Ryan Vogelsong,H,2016-05-13,447401,PIT,@CHC,0,0,0,0,MATCH,fangraphs-game-log-ryan-vogelsong-2016.csv
+2016,pitcher,285064,Ryan Vogelsong,H,2016-05-17,447444,PIT,ATL,5,5,5,0,MATCH,fangraphs-game-log-ryan-vogelsong-2016.csv
+2016,pitcher,285064,Ryan Vogelsong,H,2016-05-23,447521,PIT,COL,2,2,2,0,MATCH,fangraphs-game-log-ryan-vogelsong-2016.csv
+2016,pitcher,285064,Ryan Vogelsong,H,2016-08-04,448483,PIT,@ATL,3,3,3,0,MATCH,fangraphs-game-log-ryan-vogelsong-2016.csv
+2016,pitcher,285064,Ryan Vogelsong,H,2016-08-10,448568,PIT,SDP,3,3,3,0,MATCH,fangraphs-game-log-ryan-vogelsong-2016.csv
+2016,pitcher,285064,Ryan Vogelsong,H,2016-08-15,448630,PIT,@SFG,9,9,9,0,MATCH,fangraphs-game-log-ryan-vogelsong-2016.csv
+2016,pitcher,285064,Ryan Vogelsong,H,2016-08-21,448712,PIT,MIA,3,3,3,0,MATCH,fangraphs-game-log-ryan-vogelsong-2016.csv
+2016,pitcher,285064,Ryan Vogelsong,H,2016-08-26,448783,PIT,@MIL,4,4,4,0,MATCH,fangraphs-game-log-ryan-vogelsong-2016.csv
+2016,pitcher,285064,Ryan Vogelsong,H,2016-08-31,448853,PIT,@CHC,6,6,6,0,MATCH,fangraphs-game-log-ryan-vogelsong-2016.csv
+2016,pitcher,285064,Ryan Vogelsong,H,2016-09-06,448936,PIT,STL,6,6,6,0,MATCH,fangraphs-game-log-ryan-vogelsong-2016.csv
+2016,pitcher,285064,Ryan Vogelsong,H,2016-09-11,448994,PIT,CIN,7,7,7,0,MATCH,fangraphs-game-log-ryan-vogelsong-2016.csv
+2016,pitcher,285064,Ryan Vogelsong,H,2016-09-16,449070,PIT,@CIN,7,7,7,0,MATCH,fangraphs-game-log-ryan-vogelsong-2016.csv
+2016,pitcher,285064,Ryan Vogelsong,H,2016-09-22,449154,PIT,@MIL,2,2,2,0,MATCH,fangraphs-game-log-ryan-vogelsong-2016.csv
+2016,pitcher,285064,Ryan Vogelsong,H,2016-09-27,449214,PIT,CHC,4,4,4,0,MATCH,fangraphs-game-log-ryan-vogelsong-2016.csv
+2016,pitcher,285064,Ryan Vogelsong,H,2016-10-02,449294,PIT,@STL,5,4,4,1,DIFFERENCE,fangraphs-game-log-ryan-vogelsong-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-04-05,446896,NYM,@KCR,0,0,0,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-04-08,446921,NYM,PHI,0,0,0,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-04-10,446951,NYM,PHI,0,0,0,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-04-12,446974,NYM,MIA,1,1,1,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-04-13,446990,NYM,MIA,1,1,1,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-04-16,447032,NYM,@CLE,2,2,2,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-04-19,447082,NYM,@PHI,0,0,0,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-04-20,447096,NYM,@PHI,1,1,1,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-04-22,447110,NYM,@ATL,1,1,1,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-04-24,447140,NYM,@ATL,0,0,0,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-04-27,447179,NYM,CIN,0,0,0,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-04-30,447226,NYM,SFG,1,1,1,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-05-04,447270,NYM,ATL,0,0,0,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-05-06,447302,NYM,@SDP,0,0,0,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-05-08,447332,NYM,@SDP,1,1,1,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-05-09,447347,NYM,@LAD,0,0,0,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-05-14,447414,NYM,@COL,0,0,0,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-05-15,447429,NYM,@COL,2,2,2,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-05-18,447473,NYM,WSN,2,2,2,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-05-22,447524,NYM,MIL,1,1,1,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-05-24,447549,NYM,@WSN,1,1,1,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-05-28,447600,NYM,LAD,2,2,2,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-05-31,447640,NYM,CHW,0,0,0,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-06-01,447656,NYM,CHW,0,0,0,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-06-03,447686,NYM,@MIA,0,0,0,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-06-04,447701,NYM,@MIA,0,0,0,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-06-07,447731,NYM,@PIT,1,1,1,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-06-08,447758,NYM,@PIT,2,2,2,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-06-10,447781,NYM,@MIL,0,0,0,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-06-14,447839,NYM,PIT,1,1,1,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-06-18,447883,NYM,ATL,1,1,1,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-08-23,448740,NYM,@STL,1,1,1,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-08-25,448768,NYM,@STL,2,2,2,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-08-27,448797,NYM,PHI,0,0,0,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-08-28,448812,NYM,PHI,0,0,0,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-08-30,448834,NYM,MIA,3,3,3,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-09-03,448893,NYM,WSN,1,1,1,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-09-09,448970,NYM,@ATL,2,2,2,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-09-12,449014,NYM,@WSN,0,0,0,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-09-20,449117,NYM,ATL,0,0,0,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-09-22,449153,NYM,PHI,0,0,0,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-09-24,449180,NYM,PHI,2,2,2,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-09-26,449206,NYM,@MIA,0,0,0,0,MATCH,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,449104,Jim Henderson,H,2016-10-02,449292,NYM,@PHI,3,2,2,1,DIFFERENCE,fangraphs-game-log-jim-henderson-2016.csv
+2016,pitcher,518516,Madison Bumgarner,H,2016-04-04,446875,SFG,@MIL,5,5,5,0,MATCH,fangraphs-game-log-madison-bumgarner-2016.csv
+2016,pitcher,518516,Madison Bumgarner,H,2016-04-09,446931,SFG,LAD,6,6,6,0,MATCH,fangraphs-game-log-madison-bumgarner-2016.csv
+2016,pitcher,518516,Madison Bumgarner,H,2016-04-15,447018,SFG,@LAD,8,8,8,0,MATCH,fangraphs-game-log-madison-bumgarner-2016.csv
+2016,pitcher,518516,Madison Bumgarner,H,2016-04-20,447074,SFG,ARI,5,5,5,0,MATCH,fangraphs-game-log-madison-bumgarner-2016.csv
+2016,pitcher,518516,Madison Bumgarner,H,2016-04-25,447159,SFG,SDP,6,6,6,0,MATCH,fangraphs-game-log-madison-bumgarner-2016.csv
+2016,pitcher,518516,Madison Bumgarner,H,2016-05-01,447241,SFG,@NYM,6,6,6,0,MATCH,fangraphs-game-log-madison-bumgarner-2016.csv
+2016,pitcher,518516,Madison Bumgarner,H,2016-05-06,447297,SFG,COL,7,7,7,0,MATCH,fangraphs-game-log-madison-bumgarner-2016.csv
+2016,pitcher,518516,Madison Bumgarner,H,2016-05-11,447382,SFG,TOR,3,3,3,0,MATCH,fangraphs-game-log-madison-bumgarner-2016.csv
+2016,pitcher,518516,Madison Bumgarner,H,2016-05-17,447454,SFG,@SDP,5,5,5,0,MATCH,fangraphs-game-log-madison-bumgarner-2016.csv
+2016,pitcher,518516,Madison Bumgarner,H,2016-05-22,447519,SFG,CHC,3,3,3,0,MATCH,fangraphs-game-log-madison-bumgarner-2016.csv
+2016,pitcher,518516,Madison Bumgarner,H,2016-05-28,447607,SFG,@COL,5,5,5,0,MATCH,fangraphs-game-log-madison-bumgarner-2016.csv
+2016,pitcher,518516,Madison Bumgarner,H,2016-06-02,447676,SFG,@ATL,4,4,4,0,MATCH,fangraphs-game-log-madison-bumgarner-2016.csv
+2016,pitcher,518516,Madison Bumgarner,H,2016-06-08,447750,SFG,BOS,4,4,4,0,MATCH,fangraphs-game-log-madison-bumgarner-2016.csv
+2016,pitcher,518516,Madison Bumgarner,H,2016-06-14,447835,SFG,MIL,4,4,4,0,MATCH,fangraphs-game-log-madison-bumgarner-2016.csv
+2016,pitcher,518516,Madison Bumgarner,H,2016-06-20,447916,SFG,@PIT,5,5,5,0,MATCH,fangraphs-game-log-madison-bumgarner-2016.csv
+2016,pitcher,518516,Madison Bumgarner,H,2016-06-25,447984,SFG,PHI,5,5,5,0,MATCH,fangraphs-game-log-madison-bumgarner-2016.csv
+2016,pitcher,518516,Madison Bumgarner,H,2016-06-30,448055,SFG,@OAK,7,7,7,0,MATCH,fangraphs-game-log-madison-bumgarner-2016.csv
+2016,pitcher,518516,Madison Bumgarner,H,2016-07-05,448120,SFG,COL,4,4,4,0,MATCH,fangraphs-game-log-madison-bumgarner-2016.csv
+2016,pitcher,518516,Madison Bumgarner,H,2016-07-10,448187,SFG,ARI,1,1,1,0,MATCH,fangraphs-game-log-madison-bumgarner-2016.csv
+2016,pitcher,518516,Madison Bumgarner,H,2016-07-15,448215,SFG,@SDP,7,7,7,0,MATCH,fangraphs-game-log-madison-bumgarner-2016.csv
+2016,pitcher,518516,Madison Bumgarner,H,2016-07-22,448310,SFG,@NYY,7,7,7,0,MATCH,fangraphs-game-log-madison-bumgarner-2016.csv
+2016,pitcher,518516,Madison Bumgarner,H,2016-07-27,448373,SFG,CIN,5,5,5,0,MATCH,fangraphs-game-log-madison-bumgarner-2016.csv
+2016,pitcher,518516,Madison Bumgarner,H,2016-08-02,448456,SFG,@PHI,10,10,10,0,MATCH,fangraphs-game-log-madison-bumgarner-2016.csv
+2016,pitcher,518516,Madison Bumgarner,H,2016-08-07,448530,SFG,@WSN,2,2,2,0,MATCH,fangraphs-game-log-madison-bumgarner-2016.csv
+2016,pitcher,518516,Madison Bumgarner,H,2016-08-13,448599,SFG,BAL,3,3,3,0,MATCH,fangraphs-game-log-madison-bumgarner-2016.csv
+2016,pitcher,518516,Madison Bumgarner,H,2016-08-18,448673,SFG,NYM,6,6,6,0,MATCH,fangraphs-game-log-madison-bumgarner-2016.csv
+2016,pitcher,518516,Madison Bumgarner,H,2016-08-23,448743,SFG,@LAD,9,9,9,0,MATCH,fangraphs-game-log-madison-bumgarner-2016.csv
+2016,pitcher,518516,Madison Bumgarner,H,2016-08-28,448802,SFG,ATL,5,5,5,0,MATCH,fangraphs-game-log-madison-bumgarner-2016.csv
+2016,pitcher,518516,Madison Bumgarner,H,2016-09-03,448890,SFG,@CHC,5,5,5,0,MATCH,fangraphs-game-log-madison-bumgarner-2016.csv
+2016,pitcher,518516,Madison Bumgarner,H,2016-09-09,448972,SFG,@ARI,6,6,6,0,MATCH,fangraphs-game-log-madison-bumgarner-2016.csv
+2016,pitcher,518516,Madison Bumgarner,H,2016-09-14,449047,SFG,SDP,7,7,7,0,MATCH,fangraphs-game-log-madison-bumgarner-2016.csv
+2016,pitcher,518516,Madison Bumgarner,H,2016-09-19,449112,SFG,@LAD,1,1,1,0,MATCH,fangraphs-game-log-madison-bumgarner-2016.csv
+2016,pitcher,518516,Madison Bumgarner,H,2016-09-24,449181,SFG,@SDP,4,4,4,0,MATCH,fangraphs-game-log-madison-bumgarner-2016.csv
+2016,pitcher,518516,Madison Bumgarner,H,2016-09-30,449258,SFG,LAD,8,9,9,-1,DIFFERENCE,fangraphs-game-log-madison-bumgarner-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-04-06,446888,BOS,@CLE,0,0,0,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-04-09,446927,BOS,@TOR,0,0,0,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-04-12,446970,BOS,BAL,5,5,5,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-04-17,447050,BOS,TOR,2,2,2,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-04-19,447071,BOS,TBR,1,1,1,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-04-22,447104,BOS,@HOU,2,2,2,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-04-25,447149,BOS,@ATL,0,0,0,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-04-30,447224,BOS,NYY,0,0,0,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-05-05,447285,BOS,@CHW,0,0,0,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-05-10,447361,BOS,OAK,1,1,1,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-05-13,447395,BOS,HOU,0,0,0,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-05-15,447425,BOS,HOU,1,1,1,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-05-20,447490,BOS,CLE,1,1,1,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-05-29,447610,BOS,@TOR,1,1,1,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-05-31,447639,BOS,@BAL,0,0,0,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-06-02,447670,BOS,@BAL,1,1,1,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-06-07,447735,BOS,@SFG,0,0,0,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-06-11,447788,BOS,@MIN,0,0,0,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-06-20,447913,BOS,CHW,0,0,0,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-06-22,447938,BOS,CHW,1,1,1,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-06-25,447976,BOS,@TEX,3,3,3,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-06-27,448005,BOS,@TBR,0,0,0,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-07-02,448080,BOS,LAA,5,5,5,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-07-04,448116,BOS,TEX,1,1,1,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-07-08,448170,BOS,TBR,1,1,1,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-07-15,448204,BOS,@NYY,1,1,1,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-07-17,448234,BOS,@NYY,0,0,0,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-07-19,448270,BOS,SFG,0,0,0,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-07-20,448285,BOS,SFG,0,0,0,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-07-22,448306,BOS,MIN,1,1,1,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-07-23,448321,BOS,MIN,0,0,0,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-07-26,448360,BOS,DET,2,2,2,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-08-01,448438,BOS,@SEA,0,0,0,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-08-04,448476,BOS,@SEA,0,0,0,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-08-06,448505,BOS,@LAD,2,2,2,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-08-10,448566,BOS,NYY,1,1,1,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-08-13,448597,BOS,ARI,1,1,1,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-08-16,448635,BOS,@BAL,0,0,0,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-08-18,448666,BOS,@DET,0,0,0,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-08-23,448732,BOS,@TBR,0,0,0,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-08-24,448748,BOS,@TBR,0,0,0,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-08-27,448793,BOS,KCR,1,1,1,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-08-28,448808,BOS,KCR,2,2,2,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-08-31,448857,BOS,TBR,2,2,2,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-09-05,448912,BOS,@SDP,0,0,0,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-09-11,448992,BOS,@TOR,1,1,1,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-09-13,449021,BOS,BAL,1,1,1,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-09-16,449068,BOS,NYY,1,1,1,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-09-17,449083,BOS,NYY,0,0,0,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-09-23,449158,BOS,@TBR,1,1,1,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-09-24,449173,BOS,@TBR,0,0,0,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-09-27,449213,BOS,@NYY,1,2,2,-1,DIFFERENCE,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-09-29,449243,BOS,@NYY,1,1,1,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2016,pitcher,543726,Robbie Ross Jr.,H,2016-10-02,449297,BOS,TOR,1,1,1,0,MATCH,fangraphs-game-log-robbie-ross-jr.-2016.csv
+2022,hitter,670768,Luis González,H,2022-04-22,662557,SFG,@WSN,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-04-23,662549,SFG,@WSN,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-04-24,662539,SFG,@WSN,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-04-25,661210,SFG,@MIL,2,2,2,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-04-26,662086,SFG,OAK,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-04-27,662066,SFG,OAK,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-04-29,662081,SFG,WSN,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-04-30,662084,SFG,WSN,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-05-01,662106,SFG,WSN,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-05-03,662708,SFG,@LAD,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-05-04,662707,SFG,@LAD,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-05-05,662105,SFG,STL,2,2,2,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-05-06,662103,SFG,STL,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-05-07,662102,SFG,STL,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-05-08,662098,SFG,STL,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-05-09,662097,SFG,COL,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-05-10,662096,SFG,COL,2,2,2,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-05-11,662095,SFG,COL,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-05-13,661986,SFG,@STL,2,2,2,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-05-14,661985,SFG,@STL,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-05-15,661984,SFG,@STL,2,2,2,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-05-20,662078,SFG,SDP,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-05-21,662077,SFG,SDP,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-05-22,662076,SFG,SDP,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-05-23,662075,SFG,NYM,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-05-24,662074,SFG,NYM,3,3,3,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-05-27,663080,SFG,@CIN,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-05-28,663118,SFG,@CIN,2,2,2,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-05-29,663072,SFG,@CIN,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-05-30,661613,SFG,@PHI,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-05-31,661618,SFG,@PHI,4,4,4,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-06-01,661612,SFG,@PHI,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-06-02,661397,SFG,@MIA,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-06-03,661396,SFG,@MIA,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-06-05,661394,SFG,@MIA,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-06-07,662092,SFG,COL,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-06-08,662094,SFG,COL,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-06-09,662091,SFG,COL,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-06-10,662090,SFG,LAD,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-06-11,662089,SFG,LAD,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-06-12,662085,SFG,LAD,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-06-13,662069,SFG,KCR,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-06-14,662068,SFG,KCR,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-06-15,662082,SFG,KCR,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-06-17,662437,SFG,@PIT,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-06-18,661123,SFG,@PIT,2,2,2,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-06-19,661122,SFG,@PIT,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-06-20,661143,SFG,@ATL,2,2,2,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-06-21,661142,SFG,@ATL,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-07-09,662266,SFG,@SDP,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-07-10,662198,SFG,@SDP,2,2,2,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-07-11,662100,SFG,ARI,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-07-12,662108,SFG,ARI,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-07-13,662107,SFG,ARI,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-07-14,662109,SFG,MIL,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-07-16,662113,SFG,MIL,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-07-21,662685,SFG,@LAD,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-07-22,662589,SFG,@LAD,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-07-23,662608,SFG,@LAD,2,2,2,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-07-24,662682,SFG,@LAD,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-07-25,663315,SFG,@ARI,2,2,2,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-07-26,663314,SFG,@ARI,2,2,2,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-07-27,663294,SFG,@ARI,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-07-29,662057,SFG,CHC,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-07-30,662112,SFG,CHC,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-07-31,662071,SFG,CHC,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-08-01,662070,SFG,LAD,2,2,2,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-08-02,662056,SFG,LAD,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-08-03,662055,SFG,LAD,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-08-04,662114,SFG,LAD,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-08-06,662308,SFG,@OAK,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-08-07,662332,SFG,@OAK,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-08-08,662218,SFG,@SDP,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-08-09,662246,SFG,@SDP,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-08-10,662217,SFG,@SDP,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-08-12,662111,SFG,PIT,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-08-13,662110,SFG,PIT,1,0,0,1,DIFFERENCE,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-08-15,662034,SFG,ARI,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-08-27,661657,SFG,@MIN,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-08-28,661663,SFG,@MIN,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-08-29,662001,SFG,SDP,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-08-31,662033,SFG,SDP,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-09-02,662032,SFG,PHI,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-09-03,662031,SFG,PHI,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-09-04,662030,SFG,PHI,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-09-07,662582,SFG,@LAD,2,2,2,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-09-10,663127,SFG,@CHC,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-09-11,663130,SFG,@CHC,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-09-12,662029,SFG,ATL,2,2,2,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-09-13,662028,SFG,ATL,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-09-16,662026,SFG,LAD,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-09-18,662025,SFG,LAD,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-09-19,662886,SFG,@COL,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-09-21,662899,SFG,@COL,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-09-22,662898,SFG,@COL,2,2,2,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,H,2022-09-23,663282,SFG,@ARI,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-04-22,662557,SFG,@WSN,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-04-23,662549,SFG,@WSN,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-04-24,662539,SFG,@WSN,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-04-25,661210,SFG,@MIL,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-04-26,662086,SFG,OAK,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-04-27,662066,SFG,OAK,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-04-29,662081,SFG,WSN,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-04-30,662084,SFG,WSN,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-05-01,662106,SFG,WSN,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-05-03,662708,SFG,@LAD,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-05-04,662707,SFG,@LAD,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-05-05,662105,SFG,STL,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-05-06,662103,SFG,STL,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-05-07,662102,SFG,STL,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-05-08,662098,SFG,STL,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-05-09,662097,SFG,COL,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-05-10,662096,SFG,COL,2,2,2,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-05-11,662095,SFG,COL,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-05-13,661986,SFG,@STL,2,2,2,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-05-14,661985,SFG,@STL,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-05-15,661984,SFG,@STL,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-05-20,662078,SFG,SDP,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-05-21,662077,SFG,SDP,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-05-22,662076,SFG,SDP,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-05-23,662075,SFG,NYM,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-05-24,662074,SFG,NYM,2,2,2,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-05-27,663080,SFG,@CIN,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-05-28,663118,SFG,@CIN,2,2,2,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-05-29,663072,SFG,@CIN,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-05-30,661613,SFG,@PHI,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-05-31,661618,SFG,@PHI,2,2,2,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-06-01,661612,SFG,@PHI,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-06-02,661397,SFG,@MIA,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-06-03,661396,SFG,@MIA,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-06-05,661394,SFG,@MIA,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-06-07,662092,SFG,COL,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-06-08,662094,SFG,COL,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-06-09,662091,SFG,COL,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-06-10,662090,SFG,LAD,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-06-11,662089,SFG,LAD,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-06-12,662085,SFG,LAD,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-06-13,662069,SFG,KCR,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-06-14,662068,SFG,KCR,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-06-15,662082,SFG,KCR,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-06-17,662437,SFG,@PIT,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-06-18,661123,SFG,@PIT,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-06-19,661122,SFG,@PIT,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-06-20,661143,SFG,@ATL,2,2,2,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-06-21,661142,SFG,@ATL,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-07-09,662266,SFG,@SDP,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-07-10,662198,SFG,@SDP,2,2,2,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-07-11,662100,SFG,ARI,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-07-12,662108,SFG,ARI,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-07-13,662107,SFG,ARI,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-07-14,662109,SFG,MIL,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-07-16,662113,SFG,MIL,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-07-21,662685,SFG,@LAD,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-07-22,662589,SFG,@LAD,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-07-23,662608,SFG,@LAD,2,2,2,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-07-24,662682,SFG,@LAD,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-07-25,663315,SFG,@ARI,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-07-26,663314,SFG,@ARI,2,2,2,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-07-27,663294,SFG,@ARI,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-07-29,662057,SFG,CHC,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-07-30,662112,SFG,CHC,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-07-31,662071,SFG,CHC,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-08-01,662070,SFG,LAD,2,2,2,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-08-02,662056,SFG,LAD,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-08-03,662055,SFG,LAD,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-08-04,662114,SFG,LAD,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-08-06,662308,SFG,@OAK,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-08-07,662332,SFG,@OAK,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-08-08,662218,SFG,@SDP,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-08-09,662246,SFG,@SDP,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-08-10,662217,SFG,@SDP,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-08-12,662111,SFG,PIT,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-08-13,662110,SFG,PIT,1,0,0,1,DIFFERENCE,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-08-15,662034,SFG,ARI,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-08-27,661657,SFG,@MIN,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-08-28,661663,SFG,@MIN,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-08-29,662001,SFG,SDP,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-08-31,662033,SFG,SDP,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-09-02,662032,SFG,PHI,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-09-03,662031,SFG,PHI,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-09-04,662030,SFG,PHI,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-09-07,662582,SFG,@LAD,2,2,2,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-09-10,663127,SFG,@CHC,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-09-11,663130,SFG,@CHC,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-09-12,662029,SFG,ATL,2,2,2,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-09-13,662028,SFG,ATL,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-09-16,662026,SFG,LAD,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-09-18,662025,SFG,LAD,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-09-19,662886,SFG,@COL,0,0,0,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-09-21,662899,SFG,@COL,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-09-22,662898,SFG,@COL,2,2,2,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,hitter,670768,Luis González,1B,2022-09-23,663282,SFG,@ARI,1,1,1,0,MATCH,fangraphs-game-log-luis-gonzález-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-04-07,662021,PIT,@STL,1,1,1,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-05-12,662372,PIT,CIN,4,4,4,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-05-18,663156,PIT,@CHC,0,0,0,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-05-21,662478,PIT,STL,1,1,1,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-05-24,662454,PIT,COL,1,1,1,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-05-27,662281,PIT,@SDP,2,2,2,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-05-29,662279,PIT,@SDP,1,1,1,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-05-31,662735,PIT,@LAD,1,1,1,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-06-04,662451,PIT,ARI,0,0,0,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-06-07,662449,PIT,DET,2,2,2,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-06-11,661160,PIT,@ATL,2,2,2,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-07-03,661102,PIT,MIL,1,1,1,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-07-05,662329,PIT,NYY,1,1,1,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-07-07,663071,PIT,@CIN,1,1,1,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-07-09,661224,PIT,@MIL,2,2,2,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-07-10,661178,PIT,@MIL,0,0,0,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-07-13,661376,PIT,@MIA,1,1,1,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-07-14,661375,PIT,@MIA,1,1,1,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-07-17,661080,PIT,@COL,1,1,1,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-07-24,662357,PIT,MIA,3,3,3,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-07-25,661065,PIT,@CHC,0,0,0,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-07-29,662435,PIT,PHI,3,3,3,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-07-30,662415,PIT,PHI,0,0,0,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-08-03,662324,PIT,MIL,0,0,0,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-08-04,662303,PIT,MIL,0,0,0,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-08-06,661050,PIT,@BAL,1,1,1,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-08-09,663303,PIT,@ARI,5,5,5,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-08-11,663293,PIT,@ARI,1,1,1,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-08-13,662110,PIT,@SFG,1,0,0,1,DIFFERENCE,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-08-17,662301,PIT,BOS,1,1,1,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-08-19,662396,PIT,CIN,1,1,1,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-08-20,662395,PIT,CIN,1,1,1,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-08-22,662394,PIT,ATL,0,0,0,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-08-24,662371,PIT,ATL,0,0,0,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-08-28,661598,PIT,@PHI,0,0,0,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-08-29,661167,PIT,@MIL,1,1,1,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-09-03,662286,PIT,TOR,2,2,2,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-09-04,662299,PIT,TOR,4,4,4,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-09-07,662283,PIT,NYM,2,2,2,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-09-10,662265,PIT,STL,0,0,0,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-09-11,662325,PIT,STL,1,1,1,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-09-13,663106,PIT,@CIN,0,0,0,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-09-16,662404,PIT,@NYM,0,0,0,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-09-18,662402,PIT,@NYM,1,1,1,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-09-20,661229,PIT,@NYY,3,3,3,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-09-22,662264,PIT,CHC,0,0,0,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-09-25,662243,PIT,CHC,2,2,2,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-09-27,662241,PIT,CIN,0,0,0,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-09-30,661958,PIT,@STL,0,0,0,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-10-02,661954,PIT,@STL,1,1,1,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv
+2022,pitcher,621249,Duane Underwood Jr.,H,2022-10-04,662319,PIT,STL,1,1,1,0,MATCH,fangraphs-game-log-duane-underwood-jr.-2022.csv

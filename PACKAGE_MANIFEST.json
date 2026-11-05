@@ -1,0 +1,11 @@
+{
+  "README_STANDALONE_REFINEMENTS_v1_8.md": "ebea7985e000a3584ab7d903de96f9b0ebac49e2082ab9e5588f9b75a337c3f0",
+  "VALIDATION_v1_8.md": "de37891e6e892712d76ffc8486056ed5879461382463cf15db15fe5ba850c576",
+  "backtest_standalone_refinements_v1_8.py": "53222def54a487792bbd3f52e8e9f2e6375bd196b6807d3af59935be2ffc6459",
+  "config/standalone_refinements_v1_8.json": "558553ce4f1f08af7160eb987072dc1b40c3bb3672bcbcc80122cc4f9f29131d",
+  "evaluate_standalone_refinements_v1_8.py": "e0f05c8178a1ccde666e64a9ca8d9ac54fd2a0b38e66438f866d515ad18851e6",
+  "refinement_io_v1_8.py": "2ee9a950de311340cda8e88a6449ea928209d6611f589ee0f3e048d8fbe4490c",
+  "refinement_scores_v1_8.py": "4881afdacc9ad96eb52c2dbd8ba51e5f71f800fb5f3f599268d78131bd61d7df",
+  "standalone_refinements_v1_8.py": "d347c5d78fa7e9d3476862b1f4fe8f2610a6e5c304cfae36f0d7eceaa6d909ee",
+  "tests/test_standalone_refinements_v1_8.py": "6df8ffa9dc115b090d82ad394d4a690d7561bc287cba8e6a29d63899cf649d10"
+}

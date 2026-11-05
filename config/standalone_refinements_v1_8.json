@@ -1,0 +1,9 @@
+{
+ "version":"1.8.0", "minimum_calibration_rows":50, "minimum_role_calibration_rows":50,
+ "calibration_prior_rows":50, "maximum_magnitude_multiplier":3,
+ "minimum_SB_fit_rows":50, "minimum_SB_opportunities":20, "SB_rate_prior_opportunities":100,
+ "maximum_SB_rate":3, "maximum_SB":120, "low_history_PA":100,
+ "minimum_validation_rows":30, "minimum_guard_rows":20, "minimum_selection_folds":2,
+ "minimum_candidate_fraction":0.8, "minimum_mse_improvement":0.01, "maximum_mae_degradation":0.01,
+ "prior_SB_floor":10
+}

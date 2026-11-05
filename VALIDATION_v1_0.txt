@@ -1,0 +1,3 @@
+Synthetic integration validation: 11 tests passed on DuckDB 2.0.0 and 1.4.3.
+Checks include historical chronology, later-validation invariance, 2026 label invariance, fold preprocessing, common pools, source exclusions, coherent components, missing versus zero, tamper guards, input preservation and complete backups.
+Production dataset fitting and accuracy are not executed in this environment.

@@ -1,0 +1,11 @@
+{
+ "version":"1.6.0","first_origin":2019,"evaluation_year":2026,
+ "minimum_fit_rows":50,"minimum_binary_class_rows":5,"minimum_expert_rows":50,
+ "binary_penalty":0.05,"binary_iterations":200,
+ "maximum_OUTS":900,"maximum_SB":120,"maximum_SB_rate":3,
+ "minimum_positive_SB_opportunities":20,"SB_rate_prior_opportunities":100,
+ "source_2020_multiplier":2.7,"SB_calendar_era_start":2023,
+ "minimum_validation_rows":30,"minimum_guard_rows":20,"minimum_selection_folds":2,
+ "minimum_candidate_fraction":0.8,"minimum_mse_improvement":0.01,
+ "maximum_mae_degradation":0.01,"prior_SB_floor":10
+}

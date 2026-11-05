@@ -1,0 +1,9 @@
+{
+  "README_STANDALONE_COMBINED_v1_4.md": "6f235907ad9edea7390ad7d029bb2bdf85e4606f05384d4ebff635cd48158a18",
+  "VALIDATION_COMBINED_v1_4.txt": "664dd3c3f23d4d14f7e06e2e9b2b1e5a960067081d8cd1391002d231d45c56db",
+  "build_standalone_combined_v1_4.py": "b9d349b360f356178d1ed02919107b61ccd2fd10bac49f5314fb1380bc29f4da",
+  "category_benchmarks_v1_4.py": "9133dd977261e71e478fef1a7741676cf029f3ecc1f56164b400db6ee4930113",
+  "evaluate_standalone_combined_v1_4.py": "ae60f3a4d537204420910cd178eec221f4140f48664e42733ff5a5c5e3cee1c3",
+  "standalone_combined_v1_4.py": "6aaef789ad471a8f744043b3baf9cd2cf2b8df216ec619765ebcf672fa9373d6",
+  "tests/test_standalone_combined_v1_4.py": "8c36490c38915fe2d34451dc997223c9c337a5b12ce127e937e277822202380f"
+}

@@ -1,0 +1,4 @@
+Standalone role/workload v1.2
+13 synthetic tests passed on DuckDB 1.4.3 and 2.0.0.
+Coverage: categorical normalization, target-label invariance, prior-role fallback, class/pooled expert support, historical role/workload selection gates, chronological role-feature lineage, 2026 freeze invariance, later-validation invariance, v1.1/hitter/saves preservation, exact complete backups, read-only frozen actual joins, missing versus zero, common benchmark pools, tamper and no-overwrite guards.
+Full production datasets are on the user PC and were not fitted here. Test fixture support settings are reduced and are not production accuracy evidence.
