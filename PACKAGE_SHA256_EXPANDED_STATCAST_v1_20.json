@@ -1,0 +1,8 @@
+{
+  "VALIDATION_EXPANDED_STATCAST_v1_20.md": "b15a9d33ee5658c1271a7ca40f3dd70d1520cb161918ee3ba7fac5b4651075cc",
+  "README_EXPANDED_STATCAST_v1_20.md": "7e8c72a5c0213b51e0bbda01d8e0c8a3599bb13a361f6cba02fb650f4d17042a",
+  "TEST_RESULTS_EXPANDED_STATCAST_v1_20.txt": "0d582cc72e40293db54360bf878e23cce0517e6d1afef1a5afba7908a927592c",
+  "expanded_statcast_v1_20.py": "c96c9d46168a01cdb0efe3172123c51fa675a977ec7f8f5a6448aeebfb0da37e",
+  "config/expanded_statcast_v1_20.json": "02303a2dbc3e60aaa5bc0564d0da0a10713fc231af878a5971da0a3ba5f43ef1",
+  "tests/test_expanded_statcast_v1_20.py": "55c81057991b9adcf93134f67192fd270e3fc5fe145f5cfe82046d2aec0df2fd"
+}

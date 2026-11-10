@@ -1,0 +1,9 @@
+{
+  "README_STATCAST_SCOPE_v1_22.md": "b7603984c2b99ce239b23a107ca9471467c8436b3a2e51aca1377f27f81e3b7d",
+  "SUPPLIED_ACCOUNTING_REGRESSION_v1_22.json": "12b95c2fd1e65cce4cebe2d330b9ad58ff4b9c86f2be686310d4e14cf33353b7",
+  "TEST_RESULTS_STATCAST_SCOPE_v1_22.txt": "82aa74b291de745888fdeb2fdd521404ceebc2e8c2102c50f590ad6bbd923ea3",
+  "VALIDATION_STATCAST_SCOPE_v1_22.md": "87df33b91fb81a628d0d944ca32504f2e7d596654f1eee406e0f05515be1f8d7",
+  "audit_statcast_scope_v1_22.py": "de8b22f043243e9f7c73fcb163a61e842936d77b8efb11ca5e45020e3b391e4a",
+  "config/statcast_scope_v1_22.json": "9cc67429ea76912a6a5468dcf1222f5f661fef26dd48bd42ce72ff56aa2ca4ac",
+  "tests/test_statcast_scope_v1_22.py": "47ebdd9685eccbe272f34bd00d4b1982d162f5aed11d3301e6fba785bcb5f4ce"
+}

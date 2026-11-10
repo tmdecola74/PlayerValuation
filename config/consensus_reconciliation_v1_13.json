@@ -1,0 +1,11 @@
+{
+  "version": "1.13.0",
+  "candidate_only": true,
+  "max_absolute_single_change": 1.0,
+  "max_PA_increase": 1.0,
+  "numerical_epsilon": 1e-09,
+  "singles_rule": "H_MINUS_2B_3B_HR",
+  "PA_rule": "RAISE_TO_COMPONENT_SUM_ONLY_WHEN_BELOW",
+  "provenance_rule": "REQUIRE_REPLAY_AND_COMMON_POOL_WEIGHTS_FOR_MATERIAL_COUNT_REPAIRS",
+  "selection": "FIXED_ARITHMETIC_NO_OUTCOME_SELECTION"
+}

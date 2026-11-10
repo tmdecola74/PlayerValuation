@@ -1,0 +1,9 @@
+{
+  "tests_v1_11_1_duckdb_1_4_3.txt": "24cf31ff95f36c8c6e6dcf7415a8b9665e0916e138f6146ef1aca515ab9d4c81",
+  "tests_v1_11_1_duckdb_1_5_0.txt": "a7ba755c914bcb8d4ef311881b1bc8e1bb97193c086551e374a102c716e1474a",
+  "evaluate_projection_release_v1_11_1.py": "ab951a3f5e5a01fa7b81034a18753f70aa35adfb4d9345dbe278978b2d1ce758",
+  "README_PROJECTION_RELEASE_FIX_v1_11_1.md": "676ccaa0a4e1b4f07ace81c9e97abdd3f9e0d74b7845f943d7666faeb6f0744e",
+  "projection_release_v1_11_1.py": "d9b925525f8b36bd617577a89a133467d1396584d5cfb347f059f22e1a9fcdd5",
+  "build_projection_release_v1_11_1.py": "43cf72d7560078066b7fdda22d13e7953548f6a7efba22fde6ec5adcd5b0ca3e",
+  "tests/test_projection_release_v1_11_1.py": "9b12cd8b8bc4d85b7140f513de60b665cf621356f714ee43c520cd5d7d12baa2"
+}

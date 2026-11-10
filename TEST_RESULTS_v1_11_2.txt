@@ -1,0 +1,115 @@
+Rolling origin 2018: fitting only earlier target years
+Rolling origin 2019: fitting only earlier target years
+Rolling origin 2020: fitting only earlier target years
+Rolling origin 2021: fitting only earlier target years
+Rolling origin 2022: fitting only earlier target years
+Rolling origin 2023: fitting only earlier target years
+Rolling origin 2024: fitting only earlier target years
+Rolling origin 2025: fitting only earlier target years
+Freezing final choices and fitting through 2025; no 2026 outcomes read.
+Rolling origin 2018: fitting only earlier target years
+Rolling origin 2019: fitting only earlier target years
+Rolling origin 2020: fitting only earlier target years
+Rolling origin 2021: fitting only earlier target years
+Rolling origin 2022: fitting only earlier target years
+Rolling origin 2023: fitting only earlier target years
+Rolling origin 2024: fitting only earlier target years
+Rolling origin 2025: fitting only earlier target years
+Freezing final choices and fitting through 2025; no 2026 outcomes read.
+2019: fitting opportunity models on target years before 2019
+2020: fitting opportunity models on target years before 2020
+2021: fitting opportunity models on target years before 2021
+2022: fitting opportunity models on target years before 2022
+2023: fitting opportunity models on target years before 2023
+2024: fitting opportunity models on target years before 2024
+2025: fitting opportunity models on target years before 2025
+2026: fitting opportunity models on target years before 2026
+2016: categorical roles fit on target seasons before 2016
+2017: categorical roles fit on target seasons before 2017
+2018: categorical roles fit on target seasons before 2018
+2019: categorical roles fit on target seasons before 2019
+2020: categorical roles fit on target seasons before 2020
+2021: categorical roles fit on target seasons before 2021
+2022: categorical roles fit on target seasons before 2022
+2023: categorical roles fit on target seasons before 2023
+2024: categorical roles fit on target seasons before 2024
+2025: categorical roles fit on target seasons before 2025
+2026: categorical roles fit on target seasons before 2026
+2019: workload experts use chronological role predictions
+2020: workload experts use chronological role predictions
+2021: workload experts use chronological role predictions
+2022: workload experts use chronological role predictions
+2023: workload experts use chronological role predictions
+2024: workload experts use chronological role predictions
+2025: workload experts use chronological role predictions
+2026: workload experts use chronological role predictions
+2016: categorical roles fit on target seasons before 2016
+2017: categorical roles fit on target seasons before 2017
+2018: categorical roles fit on target seasons before 2018
+2019: categorical roles fit on target seasons before 2019
+2020: categorical roles fit on target seasons before 2020
+2021: categorical roles fit on target seasons before 2021
+2022: categorical roles fit on target seasons before 2022
+2023: categorical roles fit on target seasons before 2023
+2024: categorical roles fit on target seasons before 2024
+2025: categorical roles fit on target seasons before 2025
+2026: categorical roles fit on target seasons before 2026
+2019: workload experts use chronological role predictions
+2020: workload experts use chronological role predictions
+2021: workload experts use chronological role predictions
+2022: workload experts use chronological role predictions
+2023: workload experts use chronological role predictions
+2024: workload experts use chronological role predictions
+2025: workload experts use chronological role predictions
+2026: workload experts use chronological role predictions
+2019: separate probability-input and workload-change experiments; fit target years < 2019
+2020: separate probability-input and workload-change experiments; fit target years < 2020
+2021: separate probability-input and workload-change experiments; fit target years < 2021
+2022: separate probability-input and workload-change experiments; fit target years < 2022
+2023: separate probability-input and workload-change experiments; fit target years < 2023
+2024: separate probability-input and workload-change experiments; fit target years < 2024
+2025: separate probability-input and workload-change experiments; fit target years < 2025
+2026: separate probability-input and workload-change experiments; fit target years < 2026
+Verifying frozen releases and replaying historical selection gates...
+Verifying frozen v1.4 and historical labels...
+2019: holds opportunity fits only earlier targets; saves unchanged
+2020: holds opportunity fits only earlier targets; saves unchanged
+2021: holds opportunity fits only earlier targets; saves unchanged
+2022: holds opportunity fits only earlier targets; saves unchanged
+2023: holds opportunity fits only earlier targets; saves unchanged
+2024: holds opportunity fits only earlier targets; saves unchanged
+2025: holds opportunity fits only earlier targets; saves unchanged
+2026: holds opportunity fits only earlier targets; saves unchanged
+Verifying accepted historical choices and frozen v1.5 forecasts...
+test_consensus_pa_bound_quarantined_but_homegrown_coherence_still_strict (test_projection_release_v1_11_2.Pipeline.test_consensus_pa_bound_quarantined_but_homegrown_coherence_still_strict) ... Verifying accepted historical choices and frozen v1.5 forecasts...
+ok
+test_evaluation_real_warehouse_and_identical_matched_memberships (test_projection_release_v1_11_2.Pipeline.test_evaluation_real_warehouse_and_identical_matched_memberships) ... Projection exports verified and frozen. Reading separate 2026 eligible actuals...
+ok
+test_full_release_coherence_source_separation_and_backup (test_projection_release_v1_11_2.Pipeline.test_full_release_coherence_source_separation_and_backup) ... ok
+test_inconsistent_consensus_quarantined_all_homegrown_preserved_and_evaluation_runs (test_projection_release_v1_11_2.Pipeline.test_inconsistent_consensus_quarantined_all_homegrown_preserved_and_evaluation_runs) ... Verifying accepted historical choices and frozen v1.5 forecasts...
+Projection exports verified and frozen. Reading separate 2026 eligible actuals...
+ok
+test_no_holdout_labels_opened_and_holdout_mutation_invariant (test_projection_release_v1_11_2.Pipeline.test_no_holdout_labels_opened_and_holdout_mutation_invariant) ... Verifying accepted historical choices and frozen v1.5 forecasts...
+Verifying accepted historical choices and frozen v1.5 forecasts...
+ok
+test_output_guard_tamper_and_interruption_cleanup (test_projection_release_v1_11_2.Pipeline.test_output_guard_tamper_and_interruption_cleanup) ... Verifying accepted historical choices and frozen v1.5 forecasts...
+Verifying accepted historical choices and frozen v1.5 forecasts...
+ok
+test_prospect_missing_components_and_valuation_adapter (test_projection_release_v1_11_2.Pipeline.test_prospect_missing_components_and_valuation_adapter) ... ok
+test_saves_holds_and_all_frozen_components_exactly_unchanged (test_projection_release_v1_11_2.Pipeline.test_saves_holds_and_all_frozen_components_exactly_unchanged) ... ok
+test_signed_label_added_to_full_pipeline_does_not_change_scores_or_projections (test_projection_release_v1_11_2.Pipeline.test_signed_label_added_to_full_pipeline_does_not_change_scores_or_projections) ... Projection exports verified and frozen. Reading separate 2026 eligible actuals...
+Projection exports verified and frozen. Reading separate 2026 eligible actuals...
+ok
+test_stable_loader_source_choice_and_native_valuation_record_shape (test_projection_release_v1_11_2.Pipeline.test_stable_loader_source_choice_and_native_valuation_record_shape) ... ok
+test_bad_supported_label_remains_strict_and_error_identifies_player_metric (test_projection_release_v1_11_2.Units.test_bad_supported_label_remains_strict_and_error_identifies_player_metric) ... ok
+test_identity_catalog_never_name_matches_or_merges_multiple_owners (test_projection_release_v1_11_2.Units.test_identity_catalog_never_name_matches_or_merges_multiple_owners) ... ok
+test_invalid_counts_and_no_zero_fill (test_projection_release_v1_11_2.Units.test_invalid_counts_and_no_zero_fill) ... ok
+test_market_review_overrides_stale_mapping_and_same_names_distinct (test_projection_release_v1_11_2.Units.test_market_review_overrides_stale_mapping_and_same_names_distinct) ... ok
+test_matched_pools_zero_actuals_and_missing_not_zero (test_projection_release_v1_11_2.Units.test_matched_pools_zero_actuals_and_missing_not_zero) ... ok
+test_ratio_components_and_no_rounding (test_projection_release_v1_11_2.Units.test_ratio_components_and_no_rounding) ... ok
+test_signed_out_of_scope_labels_are_audited_not_scored_or_zero_filled (test_projection_release_v1_11_2.Units.test_signed_out_of_scope_labels_are_audited_not_scored_or_zero_filled) ... ok
+
+----------------------------------------------------------------------
+Ran 17 tests in 7.602s
+
+OK

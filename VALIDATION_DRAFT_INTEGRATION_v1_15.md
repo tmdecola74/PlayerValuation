@@ -1,0 +1,9 @@
+# Validation
+
+13 new integration tests passed under Python 3.12, DuckDB 1.4.3, NumPy and SciPy 1.18.1. All 19 existing v1.3 simulator tests also passed. The unchanged v1.3 simulator and prior valuation engine are runtime dependencies, not included/replaced by this release.
+
+The new tests execute the real prior valuation engine on two-source synthetic records, checking exact total auction budgets, separate component exclusions, canonical/ADP bindings, independent source depth failures, unchanged source trees, matching complete backups, and interruption cleanup. They exercise the real simulator ratio aggregation and legal multi-position assignment. Existing simulator tests cover constrained pitching, closer tiers, save depth, and composition/absence guards. A separate orchestration test stubs the draft jobs to verify source/seed/strategy schedules, market ordering and paired report publication. It is not a full 750-pick production simulation.
+
+The full local production warehouse and frozen outputs are not available in this environment. No production valuation or full paired draft results are claimed. No model was fitted; no 2026 outcome table was read. This package preserves accepted forecast files and previous releases. Projected GS is missing from the consolidated homegrown export, so that source's complete role-constrained simulation remains gated on suitable source-specific frozen GS evidence. External consensus GS is never substituted into homegrown. If such homegrown evidence does not exist, research on a historical role-context adapter is necessary; do not fill GS with zero or use actual 2026 starts.
+
+The coverage branch has dated schema templates, historical collection plans and review requests. It has no fabricated minor-league, overseas, roster or injury history and is not fitted. Yahoo 6x6 valuation/simulation is explicitly unsupported by this NFBC engine wrapper.

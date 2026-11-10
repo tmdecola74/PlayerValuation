@@ -1,11 +1,12 @@
 {
-  "README_STANDALONE_REFINEMENTS_v1_8.md": "ebea7985e000a3584ab7d903de96f9b0ebac49e2082ab9e5588f9b75a337c3f0",
-  "VALIDATION_v1_8.md": "de37891e6e892712d76ffc8486056ed5879461382463cf15db15fe5ba850c576",
-  "backtest_standalone_refinements_v1_8.py": "53222def54a487792bbd3f52e8e9f2e6375bd196b6807d3af59935be2ffc6459",
-  "config/standalone_refinements_v1_8.json": "558553ce4f1f08af7160eb987072dc1b40c3bb3672bcbcc80122cc4f9f29131d",
-  "evaluate_standalone_refinements_v1_8.py": "e0f05c8178a1ccde666e64a9ca8d9ac54fd2a0b38e66438f866d515ad18851e6",
-  "refinement_io_v1_8.py": "2ee9a950de311340cda8e88a6449ea928209d6611f589ee0f3e048d8fbe4490c",
-  "refinement_scores_v1_8.py": "4881afdacc9ad96eb52c2dbd8ba51e5f71f800fb5f3f599268d78131bd61d7df",
-  "standalone_refinements_v1_8.py": "d347c5d78fa7e9d3476862b1f4fe8f2610a6e5c304cfae36f0d7eceaa6d909ee",
-  "tests/test_standalone_refinements_v1_8.py": "6df8ffa9dc115b090d82ad394d4a690d7561bc287cba8e6a29d63899cf649d10"
+  "README_STANDALONE_HISTORY_BASELINES_v1_10.md": "9af9e82f1b881e4e3553bfaae750cd987a252050ac881ee6f9a8d19e2c50bd28",
+  "VALIDATION_v1_10.md": "aa20f83f1d0c494c8064e08f78f14b052f72c56ae5e141e787c896f231701a29",
+  "backtest_standalone_history_baselines_v1_10.py": "b7fc68bba92d2c80a2b9c4b0354028ca733fc1d9367e682dcff3672a3541d641",
+  "config/standalone_history_baselines_v1_10.json": "08d6ef8d3cb9fd68dc22e29ef3712d92b797497d7f34ffc01ca4c52638b26933",
+  "evaluate_standalone_history_baselines_v1_10.py": "abf006abb698ca87f635b111202e4087d1b2c7fc507283f01fcf3b038b5bbdf2",
+  "history_io_v1_10.py": "6782bc959fc775e0784cd6b7db27ea57bc22c27daaa398e60b2ace5ad75f99e1",
+  "history_scores_v1_10.py": "2ee7da8db0de18a3aa66bea7f1454c6eafd03b40d29cd6dd310bbd5eac6cf5c7",
+  "pitcher_history_diagnostics_v1_10.py": "02a90bb3667faf50d5163f170725959b97fe4a1a6bc03827e92f43c1175be9ce",
+  "standalone_SB_history_v1_10.py": "96abcb62d081c4a646b47e987bd759cfedacae7b98d0fafe41ae928eca65aa9e",
+  "tests/test_standalone_history_baselines_v1_10.py": "cece185099b26d36a349fc3ee62f03272f4065bc11145d3c37a126f78a9fa808"
 }

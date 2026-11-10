@@ -1,0 +1,22 @@
+{
+  "TEST_RESULTS_STATCAST_LEADERBOARDS_v1_21.txt": "19a7ed426b9879cf02adf49931e610742f4e1f9b2bff32d882cc2b3540e920ce",
+  "VALIDATION_STATCAST_LEADERBOARDS_v1_21.md": "83ba8cb6c04ae4a1f0d9d82ae4a35f45649721b6547050d441abdf8326699782",
+  "import_statcast_leaderboards_v1_21.py": "eb482fb23708aac028ccc1ae4072f49750e845942142be4800761714de0afe7b",
+  "README_STATCAST_LEADERBOARDS_v1_21.md": "420c9bd9b8f3f2e9f9aa66def43724db2792cfa4c33f8dc7b34473923308645b",
+  "leaderboard_core_v1_21.py": "8cc129ba6cbc07eab6aac013e1f554eebfd6a654f015aa532a19628ccf76d2a4",
+  "config/statcast_leaderboards_v1_21.json": "808bb64d111499b526e1aad1d32c5d1e98f2c400d0e74b927f1ace3cb3dcbe6b",
+  "tests/test_statcast_leaderboards_v1_21.py": "cad6a612caf2f185196438aa5ded77d4c4761572e8c10ebe5b0452351ce68338",
+  "data/statcast_leaderboards_v1_21/source_files/hitter_exit_velocity2023.csv": "c80ba8f1ab51e00b6006e59209a81460dce12bd84450b39713f222817017545a",
+  "data/statcast_leaderboards_v1_21/source_files/pitcher_exit_velocity2025.csv": "76506be7028d461f6272b8c603d71aa476dba1dce0de52696cdffe2fd36f2aa3",
+  "data/statcast_leaderboards_v1_21/source_files/pitcher_batted-ball2023-2026.csv": "ebfd8df3919fa4cc21b518921c97f1903e58e4272726960cb8fee77f9725200e",
+  "data/statcast_leaderboards_v1_21/source_files/pitcher_bat-tracking2023-2026.csv": "52b4ba0d196d7929d453f7e1e11a907e990e3eba5e16f68d119aff6365090fbc",
+  "data/statcast_leaderboards_v1_21/source_files/pitcher_exit_velocity2023.csv": "7885f6929959f1b9876dd12018844c68a9260dd513a1722d7c98373073d0e97d",
+  "data/statcast_leaderboards_v1_21/source_files/pitcher_exit_velocity2024.csv": "79df878865714a04903936b6f2fcb665c840042dded1f7dbb8013f5a120e3d19",
+  "data/statcast_leaderboards_v1_21/source_files/hitter_bat-tracking2023-2026.csv": "88eaacc7c54e1cbd0360c073529f30142ebcb67a0499b091eec13decb197ad55",
+  "data/statcast_leaderboards_v1_21/source_files/hitter_exit_velocity2026.csv": "8758c86d7d6c1f260004d2e1541828400030545912c439a402eafcd7a64cb8b3",
+  "data/statcast_leaderboards_v1_21/source_files/hitter_exit_velocity2025.csv": "9fcba7df93f78958bdf790c848d9293c4effe93650705013dc685e572d09eae8",
+  "data/statcast_leaderboards_v1_21/source_files/hitter_exit_velocity2024.csv": "0bbc9d29e276a28b5828953d029241676bf3489f6d849160d00b5cba3503ef7c",
+  "data/statcast_leaderboards_v1_21/source_files/hitter_batted-ball2023-2026_min1.csv": "07d79365d9d096a2c10d9cb3c34d737fd756d03b84e0e7b9a1defc90fb770973",
+  "data/statcast_leaderboards_v1_21/source_files/pitcher_exit_velocity2026.csv": "33f540d63b1277af10fbd8f5a0c4e9b7734671c586bf6a35d6563aa5c6602c40",
+  "data/statcast_leaderboards_v1_21/source_files/baserunning_run_value2023-2026.csv": "eced0f181d68c7642ac0396cb192bcd7244882520d539eb95994f1ff47d29f00"
+}

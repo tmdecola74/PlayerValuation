@@ -1,0 +1,9 @@
+{
+ "version":"1.9.0", "minimum_calibration_rows":50, "minimum_role_rows":50,
+ "calibration_prior_rows":50, "maximum_multiplier":3,
+ "solver_max_iterations":200, "solver_tolerance":0.00000001,
+ "minimum_validation_rows":30, "minimum_guard_rows":20, "minimum_selection_folds":2,
+ "minimum_candidate_fraction":0.8, "minimum_mse_improvement":0.01, "maximum_mae_degradation":0.01,
+ "SB_minimum_proxy":20, "SB_minimum_bin_rows":30, "SB_prior_runner_floor":10,
+ "SB_low_history_PA":100, "SB_quantile_bins":5
+}

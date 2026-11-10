@@ -1,0 +1,22 @@
+{
+  "version": "1.17.0",
+  "first_origin": 2019,
+  "last_historical_origin": 2025,
+  "evaluation_origin": 2026,
+  "minimum_fit_rows": 50,
+  "minimum_gate_folds": 3,
+  "minimum_gate_rows": 30,
+  "minimum_guard_rows": 20,
+  "minimum_mse_improvement": 0.01,
+  "maximum_mae_degradation": 0.01,
+  "maximum_guard_degradation": 0.02,
+  "ridge_alpha": 1.0,
+  "clip_z": 8,
+  "maximum_exposure_weight": 600,
+  "statcast_policy": "REGISTERED_ELIGIBILITY_AND_POSITIVE_OBSERVATIONS; unavailable values stay null",
+  "guard_cohorts": [
+    "LOW_HISTORY",
+    "ESTABLISHED_HISTORY"
+  ],
+  "accepted_release_policy": "RESEARCH_ONLY_NO_AUTOMATIC_PROMOTION"
+}

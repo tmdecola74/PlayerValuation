@@ -1,0 +1,11 @@
+{
+  "evaluate_projection_release_v1_11.py": "f4571df1b390d7e293d1f014e9db13c3dcf77d6960b0dd15aa71290ee053d348",
+  "README_PROJECTION_RELEASE_v1_11.md": "b154ea8fe9fa885bc5ec7fb357c7458c77a63f80f4d1bae058a851a30931f9e8",
+  "VALIDATION_PROJECTION_RELEASE_v1_11.md": "6a6eb8647c48aaab1493b3248faada556f02602473af079739d4c2976806bbc9",
+  "build_projection_release_v1_11.py": "640142ef13a1f87b6d2703fb0f23cc32ea12fe39885bec72ada8adab11f04463",
+  "tests_v1_11_duckdb_1_4_3.txt": "7aee5aad2cbb6a788a147b0effbc5578c006f72b2c251d2b0a39fa02c83d73f0",
+  "tests_v1_11_duckdb_1_5_0.txt": "76c2fd438b9b148caa9a4610197cdda981b646524239bd7355cce206731ddd11",
+  "projection_release_v1_11.py": "cb35456b0770493098ac488d0abb8c3e1a5c56fad7d0fa3129eeb1e5936e7c89",
+  "config/projection_release_v1_11.json": "20e75ea9873a8cd8898acd1ef70673722db3bed0649c17cd0b4127c6f145ab69",
+  "tests/test_projection_release_v1_11.py": "09034af2ab7e37a7c91bec57e5fa91554297ab52658c90cf74ca54d2117258e2"
+}

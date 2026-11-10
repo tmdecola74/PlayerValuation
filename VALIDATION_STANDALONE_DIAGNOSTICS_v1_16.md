@@ -1,0 +1,9 @@
+# Validation and scope
+
+14 diagnostic tests pass with Python 3.12 and DuckDB 1.4.3. They cover complete output/backup equality; unchanged input sources; identical paired metric/cohort memberships; retained 2020/2021 reporting; equal-season versus pooled summaries; null versus zero labels; masked rate denominators; finite/missing measurement reporting; retained versus dropped model predictors; future model years; future feature cutoffs; target predictor rejection; duplicate forecasts; source-hash tampering; staging cleanup; and 2026 outcome mutation invariance.
+
+A separate validation generated the previously delivered v1.0–v1.5 and consolidated projection pipeline's real synthetic artifact formats and ran this diagnostic against them. It passed for 112 historical accepted player-seasons, 11,270 seasonal/cohort score rows, and 1,550 predictor inventory rows. The earlier fixture necessarily fitted synthetic historical models to create its test artifacts; the new diagnostic build itself did not fit or select any model.
+
+No full production warehouse or historical forecast tables were supplied for this turn. Therefore no production error results, feature improvements, new accepted candidates, or claim of independently archived preseason vintages is made. The user must run this against the existing local frozen tables. The module uses no roster/valuation/draft simulator code and no external projection system as a predictor. It does not open 2026 labels; existing 2026 benchmark reports remain separate.
+
+The saved final-model inventory alone cannot establish incremental Statcast value or exact per-fold predictor retention. The next controlled experiment is defined in the development contract, not fitted or approved. Accepted historical vectors are checked but never repaired. Original source statistics and all previous releases are preserved.

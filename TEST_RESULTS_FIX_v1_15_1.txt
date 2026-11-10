@@ -1,0 +1,74 @@
+test_blank_asset_id_resolves_only_with_exact_frozen_evidence (test_draft_integration_v1_15.FrozenBridgeFix.test_blank_asset_id_resolves_only_with_exact_frozen_evidence) ... ok
+test_name_or_universe_index_alone_cannot_resolve (test_draft_integration_v1_15.FrozenBridgeFix.test_name_or_universe_index_alone_cannot_resolve) ... ok
+test_production_shape_bridge_pipeline_preserves_reference_and_backup (test_draft_integration_v1_15.FrozenBridgeFix.test_production_shape_bridge_pipeline_preserves_reference_and_backup) ... homegrown: valuing frozen source independently
+reconciled_consensus: valuing frozen source independently
+ok
+test_unmapped_and_duplicate_memberships_stay_explicit (test_draft_integration_v1_15.FrozenBridgeFix.test_unmapped_and_duplicate_memberships_stay_explicit) ... ok
+test_independent_insufficient_depth_is_reported (test_draft_integration_v1_15.Pipeline.test_independent_insufficient_depth_is_reported) ... homegrown: valuing frozen source independently
+reconciled_consensus: valuing frozen source independently
+ok
+test_native_valuation_both_sources_budget_freeze_backup (test_draft_integration_v1_15.Pipeline.test_native_valuation_both_sources_budget_freeze_backup) ... homegrown: valuing frozen source independently
+reconciled_consensus: valuing frozen source independently
+ok
+test_new_output_and_interrupt_cleanup (test_draft_integration_v1_15.Pipeline.test_new_output_and_interrupt_cleanup) ... homegrown: valuing frozen source independently
+reconciled_consensus: valuing frozen source independently
+homegrown: valuing frozen source independently
+reconciled_consensus: valuing frozen source independently
+ok
+test_simulation_blocked_pool_is_backed_up (test_draft_integration_v1_15.Pipeline.test_simulation_blocked_pool_is_backed_up) ... homegrown: valuing frozen source independently
+reconciled_consensus: valuing frozen source independently
+ok
+test_source_specific_roles_enable_homegrown_without_changing_stats (test_draft_integration_v1_15.Pipeline.test_source_specific_roles_enable_homegrown_without_changing_stats) ... homegrown: valuing frozen source independently
+reconciled_consensus: valuing frozen source independently
+ok
+test_stale_market_identity_or_tamper_rejected (test_draft_integration_v1_15.Pipeline.test_stale_market_identity_or_tamper_rejected) ... ok
+test_unsupported_source_no_fallback (test_draft_integration_v1_15.Pipeline.test_unsupported_source_no_fallback) ... ok
+test_simulator_pairing_and_same_market_order_adapter (test_draft_integration_v1_15.SourceIsolation.test_simulator_pairing_and_same_market_order_adapter) ... homegrown: valuing frozen source independently
+reconciled_consensus: valuing frozen source independently
+homegrown: seed 20260324, seat 8, value
+homegrown: seed 20260324, seat 8, category
+reconciled_consensus: seed 20260324, seat 8, value
+reconciled_consensus: seed 20260324, seat 8, category
+ok
+test_unsupported_component_does_not_borrow_other_source (test_draft_integration_v1_15.SourceIsolation.test_unsupported_component_does_not_borrow_other_source) ... homegrown: valuing frozen source independently
+reconciled_consensus: valuing frozen source independently
+ok
+test_frozen_domain_allows_same_nfbc_id_for_two_distinct_role_rows (test_draft_integration_v1_15.TwoWayAssetFix.test_frozen_domain_allows_same_nfbc_id_for_two_distinct_role_rows) ... ok
+test_repeated_nfbc_id_conflicts_and_both_selected_rejected (test_draft_integration_v1_15.TwoWayAssetFix.test_repeated_nfbc_id_conflicts_and_both_selected_rejected) ... ok
+test_repeated_nfbc_id_two_roles_selects_only_valued_canonical_role (test_draft_integration_v1_15.TwoWayAssetFix.test_repeated_nfbc_id_two_roles_selects_only_valued_canonical_role) ... ok
+test_two_way_without_forecast_is_explicit_not_guessed (test_draft_integration_v1_15.TwoWayAssetFix.test_two_way_without_forecast_is_explicit_not_guessed) ... ok
+test_history_2026_forbidden (test_draft_integration_v1_15.Units.test_history_2026_forbidden) ... ok
+test_known_unknown_market_assets_never_zero_filled (test_draft_integration_v1_15.Units.test_known_unknown_market_assets_never_zero_filled) ... ok
+test_native_simulator_ratios_and_multi_position (test_draft_integration_v1_15.Units.test_native_simulator_ratios_and_multi_position) ... ok
+test_role_future_and_cross_source_validation (test_draft_integration_v1_15.Units.test_role_future_and_cross_source_validation) ... ok
+
+----------------------------------------------------------------------
+Ran 21 tests in 0.523s
+
+OK
+
+Unchanged simulator regression suite:
+test_ADP_scarcity_triggers_before_deadline (test_dc_roster_simulator_v1_3.DeadlineTests.test_ADP_scarcity_triggers_before_deadline) ... ok
+test_completed_pair_does_not_force_extra_reliever (test_dc_roster_simulator_v1_3.DeadlineTests.test_completed_pair_does_not_force_extra_reliever) ... ok
+test_exhausted_tier_is_explicit (test_dc_roster_simulator_v1_3.DeadlineTests.test_exhausted_tier_is_explicit) ... ok
+test_missing_two_forces_first_closer_by_round_22 (test_dc_roster_simulator_v1_3.DeadlineTests.test_missing_two_forces_first_closer_by_round_22) ... ok
+test_round23_missing_second_closer_forces_pick (test_dc_roster_simulator_v1_3.DeadlineTests.test_round23_missing_second_closer_forces_pick) ... ok
+test_all_six_save_options_reported_not_only_two_core (test_dc_roster_simulator_v1_3.DepthReportTests.test_all_six_save_options_reported_not_only_two_core) ... ok
+test_draft_time_role_evaluator_never_counts_third_RP (test_dc_roster_simulator_v1_3.DraftCapacityTests.test_draft_time_role_evaluator_never_counts_third_RP) ... ok
+test_ROSTER_split_kept (test_dc_roster_simulator_v1_3.RoleTests.test_ROSTER_split_kept) ... ok
+test_completion_solver_requires_role_backup (test_dc_roster_simulator_v1_3.RoleTests.test_completion_solver_requires_role_backup) ... ok
+test_generic_P_depth_cannot_hide_no_backup_RP (test_dc_roster_simulator_v1_3.RoleTests.test_generic_P_depth_cannot_hide_no_backup_RP) ... ok
+test_innings_cannot_be_met_by_nine_starters (test_dc_roster_simulator_v1_3.RoleTests.test_innings_cannot_be_met_by_nine_starters) ... ok
+test_missing_GS_does_not_become_relief_role (test_dc_roster_simulator_v1_3.RoleTests.test_missing_GS_does_not_become_relief_role) ... ok
+test_normal_pitching_exactly_seven_and_two (test_dc_roster_simulator_v1_3.RoleTests.test_normal_pitching_exactly_seven_and_two) ... ok
+test_role_aware_single_absence_backup (test_dc_roster_simulator_v1_3.RoleTests.test_role_aware_single_absence_backup) ... ok
+test_thresholds_are_not_rounded_up (test_dc_roster_simulator_v1_3.RoleTests.test_thresholds_are_not_rounded_up) ... ok
+test_tiers_require_relief_role (test_dc_roster_simulator_v1_3.RoleTests.test_tiers_require_relief_role) ... ok
+test_two_distinct_closers_required (test_dc_roster_simulator_v1_3.RoleTests.test_two_distinct_closers_required) ... ok
+test_incidental_fractional_save_does_not_count_as_depth (test_dc_roster_simulator_v1_3.SaveDepthTests.test_incidental_fractional_save_does_not_count_as_depth) ... ok
+test_six_full_roster_save_options_required (test_dc_roster_simulator_v1_3.SaveDepthTests.test_six_full_roster_save_options_required) ... ok
+
+----------------------------------------------------------------------
+Ran 19 tests in 0.042s
+
+OK

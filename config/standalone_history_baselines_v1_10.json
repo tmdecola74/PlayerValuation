@@ -1,0 +1,9 @@
+{
+ "version":"1.10.0", "lag_weights":[3,2,1], "prior_opportunities":100,
+ "minimum_population_rows":50, "maximum_SB_rate":3, "maximum_SB":120,
+ "minimum_validation_rows":30, "minimum_guard_rows":20, "minimum_selection_folds":2,
+ "minimum_candidate_fraction":0.8, "minimum_mse_improvement":0.01, "maximum_mae_degradation":0.01,
+ "prior_SB_floor":10, "low_history_PA":100,
+ "diagnostic_reduction_fraction":0.5, "diagnostic_older_OUTS_floor":120,
+ "diagnostic_return_fraction":0.8, "source_2020_multiplier":2.7
+}

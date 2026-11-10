@@ -1,0 +1,69 @@
+test_2021_insufficient_folds_retains_accepted (test_coherent_skill_groups_v1_19.GroupTests.test_2021_insufficient_folds_retains_accepted) ... ok
+test_config_edits_rejected (test_coherent_skill_groups_v1_19.GroupTests.test_config_edits_rejected) ... ok
+test_current_and_future_errors_cannot_change_choice (test_coherent_skill_groups_v1_19.GroupTests.test_current_and_future_errors_cannot_change_choice) ... ok
+test_hitter_group_only_fixed_AB_and_hit_normalization (test_coherent_skill_groups_v1_19.GroupTests.test_hitter_group_only_fixed_AB_and_hit_normalization) ... ok
+test_individual_stat_guard_rejects (test_coherent_skill_groups_v1_19.GroupTests.test_individual_stat_guard_rejects) ... ok
+test_low_history_guard_required (test_coherent_skill_groups_v1_19.GroupTests.test_low_history_guard_required) ... ok
+test_missing_group_falls_back_never_zero (test_coherent_skill_groups_v1_19.GroupTests.test_missing_group_falls_back_never_zero) ... ok
+test_missing_recent_year_not_silently_skipped (test_coherent_skill_groups_v1_19.GroupTests.test_missing_recent_year_not_silently_skipped) ... ok
+test_no_incremental_change_is_rejected (test_coherent_skill_groups_v1_19.GroupTests.test_no_incremental_change_is_rejected) ... ok
+test_pitcher_group_freezes_hr_workload_saves_holds (test_coherent_skill_groups_v1_19.GroupTests.test_pitcher_group_freezes_hr_workload_saves_holds) ... ok
+test_positive_gate_and_tie_prefers_standard (test_coherent_skill_groups_v1_19.GroupTests.test_positive_gate_and_tie_prefers_standard) ... ok
+test_recent_regression_rejects_aggregate_winner (test_coherent_skill_groups_v1_19.GroupTests.test_recent_regression_rejects_aggregate_winner) ... ok
+test_roles_select_independently (test_coherent_skill_groups_v1_19.GroupTests.test_roles_select_independently) ... ok
+test_zero_reference_error_no_division_or_promotion (test_coherent_skill_groups_v1_19.GroupTests.test_zero_reference_error_no_division_or_promotion) ... ok
+Verifying frozen inputs; fixed coherent-group contract; no model refitting...
+2019: selecting group arms using earlier folds only
+2020: selecting group arms using earlier folds only
+2021: selecting group arms using earlier folds only
+2022: selecting group arms using earlier folds only
+2023: selecting group arms using earlier folds only
+2024: selecting group arms using earlier folds only
+2025: selecting group arms using earlier folds only
+test_2021_recent_and_paired_memberships (test_coherent_skill_groups_v1_19.Pipeline.test_2021_recent_and_paired_memberships) ... ok
+test_complete_backup_source_immutability_and_no_promotion (test_coherent_skill_groups_v1_19.Pipeline.test_complete_backup_source_immutability_and_no_promotion) ... ok
+test_eval_no_fitting_and_same_frozen_choices (test_coherent_skill_groups_v1_19.Pipeline.test_eval_no_fitting_and_same_frozen_choices) ... Frozen choices verified. Reading disclosed 2026 outcomes for reporting only...
+ok
+test_frozen_choices_before_eval_forecasts_and_no_holdout_labels (test_coherent_skill_groups_v1_19.Pipeline.test_frozen_choices_before_eval_forecasts_and_no_holdout_labels) ... Verifying frozen inputs; fixed coherent-group contract; no model refitting...
+2019: selecting group arms using earlier folds only
+2020: selecting group arms using earlier folds only
+2021: selecting group arms using earlier folds only
+2022: selecting group arms using earlier folds only
+2023: selecting group arms using earlier folds only
+2024: selecting group arms using earlier folds only
+2025: selecting group arms using earlier folds only
+ok
+test_gate_metric_pool_requires_all_labels_and_both_fitted_arms (test_coherent_skill_groups_v1_19.Pipeline.test_gate_metric_pool_requires_all_labels_and_both_fitted_arms) ... ok
+test_holdout_outcome_mutation_cannot_change_development (test_coherent_skill_groups_v1_19.Pipeline.test_holdout_outcome_mutation_cannot_change_development) ... Verifying frozen inputs; fixed coherent-group contract; no model refitting...
+2019: selecting group arms using earlier folds only
+2020: selecting group arms using earlier folds only
+2021: selecting group arms using earlier folds only
+2022: selecting group arms using earlier folds only
+2023: selecting group arms using earlier folds only
+2024: selecting group arms using earlier folds only
+2025: selecting group arms using earlier folds only
+Verifying frozen inputs; fixed coherent-group contract; no model refitting...
+2019: selecting group arms using earlier folds only
+2020: selecting group arms using earlier folds only
+2021: selecting group arms using earlier folds only
+2022: selecting group arms using earlier folds only
+2023: selecting group arms using earlier folds only
+2024: selecting group arms using earlier folds only
+2025: selecting group arms using earlier folds only
+ok
+test_interruption_removes_stage (test_coherent_skill_groups_v1_19.Pipeline.test_interruption_removes_stage) ... Verifying frozen inputs; fixed coherent-group contract; no model refitting...
+2019: selecting group arms using earlier folds only
+2020: selecting group arms using earlier folds only
+2021: selecting group arms using earlier folds only
+2022: selecting group arms using earlier folds only
+2023: selecting group arms using earlier folds only
+2024: selecting group arms using earlier folds only
+2025: selecting group arms using earlier folds only
+ok
+test_output_and_tamper_guard (test_coherent_skill_groups_v1_19.Pipeline.test_output_and_tamper_guard) ... Verifying frozen inputs; fixed coherent-group contract; no model refitting...
+ok
+
+----------------------------------------------------------------------
+Ran 22 tests in 4.143s
+
+OK

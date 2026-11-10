@@ -1,0 +1,25 @@
+test_accepted_implied_rate_mismatch (test_skill_composition_v1_18.AuditTests.test_accepted_implied_rate_mismatch) ... ok
+test_duplicate_rate_rejected (test_skill_composition_v1_18.AuditTests.test_duplicate_rate_rejected) ... ok
+test_frozen_replay_mismatch_rejected (test_skill_composition_v1_18.AuditTests.test_frozen_replay_mismatch_rejected) ... ok
+test_full_pipeline_backup_and_no_holdout_open (test_skill_composition_v1_18.AuditTests.test_full_pipeline_backup_and_no_holdout_open) ... Verifying historical labels, feature context and frozen v1.17 replay...
+ok
+test_future_historical_row_rejected (test_skill_composition_v1_18.AuditTests.test_future_historical_row_rejected) ... ok
+test_hit_normalization (test_skill_composition_v1_18.AuditTests.test_hit_normalization) ... ok
+test_hitter_pa_normalization_and_telescope (test_skill_composition_v1_18.AuditTests.test_hitter_pa_normalization_and_telescope) ... ok
+test_identical_accepted_rates_not_new (test_skill_composition_v1_18.AuditTests.test_identical_accepted_rates_not_new) ... ok
+test_interruption_cleans_stage (test_skill_composition_v1_18.AuditTests.test_interruption_cleans_stage) ... Verifying historical labels, feature context and frozen v1.17 replay...
+ok
+test_missing_skill_vector_fallback_explicit (test_skill_composition_v1_18.AuditTests.test_missing_skill_vector_fallback_explicit) ... ok
+test_null_rate_denominator (test_skill_composition_v1_18.AuditTests.test_null_rate_denominator) ... ok
+test_pitcher_hr_clip_and_anchors (test_skill_composition_v1_18.AuditTests.test_pitcher_hr_clip_and_anchors) ... ok
+test_reference_tamper_rejected (test_skill_composition_v1_18.AuditTests.test_reference_tamper_rejected) ... Verifying historical labels, feature context and frozen v1.17 replay...
+ok
+test_summary_2021_and_history (test_skill_composition_v1_18.AuditTests.test_summary_2021_and_history) ... ok
+test_tamper_no_publication (test_skill_composition_v1_18.AuditTests.test_tamper_no_publication) ... ok
+test_unknown_label_never_zero (test_skill_composition_v1_18.AuditTests.test_unknown_label_never_zero) ... ok
+test_zero_actual_count_retained (test_skill_composition_v1_18.AuditTests.test_zero_actual_count_retained) ... ok
+
+----------------------------------------------------------------------
+Ran 17 tests in 0.412s
+
+OK

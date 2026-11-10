@@ -1,0 +1,16 @@
+{
+  "regression": "SUPPLIED_EXPORTS_VS_EXISTING_SUMMARY_ACCOUNTING_ONLY",
+  "denominator_rows": 9108,
+  "hardhit_residuals": 52,
+  "historical_normalization_flags": 100,
+  "residual_export_counts_match_prior_implied_numerators": 52,
+  "classifications": {
+    "RATE_MATCHES_BOTH_DENOMINATORS": 6958,
+    "RATE_MATCHES_TOTAL_BBE_ONLY": 2048,
+    "RATE_MATCHES_MEASURED_ONLY": 48,
+    "RATE_DEFINITION_UNRESOLVED": 52,
+    "MISSING_EXPORT_OR_ARCHIVE": 2
+  },
+  "physical_archive_reconstructed": false,
+  "accepted_forecasts_modified": false
+}

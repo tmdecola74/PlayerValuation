@@ -1,0 +1,110 @@
+test_boundaries_zeros_missing_identical_pools_and_error_partition (test_projection_release_audit_v1_12.CohortTests.test_boundaries_zeros_missing_identical_pools_and_error_partition) ... ok
+test_duplicate_forecast_or_future_label_rejected (test_projection_release_audit_v1_12.CohortTests.test_duplicate_forecast_or_future_label_rejected) ... ok
+test_history_identity_and_coverage_categories_without_debut_claims (test_projection_release_audit_v1_12.MissingTests.test_history_identity_and_coverage_categories_without_debut_claims) ... ok
+test_target_feature_leakage_rejected (test_projection_release_audit_v1_12.MissingTests.test_target_feature_leakage_rejected) ... ok
+Rolling origin 2018: fitting only earlier target years
+Rolling origin 2019: fitting only earlier target years
+Rolling origin 2020: fitting only earlier target years
+Rolling origin 2021: fitting only earlier target years
+Rolling origin 2022: fitting only earlier target years
+Rolling origin 2023: fitting only earlier target years
+Rolling origin 2024: fitting only earlier target years
+Rolling origin 2025: fitting only earlier target years
+Freezing final choices and fitting through 2025; no 2026 outcomes read.
+Rolling origin 2018: fitting only earlier target years
+Rolling origin 2019: fitting only earlier target years
+Rolling origin 2020: fitting only earlier target years
+Rolling origin 2021: fitting only earlier target years
+Rolling origin 2022: fitting only earlier target years
+Rolling origin 2023: fitting only earlier target years
+Rolling origin 2024: fitting only earlier target years
+Rolling origin 2025: fitting only earlier target years
+Freezing final choices and fitting through 2025; no 2026 outcomes read.
+2019: fitting opportunity models on target years before 2019
+2020: fitting opportunity models on target years before 2020
+2021: fitting opportunity models on target years before 2021
+2022: fitting opportunity models on target years before 2022
+2023: fitting opportunity models on target years before 2023
+2024: fitting opportunity models on target years before 2024
+2025: fitting opportunity models on target years before 2025
+2026: fitting opportunity models on target years before 2026
+2016: categorical roles fit on target seasons before 2016
+2017: categorical roles fit on target seasons before 2017
+2018: categorical roles fit on target seasons before 2018
+2019: categorical roles fit on target seasons before 2019
+2020: categorical roles fit on target seasons before 2020
+2021: categorical roles fit on target seasons before 2021
+2022: categorical roles fit on target seasons before 2022
+2023: categorical roles fit on target seasons before 2023
+2024: categorical roles fit on target seasons before 2024
+2025: categorical roles fit on target seasons before 2025
+2026: categorical roles fit on target seasons before 2026
+2019: workload experts use chronological role predictions
+2020: workload experts use chronological role predictions
+2021: workload experts use chronological role predictions
+2022: workload experts use chronological role predictions
+2023: workload experts use chronological role predictions
+2024: workload experts use chronological role predictions
+2025: workload experts use chronological role predictions
+2026: workload experts use chronological role predictions
+2016: categorical roles fit on target seasons before 2016
+2017: categorical roles fit on target seasons before 2017
+2018: categorical roles fit on target seasons before 2018
+2019: categorical roles fit on target seasons before 2019
+2020: categorical roles fit on target seasons before 2020
+2021: categorical roles fit on target seasons before 2021
+2022: categorical roles fit on target seasons before 2022
+2023: categorical roles fit on target seasons before 2023
+2024: categorical roles fit on target seasons before 2024
+2025: categorical roles fit on target seasons before 2025
+2026: categorical roles fit on target seasons before 2026
+2019: workload experts use chronological role predictions
+2020: workload experts use chronological role predictions
+2021: workload experts use chronological role predictions
+2022: workload experts use chronological role predictions
+2023: workload experts use chronological role predictions
+2024: workload experts use chronological role predictions
+2025: workload experts use chronological role predictions
+2026: workload experts use chronological role predictions
+2019: separate probability-input and workload-change experiments; fit target years < 2019
+2020: separate probability-input and workload-change experiments; fit target years < 2020
+2021: separate probability-input and workload-change experiments; fit target years < 2021
+2022: separate probability-input and workload-change experiments; fit target years < 2022
+2023: separate probability-input and workload-change experiments; fit target years < 2023
+2024: separate probability-input and workload-change experiments; fit target years < 2024
+2025: separate probability-input and workload-change experiments; fit target years < 2025
+2026: separate probability-input and workload-change experiments; fit target years < 2026
+Verifying frozen releases and replaying historical selection gates...
+Verifying frozen v1.4 and historical labels...
+2019: holds opportunity fits only earlier targets; saves unchanged
+2020: holds opportunity fits only earlier targets; saves unchanged
+2021: holds opportunity fits only earlier targets; saves unchanged
+2022: holds opportunity fits only earlier targets; saves unchanged
+2023: holds opportunity fits only earlier targets; saves unchanged
+2024: holds opportunity fits only earlier targets; saves unchanged
+2025: holds opportunity fits only earlier targets; saves unchanged
+2026: holds opportunity fits only earlier targets; saves unchanged
+Verifying accepted historical choices and frozen v1.5 forecasts...
+Projection exports verified and frozen. Reading separate 2026 eligible actuals...
+Auditing original consensus components and replaying contributor weights...
+Scoring frozen rate forecasts in fixed actual-exposure cohorts...
+Reviewing absent actual participants against historical reference and feature population...
+test_full_read_only_outputs_complete_backup_and_disclosure (test_projection_release_audit_v1_12.Pipeline.test_full_read_only_outputs_complete_backup_and_disclosure) ... ok
+test_hash_and_source_binding_fail_before_publication (test_projection_release_audit_v1_12.Pipeline.test_hash_and_source_binding_fail_before_publication) ... ok
+test_interruption_cleans_unpublished_output (test_projection_release_audit_v1_12.Pipeline.test_interruption_cleans_unpublished_output) ... Auditing original consensus components and replaying contributor weights...
+ok
+test_no_model_fit_api_used_and_existing_output_guard (test_projection_release_audit_v1_12.Pipeline.test_no_model_fit_api_used_and_existing_output_guard) ... Auditing original consensus components and replaying contributor weights...
+Scoring frozen rate forecasts in fixed actual-exposure cohorts...
+Reviewing absent actual participants against historical reference and feature population...
+ok
+test_missing_no_common_and_replay_mismatch_are_explicit (test_projection_release_audit_v1_12.ProvenanceTests.test_missing_no_common_and_replay_mismatch_are_explicit) ... ok
+test_pa_remainder_not_treated_as_equality (test_projection_release_audit_v1_12.ProvenanceTests.test_pa_remainder_not_treated_as_equality) ... ok
+test_quarter_hit_residual_traced_to_source_without_repair (test_projection_release_audit_v1_12.ProvenanceTests.test_quarter_hit_residual_traced_to_source_without_repair) ... ok
+test_same_pool_weight_effect (test_projection_release_audit_v1_12.ProvenanceTests.test_same_pool_weight_effect) ... ok
+test_source_pool_effect (test_projection_release_audit_v1_12.ProvenanceTests.test_source_pool_effect) ... ok
+test_source_rounding_scale_is_not_certification (test_projection_release_audit_v1_12.ProvenanceTests.test_source_rounding_scale_is_not_certification) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 5.251s
+
+OK

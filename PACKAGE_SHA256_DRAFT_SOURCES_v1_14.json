@@ -1,0 +1,12 @@
+{
+  "reconciliation_audit_v1_14.py": "75ec3d005a87cdc8ec75e80bdd0561e79251c8c8fa1e3d5ab2a199c9dd71cbd4",
+  "build_draft_sources_v1_14.py": "7e3333079afff06e5ccca4d51dbf0396fecc154a7139de2152a46f1a02093855",
+  "validate_entry_branch_inputs_v1_14.py": "f08670a1bc97be8fc5acfbb68a5c73b5fe3378508c466faf05705f9ce035d738",
+  "VALIDATION_DRAFT_SOURCES_v1_14.md": "4c37d92b3a19596425ce0c8ebf405156fba27c52f6c6c681f66549884915ed68",
+  "draft_source_registry_v1_14.py": "edbc7794ae8a132c326bcfaedf5bdf45a50d12a6453b5013bb759890f7ece38a",
+  "README_DRAFT_SOURCES_v1_14.md": "42f6371e54b8781af2164726bd36b9bda7415b198eec41e6fe965c0b55fbc9f9",
+  "TEST_RESULTS_DRAFT_SOURCES_v1_14.txt": "a84797077f2ee1b40ef9c648e0296077ccb4c6534f898c2b31ac08103abcd7ab",
+  "entry_branch_v1_14.py": "643dc6ca97a75c40987ae7db3dbe12440814b16b3cee02699b4772135d3baedf",
+  "coverage_priorities_v1_14.py": "d1aa0bf89f9846f26878f4990b63bbed55826745b1c4ffb9f6d5d3a9524c1b5d",
+  "tests/test_draft_sources_v1_14.py": "0f61befb2d1f41d80cf1f5486666778937584bbec21e1b213c0a88f1c8707cb1"
+}

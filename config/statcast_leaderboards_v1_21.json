@@ -1,0 +1,196 @@
+{
+  "settings": {
+    "version": "1.21.0",
+    "historical_max_source_season": 2025,
+    "quarantine_source_season": 2026,
+    "minimum_bbe": 30,
+    "minimum_competitive_swings": 100,
+    "minimum_contacts": 30,
+    "minimum_recorded_movements": 20,
+    "maximum_count_rate_rounding_error": 0.0005001,
+    "proxy_fraction_review_threshold": 0.02,
+    "angle_rounding_tolerance": 0.0500001,
+    "definition_policy": "NO_AUTOMATIC_PROMOTION_OR_SOURCE_SUBSTITUTION"
+  },
+  "sources": [
+    {
+      "source_id": "hitter_batted_ball",
+      "file": "hitter_batted-ball2023-2026_min1.csv",
+      "family": "batted_ball",
+      "player_type": "hitter",
+      "expected_seasons": [
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "expected_sha256": "07d79365d9d096a2c10d9cb3c34d737fd756d03b84e0e7b9a1defc90fb770973",
+      "retrieved_at": null,
+      "filter_settings": "USER_CONFIRMED_LOWEST_AVAILABLE_MINIMUM"
+    },
+    {
+      "source_id": "pitcher_batted_ball",
+      "file": "pitcher_batted-ball2023-2026.csv",
+      "family": "batted_ball",
+      "player_type": "pitcher",
+      "expected_seasons": [
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "expected_sha256": "ebfd8df3919fa4cc21b518921c97f1903e58e4272726960cb8fee77f9725200e",
+      "retrieved_at": null,
+      "filter_settings": "NOT_RECORDED_IN_CSV"
+    },
+    {
+      "source_id": "hitter_bat_tracking",
+      "file": "hitter_bat-tracking2023-2026.csv",
+      "family": "bat_tracking",
+      "player_type": "hitter",
+      "expected_seasons": [
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "expected_sha256": "88eaacc7c54e1cbd0360c073529f30142ebcb67a0499b091eec13decb197ad55",
+      "retrieved_at": null,
+      "filter_settings": "NOT_RECORDED_IN_CSV"
+    },
+    {
+      "source_id": "pitcher_bat_tracking",
+      "file": "pitcher_bat-tracking2023-2026.csv",
+      "family": "bat_tracking",
+      "player_type": "pitcher",
+      "expected_seasons": [
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "expected_sha256": "52b4ba0d196d7929d453f7e1e11a907e990e3eba5e16f68d119aff6365090fbc",
+      "retrieved_at": null,
+      "filter_settings": "NOT_RECORDED_IN_CSV"
+    },
+    {
+      "source_id": "hitter_exit_velocity_2023",
+      "file": "hitter_exit_velocity2023.csv",
+      "family": "exit_velocity",
+      "player_type": "hitter",
+      "season": 2023,
+      "expected_seasons": [
+        2023
+      ],
+      "expected_sha256": "c80ba8f1ab51e00b6006e59209a81460dce12bd84450b39713f222817017545a",
+      "retrieved_at": null,
+      "filter_settings": "NOT_RECORDED_IN_CSV"
+    },
+    {
+      "source_id": "hitter_exit_velocity_2024",
+      "file": "hitter_exit_velocity2024.csv",
+      "family": "exit_velocity",
+      "player_type": "hitter",
+      "season": 2024,
+      "expected_seasons": [
+        2024
+      ],
+      "expected_sha256": "0bbc9d29e276a28b5828953d029241676bf3489f6d849160d00b5cba3503ef7c",
+      "retrieved_at": null,
+      "filter_settings": "NOT_RECORDED_IN_CSV"
+    },
+    {
+      "source_id": "hitter_exit_velocity_2025",
+      "file": "hitter_exit_velocity2025.csv",
+      "family": "exit_velocity",
+      "player_type": "hitter",
+      "season": 2025,
+      "expected_seasons": [
+        2025
+      ],
+      "expected_sha256": "9fcba7df93f78958bdf790c848d9293c4effe93650705013dc685e572d09eae8",
+      "retrieved_at": null,
+      "filter_settings": "NOT_RECORDED_IN_CSV"
+    },
+    {
+      "source_id": "hitter_exit_velocity_2026",
+      "file": "hitter_exit_velocity2026.csv",
+      "family": "exit_velocity",
+      "player_type": "hitter",
+      "season": 2026,
+      "expected_seasons": [
+        2026
+      ],
+      "expected_sha256": "8758c86d7d6c1f260004d2e1541828400030545912c439a402eafcd7a64cb8b3",
+      "retrieved_at": null,
+      "filter_settings": "NOT_RECORDED_IN_CSV"
+    },
+    {
+      "source_id": "pitcher_exit_velocity_2023",
+      "file": "pitcher_exit_velocity2023.csv",
+      "family": "exit_velocity",
+      "player_type": "pitcher",
+      "season": 2023,
+      "expected_seasons": [
+        2023
+      ],
+      "expected_sha256": "7885f6929959f1b9876dd12018844c68a9260dd513a1722d7c98373073d0e97d",
+      "retrieved_at": null,
+      "filter_settings": "NOT_RECORDED_IN_CSV"
+    },
+    {
+      "source_id": "pitcher_exit_velocity_2024",
+      "file": "pitcher_exit_velocity2024.csv",
+      "family": "exit_velocity",
+      "player_type": "pitcher",
+      "season": 2024,
+      "expected_seasons": [
+        2024
+      ],
+      "expected_sha256": "79df878865714a04903936b6f2fcb665c840042dded1f7dbb8013f5a120e3d19",
+      "retrieved_at": null,
+      "filter_settings": "NOT_RECORDED_IN_CSV"
+    },
+    {
+      "source_id": "pitcher_exit_velocity_2025",
+      "file": "pitcher_exit_velocity2025.csv",
+      "family": "exit_velocity",
+      "player_type": "pitcher",
+      "season": 2025,
+      "expected_seasons": [
+        2025
+      ],
+      "expected_sha256": "76506be7028d461f6272b8c603d71aa476dba1dce0de52696cdffe2fd36f2aa3",
+      "retrieved_at": null,
+      "filter_settings": "NOT_RECORDED_IN_CSV"
+    },
+    {
+      "source_id": "pitcher_exit_velocity_2026",
+      "file": "pitcher_exit_velocity2026.csv",
+      "family": "exit_velocity",
+      "player_type": "pitcher",
+      "season": 2026,
+      "expected_seasons": [
+        2026
+      ],
+      "expected_sha256": "33f540d63b1277af10fbd8f5a0c4e9b7734671c586bf6a35d6563aa5c6602c40",
+      "retrieved_at": null,
+      "filter_settings": "NOT_RECORDED_IN_CSV"
+    },
+    {
+      "source_id": "hitter_baserunning",
+      "file": "baserunning_run_value2023-2026.csv",
+      "family": "baserunning",
+      "player_type": "hitter",
+      "expected_seasons": [
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "expected_sha256": "eced0f181d68c7642ac0396cb192bcd7244882520d539eb95994f1ff47d29f00",
+      "retrieved_at": null,
+      "filter_settings": "NOT_RECORDED_IN_CSV"
+    }
+  ]
+}

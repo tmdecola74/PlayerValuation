@@ -1,0 +1,119 @@
+Rolling origin 2018: fitting only earlier target years
+Rolling origin 2019: fitting only earlier target years
+Rolling origin 2020: fitting only earlier target years
+Rolling origin 2021: fitting only earlier target years
+Rolling origin 2022: fitting only earlier target years
+Rolling origin 2023: fitting only earlier target years
+Rolling origin 2024: fitting only earlier target years
+Rolling origin 2025: fitting only earlier target years
+Freezing final choices and fitting through 2025; no 2026 outcomes read.
+Rolling origin 2018: fitting only earlier target years
+Rolling origin 2019: fitting only earlier target years
+Rolling origin 2020: fitting only earlier target years
+Rolling origin 2021: fitting only earlier target years
+Rolling origin 2022: fitting only earlier target years
+Rolling origin 2023: fitting only earlier target years
+Rolling origin 2024: fitting only earlier target years
+Rolling origin 2025: fitting only earlier target years
+Freezing final choices and fitting through 2025; no 2026 outcomes read.
+2019: fitting opportunity models on target years before 2019
+2020: fitting opportunity models on target years before 2020
+2021: fitting opportunity models on target years before 2021
+2022: fitting opportunity models on target years before 2022
+2023: fitting opportunity models on target years before 2023
+2024: fitting opportunity models on target years before 2024
+2025: fitting opportunity models on target years before 2025
+2026: fitting opportunity models on target years before 2026
+2016: categorical roles fit on target seasons before 2016
+2017: categorical roles fit on target seasons before 2017
+2018: categorical roles fit on target seasons before 2018
+2019: categorical roles fit on target seasons before 2019
+2020: categorical roles fit on target seasons before 2020
+2021: categorical roles fit on target seasons before 2021
+2022: categorical roles fit on target seasons before 2022
+2023: categorical roles fit on target seasons before 2023
+2024: categorical roles fit on target seasons before 2024
+2025: categorical roles fit on target seasons before 2025
+2026: categorical roles fit on target seasons before 2026
+2019: workload experts use chronological role predictions
+2020: workload experts use chronological role predictions
+2021: workload experts use chronological role predictions
+2022: workload experts use chronological role predictions
+2023: workload experts use chronological role predictions
+2024: workload experts use chronological role predictions
+2025: workload experts use chronological role predictions
+2026: workload experts use chronological role predictions
+2016: categorical roles fit on target seasons before 2016
+2017: categorical roles fit on target seasons before 2017
+2018: categorical roles fit on target seasons before 2018
+2019: categorical roles fit on target seasons before 2019
+2020: categorical roles fit on target seasons before 2020
+2021: categorical roles fit on target seasons before 2021
+2022: categorical roles fit on target seasons before 2022
+2023: categorical roles fit on target seasons before 2023
+2024: categorical roles fit on target seasons before 2024
+2025: categorical roles fit on target seasons before 2025
+2026: categorical roles fit on target seasons before 2026
+2019: workload experts use chronological role predictions
+2020: workload experts use chronological role predictions
+2021: workload experts use chronological role predictions
+2022: workload experts use chronological role predictions
+2023: workload experts use chronological role predictions
+2024: workload experts use chronological role predictions
+2025: workload experts use chronological role predictions
+2026: workload experts use chronological role predictions
+2019: separate probability-input and workload-change experiments; fit target years < 2019
+2020: separate probability-input and workload-change experiments; fit target years < 2020
+2021: separate probability-input and workload-change experiments; fit target years < 2021
+2022: separate probability-input and workload-change experiments; fit target years < 2022
+2023: separate probability-input and workload-change experiments; fit target years < 2023
+2024: separate probability-input and workload-change experiments; fit target years < 2024
+2025: separate probability-input and workload-change experiments; fit target years < 2025
+2026: separate probability-input and workload-change experiments; fit target years < 2026
+Verifying frozen releases and replaying historical selection gates...
+Verifying frozen v1.4 and historical labels...
+2019: holds opportunity fits only earlier targets; saves unchanged
+2020: holds opportunity fits only earlier targets; saves unchanged
+2021: holds opportunity fits only earlier targets; saves unchanged
+2022: holds opportunity fits only earlier targets; saves unchanged
+2023: holds opportunity fits only earlier targets; saves unchanged
+2024: holds opportunity fits only earlier targets; saves unchanged
+2025: holds opportunity fits only earlier targets; saves unchanged
+2026: holds opportunity fits only earlier targets; saves unchanged
+Verifying accepted historical choices and frozen v1.5 forecasts...
+Projection exports verified and frozen. Reading separate 2026 eligible actuals...
+Testing fixed arithmetic reconciliation against preserved source components...
+Building universe from preseason sources and prior history; no target labels...
+test_build_never_opens_holdout_labels_or_2026_evaluation (test_preseason_coverage_v1_13.Pipeline.test_build_never_opens_holdout_labels_or_2026_evaluation) ... Testing fixed arithmetic reconciliation against preserved source components...
+Building universe from preseason sources and prior history; no target labels...
+ok
+test_full_build_preserves_homegrown_originals_and_complete_backup (test_preseason_coverage_v1_13.Pipeline.test_full_build_preserves_homegrown_originals_and_complete_backup) ... ok
+test_holdout_mutation_cannot_change_universe_or_candidate (test_preseason_coverage_v1_13.Pipeline.test_holdout_mutation_cannot_change_universe_or_candidate) ... Testing fixed arithmetic reconciliation against preserved source components...
+Building universe from preseason sources and prior history; no target labels...
+ok
+test_output_guard_tamper_and_interrupt (test_preseason_coverage_v1_13.Pipeline.test_output_guard_tamper_and_interrupt) ... Testing fixed arithmetic reconciliation against preserved source components...
+Building universe from preseason sources and prior history; no target labels...
+ok
+test_recovered_consensus_case_preserves_original_and_scores_published_reference (test_preseason_coverage_v1_13.Pipeline.test_recovered_consensus_case_preserves_original_and_scores_published_reference) ... Verifying accepted historical choices and frozen v1.5 forecasts...
+Testing fixed arithmetic reconciliation against preserved source components...
+Building universe from preseason sources and prior history; no target labels...
+Projection exports verified and frozen. Reading separate 2026 eligible actuals...
+Frozen candidate and universe verified. Evaluating reviewed 2026 labels separately...
+ok
+test_separate_evaluation_preserves_universe_identical_pools_and_backup (test_preseason_coverage_v1_13.Pipeline.test_separate_evaluation_preserves_universe_identical_pools_and_backup) ... Frozen candidate and universe verified. Evaluating reviewed 2026 labels separately...
+ok
+test_PA_deficit_and_positive_remainder (test_preseason_coverage_v1_13.PolicyTests.test_PA_deficit_and_positive_remainder) ... ok
+test_caps_negative_single_and_source_pool_or_missing_evidence_quarantine (test_preseason_coverage_v1_13.PolicyTests.test_caps_negative_single_and_source_pool_or_missing_evidence_quarantine) ... ok
+test_numerical_cancellation_preserves_zero_single_without_clipping (test_preseason_coverage_v1_13.PolicyTests.test_numerical_cancellation_preserves_zero_single_without_clipping) ... ok
+test_pitcher_saves_holds_and_missing_not_zero (test_preseason_coverage_v1_13.PolicyTests.test_pitcher_saves_holds_and_missing_not_zero) ... ok
+test_policy_tamper_rejected (test_preseason_coverage_v1_13.PolicyTests.test_policy_tamper_rejected) ... ok
+test_single_reconciliation_anchors_full_ledger_and_no_original_mutation (test_preseason_coverage_v1_13.PolicyTests.test_single_reconciliation_anchors_full_ledger_and_no_original_mutation) ... ok
+test_dated_prospect_and_international_schema_and_future_rejection (test_preseason_coverage_v1_13.UniverseTests.test_dated_prospect_and_international_schema_and_future_rejection) ... ok
+test_matched_scores_cohort_boundaries_and_zero_labels (test_preseason_coverage_v1_13.UniverseTests.test_matched_scores_cohort_boundaries_and_zero_labels) ... ok
+test_preseason_coldstarts_included_and_historical_only_not_active (test_preseason_coverage_v1_13.UniverseTests.test_preseason_coldstarts_included_and_historical_only_not_active) ... ok
+test_target_outcomes_forbidden_and_unseen_actuals_not_added (test_preseason_coverage_v1_13.UniverseTests.test_target_outcomes_forbidden_and_unseen_actuals_not_added) ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 6.398s
+
+OK

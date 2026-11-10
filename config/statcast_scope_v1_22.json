@@ -1,0 +1,25 @@
+{
+  "version": "1.22.0",
+  "source_seasons": [
+    2023,
+    2024,
+    2025
+  ],
+  "substantial_bbe": 100,
+  "top_per_metric_role_season": 5,
+  "rate_tolerance": 0.0005001,
+  "mean_tolerance": 0.0500001,
+  "pull_tolerance": 0.02,
+  "trace_metrics": [
+    "avg_hit_speed",
+    "avg_hit_angle",
+    "anglesweetspotpercent",
+    "pull_rate",
+    "pull_air_rate"
+  ],
+  "pull_origin_x": 125.42,
+  "pull_origin_y": 198.27,
+  "pull_boundary_degrees": 15.0,
+  "fair_cone_degrees": 45.0,
+  "policy": "AUDIT_ONLY_NO_SOURCE_SUBSTITUTION_NO_MODEL_FIT"
+}

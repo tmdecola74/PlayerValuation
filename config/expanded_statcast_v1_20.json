@@ -1,0 +1,17 @@
+{
+  "version": "1.20.0",
+  "source_min_season": 2015,
+  "source_max_season": 2025,
+  "minimum_measurement_coverage": 0.5,
+  "minimum_bbe": 30,
+  "minimum_barrels": 10,
+  "minimum_swings": 100,
+  "minimum_zone_swings": 50,
+  "minimum_pitches": 100,
+  "pull_origin_x": 125.42,
+  "pull_origin_y": 198.27,
+  "pull_boundary_degrees": 15.0,
+  "fair_cone_degrees": 45.0,
+  "physical_pitch_scope": "REGULAR_SEASON_FROZEN_PARQUET_STRICT_KEYS",
+  "bat_tracking_policy": "AUDIT_ONLY_NO_GUESSED_SQUARED_UP_OR_COMPETITIVE_SWING_CLASSIFICATION"
+}

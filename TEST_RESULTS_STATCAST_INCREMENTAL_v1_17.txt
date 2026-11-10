@@ -1,0 +1,162 @@
+test_current_origin_labels_do_not_change_current_fold (test_statcast_incremental_v1_17.ChronologyAndIntegrity.test_current_origin_labels_do_not_change_current_fold) ... Verifying frozen accepted forecasts, matrices, labels and estimator controls...
+2019: paired skill models fit target seasons < 2019; accepted workload/SV/HLD fixed
+2020: paired skill models fit target seasons < 2020; accepted workload/SV/HLD fixed
+2021: paired skill models fit target seasons < 2021; accepted workload/SV/HLD fixed
+2022: paired skill models fit target seasons < 2022; accepted workload/SV/HLD fixed
+2023: paired skill models fit target seasons < 2023; accepted workload/SV/HLD fixed
+2024: paired skill models fit target seasons < 2024; accepted workload/SV/HLD fixed
+2025: paired skill models fit target seasons < 2025; accepted workload/SV/HLD fixed
+2026: paired skill models fit target seasons < 2026; accepted workload/SV/HLD fixed
+Verifying frozen accepted forecasts, matrices, labels and estimator controls...
+2019: paired skill models fit target seasons < 2019; accepted workload/SV/HLD fixed
+2020: paired skill models fit target seasons < 2020; accepted workload/SV/HLD fixed
+2021: paired skill models fit target seasons < 2021; accepted workload/SV/HLD fixed
+2022: paired skill models fit target seasons < 2022; accepted workload/SV/HLD fixed
+2023: paired skill models fit target seasons < 2023; accepted workload/SV/HLD fixed
+2024: paired skill models fit target seasons < 2024; accepted workload/SV/HLD fixed
+2025: paired skill models fit target seasons < 2025; accepted workload/SV/HLD fixed
+2026: paired skill models fit target seasons < 2026; accepted workload/SV/HLD fixed
+ok
+test_future_holdout_predictor_is_rejected (test_statcast_incremental_v1_17.ChronologyAndIntegrity.test_future_holdout_predictor_is_rejected) ... Verifying frozen accepted forecasts, matrices, labels and estimator controls...
+ok
+test_tamper_fails_before_publication (test_statcast_incremental_v1_17.ChronologyAndIntegrity.test_tamper_fails_before_publication) ... Verifying frozen accepted forecasts, matrices, labels and estimator controls...
+ok
+Verifying frozen accepted forecasts, matrices, labels and estimator controls...
+2019: paired skill models fit target seasons < 2019; accepted workload/SV/HLD fixed
+2020: paired skill models fit target seasons < 2020; accepted workload/SV/HLD fixed
+2021: paired skill models fit target seasons < 2021; accepted workload/SV/HLD fixed
+2022: paired skill models fit target seasons < 2022; accepted workload/SV/HLD fixed
+2023: paired skill models fit target seasons < 2023; accepted workload/SV/HLD fixed
+2024: paired skill models fit target seasons < 2024; accepted workload/SV/HLD fixed
+2025: paired skill models fit target seasons < 2025; accepted workload/SV/HLD fixed
+2026: paired skill models fit target seasons < 2026; accepted workload/SV/HLD fixed
+test_existing_output_and_interrupt_cleanup (test_statcast_incremental_v1_17.Pipeline.test_existing_output_and_interrupt_cleanup) ... Verifying frozen accepted forecasts, matrices, labels and estimator controls...
+2019: paired skill models fit target seasons < 2019; accepted workload/SV/HLD fixed
+ok
+test_fit_memberships_fold_preprocessing_and_2021_retained (test_statcast_incremental_v1_17.Pipeline.test_fit_memberships_fold_preprocessing_and_2021_retained) ... ok
+test_fixed_workload_saves_holds_and_complete_backup (test_statcast_incremental_v1_17.Pipeline.test_fixed_workload_saves_holds_and_complete_backup) ... ok
+test_holdout_mutation_cannot_change_fit_choices_or_forecasts (test_statcast_incremental_v1_17.Pipeline.test_holdout_mutation_cannot_change_fit_choices_or_forecasts) ... Verifying frozen accepted forecasts, matrices, labels and estimator controls...
+2019: paired skill models fit target seasons < 2019; accepted workload/SV/HLD fixed
+2020: paired skill models fit target seasons < 2020; accepted workload/SV/HLD fixed
+2021: paired skill models fit target seasons < 2021; accepted workload/SV/HLD fixed
+2022: paired skill models fit target seasons < 2022; accepted workload/SV/HLD fixed
+2023: paired skill models fit target seasons < 2023; accepted workload/SV/HLD fixed
+2024: paired skill models fit target seasons < 2024; accepted workload/SV/HLD fixed
+2025: paired skill models fit target seasons < 2025; accepted workload/SV/HLD fixed
+2026: paired skill models fit target seasons < 2026; accepted workload/SV/HLD fixed
+ok
+test_identical_rate_comparison_pools (test_statcast_incremental_v1_17.Pipeline.test_identical_rate_comparison_pools) ... ok
+test_separate_evaluation_cannot_fit_or_change_frozen_outputs (test_statcast_incremental_v1_17.Pipeline.test_separate_evaluation_cannot_fit_or_change_frozen_outputs) ... Forecasts and historical choices verified. Reading disclosed 2026 labels for reporting only...
+ok
+test_known_statcast_signal_improves_paired_skill_prediction (test_statcast_incremental_v1_17.SignalAndGuardTests.test_known_statcast_signal_improves_paired_skill_prediction) ... ok
+test_missing_guard_support_blocks_adoption (test_statcast_incremental_v1_17.SignalAndGuardTests.test_missing_guard_support_blocks_adoption) ... ok
+test_zero_exposure_does_not_invent_skill_rates (test_statcast_incremental_v1_17.SignalAndGuardTests.test_zero_exposure_does_not_invent_skill_rates) ... ok
+test_statistic_pair_excludes_unshared_rate_support (test_statcast_incremental_v1_17.StatisticPairTests.test_statistic_pair_excludes_unshared_rate_support) ... ok
+test_coherent_counts_and_exact_anchors (test_statcast_incremental_v1_17.Units.test_coherent_counts_and_exact_anchors) ... ok
+test_features_role_appropriate_and_no_statcast_in_standard (test_statcast_incremental_v1_17.Units.test_features_role_appropriate_and_no_statcast_in_standard) ... ok
+test_gate_ignores_current_future_and_2026_outcomes (test_statcast_incremental_v1_17.Units.test_gate_ignores_current_future_and_2026_outcomes) ... ok
+test_measurements_masked_not_zero_imputed (test_statcast_incremental_v1_17.Units.test_measurements_masked_not_zero_imputed) ... ok
+test_test_year_label_cannot_change_preprocessing (test_statcast_incremental_v1_17.Units.test_test_year_label_cannot_change_preprocessing) ... ok
+test_unsupported_recomposition_retains_accepted (test_statcast_incremental_v1_17.Units.test_unsupported_recomposition_retains_accepted) ... ok
+
+----------------------------------------------------------------------
+Ran 19 tests in 4.578s
+
+OK
+
+Earlier-pipeline artifact compatibility validation:
+Rolling origin 2018: fitting only earlier target years
+Rolling origin 2019: fitting only earlier target years
+Rolling origin 2020: fitting only earlier target years
+Rolling origin 2021: fitting only earlier target years
+Rolling origin 2022: fitting only earlier target years
+Rolling origin 2023: fitting only earlier target years
+Rolling origin 2024: fitting only earlier target years
+Rolling origin 2025: fitting only earlier target years
+Freezing final choices and fitting through 2025; no 2026 outcomes read.
+Rolling origin 2018: fitting only earlier target years
+Rolling origin 2019: fitting only earlier target years
+Rolling origin 2020: fitting only earlier target years
+Rolling origin 2021: fitting only earlier target years
+Rolling origin 2022: fitting only earlier target years
+Rolling origin 2023: fitting only earlier target years
+Rolling origin 2024: fitting only earlier target years
+Rolling origin 2025: fitting only earlier target years
+Freezing final choices and fitting through 2025; no 2026 outcomes read.
+2019: fitting opportunity models on target years before 2019
+2020: fitting opportunity models on target years before 2020
+2021: fitting opportunity models on target years before 2021
+2022: fitting opportunity models on target years before 2022
+2023: fitting opportunity models on target years before 2023
+2024: fitting opportunity models on target years before 2024
+2025: fitting opportunity models on target years before 2025
+2026: fitting opportunity models on target years before 2026
+2016: categorical roles fit on target seasons before 2016
+2017: categorical roles fit on target seasons before 2017
+2018: categorical roles fit on target seasons before 2018
+2019: categorical roles fit on target seasons before 2019
+2020: categorical roles fit on target seasons before 2020
+2021: categorical roles fit on target seasons before 2021
+2022: categorical roles fit on target seasons before 2022
+2023: categorical roles fit on target seasons before 2023
+2024: categorical roles fit on target seasons before 2024
+2025: categorical roles fit on target seasons before 2025
+2026: categorical roles fit on target seasons before 2026
+2019: workload experts use chronological role predictions
+2020: workload experts use chronological role predictions
+2021: workload experts use chronological role predictions
+2022: workload experts use chronological role predictions
+2023: workload experts use chronological role predictions
+2024: workload experts use chronological role predictions
+2025: workload experts use chronological role predictions
+2026: workload experts use chronological role predictions
+2016: categorical roles fit on target seasons before 2016
+2017: categorical roles fit on target seasons before 2017
+2018: categorical roles fit on target seasons before 2018
+2019: categorical roles fit on target seasons before 2019
+2020: categorical roles fit on target seasons before 2020
+2021: categorical roles fit on target seasons before 2021
+2022: categorical roles fit on target seasons before 2022
+2023: categorical roles fit on target seasons before 2023
+2024: categorical roles fit on target seasons before 2024
+2025: categorical roles fit on target seasons before 2025
+2026: categorical roles fit on target seasons before 2026
+2019: workload experts use chronological role predictions
+2020: workload experts use chronological role predictions
+2021: workload experts use chronological role predictions
+2022: workload experts use chronological role predictions
+2023: workload experts use chronological role predictions
+2024: workload experts use chronological role predictions
+2025: workload experts use chronological role predictions
+2026: workload experts use chronological role predictions
+2019: separate probability-input and workload-change experiments; fit target years < 2019
+2020: separate probability-input and workload-change experiments; fit target years < 2020
+2021: separate probability-input and workload-change experiments; fit target years < 2021
+2022: separate probability-input and workload-change experiments; fit target years < 2022
+2023: separate probability-input and workload-change experiments; fit target years < 2023
+2024: separate probability-input and workload-change experiments; fit target years < 2024
+2025: separate probability-input and workload-change experiments; fit target years < 2025
+2026: separate probability-input and workload-change experiments; fit target years < 2026
+Verifying frozen releases and replaying historical selection gates...
+Verifying frozen v1.4 and historical labels...
+2019: holds opportunity fits only earlier targets; saves unchanged
+2020: holds opportunity fits only earlier targets; saves unchanged
+2021: holds opportunity fits only earlier targets; saves unchanged
+2022: holds opportunity fits only earlier targets; saves unchanged
+2023: holds opportunity fits only earlier targets; saves unchanged
+2024: holds opportunity fits only earlier targets; saves unchanged
+2025: holds opportunity fits only earlier targets; saves unchanged
+2026: holds opportunity fits only earlier targets; saves unchanged
+Verifying accepted historical choices and frozen v1.5 forecasts...
+Verifying frozen accepted forecasts, matrices, labels and estimator controls...
+2019: paired skill models fit target seasons < 2019; accepted workload/SV/HLD fixed
+2020: paired skill models fit target seasons < 2020; accepted workload/SV/HLD fixed
+2021: paired skill models fit target seasons < 2021; accepted workload/SV/HLD fixed
+2022: paired skill models fit target seasons < 2022; accepted workload/SV/HLD fixed
+2023: paired skill models fit target seasons < 2023; accepted workload/SV/HLD fixed
+2024: paired skill models fit target seasons < 2024; accepted workload/SV/HLD fixed
+2025: paired skill models fit target seasons < 2025; accepted workload/SV/HLD fixed
+2026: paired skill models fit target seasons < 2026; accepted workload/SV/HLD fixed
+INHERITED_BUILD_PASS 7469 16100
+Forecasts and historical choices verified. Reading disclosed 2026 labels for reporting only...
+INHERITED_EVALUATION_PASS 980 2090

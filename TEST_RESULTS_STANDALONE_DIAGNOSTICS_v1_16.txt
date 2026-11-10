@@ -1,0 +1,126 @@
+test_comparison_summary_equal_season_and_2021 (test_standalone_diagnostics_v1_16.AdditionalGuards.test_comparison_summary_equal_season_and_2021) ... ok
+test_future_matrix_cutoff_and_outcome_allowlist_rejected (test_standalone_diagnostics_v1_16.AdditionalGuards.test_future_matrix_cutoff_and_outcome_allowlist_rejected) ... ok
+test_signed_unscored_label_is_not_a_scored_count (test_standalone_diagnostics_v1_16.AdditionalGuards.test_signed_unscored_label_is_not_a_scored_count) ... ok
+test_full_readonly_build_pair_memberships_and_2021 (test_standalone_diagnostics_v1_16.Pipeline.test_full_readonly_build_pair_memberships_and_2021) ... Verifying accepted release and historical source bindings...
+Reading historical matrix and eligible training labels only...
+Diagnosing 12 accepted player-seasons; scoring identical eligible comparison pools...
+Writing predictor, measurement, error and development-baseline reports...
+ok
+test_holdout_files_never_opened_and_mutation_invariant (test_standalone_diagnostics_v1_16.Pipeline.test_holdout_files_never_opened_and_mutation_invariant) ... Verifying accepted release and historical source bindings...
+Reading historical matrix and eligible training labels only...
+Diagnosing 12 accepted player-seasons; scoring identical eligible comparison pools...
+Writing predictor, measurement, error and development-baseline reports...
+Verifying accepted release and historical source bindings...
+Reading historical matrix and eligible training labels only...
+Diagnosing 12 accepted player-seasons; scoring identical eligible comparison pools...
+Writing predictor, measurement, error and development-baseline reports...
+ok
+test_interrupt_cleans_staging_and_no_overwrite (test_standalone_diagnostics_v1_16.Pipeline.test_interrupt_cleans_staging_and_no_overwrite) ... Verifying accepted release and historical source bindings...
+Reading historical matrix and eligible training labels only...
+Diagnosing 12 accepted player-seasons; scoring identical eligible comparison pools...
+Writing predictor, measurement, error and development-baseline reports...
+Verifying accepted release and historical source bindings...
+Reading historical matrix and eligible training labels only...
+Diagnosing 12 accepted player-seasons; scoring identical eligible comparison pools...
+Writing predictor, measurement, error and development-baseline reports...
+ok
+test_tamper_and_target_forecast_rejected (test_standalone_diagnostics_v1_16.Pipeline.test_tamper_and_target_forecast_rejected) ... Verifying accepted release and historical source bindings...
+ok
+test_future_and_duplicate_forecast_rejected (test_standalone_diagnostics_v1_16.Units.test_future_and_duplicate_forecast_rejected) ... ok
+test_measurement_coverage_separate_years_and_missing_not_zero (test_standalone_diagnostics_v1_16.Units.test_measurement_coverage_separate_years_and_missing_not_zero) ... ok
+test_missing_labels_zero_actuals_and_matched_pools (test_standalone_diagnostics_v1_16.Units.test_missing_labels_zero_actuals_and_matched_pools) ... ok
+test_model_future_and_outcome_predictor_rejected (test_standalone_diagnostics_v1_16.Units.test_model_future_and_outcome_predictor_rejected) ... ok
+test_model_retained_vs_dropped_not_adoption (test_standalone_diagnostics_v1_16.Units.test_model_retained_vs_dropped_not_adoption) ... ok
+test_prior_unknown_not_nonparticipation_and_2020_flag (test_standalone_diagnostics_v1_16.Units.test_prior_unknown_not_nonparticipation_and_2020_flag) ... ok
+test_rate_denominator_not_fabricated (test_standalone_diagnostics_v1_16.Units.test_rate_denominator_not_fabricated) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 1.159s
+
+OK
+
+Inherited pipeline schema validation:
+Rolling origin 2018: fitting only earlier target years
+Rolling origin 2019: fitting only earlier target years
+Rolling origin 2020: fitting only earlier target years
+Rolling origin 2021: fitting only earlier target years
+Rolling origin 2022: fitting only earlier target years
+Rolling origin 2023: fitting only earlier target years
+Rolling origin 2024: fitting only earlier target years
+Rolling origin 2025: fitting only earlier target years
+Freezing final choices and fitting through 2025; no 2026 outcomes read.
+Rolling origin 2018: fitting only earlier target years
+Rolling origin 2019: fitting only earlier target years
+Rolling origin 2020: fitting only earlier target years
+Rolling origin 2021: fitting only earlier target years
+Rolling origin 2022: fitting only earlier target years
+Rolling origin 2023: fitting only earlier target years
+Rolling origin 2024: fitting only earlier target years
+Rolling origin 2025: fitting only earlier target years
+Freezing final choices and fitting through 2025; no 2026 outcomes read.
+2019: fitting opportunity models on target years before 2019
+2020: fitting opportunity models on target years before 2020
+2021: fitting opportunity models on target years before 2021
+2022: fitting opportunity models on target years before 2022
+2023: fitting opportunity models on target years before 2023
+2024: fitting opportunity models on target years before 2024
+2025: fitting opportunity models on target years before 2025
+2026: fitting opportunity models on target years before 2026
+2016: categorical roles fit on target seasons before 2016
+2017: categorical roles fit on target seasons before 2017
+2018: categorical roles fit on target seasons before 2018
+2019: categorical roles fit on target seasons before 2019
+2020: categorical roles fit on target seasons before 2020
+2021: categorical roles fit on target seasons before 2021
+2022: categorical roles fit on target seasons before 2022
+2023: categorical roles fit on target seasons before 2023
+2024: categorical roles fit on target seasons before 2024
+2025: categorical roles fit on target seasons before 2025
+2026: categorical roles fit on target seasons before 2026
+2019: workload experts use chronological role predictions
+2020: workload experts use chronological role predictions
+2021: workload experts use chronological role predictions
+2022: workload experts use chronological role predictions
+2023: workload experts use chronological role predictions
+2024: workload experts use chronological role predictions
+2025: workload experts use chronological role predictions
+2026: workload experts use chronological role predictions
+2016: categorical roles fit on target seasons before 2016
+2017: categorical roles fit on target seasons before 2017
+2018: categorical roles fit on target seasons before 2018
+2019: categorical roles fit on target seasons before 2019
+2020: categorical roles fit on target seasons before 2020
+2021: categorical roles fit on target seasons before 2021
+2022: categorical roles fit on target seasons before 2022
+2023: categorical roles fit on target seasons before 2023
+2024: categorical roles fit on target seasons before 2024
+2025: categorical roles fit on target seasons before 2025
+2026: categorical roles fit on target seasons before 2026
+2019: workload experts use chronological role predictions
+2020: workload experts use chronological role predictions
+2021: workload experts use chronological role predictions
+2022: workload experts use chronological role predictions
+2023: workload experts use chronological role predictions
+2024: workload experts use chronological role predictions
+2025: workload experts use chronological role predictions
+2026: workload experts use chronological role predictions
+2019: separate probability-input and workload-change experiments; fit target years < 2019
+2020: separate probability-input and workload-change experiments; fit target years < 2020
+2021: separate probability-input and workload-change experiments; fit target years < 2021
+2022: separate probability-input and workload-change experiments; fit target years < 2022
+2023: separate probability-input and workload-change experiments; fit target years < 2023
+2024: separate probability-input and workload-change experiments; fit target years < 2024
+2025: separate probability-input and workload-change experiments; fit target years < 2025
+2026: separate probability-input and workload-change experiments; fit target years < 2026
+Verifying frozen releases and replaying historical selection gates...
+Verifying frozen v1.4 and historical labels...
+2019: holds opportunity fits only earlier targets; saves unchanged
+2020: holds opportunity fits only earlier targets; saves unchanged
+2021: holds opportunity fits only earlier targets; saves unchanged
+2022: holds opportunity fits only earlier targets; saves unchanged
+2023: holds opportunity fits only earlier targets; saves unchanged
+2024: holds opportunity fits only earlier targets; saves unchanged
+2025: holds opportunity fits only earlier targets; saves unchanged
+2026: holds opportunity fits only earlier targets; saves unchanged
+Verifying accepted historical choices and frozen v1.5 forecasts...
+INHERITED_PIPELINE_PASS 112 11270 1550

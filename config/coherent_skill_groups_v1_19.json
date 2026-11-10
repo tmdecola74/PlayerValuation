@@ -1,0 +1,18 @@
+{
+  "version": "1.19.0",
+  "first_origin": 2019,
+  "last_historical_origin": 2025,
+  "evaluation_origin": 2026,
+  "minimum_folds": 3,
+  "minimum_rows_per_fold": 30,
+  "minimum_history_folds": 2,
+  "minimum_history_rows": 20,
+  "recent_folds": 2,
+  "minimum_objective_improvement": 0.01,
+  "maximum_metric_mse_degradation": 0.01,
+  "maximum_metric_mae_degradation": 0.01,
+  "maximum_guard_objective_degradation": 0.01,
+  "maximum_guard_metric_degradation": 0.02,
+  "tie_preference": "group_standard",
+  "research_only": true
+}

@@ -1,0 +1,9 @@
+{
+  "TEST_RESULTS_FIX_v1_15_1.txt": "72325f16e7e99e3d039fab97adff2309873e82fd1cf3e595e3a623ecfa776ba2",
+  "dc_roster_simulator_v1_3.py": "4e079366287c0982281ea7cf8601565c1fe4397c9365abf4bd4266a516f5e000",
+  "simulate_draft_sources_v1_15.py": "f2e4d0ea3d1ac4cc39cf411dd4fda96f351cfc467560494b6e900daff25e8cb9",
+  "requirements_draft_integration_v1_15.txt": "04b9b1dacaead68d7db7c045a600df792adf7475c3352a17335e4f177d02ba77",
+  "draft_integration_v1_15.py": "0222649920c719c98417bb6bc641e0dc05572c8fc49bec2d64467dc41feff1e9",
+  "README_FIX_v1_15_1.md": "24da53460c68bc6a54cc94742306b7cbbe0826f2a785a133590580ac8deed7a5",
+  "tests/test_draft_integration_v1_15.py": "bb496db24cda4fcf74e4fa02efee6672d7da50a4195a47fd2eba49f2fd88a104"
+}

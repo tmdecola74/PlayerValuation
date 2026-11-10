@@ -1,0 +1,118 @@
+test_anchor_change_is_rejected_independent_of_reported_delta (test_draft_sources_v1_14.AuditTests.test_anchor_change_is_rejected_independent_of_reported_delta) ... ok
+test_excess_count_change_and_pool_difference_fail (test_draft_sources_v1_14.AuditTests.test_excess_count_change_and_pool_difference_fail) ... ok
+test_independent_replay_anchors_caps_ledger_and_maxima (test_draft_sources_v1_14.AuditTests.test_independent_replay_anchors_caps_ledger_and_maxima) ... ok
+test_tampered_delta_and_missing_ledger_row_fail (test_draft_sources_v1_14.AuditTests.test_tampered_delta_and_missing_ledger_row_fail) ... ok
+test_cutoff_override_cannot_be_postseason (test_draft_sources_v1_14.BranchTests.test_cutoff_override_cannot_be_postseason) ... ok
+test_future_metadata_and_outcome_columns_rejected (test_draft_sources_v1_14.BranchTests.test_future_metadata_and_outcome_columns_rejected) ... ok
+test_historical_folds_exclude_future_and_2026_retain_2021 (test_draft_sources_v1_14.BranchTests.test_historical_folds_exclude_future_and_2026_retain_2021) ... ok
+test_history_orphans_target_events_fractional_outs_and_blanks (test_draft_sources_v1_14.BranchTests.test_history_orphans_target_events_fractional_outs_and_blanks) ... ok
+Rolling origin 2018: fitting only earlier target years
+Rolling origin 2019: fitting only earlier target years
+Rolling origin 2020: fitting only earlier target years
+Rolling origin 2021: fitting only earlier target years
+Rolling origin 2022: fitting only earlier target years
+Rolling origin 2023: fitting only earlier target years
+Rolling origin 2024: fitting only earlier target years
+Rolling origin 2025: fitting only earlier target years
+Freezing final choices and fitting through 2025; no 2026 outcomes read.
+Rolling origin 2018: fitting only earlier target years
+Rolling origin 2019: fitting only earlier target years
+Rolling origin 2020: fitting only earlier target years
+Rolling origin 2021: fitting only earlier target years
+Rolling origin 2022: fitting only earlier target years
+Rolling origin 2023: fitting only earlier target years
+Rolling origin 2024: fitting only earlier target years
+Rolling origin 2025: fitting only earlier target years
+Freezing final choices and fitting through 2025; no 2026 outcomes read.
+2019: fitting opportunity models on target years before 2019
+2020: fitting opportunity models on target years before 2020
+2021: fitting opportunity models on target years before 2021
+2022: fitting opportunity models on target years before 2022
+2023: fitting opportunity models on target years before 2023
+2024: fitting opportunity models on target years before 2024
+2025: fitting opportunity models on target years before 2025
+2026: fitting opportunity models on target years before 2026
+2016: categorical roles fit on target seasons before 2016
+2017: categorical roles fit on target seasons before 2017
+2018: categorical roles fit on target seasons before 2018
+2019: categorical roles fit on target seasons before 2019
+2020: categorical roles fit on target seasons before 2020
+2021: categorical roles fit on target seasons before 2021
+2022: categorical roles fit on target seasons before 2022
+2023: categorical roles fit on target seasons before 2023
+2024: categorical roles fit on target seasons before 2024
+2025: categorical roles fit on target seasons before 2025
+2026: categorical roles fit on target seasons before 2026
+2019: workload experts use chronological role predictions
+2020: workload experts use chronological role predictions
+2021: workload experts use chronological role predictions
+2022: workload experts use chronological role predictions
+2023: workload experts use chronological role predictions
+2024: workload experts use chronological role predictions
+2025: workload experts use chronological role predictions
+2026: workload experts use chronological role predictions
+2016: categorical roles fit on target seasons before 2016
+2017: categorical roles fit on target seasons before 2017
+2018: categorical roles fit on target seasons before 2018
+2019: categorical roles fit on target seasons before 2019
+2020: categorical roles fit on target seasons before 2020
+2021: categorical roles fit on target seasons before 2021
+2022: categorical roles fit on target seasons before 2022
+2023: categorical roles fit on target seasons before 2023
+2024: categorical roles fit on target seasons before 2024
+2025: categorical roles fit on target seasons before 2025
+2026: categorical roles fit on target seasons before 2026
+2019: workload experts use chronological role predictions
+2020: workload experts use chronological role predictions
+2021: workload experts use chronological role predictions
+2022: workload experts use chronological role predictions
+2023: workload experts use chronological role predictions
+2024: workload experts use chronological role predictions
+2025: workload experts use chronological role predictions
+2026: workload experts use chronological role predictions
+2019: separate probability-input and workload-change experiments; fit target years < 2019
+2020: separate probability-input and workload-change experiments; fit target years < 2020
+2021: separate probability-input and workload-change experiments; fit target years < 2021
+2022: separate probability-input and workload-change experiments; fit target years < 2022
+2023: separate probability-input and workload-change experiments; fit target years < 2023
+2024: separate probability-input and workload-change experiments; fit target years < 2024
+2025: separate probability-input and workload-change experiments; fit target years < 2025
+2026: separate probability-input and workload-change experiments; fit target years < 2026
+Verifying frozen releases and replaying historical selection gates...
+Verifying frozen v1.4 and historical labels...
+2019: holds opportunity fits only earlier targets; saves unchanged
+2020: holds opportunity fits only earlier targets; saves unchanged
+2021: holds opportunity fits only earlier targets; saves unchanged
+2022: holds opportunity fits only earlier targets; saves unchanged
+2023: holds opportunity fits only earlier targets; saves unchanged
+2024: holds opportunity fits only earlier targets; saves unchanged
+2025: holds opportunity fits only earlier targets; saves unchanged
+2026: holds opportunity fits only earlier targets; saves unchanged
+Verifying accepted historical choices and frozen v1.5 forecasts...
+Projection exports verified and frozen. Reading separate 2026 eligible actuals...
+Testing fixed arithmetic reconciliation against preserved source components...
+Building universe from preseason sources and prior history; no target labels...
+Independently auditing component ledger, anchors, caps and contributor replay...
+Prioritizing preseason coverage gaps from ADP and original projected workloads...
+Writing dated entry-branch contract and historical fold plan; no models fitted...
+test_existing_output_tamper_and_interrupt_cleanup (test_draft_sources_v1_14.Pipeline.test_existing_output_tamper_and_interrupt_cleanup) ... Independently auditing component ledger, anchors, caps and contributor replay...
+Prioritizing preseason coverage gaps from ADP and original projected workloads...
+ok
+test_explicit_source_loader_profiles_and_no_reference_fallback (test_draft_sources_v1_14.Pipeline.test_explicit_source_loader_profiles_and_no_reference_fallback) ... ok
+test_no_holdout_or_evaluation_opened_no_fit (test_draft_sources_v1_14.Pipeline.test_no_holdout_or_evaluation_opened_no_fit) ... Independently auditing component ledger, anchors, caps and contributor replay...
+Prioritizing preseason coverage gaps from ADP and original projected workloads...
+Writing dated entry-branch contract and historical fold plan; no models fitted...
+ok
+test_promotion_complete_backup_unchanged_home_and_previous_releases (test_draft_sources_v1_14.Pipeline.test_promotion_complete_backup_unchanged_home_and_previous_releases) ... ok
+test_rehashed_bad_ledger_fails_closed_and_loader_wont_fallback (test_draft_sources_v1_14.Pipeline.test_rehashed_bad_ledger_fails_closed_and_loader_wont_fallback) ... Independently auditing component ledger, anchors, caps and contributor replay...
+Prioritizing preseason coverage gaps from ADP and original projected workloads...
+Writing dated entry-branch contract and historical fold plan; no models fitted...
+ok
+test_ADP_first_then_published_workload_no_actuals (test_draft_sources_v1_14.PriorityTests.test_ADP_first_then_published_workload_no_actuals) ... ok
+test_nonmarket_thresholds_do_not_drop_unknown_universe_rows (test_draft_sources_v1_14.PriorityTests.test_nonmarket_thresholds_do_not_drop_unknown_universe_rows) ... ok
+test_unmapped_homegrown_identities_are_excluded_separately (test_draft_sources_v1_14.PriorityTests.test_unmapped_homegrown_identities_are_excluded_separately) ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 5.907s
+
+OK

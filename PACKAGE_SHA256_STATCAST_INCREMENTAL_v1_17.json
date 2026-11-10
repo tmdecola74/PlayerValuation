@@ -1,0 +1,9 @@
+{
+  "evaluate_statcast_incremental_v1_17.py": "097dfc0f0594bfffe3ea08dc6145c7c6c156a36ffc4379ba5a246686e8a99f41",
+  "TEST_RESULTS_STATCAST_INCREMENTAL_v1_17.txt": "444e18f19ec70ee3cb89dcad942bacee2d928377c0d2b4eaa5448b10d22b8573",
+  "statcast_incremental_v1_17.py": "e2c831cd880f537ff4b82bcf3c700db5d62478a56be960c51d39f6f138cfad1d",
+  "VALIDATION_STATCAST_INCREMENTAL_v1_17.md": "665658b3ff0864b11d9011c75c412fd23f45b75a89817f206ca23068f40da0c5",
+  "README_STATCAST_INCREMENTAL_v1_17.md": "4c38a41006d201377c3d9fafb8782c729b2f1f464a0366c122fa9928632aa64a",
+  "config/statcast_incremental_v1_17.json": "3d9bcbc335f6941edd35601b90a97cb492a27a7aa356a59b3f91a1c02e50a512",
+  "tests/test_statcast_incremental_v1_17.py": "f70e6deb9902077e3806f467edeb07276ecdb3538614e5d92f29617d5fff1cd4"
+}
