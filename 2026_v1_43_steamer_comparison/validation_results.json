@@ -1,0 +1,19 @@
+{
+  "forecast_rows": 2564,
+  "valid_Steamer_rows": 9346,
+  "identity_exceptions": 2,
+  "exact_IDs_unique_within_role": true,
+  "existing_evaluation_cells_reproduced": 19789,
+  "count_error_identities_verified": 14724,
+  "protected_files_verified": 21,
+  "protected_files_changed": 0,
+  "model_changes": false,
+  "Steamer_snapshot_date": "2026-03-25",
+  "timestamp_basis": "User supplied",
+  "2026_used_only_for_historical_reporting": true,
+  "scored_metric_role_pairs": 39,
+  "matched_hitter_forecasts": 929,
+  "matched_pitcher_forecasts": 1308,
+  "headline_result": "Steamer lower MAE on all 39 broad matched metrics; no significance claim",
+  "wide_comparison_rows": 2237
+}

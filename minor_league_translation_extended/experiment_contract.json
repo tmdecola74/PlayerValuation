@@ -1,0 +1,66 @@
+{
+  "version": "MiLB_component_bridge_extended_0.2",
+  "decision": "RESEARCH_ONLY_NO_PRODUCTION_ADOPTION",
+  "forecast_design": "prior-year minor level to next-year MLB, conditional on observed eligible MLB exposure",
+  "forecast_test_origins": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "paired_same_year_diagnostic_origins": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "fit_rule": "Only pair target years strictly before evaluation target year; no MLB labels after 2025",
+  "calibration": "Per component and level: sum(min(source_den,target_den)*MLB_rate) / sum(min(source_den,target_den)*minor_rate)",
+  "minimum_calibration_players": 30,
+  "minimum_paired_exposure": 1000,
+  "prior_strength": {
+    "PA": 200,
+    "AB": 200,
+    "TBF": 300,
+    "OUTS": 300
+  },
+  "prior_rule": "Pooled eligible MLB component rates from 2019 through year before origin",
+  "candidate": "(source_count*factor + prior_strength*prior_rate)/(source_den+prior_strength)",
+  "comparators": [
+    "untranslated_raw",
+    "untranslated_with_identical_prior",
+    "MLB_population_prior"
+  ],
+  "scoring": "one forecast per player-level-component; equal-player and target-exposure-weighted MSE/MAE; exact paired membership",
+  "multiple_levels": "Evaluate separately; do not stack level predictions or combine them into a player forecast",
+  "original_adoption_floor": {
+    "minimum_supported_folds": 3,
+    "minimum_rows_per_fold": 30,
+    "minimum_improvement": 0.01,
+    "max_metric_degradation": 0.02
+  },
+  "adoption_note": "Original floor is necessary, not sufficient; full original guard/coherent-vector tests are not implemented by this pilot",
+  "forbidden": [
+    "2026 MLB outcomes",
+    "workload fitting",
+    "production release changes",
+    "automatic lower-level fallback",
+    "park or age coefficients without evidence"
+  ],
+  "limitations": [
+    "Missing park/subleague IDs",
+    "Retrospective availability",
+    "Selected movers",
+    "Next-year development and role confounding",
+    "No independent untouched validation",
+    "No coherent production integration",
+    "2020 shortened MLB season and 2021 minor reorganization"
+  ],
+  "level_policy": "Keep 2019 R and A- distinct; do not relabel as CPX/DSL/A. Tier labels A/A+ persist across reorganization but subleague context remains missing.",
+  "pandemic_policy": "No 2020 minor rows expected; never treat missing season as zero. 2019-to-2020 pairs retained with sensitivity excluding 2020 target calibration.",
+  "prior_pilot_preserved": true
+}

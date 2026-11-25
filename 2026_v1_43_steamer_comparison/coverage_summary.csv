@@ -1,0 +1,3 @@
+﻿role,raw_Steamer_rows,valid_Steamer_IDs,our_forecasts,matched_forecast_players,actual_positive_players,actual_positive_with_both_forecasts,actual_positive_missing_our_forecast,actual_positive_missing_Steamer,our_forecast_participation_unknown,our_forecast_certified_zero_pitching
+hitter,4186,4185,1052,929,662,550,112,3,502,0
+pitcher,5162,5161,1512,1308,868,660,181,61,206,619

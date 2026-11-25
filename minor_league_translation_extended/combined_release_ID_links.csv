@@ -1,0 +1,2512 @@
+﻿role,mlbam_id,name,minor_history_2019_2026
+hitters,408234,,False
+hitters,425794,,False
+hitters,443558,,True
+hitters,444482,David Peralta,True
+hitters,444489,,True
+hitters,446334,,True
+hitters,453568,,True
+hitters,455117,Martín Maldonado,False
+hitters,456781,Donovan Solano,True
+hitters,457705,Andrew McCutchen,True
+hitters,457759,Justin Turner,False
+hitters,458015,,True
+hitters,462101,,True
+hitters,467793,Carlos Santana,True
+hitters,474832,,True
+hitters,488726,,True
+hitters,493329,Yuli Gurriel,True
+hitters,500743,Miguel Rojas,True
+hitters,500871,,True
+hitters,501303,,True
+hitters,501659,,True
+hitters,502054,Tommy Pham,True
+hitters,502110,J.D. Martinez,True
+hitters,502671,Paul Goldschmidt,False
+hitters,506702,Sandy León,True
+hitters,514888,Jose Altuve,True
+hitters,516416,Jean Segura,True
+hitters,516782,Starling Marte,True
+hitters,518586,,True
+hitters,518595,Travis d'Arnaud,True
+hitters,518626,,True
+hitters,518692,Freddie Freeman,False
+hitters,518735,Yasmani Grandal,True
+hitters,518792,Jason Heyward,True
+hitters,518934,DJ LeMahieu,True
+hitters,519058,,True
+hitters,519203,,True
+hitters,519317,Giancarlo Stanton,True
+hitters,521692,Salvador Perez,True
+hitters,527038,Wilmer Flores,True
+hitters,541645,,True
+hitters,542194,Christian Bethancourt,True
+hitters,542208,Carlos Pérez,True
+hitters,542303,Marcell Ozuna,True
+hitters,542364,,True
+hitters,542583,Jesús Aguilar,True
+hitters,542932,Jon Berti,True
+hitters,542963,Rob Brantly,True
+hitters,543063,Brandon Crawford,True
+hitters,543068,,True
+hitters,543228,Yan Gomes,False
+hitters,543257,Robbie Grossman,True
+hitters,543281,,True
+hitters,543305,Aaron Hicks,True
+hitters,543309,Kyle Higashioka,True
+hitters,543333,,False
+hitters,543482,,True
+hitters,543510,James McCann,True
+hitters,543518,,False
+hitters,543543,,True
+hitters,543592,Austin Nola,True
+hitters,543685,Anthony Rendon,False
+hitters,543760,Marcus Semien,True
+hitters,543807,George Springer,True
+hitters,543877,Christian Vázquez,True
+hitters,543939,Kolten Wong,True
+hitters,545121,Ildemaro Vargas,True
+hitters,545341,Randal Grichuk,True
+hitters,545350,Jake Marisnick,True
+hitters,545361,Mike Trout,True
+hitters,547180,Bryce Harper,True
+hitters,547379,,True
+hitters,547989,José Abreu,True
+hitters,553869,Elias Díaz,True
+hitters,553882,Omar Narváez,True
+hitters,553993,Eugenio Suárez,True
+hitters,570482,Gio Urshela,True
+hitters,570731,,True
+hitters,571448,Nolan Arenado,True
+hitters,571466,Tucker Barnhart,True
+hitters,571657,Kyle Farmer,True
+hitters,571740,,True
+hitters,571745,Mitch Haniger,True
+hitters,571771,Enrique Hernández,True
+hitters,571875,Jake Lamb,True
+hitters,571912,Luke Maile,True
+hitters,571945,,True
+hitters,571946,,True
+hitters,571970,Max Muncy,True
+hitters,571976,,True
+hitters,571980,,True
+hitters,572008,Chris Owings,True
+hitters,572041,,True
+hitters,572138,Jon Singleton,True
+hitters,572191,,True
+hitters,572204,,True
+hitters,572228,Luke Voit,True
+hitters,572233,Christian Walker,True
+hitters,572287,,True
+hitters,572761,Matt Carpenter,True
+hitters,572816,,True
+hitters,573131,,True
+hitters,573262,Mike Yastrzemski,True
+hitters,575929,Willson Contreras,True
+hitters,578428,Jose Iglesias,True
+hitters,578570,,True
+hitters,592178,Kris Bryant,True
+hitters,592192,Mark Canha,True
+hitters,592200,Curt Casali,True
+hitters,592206,Nick Castellanos,False
+hitters,592273,Brandon Drury,True
+hitters,592325,Ben Gamel,True
+hitters,592348,,True
+hitters,592450,Aaron Judge,True
+hitters,592518,Manny Machado,False
+hitters,592626,Joc Pederson,True
+hitters,592656,,True
+hitters,592663,J.T. Realmuto,False
+hitters,592669,Hunter Renfroe,True
+hitters,592696,Eddie Rosario,True
+hitters,592885,Christian Yelich,True
+hitters,593160,Whit Merrifield,False
+hitters,593428,Xander Bogaerts,True
+hitters,593643,,True
+hitters,593871,Jorge Polanco,True
+hitters,593934,Miguel Sanó,True
+hitters,594777,,True
+hitters,594807,Adam Duvall,True
+hitters,595281,Kevin Kiermaier,True
+hitters,595284,Andrew Knapp,True
+hitters,595453,Chad Wallach,True
+hitters,595751,Jorge Alfaro,True
+hitters,595777,Jurickson Profar,True
+hitters,595879,Javier Báez,True
+hitters,595909,Jake Cave,True
+hitters,595956,,True
+hitters,595978,Austin Hedges,False
+hitters,596019,Francisco Lindor,True
+hitters,596059,,True
+hitters,596103,Austin Slater,True
+hitters,596115,Trevor Story,True
+hitters,596117,Garrett Stubbs,True
+hitters,596129,Daniel Vogelbach,True
+hitters,596142,Gary Sánchez,True
+hitters,596146,Max Kepler,True
+hitters,596847,Ji Man Choi,True
+hitters,598265,,True
+hitters,600301,,True
+hitters,600303,,True
+hitters,600869,Jeimer Candelario,True
+hitters,602074,,True
+hitters,602104,Ramón Urías,True
+hitters,605113,Nick Ahmed,True
+hitters,605119,Brian Anderson,True
+hitters,605131,Austin Barnes,True
+hitters,605137,Josh Bell,False
+hitters,605141,Mookie Betts,True
+hitters,605170,Victor Caratini,True
+hitters,605204,J.D. Davis,True
+hitters,605242,,False
+hitters,605244,Aramis Garcia,True
+hitters,605346,Jack López,True
+hitters,605353,Vimael Machín,True
+hitters,605361,Nick Martini,True
+hitters,605421,Michael Pérez,True
+hitters,605612,Harold Castro,True
+hitters,606115,Orlando Arcia,True
+hitters,606132,,True
+hitters,606192,Teoscar Hernández,True
+hitters,606466,Ketel Marte,True
+hitters,606992,Eric Haase,True
+hitters,607043,Brandon Nimmo,True
+hitters,607054,Jace Peterson,True
+hitters,607067,,True
+hitters,607208,Trea Turner,True
+hitters,607461,Matt Beaty,True
+hitters,607680,Kevin Pillar,True
+hitters,607732,Jacob Stallings,True
+hitters,608070,José Ramírez,False
+hitters,608324,Alex Bregman,True
+hitters,608336,Joey Gallo,True
+hitters,608348,Carson Kelly,True
+hitters,608360,Chris Okey,True
+hitters,608369,Corey Seager,True
+hitters,608385,Jesse Winker,True
+hitters,608596,,False
+hitters,608671,Travis Jankowski,True
+hitters,608701,Rob Refsnyder,True
+hitters,608703,Matt Reynolds,True
+hitters,608841,Joey Meneses,True
+hitters,609280,Miguel Andujar,True
+hitters,613564,Jason Vosler,True
+hitters,614173,,True
+hitters,614177,Franmil Reyes,True
+hitters,620443,Luis Torrens,True
+hitters,621020,Dansby Swanson,True
+hitters,621028,Kevin Newman,True
+hitters,621035,,True
+hitters,621043,Carlos Correa,True
+hitters,621311,David Dahl,True
+hitters,621433,Brett Phillips,True
+hitters,621438,Tyrone Taylor,True
+hitters,621439,Byron Buxton,True
+hitters,621458,Edwin Rios,True
+hitters,621466,DJ Stewart,True
+hitters,621493,Taylor Ward,True
+hitters,621512,Tomás Nido,True
+hitters,621532,Anthony Bemboom,True
+hitters,621545,,True
+hitters,621550,Patrick Wisdom,True
+hitters,621563,Joey Wendle,True
+hitters,621566,Matt Olson,True
+hitters,622110,Matt Duffy,True
+hitters,622250,,True
+hitters,622268,Donovan Walton,True
+hitters,622491,,False
+hitters,622534,Manuel Margot,True
+hitters,622569,Pablo Reyes,True
+hitters,622666,,True
+hitters,622761,Jorge Mateo,True
+hitters,623168,Tyler Heineman,True
+hitters,623205,Andrew Velazquez,True
+hitters,623507,,True
+hitters,623520,David Bote,True
+hitters,623912,,True
+hitters,623993,Anthony Santander,True
+hitters,624413,Pete Alonso,False
+hitters,624414,Christian Arroyo,True
+hitters,624415,Cavan Biggio,True
+hitters,624424,Michael Conforto,True
+hitters,624428,Adam Frazier,True
+hitters,624431,Jose Trevino,True
+hitters,624503,Nick Gordon,True
+hitters,624512,Reese McGuire,True
+hitters,624513,Dom Nuñez,True
+hitters,624585,Jorge Soler,True
+hitters,624641,Edmundo Sosa,True
+hitters,628451,Andy Ibáñez,True
+hitters,630105,Jake Cronenworth,True
+hitters,640449,,True
+hitters,640457,,True
+hitters,640458,Óscar Mercado,True
+hitters,640459,Brian Navarreto,True
+hitters,640492,José Azócar,True
+hitters,640902,Jhonny Pereda,True
+hitters,641302,,False
+hitters,641313,Tim Anderson,True
+hitters,641343,Jake Bauers,True
+hitters,641355,Cody Bellinger,True
+hitters,641432,Willie Calhoun,True
+hitters,641470,,True
+hitters,641487,J.P. Crawford,True
+hitters,641505,Jonathan Davis,True
+hitters,641511,Jason Delay,True
+hitters,641525,,True
+hitters,641531,Hunter Dozier,True
+hitters,641553,,True
+hitters,641555,J.C. Escarra,True
+hitters,641584,Jake Fraley,True
+hitters,641598,Mitch Garver,True
+hitters,641645,Luis Guillorme,True
+hitters,641658,Garrett Hampson,True
+hitters,641680,Jonah Heim,True
+hitters,641779,Charles Leblanc,True
+hitters,641786,,True
+hitters,641796,Tim Locastro,True
+hitters,641820,,True
+hitters,641856,Billy McKinney,True
+hitters,641857,Ryan McMahon,True
+hitters,641933,Tyler O'Neill,True
+hitters,641943,Joshua Palacios,True
+hitters,642020,Chuckie Robinson,True
+hitters,642086,Dominic Smith,True
+hitters,642133,Rowdy Tellez,True
+hitters,642136,Matt Thaiss,True
+hitters,642137,Cody Thomas,True
+hitters,642180,Tyler Wade,True
+hitters,642197,Jamie Westbrook,True
+hitters,642201,Eli White,True
+hitters,642215,Weston Wilson,True
+hitters,642336,,True
+hitters,642350,Jose Siri,True
+hitters,642708,Amed Rosario,False
+hitters,642715,Willy Adames,True
+hitters,642727,Sergio Alcántara,True
+hitters,642731,Thairo Estrada,True
+hitters,642851,Austin Wynns,True
+hitters,643217,Andrew Benintendi,True
+hitters,643265,Garrett Cooper,True
+hitters,643289,Mauricio Dubón,True
+hitters,643348,Caleb Hamilton,True
+hitters,643376,Danny Jansen,True
+hitters,643393,Tony Kemp,True
+hitters,643396,Isiah Kiner-Falefa,True
+hitters,643446,Jeff McNeil,True
+hitters,643565,Mike Tauchman,True
+hitters,644374,Yu Chang,True
+hitters,644433,Chadwick Tromp,True
+hitters,645277,Ozzie Albies,True
+hitters,645302,Victor Robles,True
+hitters,645305,Ali Sánchez,True
+hitters,645444,Jose Herrera,True
+hitters,645801,Mike Ford,True
+hitters,646240,Rafael Devers,False
+hitters,647304,Josh Naylor,True
+hitters,647351,Abraham Toro,True
+hitters,649557,,True
+hitters,649966,Luis Urías,True
+hitters,650333,Luis Arraez,True
+hitters,650391,Eloy Jiménez,True
+hitters,650402,Gleyber Torres,True
+hitters,650489,Willi Castro,True
+hitters,650490,Yandy Díaz,False
+hitters,650559,Bryan De La Cruz,True
+hitters,650619,,True
+hitters,650859,Luis Rengifo,True
+hitters,650907,René Pinto,True
+hitters,650968,Yohel Pozo,True
+hitters,655316,Andruw Monasterio,True
+hitters,656024,,True
+hitters,656180,Riley Adams,True
+hitters,656185,Greg Allen,True
+hitters,656248,Sean Bouchard,True
+hitters,656305,Matt Chapman,True
+hitters,656308,Michael Chavis,True
+hitters,656371,,True
+hitters,656403,Drew Ellis,True
+hitters,656413,Stuart Fairchild,True
+hitters,656448,Stone Garrett,True
+hitters,656484,Tristan Gray,True
+hitters,656495,,True
+hitters,656514,,True
+hitters,656537,Derek Hill,True
+hitters,656541,Sam Hilliard,True
+hitters,656555,Rhys Hoskins,True
+hitters,656577,Alex Jackson,True
+hitters,656582,Connor Joe,True
+hitters,656669,,True
+hitters,656716,Zach McKinstry,True
+hitters,656775,Cedric Mullins,True
+hitters,656811,Ryan O'Hearn,True
+hitters,656821,Kevin Padlo,True
+hitters,656883,Jakson Reetz,True
+hitters,656896,Emmanuel Rivera,True
+hitters,656941,Kyle Schwarber,False
+hitters,656976,Pavin Smith,True
+hitters,657041,Lane Thomas,True
+hitters,657061,Cole Tucker,True
+hitters,657077,Alex Verdugo,True
+hitters,657088,Forrest Wall,True
+hitters,657136,Connor Wong,True
+hitters,657193,,True
+hitters,657247,Brian O'Keefe,True
+hitters,657557,Paul DeJong,True
+hitters,657656,Ramón Laureano,True
+hitters,657675,Rudy Martin Jr.,True
+hitters,657757,Gavin Sheets,True
+hitters,658668,,True
+hitters,660162,Yoán Moncada,True
+hitters,660271,Shohei Ohtani,False
+hitters,660620,,True
+hitters,660634,,True
+hitters,660636,Diego Castillo,True
+hitters,660644,Vidal Bruján,True
+hitters,660670,Ronald Acuña Jr.,True
+hitters,660688,Keibert Ruiz,True
+hitters,660707,Elehuris Montero,True
+hitters,660710,Rodolfo Durán,True
+hitters,660757,Oscar Gonzalez,True
+hitters,660758,Sandro Fabian,True
+hitters,660766,,True
+hitters,660821,Jesús Sánchez,True
+hitters,660844,Leo Rivas,True
+hitters,661388,William Contreras,True
+hitters,661531,Brian Serven,True
+hitters,662139,Daulton Varsho,True
+hitters,663330,Jahmai Jones,True
+hitters,663368,Blake Perkins,True
+hitters,663457,Lars Nootbaar,True
+hitters,663494,Bryan Torres,True
+hitters,663527,Tyler Nevin,True
+hitters,663536,Tristin English,True
+hitters,663538,Nico Hoerner,True
+hitters,663550,Trey Cabbage,True
+hitters,663584,Hayden Senger,True
+hitters,663586,Austin Riley,True
+hitters,663604,Brandon Lockridge,True
+hitters,663609,Luken Baker,True
+hitters,663611,Nick Madrigal,True
+hitters,663616,Trevor Larnach,True
+hitters,663624,Ryan Mountcastle,True
+hitters,663630,Ryan McKenna,True
+hitters,663647,Ke'Bryan Hayes,True
+hitters,663656,Kyle Tucker,True
+hitters,663662,Daz Cameron,True
+hitters,663697,Jonathan India,True
+hitters,663698,Joey Bart,True
+hitters,663728,Cal Raleigh,True
+hitters,663731,Connor Kaiser,True
+hitters,663743,Nick Fortes,True
+hitters,663757,Trent Grisham,True
+hitters,663796,Coco Montes,True
+hitters,663837,Matt Vierling,True
+hitters,663845,Alfonso Rivas III,True
+hitters,663853,Romy Gonzalez,True
+hitters,663886,Tyler Stephenson,True
+hitters,663897,Luke Williams,True
+hitters,663898,Brendan Rodgers,True
+hitters,663905,Travis Blankenhorn,True
+hitters,663967,César Salazar,True
+hitters,663968,Jake Mangum,True
+hitters,663993,Nathaniel Lowe,True
+hitters,664023,Ian Happ,True
+hitters,664029,,True
+hitters,664034,Ty France,True
+hitters,664040,Brandon Lowe,True
+hitters,664056,Harrison Bader,True
+hitters,664057,,True
+hitters,664058,David Fletcher,True
+hitters,664059,Sam Haggerty,True
+hitters,664068,Scott Kingery,True
+hitters,664238,Dylan Moore,True
+hitters,664247,Kyle Garlick,True
+hitters,664314,,True
+hitters,664670,Alejo Lopez,True
+hitters,664702,Myles Straw,True
+hitters,664728,Kyle Isbel,True
+hitters,664731,P.J. Higgins,True
+hitters,664761,Alec Bohm,True
+hitters,664770,Nathan Lukes,True
+hitters,664774,LaMonte Wade Jr.,True
+hitters,664874,Seby Zavala,True
+hitters,664901,Danny Mendick,True
+hitters,664913,Seth Brown,True
+hitters,664954,Brett Sullivan,True
+hitters,664983,Jake McCarthy,True
+hitters,665019,Kody Clemens,True
+hitters,665052,Griffin Conine,True
+hitters,665120,Jared Walsh,True
+hitters,665155,Nick Maton,True
+hitters,665161,Jeremy Peña,True
+hitters,665487,Fernando Tatis Jr.,True
+hitters,665489,Vladimir Guerrero Jr.,True
+hitters,665506,Cristian Pache,True
+hitters,665561,Rafael Marchán,True
+hitters,665742,Juan Soto,False
+hitters,665750,Leody Taveras,True
+hitters,665782,,True
+hitters,665804,Miguel Amaya,True
+hitters,665828,Oswaldo Cabrera,True
+hitters,665833,Oneil Cruz,True
+hitters,665839,Enmanuel Valdez,True
+hitters,665856,Jair Camargo,True
+hitters,665861,Sebastián Rivero,True
+hitters,665862,Jazz Chisholm Jr.,True
+hitters,665877,José Fermín,True
+hitters,665923,Esteury Ruiz,True
+hitters,665926,Andrés Giménez,True
+hitters,665953,Andrés Chaparro,True
+hitters,665966,Carlos Narváez,True
+hitters,666018,Jonathan Aranda,True
+hitters,666023,Freddy Fermin,True
+hitters,666126,Carlos Cortes,True
+hitters,666134,Nolan Jones,True
+hitters,666135,,True
+hitters,666139,Josh Lowe,True
+hitters,666149,Tyler Fitzgerald,True
+hitters,666150,Dominic Fletcher,True
+hitters,666152,David Hamilton,True
+hitters,666158,Gavin Lux,True
+hitters,666160,Mickey Moniak,True
+hitters,666163,Ben Rortvedt,True
+hitters,666164,,True
+hitters,666165,Blake Sabol,True
+hitters,666176,Jo Adell,True
+hitters,666181,Will Benson,True
+hitters,666182,Bo Bichette,True
+hitters,666185,Dylan Carlson,True
+hitters,666197,Grae Kessinger,True
+hitters,666198,Carter Kieboom,True
+hitters,666211,Taylor Trammell,True
+hitters,666310,Bo Naylor,True
+hitters,666397,Edouard Julien,True
+hitters,666464,Jerar Encarnacion,True
+hitters,666624,Christopher Morel,True
+hitters,666703,,True
+hitters,666801,Rodolfo Castro,True
+hitters,666906,,True
+hitters,666915,Bobby Dalbec,True
+hitters,666931,Jared Oliva,True
+hitters,666969,Adolis García,True
+hitters,666971,Lourdes Gurriel Jr.,True
+hitters,667428,Grant Koch,True
+hitters,667452,Corey Julks,True
+hitters,667472,Dane Myers,True
+hitters,667670,Brent Rooker,True
+hitters,667690,C.J. Stubbs,True
+hitters,668227,Randy Arozarena,True
+hitters,668472,Nick Pratto,True
+hitters,668663,,True
+hitters,668670,Jake Rogers,True
+hitters,668709,JJ Bleday,True
+hitters,668715,Spencer Steer,True
+hitters,668723,Ryan Vilade,True
+hitters,668731,Akil Baddoo,True
+hitters,668751,,True
+hitters,668752,Duke Ellis,True
+hitters,668800,Andrew Knizner,True
+hitters,668804,Bryan Reynolds,True
+hitters,668832,Kyle McCann,True
+hitters,668843,Conner Capel,True
+hitters,668845,Aaron Schunk,True
+hitters,668853,Austin Shenton,True
+hitters,668885,Austin Martin,True
+hitters,668901,Mark Vientos,True
+hitters,668904,Royce Lewis,True
+hitters,668930,Brice Turang,True
+hitters,668939,Adley Rutschman,True
+hitters,668942,Josh Rojas,True
+hitters,668952,Ryan Kreidler,True
+hitters,668974,Maverick Handley,True
+hitters,669003,Garrett Mitchell,True
+hitters,669004,MJ Melendez,True
+hitters,669016,Brandon Marsh,True
+hitters,669023,Jeter Downs,True
+hitters,669065,Kyle Stowers,True
+hitters,669087,Sam Huff,True
+hitters,669127,Shea Langeliers,True
+hitters,669134,Luis Campusano,True
+hitters,669137,,True
+hitters,669194,,False
+hitters,669200,Mason McCoy,True
+hitters,669208,Ryan Bliss,True
+hitters,669221,Sean Murphy,True
+hitters,669222,Nick Senzel,True
+hitters,669224,Austin Wells,True
+hitters,669234,Justyn-Henry Malloy,True
+hitters,669236,Jeremiah Jackson,True
+hitters,669242,Tommy Edman,True
+hitters,669256,Nick Solak,True
+hitters,669257,Will Smith,True
+hitters,669261,Jack Suwinski,True
+hitters,669288,Daniel Johnson,True
+hitters,669289,Santiago Espinal,True
+hitters,669304,Jose F Miranda,True
+hitters,669326,Bryce Teodosio,True
+hitters,669352,Bubba Thompson,True
+hitters,669357,Nolan Gorman,True
+hitters,669360,Trei Cruz,True
+hitters,669364,Xavier Edwards,True
+hitters,669369,Bryce Johnson,True
+hitters,669374,Keston Hiura,True
+hitters,669384,Raynel Delgado,True
+hitters,669392,Samad Taylor,True
+hitters,669394,Jake Burger,True
+hitters,669397,Nick Allen,True
+hitters,669398,Gage Workman,True
+hitters,669432,,True
+hitters,669450,Cooper Hummel,True
+hitters,669477,Casey Schmitt,True
+hitters,669699,Braden Shewmake,True
+hitters,669701,Josh Smith,True
+hitters,669707,Jared Triolo,True
+hitters,669717,Will Wilson,True
+hitters,669720,Austin Hays,True
+hitters,669722,Logan Davidson,True
+hitters,669742,Darick Hall,True
+hitters,669743,Alex Call,True
+hitters,669899,Ryan Ward,True
+hitters,669911,Michael Toglia,True
+hitters,670032,Nicky Lopez,True
+hitters,670042,Luke Raley,True
+hitters,670092,Trenton Brooks,True
+hitters,670097,Zack Short,True
+hitters,670128,Taylor Kohlwey,True
+hitters,670156,Miles Mastrobuoni,True
+hitters,670223,Matt Mervis,True
+hitters,670224,Kameron Misner,True
+hitters,670231,John Rave,True
+hitters,670242,Matt Wallner,True
+hitters,670276,Cal Stevenson,True
+hitters,670541,Yordan Alvarez,True
+hitters,670623,Isaac Paredes,True
+hitters,670712,Mike Brosseau,True
+hitters,670764,Taylor Walls,True
+hitters,670770,TJ Friedl,True
+hitters,670869,Livan Soto,True
+hitters,671056,Iván Herrera,True
+hitters,671083,Buddy Kennedy,True
+hitters,671117,Darren Baker,True
+hitters,671155,Ivan Johnson,True
+hitters,671213,Triston Casas,True
+hitters,671218,Heliot Ramos,True
+hitters,671221,Drew Waters,True
+hitters,671277,Luis García Jr.,True
+hitters,671284,Tim Elko,True
+hitters,671286,Johnathan Rodríguez,True
+hitters,671289,Tyler Freeman,True
+hitters,671655,George Valera,True
+hitters,671732,Lawrence Butler,True
+hitters,671739,Michael Harris II,True
+hitters,671976,Tristan Peters,True
+hitters,672012,Tyler Black,True
+hitters,672016,Denzel Clarke,True
+hitters,672275,Patrick Bailey,True
+hitters,672279,Michael Siani,True
+hitters,672284,Jarred Kelenic,True
+hitters,672356,Gabriel Arias,True
+hitters,672359,Tirso Ornelas,True
+hitters,672386,Alejandro Kirk,True
+hitters,672478,,True
+hitters,672515,Gabriel Moreno,True
+hitters,672569,Gustavo Campero,True
+hitters,672580,Maikel Garcia,True
+hitters,672613,Eliezer Alfonzo,True
+hitters,672640,Otto Lopez,True
+hitters,672642,Steward Berroa,True
+hitters,672695,Geraldo Perdomo,True
+hitters,672701,José Devers,True
+hitters,672724,Oswald Peraza,True
+hitters,672744,Alexander Canario,True
+hitters,672761,Wenceel Pérez,True
+hitters,672779,,True
+hitters,672820,Lenyn Sosa,True
+hitters,672960,Kazuma Okamoto,False
+hitters,673237,Yainer Diaz,True
+hitters,673357,Luis Robert Jr.,True
+hitters,673490,Ha-Seong Kim,True
+hitters,673548,Seiya Suzuki,True
+hitters,673962,Josh Jung,True
+hitters,673995,Davis Wendzel,True
+hitters,674441,Jacob Hurtubise,True
+hitters,675448,Blake Hunt,True
+hitters,675656,Kevin Smith,True
+hitters,675659,Greg Jones,True
+hitters,675915,David Bañuelos,True
+hitters,675961,Alika Williams,True
+hitters,675986,Canaan Smith-Njigba,True
+hitters,676044,Bob Seymour,True
+hitters,676059,Jordan Westburg,True
+hitters,676070,Jacob Amaya,True
+hitters,676113,Zach DeLoach,True
+hitters,676116,Ryan Noda,True
+hitters,676356,Jonny DeLuca,True
+hitters,676369,Nelson Velázquez,True
+hitters,676391,Ernie Clement,True
+hitters,676439,Hunter Feduccia,True
+hitters,676466,Jack Winkler,True
+hitters,676475,Alec Burleson,True
+hitters,676480,José Barrero,True
+hitters,676551,Brewer Hicklen,True
+hitters,676566,Shawn Ross,True
+hitters,676572,Eric Wagaman,True
+hitters,676609,José Caballero,True
+hitters,676625,Rylan Bannon,True
+hitters,676632,Bligh Madris,True
+hitters,676679,Luis Vázquez,True
+hitters,676694,Jake Meyers,True
+hitters,676701,Alan Trejo,True
+hitters,676724,Jared Young,True
+hitters,676761,,True
+hitters,676801,Chas McCormick,True
+hitters,676812,Carson McCusker,True
+hitters,676882,Chandler Seagle,True
+hitters,676896,Chris Roller,True
+hitters,676914,Davis Schneider,True
+hitters,676946,,True
+hitters,677008,Heston Kjerstad,True
+hitters,677060,Chad Stevens,True
+hitters,677347,Kyren Paris,True
+hitters,677551,,True
+hitters,677587,Brayan Rocchio,True
+hitters,677588,José Tena,True
+hitters,677592,Everson Pereira,True
+hitters,677594,Julio Rodríguez,True
+hitters,677595,Ronny Mauricio,True
+hitters,677649,Ezequiel Duran,True
+hitters,677800,Wilyer Abreu,True
+hitters,677870,Leo Jiménez,True
+hitters,677941,Jordyn Adams,True
+hitters,677942,Blaze Alexander,True
+hitters,677943,Will Banfield,True
+hitters,677950,Alek Thomas,True
+hitters,677951,Bobby Witt Jr.,True
+hitters,677956,Rece Hinds,True
+hitters,678009,Parker Meadows,True
+hitters,678011,Anthony Seigler,True
+hitters,678218,Brandon Valenzuela,True
+hitters,678225,Jihwan Bae,True
+hitters,678246,Miguel Vargas,True
+hitters,678391,Jorbit Vivas,True
+hitters,678489,Jorge Barrosa,True
+hitters,678545,Osleivis Basabe,True
+hitters,678554,Curtis Mead,True
+hitters,678577,Junior Perez,True
+hitters,678662,Ezequiel Tovar,True
+hitters,678760,Eddys Leonard,True
+hitters,678877,Jhonkensy Noel,True
+hitters,678882,Ceddanne Rafaela,True
+hitters,678894,Liover Peguero,True
+hitters,679032,Johan Rojas,True
+hitters,679529,Spencer Torkelson,True
+hitters,679631,Terrin Vavra,True
+hitters,679822,Justin Foscue,True
+hitters,679845,Nick Loftin,True
+hitters,679881,,True
+hitters,680118,Dairon Blanco,True
+hitters,680418,,True
+hitters,680474,Max Schuemann,True
+hitters,680574,Matt McLain,True
+hitters,680577,DaShawn Keirsey Jr.,True
+hitters,680664,Eduardo Valencia,True
+hitters,680700,Richie Palacios,True
+hitters,680716,Jonathan Ornelas,True
+hitters,680718,Addison Barger,True
+hitters,680728,Adrian Del Castillo,True
+hitters,680737,Michael Helman,True
+hitters,680757,Steven Kwan,True
+hitters,680769,CJ Alexander,True
+hitters,680776,Jarren Duran,True
+hitters,680777,Ryan Jeffers,True
+hitters,680779,Henry Davis,True
+hitters,680814,Peyton Burdick,True
+hitters,680837,Ryan Fitzgerald,True
+hitters,680862,Willie MacIver,True
+hitters,680869,Zack Gelof,True
+hitters,680911,Owen Miller,True
+hitters,680977,Brendan Donovan,True
+hitters,681047,Christian Franklin,True
+hitters,681082,Bryson Stott,True
+hitters,681146,Jonah Bride,True
+hitters,681190,,False
+hitters,681198,TJ Rumfield,True
+hitters,681230,BJ Murray Jr.,True
+hitters,681297,Colton Cowser,True
+hitters,681351,Logan O'Hoppe,True
+hitters,681393,Connor Norby,True
+hitters,681460,Brooks Baldwin,True
+hitters,681481,Kerry Carpenter,True
+hitters,681508,Mickey Gasper,True
+hitters,681546,James Outman,True
+hitters,681584,David Villar,True
+hitters,681624,Andy Pages,True
+hitters,681715,Heriberto Hernández,True
+hitters,681807,David Fry,True
+hitters,681909,Justin Dean,True
+hitters,681962,Vinny Capra,True
+hitters,681987,Nate Eaton,True
+hitters,682073,David Hensley,True
+hitters,682119,Levi Jordan,True
+hitters,682177,Daniel Schneemann,True
+hitters,682183,Drew Avans,True
+hitters,682515,Logan Porter,True
+hitters,682617,Marco Luciano,True
+hitters,682619,Orelvis Martinez,True
+hitters,682622,Noelvi Marte,True
+hitters,682626,Francisco Alvarez,True
+hitters,682634,Kevin Alcántara,True
+hitters,682641,Luis Matos,True
+hitters,682653,Warming Bernabel,True
+hitters,682657,Angel Martínez,True
+hitters,682663,Agustín Ramírez,True
+hitters,682668,Luisangel Acuña,True
+hitters,682674,Victor Bericoto,True
+hitters,682729,Jonatan Clase,True
+hitters,682818,Yohendrick Piñango,True
+hitters,682829,Elly De La Cruz,True
+hitters,682848,Endy Rodríguez,True
+hitters,682868,Bryan Ramos,True
+hitters,682877,Juan Brito,True
+hitters,682927,Ronny Simon,True
+hitters,682928,CJ Abrams,True
+hitters,682985,Riley Greene,True
+hitters,682987,Spencer Jones,True
+hitters,682988,Tyler Locklear,True
+hitters,682989,,False
+hitters,682997,Tyler Callihan,True
+hitters,682998,Corbin Carroll,True
+hitters,683002,Gunnar Henderson,True
+hitters,683004,,True
+hitters,683011,Anthony Volpe,True
+hitters,683021,Michael Stefanic,True
+hitters,683079,Omar Martinez,True
+hitters,683083,Nasim Nuñez,True
+hitters,683090,Matthew Lugo,True
+hitters,683146,Brett Baty,True
+hitters,683227,Cody Freeman,True
+hitters,683357,Owen Caissie,True
+hitters,683679,Jesus Rodriguez,True
+hitters,683734,Andrew Vaughn,True
+hitters,683737,Michael Busch,True
+hitters,683748,Victor Mesa Jr.,True
+hitters,683766,Christian Koss,True
+hitters,683770,Will Robertson,True
+hitters,683953,Travis Bazzana,True
+hitters,685133,Wade Meckler,True
+hitters,685301,Matt Gorski,True
+hitters,685744,Kenedy Corona,True
+hitters,686217,Sal Frelick,True
+hitters,686452,Drew Millas,True
+hitters,686469,Vinnie Pasquantino,True
+hitters,686475,Tyler Tolbert,True
+hitters,686482,Logan Driscoll,True
+hitters,686490,Cam Eden,True
+hitters,686527,Dominic Canzone,True
+hitters,686531,,True
+hitters,686554,Oliver Dunn,True
+hitters,686555,Isaac Collins,True
+hitters,686611,Dylan Crews,True
+hitters,686668,Brenton Doyle,True
+hitters,686676,Korey Lee,True
+hitters,686681,Michael Massey,True
+hitters,686759,TJ Hopkins,True
+hitters,686765,Nick Sogard,True
+hitters,686780,Pedro Pagés,True
+hitters,686797,Brooks Lee,True
+hitters,686823,Will Brennan,True
+hitters,686894,Joey Wiemer,True
+hitters,686948,Drake Baldwin,True
+hitters,687066,Eric Yang,True
+hitters,687093,Vaughn Grissom,True
+hitters,687221,Dalton Rushing,True
+hitters,687231,Darell Hernaiz,True
+hitters,687263,Zach Neto,True
+hitters,687282,Gabriel Rincones Jr.,True
+hitters,687363,Victor Scott II,True
+hitters,687394,Jack Brannigan,True
+hitters,687401,Joey Ortiz,True
+hitters,687462,Spencer Horwitz,True
+hitters,687478,Cam Devanney,True
+hitters,687515,Colby Thomas,True
+hitters,687529,Grant McCray,True
+hitters,687551,Drew Gilbert,True
+hitters,687597,Jordan Beck,True
+hitters,687605,Andrew Pinckney,True
+hitters,687637,Dylan Beavers,True
+hitters,687749,Jase Bowen,True
+hitters,687799,Cade Marlowe,True
+hitters,687859,Troy Johnston,True
+hitters,687952,Christian Encarnacion-Strand,True
+hitters,687957,Dustin Harris,True
+hitters,688363,Graham Pauley,True
+hitters,688760,Blaine Crim,True
+hitters,689041,Rhylan Thomas,True
+hitters,689172,Brett Wisely,True
+hitters,689200,Jacob Melton,True
+hitters,689414,Liam Hicks,True
+hitters,690022,Ryan Ritter,True
+hitters,690291,Jace Jung,True
+hitters,690924,Braxton Fulford,True
+hitters,690976,Alex Freeland,True
+hitters,690984,Petey Halpin,True
+hitters,690987,Robert Hassell III,True
+hitters,690993,Colt Keith,True
+hitters,691002,Yohandy Morales,True
+hitters,691011,Drew Romo,True
+hitters,691016,Tyler Soderstrom,True
+hitters,691019,Kyle Teel,True
+hitters,691023,Jordan Walker,True
+hitters,691026,Masyn Winn,True
+hitters,691176,Jasson Domínguez,True
+hitters,691181,Emmanuel Rodriguez,True
+hitters,691182,Adael Amador,True
+hitters,691185,Maximo Acosta,True
+hitters,691277,Deyvison De Los Santos,True
+hitters,691373,Jhostynxon Garcia,True
+hitters,691406,Junior Caminero,True
+hitters,691458,Blaze Jordan,True
+hitters,691594,Javier Sanoja,True
+hitters,691620,Jeferson Quero,True
+hitters,691718,Pete Crow-Armstrong,True
+hitters,691720,Kyle Karros,True
+hitters,691723,Coby Mayo,True
+hitters,691728,Zac Veen,True
+hitters,691740,Daniel Susac,True
+hitters,691777,Max Muncy,True
+hitters,691781,Brady House,True
+hitters,691783,Jordan Lawlar,True
+hitters,691785,Marcelo Mayer,True
+hitters,691788,Joe Mack,True
+hitters,691858,Jared Serna,True
+hitters,691907,Tsung-Che Cheng,True
+hitters,692216,CJ Kayfus,True
+hitters,692225,Kristian Campbell,True
+hitters,692585,Yanquiel Fernández,True
+hitters,693049,,True
+hitters,693304,Nick Gonzales,True
+hitters,693306,Aaron Sabato,True
+hitters,693307,Dillon Dingler,True
+hitters,693409,César Prieto,True
+hitters,693459,Kyler Fedko,True
+hitters,694025,Felix Reyes,True
+hitters,694175,Pedro León,True
+hitters,694192,Jackson Chourio,True
+hitters,694197,Angel Genao,True
+hitters,694203,Denzer Guzman,True
+hitters,694208,Moisés Ballesteros,True
+hitters,694212,Samuel Basallo,True
+hitters,694224,Gabriel Gonzalez,True
+hitters,694249,Cole Carrigg,True
+hitters,694355,Tyler Gentry,True
+hitters,694359,Niko Kavadas,True
+hitters,694362,Blake Dunn,True
+hitters,694371,Tommy Troy,True
+hitters,694374,Tim Tawa,True
+hitters,694376,Shay Whitcomb,True
+hitters,694377,Nick Yorke,True
+hitters,694378,Jacob Gonzalez,True
+hitters,694384,Nolan Schanuel,True
+hitters,694388,Joey Loperfido,True
+hitters,694410,LuJames Groover,True
+hitters,694497,Evan Carter,True
+hitters,694514,Sterlin Thompson,True
+hitters,694671,Wyatt Langford,True
+hitters,694673,Abimelec Ortiz,True
+hitters,694728,Brice Matthews,True
+hitters,694876,Cooper Ingle,True
+hitters,695020,Tanner Murray,True
+hitters,695238,Will Wagner,True
+hitters,695257,Billy Cook,True
+hitters,695336,Thomas Saggese,True
+hitters,695391,Brett Harris,True
+hitters,695490,Edwin Arroyo,True
+hitters,695491,Joshua Báez,True
+hitters,695506,Jac Caglianone,True
+hitters,695508,Cam Cauley,True
+hitters,695578,James Wood,True
+hitters,695600,Carter Jensen,True
+hitters,695657,Colson Montgomery,True
+hitters,695670,Harry Ford,True
+hitters,695681,Christian Moore,True
+hitters,695720,Tommy White,True
+hitters,695731,Braden Montgomery,True
+hitters,695734,Daylen Lile,True
+hitters,696030,Alejandro Osuna,True
+hitters,696100,Hunter Goodman,True
+hitters,696135,Kahlil Watson,True
+hitters,696285,Jacob Young,True
+hitters,699013,Esmerlyn Valdez,True
+hitters,699024,Leo Bernal,True
+hitters,699115,Carlos Jorge,True
+hitters,699302,Héctor Rodríguez,True
+hitters,699393,Pedro Ramírez,True
+hitters,699625,Jimmy Crooks,True
+hitters,699912,Jose Fernandez,True
+hitters,700242,Trey Sweeney,True
+hitters,700246,Carson Williams,True
+hitters,700250,Ben Rice,True
+hitters,700337,Edgar Quero,True
+hitters,700652,Kenny Piper,True
+hitters,700932,Kyle Manzardo,True
+hitters,701162,Ben Malgeri,True
+hitters,701305,Zach Dezenzo,True
+hitters,701350,Roman Anthony,True
+hitters,701358,Cam Smith,True
+hitters,701398,Sal Stewart,True
+hitters,701538,Jackson Merrill,True
+hitters,701649,James Triantos,True
+hitters,701675,Nathan Church,True
+hitters,701678,Hao-Yu Lee,True
+hitters,701762,Nick Kurtz,True
+hitters,701785,Kaelen Culpepper,True
+hitters,701807,Carson Benge,True
+hitters,701852,Drew Cavanaugh,True
+hitters,702176,Alan Roden,True
+hitters,702222,Justin Crawford,True
+hitters,702284,Cole Young,True
+hitters,702332,Caleb Durbin,True
+hitters,702358,Trey Lipscomb,True
+hitters,702616,Jackson Holliday,True
+hitters,703155,Lazaro Montes,True
+hitters,703197,Michael Arroyo,True
+hitters,703492,Nick Morabito,True
+hitters,703520,Brett Bateman,True
+hitters,703601,Max Clark,True
+hitters,703607,Henry Bolte,True
+hitters,800050,Chase DeLauter,True
+hitters,800325,Luis Lara,True
+hitters,800543,Josue De Paula,True
+hitters,801126,Brock Rodden,True
+hitters,801501,Nate Furman,True
+hitters,802139,JJ Wetherholt,True
+hitters,802415,Chandler Simpson,True
+hitters,803011,Sam Antonacci,True
+hitters,804606,Konnor Griffin,True
+hitters,804668,Rafael Flores Jr.,True
+hitters,805249,Otto Kemp,True
+hitters,805300,Jakob Marsee,True
+hitters,805346,Ben Ross,True
+hitters,805347,Jim Jarvis,True
+hitters,805367,Chase Meidroth,True
+hitters,805373,Nacho Alvarez Jr.,True
+hitters,805672,Collin Price,True
+hitters,805779,Jacob Wilson,True
+hitters,805805,Walker Jenkins,True
+hitters,805808,Kevin McGonigle,True
+hitters,805811,Bryce Eldridge,True
+hitters,805904,Zach Cole,True
+hitters,805999,A.J. Ewing,True
+hitters,806068,Colt Emerson,True
+hitters,806146,George Lombard Jr.,True
+hitters,806198,Cooper Pratt,True
+hitters,806367,Turner Hill,True
+hitters,806956,Ethan Salas,True
+hitters,807712,Luke Keaschall,True
+hitters,807713,Matt Shaw,True
+hitters,807726,John Peck,True
+hitters,807727,Charles McAdoo,True
+hitters,807747,Rikuu Nishida,True
+hitters,807799,Masataka Yoshida,True
+hitters,808959,Munetaka Murakami,True
+hitters,808975,Hyeseong Kim,True
+hitters,808982,Jung Hoo Lee,False
+hitters,810938,Ben Williamson,True
+hitters,811965,Joshua Kuroda-Grauer,True
+hitters,813841,Jonah Cox,True
+hitters,814154,Scott Bandura,True
+hitters,814430,Brett Callahan,True
+hitters,814439,Ryan Waldschmidt,True
+hitters,815589,Bo Davidson,True
+hitters,815873,Sean Keys,True
+hitters,823550,Sung-Mun Song,True
+hitters,828599,Lucas Spence,True
+hitters,829272,,False
+pitchers,425794,Adam Wainwright,True
+pitchers,425844,Zack Greinke,True
+pitchers,434378,Justin Verlander,True
+pitchers,445276,Kenley Jansen,True
+pitchers,445926,Jesse Chavez,True
+pitchers,446372,Corey Kluber,True
+pitchers,448179,Rich Hill,True
+pitchers,450203,Charlie Morton,False
+pitchers,453178,Ian Kennedy,True
+pitchers,453268,Daniel Bard,True
+pitchers,453286,Max Scherzer,True
+pitchers,455117,,False
+pitchers,455119,Chris Martin,True
+pitchers,456501,Johnny Cueto,True
+pitchers,456713,,True
+pitchers,458677,Justin Wilson,True
+pitchers,458681,Lance Lynn,True
+pitchers,471911,Carlos Carrasco,True
+pitchers,472551,,True
+pitchers,472610,Luis García,True
+pitchers,476594,Robert Stock,True
+pitchers,476595,Lucas Luetge,True
+pitchers,477132,Clayton Kershaw,True
+pitchers,488984,Tommy Hunter,True
+pitchers,489119,Wade Miley,True
+pitchers,489446,Kirby Yates,True
+pitchers,493603,Adam Ottavino,False
+pitchers,500743,,False
+pitchers,500779,Jose Quintana,True
+pitchers,500871,,False
+pitchers,502043,Kyle Gibson,True
+pitchers,502083,,True
+pitchers,502085,David Robertson,True
+pitchers,502171,Alex Cobb,True
+pitchers,502179,Paolo Espino,True
+pitchers,502202,Brad Boxberger,True
+pitchers,502624,Chase Anderson,True
+pitchers,506433,Yu Darvish,True
+pitchers,506702,,True
+pitchers,517008,,True
+pitchers,518397,Scott Alexander,True
+pitchers,518489,Ryan Brasier,True
+pitchers,518516,Madison Bumgarner,True
+pitchers,518585,Fernando Cruz,True
+pitchers,518617,Jake Diekman,False
+pitchers,518626,,False
+pitchers,518876,Merrill Kelly,True
+pitchers,518886,Craig Kimbrel,True
+pitchers,519008,T.J. McFarland,True
+pitchers,519043,Matt Moore,True
+pitchers,519141,Drew Pomeranz,True
+pitchers,519151,Ryan Pressly,True
+pitchers,519242,Chris Sale,True
+pitchers,519293,Will Smith,False
+pitchers,519326,Hunter Strickland,True
+pitchers,521230,Liam Hendriks,True
+pitchers,523260,Joe Kelly,True
+pitchers,527048,Martín Pérez,True
+pitchers,527054,Julio Teheran,True
+pitchers,528748,Humberto Castellanos,True
+pitchers,529017,Alexander Cornielle,True
+pitchers,534910,Jesse Hahn,True
+pitchers,541640,Erasmo Ramírez,True
+pitchers,542194,,True
+pitchers,542208,,True
+pitchers,542585,José Cisnero,True
+pitchers,542881,Tyler Anderson,False
+pitchers,542882,Matt Andriese,True
+pitchers,542888,Shawn Armstrong,True
+pitchers,542914,Anthony Bass,True
+pitchers,542932,,False
+pitchers,542947,Richard Bleier,True
+pitchers,543037,Gerrit Cole,True
+pitchers,543056,Danny Coulombe,True
+pitchers,543063,,False
+pitchers,543101,Anthony DeSclafani,True
+pitchers,543135,Nathan Eovaldi,True
+pitchers,543238,Anthony Gose,True
+pitchers,543243,Sonny Gray,True
+pitchers,543272,Brad Hand,False
+pitchers,543281,,False
+pitchers,543294,Kyle Hendricks,True
+pitchers,543305,,False
+pitchers,543309,,False
+pitchers,543339,Daniel Hudson,True
+pitchers,543351,Jay Jackson,True
+pitchers,543391,Casey Kelly,True
+pitchers,543475,Jordan Lyles,True
+pitchers,543507,Trevor May,True
+pitchers,543510,,False
+pitchers,543518,Scott McGough,True
+pitchers,543521,Collin McHugh,True
+pitchers,543543,,False
+pitchers,543548,,True
+pitchers,543592,,False
+pitchers,543594,,True
+pitchers,543766,Bryan Shaw,True
+pitchers,543859,Michael Tonkin,True
+pitchers,543901,Ryan Weber,True
+pitchers,544150,Albert Suárez,True
+pitchers,544727,Jeurys Familia,True
+pitchers,545121,,False
+pitchers,547001,Cody Poteet,True
+pitchers,547179,Michael Lorenzen,True
+pitchers,547184,Michael Kelly,True
+pitchers,547943,Hyun Jin Ryu,True
+pitchers,547973,Aroldis Chapman,True
+pitchers,548384,Brooks Raley,True
+pitchers,548389,Ross Stripling,True
+pitchers,552640,Andrew Kittredge,True
+pitchers,554340,Yimi García,True
+pitchers,554430,Zack Wheeler,True
+pitchers,554431,Tyler Matzek,True
+pitchers,570257,Joely Rodríguez,True
+pitchers,570632,José Ureña,True
+pitchers,570666,Luis Cessa,True
+pitchers,570731,,False
+pitchers,571466,,False
+pitchers,571479,Andrew Bellatti,True
+pitchers,571510,Matthew Boyd,True
+pitchers,571527,David Buchanan,True
+pitchers,571539,Matt Carasiti,True
+pitchers,571578,Patrick Corbin,True
+pitchers,571616,,True
+pitchers,571656,Buck Farmer,True
+pitchers,571657,,False
+pitchers,571670,Dylan Floro,True
+pitchers,571710,Mychal Givens,True
+pitchers,571760,Andrew Heaney,True
+pitchers,571771,,False
+pitchers,571863,Matt Koch,True
+pitchers,571875,,False
+pitchers,571882,Derek Law,True
+pitchers,571901,Aaron Loup,False
+pitchers,571912,,False
+pitchers,571927,Steven Matz,True
+pitchers,571945,Miles Mikolas,True
+pitchers,571946,Shelby Miller,True
+pitchers,571948,Hoby Milner,True
+pitchers,572008,,False
+pitchers,572020,James Paxton,True
+pitchers,572143,Burch Smith,True
+pitchers,572193,Ryan Tepera,True
+pitchers,572403,Drew VerHagen,True
+pitchers,572888,Shane Greene,True
+pitchers,572955,Pierce Johnson,True
+pitchers,572971,Dallas Keuchel,True
+pitchers,573009,Joe Mantiply,True
+pitchers,573124,Taylor Rogers,False
+pitchers,573186,Marcus Stroman,True
+pitchers,573204,Caleb Thielbar,True
+pitchers,573262,,False
+pitchers,579328,Yusei Kikuchi,True
+pitchers,592094,Jason Adam,True
+pitchers,592155,Cam Booser,True
+pitchers,592222,,True
+pitchers,592229,Dylan Covey,True
+pitchers,592254,José De León,True
+pitchers,592288,Kent Emanuel,True
+pitchers,592332,Kevin Gausman,True
+pitchers,592346,,True
+pitchers,592351,Jon Gray,True
+pitchers,592390,,True
+pitchers,592426,Luke Jackson,True
+pitchers,592454,Tommy Kahnle,True
+pitchers,592473,Adam Kolarek,True
+pitchers,592527,Michael Mariot,True
+pitchers,592662,Robbie Ray,True
+pitchers,592741,Chasen Shreve,True
+pitchers,592767,Drew Smyly,True
+pitchers,592773,Ryne Stanek,True
+pitchers,592779,Brock Stewart,True
+pitchers,592789,Noah Syndergaard,True
+pitchers,592791,Jameson Taillon,True
+pitchers,592826,Vince Velasquez,True
+pitchers,592836,Taijuan Walker,True
+pitchers,592848,Zack Weiss,True
+pitchers,592866,Trevor Williams,True
+pitchers,593334,Domingo Germán,True
+pitchers,593423,Frankie Montas,True
+pitchers,593576,Héctor Neris,True
+pitchers,593619,Domingo Tapia,True
+pitchers,593643,,False
+pitchers,593833,Wander Suero,True
+pitchers,593934,,False
+pitchers,593958,Eduardo Rodriguez,True
+pitchers,593974,Wandy Peralta,True
+pitchers,594027,Tyron Guerrero,True
+pitchers,594577,Mike Mayers,True
+pitchers,594580,Sam Moll,True
+pitchers,594798,Jacob deGrom,True
+pitchers,594835,Marco Gonzales,True
+pitchers,594902,Ben Lively,True
+pitchers,594943,Zach Neal,True
+pitchers,595014,Blake Treinen,True
+pitchers,595345,Steven Okert,True
+pitchers,595411,,True
+pitchers,595881,Tyler Beede,True
+pitchers,595897,Nick Burdi,True
+pitchers,595928,John Curtiss,True
+pitchers,595978,,False
+pitchers,596001,Jakob Junis,True
+pitchers,596057,Daniel Norris,True
+pitchers,596082,,True
+pitchers,596103,,False
+pitchers,596112,Robert Stephenson,True
+pitchers,596117,,False
+pitchers,596133,Luke Weaver,True
+pitchers,596142,,False
+pitchers,596271,Casey Lawrence,True
+pitchers,596295,Austin Gomber,True
+pitchers,598264,Matt Barnes,True
+pitchers,598286,Nick Ramirez,True
+pitchers,600917,José Leclerc,True
+pitchers,600921,Andrés Machado,True
+pitchers,600986,Thyago Vieira,True
+pitchers,601713,Nick Pivetta,True
+pitchers,605121,Justin Anderson,True
+pitchers,605130,Scott Barlow,True
+pitchers,605135,Chris Bassitt,True
+pitchers,605151,,True
+pitchers,605154,John Brebbia,True
+pitchers,605155,Colten Brewer,True
+pitchers,605156,Aaron Brooks,True
+pitchers,605177,Andrew Chafin,True
+pitchers,605182,Mike Clevinger,True
+pitchers,605200,Zach Davies,True
+pitchers,605218,Carl Edwards Jr.,True
+pitchers,605242,Michael Fulmer,True
+pitchers,605280,Clay Holmes,True
+pitchers,605288,Adrian Houser,True
+pitchers,605335,Brandon Leibrandt,True
+pitchers,605347,Jorge López,True
+pitchers,605397,Joe Musgrove,True
+pitchers,605400,Aaron Nola,True
+pitchers,605441,Yacksel Ríos,True
+pitchers,605446,,True
+pitchers,605447,Jordan Romano,True
+pitchers,605452,Joe Ross,True
+pitchers,605463,Tayler Scott,True
+pitchers,605483,Blake Snell,True
+pitchers,605488,Jeffrey Springs,True
+pitchers,605498,Andrew Suárez,True
+pitchers,605507,Zach Thompson,True
+pitchers,605513,Spencer Turnbull,True
+pitchers,605540,Brandon Woodruff,True
+pitchers,605612,,False
+pitchers,606115,,False
+pitchers,606149,Giovanny Gallegos,True
+pitchers,606160,Rafael Montero,True
+pitchers,606303,Joel Payamps,True
+pitchers,606625,,True
+pitchers,606930,Jacob Barnes,True
+pitchers,606965,Chris Devenski,True
+pitchers,606996,Kyle Hart,True
+pitchers,607054,,False
+pitchers,607067,Colin Rea,True
+pitchers,607074,Carlos Rodón,True
+pitchers,607179,Jordan Weems,True
+pitchers,607188,,True
+pitchers,607192,Tyler Glasnow,True
+pitchers,607200,Erick Fedde,True
+pitchers,607216,Joey Krehbiel,True
+pitchers,607237,Amir Garrett,True
+pitchers,607259,Nick Martinez,False
+pitchers,607359,Spencer Patton,True
+pitchers,607455,Anthony Banda,True
+pitchers,607457,Kyle Barraclough,True
+pitchers,607461,,False
+pitchers,607481,Aaron Bummer,True
+pitchers,607536,Kyle Freeland,True
+pitchers,607625,Seth Lugo,True
+pitchers,607644,John Means,True
+pitchers,607732,,False
+pitchers,607755,Andrew Vasquez,True
+pitchers,607968,Drew Rucinski,True
+pitchers,608032,Carlos Estévez,True
+pitchers,608328,Chase De Jong,True
+pitchers,608331,Max Fried,True
+pitchers,608334,Carson Fulmer,True
+pitchers,608337,Lucas Giolito,True
+pitchers,608344,Cole Irvin,True
+pitchers,608348,,False
+pitchers,608371,Lucas Sims,True
+pitchers,608372,Tomoyuki Sugano,False
+pitchers,608379,Michael Wacha,True
+pitchers,608566,Germán Márquez,True
+pitchers,608638,JT Chargois,True
+pitchers,608648,Tyler Duffey,True
+pitchers,608650,Dietrich Enns,True
+pitchers,608665,Kendall Graveman,True
+pitchers,608671,,False
+pitchers,608678,Dominic Leone,True
+pitchers,608717,Chris Stratton,True
+pitchers,608718,Brent Suter,True
+pitchers,608723,Austin Voth,True
+pitchers,611093,,True
+pitchers,612434,Miguel Castro,True
+pitchers,613534,Austin Adams,True
+pitchers,613564,,True
+pitchers,614179,José Ruiz,True
+pitchers,615698,Cal Quantrill,True
+pitchers,620443,,True
+pitchers,620454,José Castillo,True
+pitchers,620982,Ricardo Pinto,True
+pitchers,621016,Jose Cuas,True
+pitchers,621028,,False
+pitchers,621051,Steven Wilson,True
+pitchers,621053,Tyler Ferguson,True
+pitchers,621057,Justin Garza,True
+pitchers,621074,Michael Rucker,True
+pitchers,621076,James Kaprielian,True
+pitchers,621097,Jacob Waguespack,True
+pitchers,621107,Zach Eflin,True
+pitchers,621111,Walker Buehler,True
+pitchers,621112,Paul Blackburn,True
+pitchers,621114,Ryan Burr,True
+pitchers,621121,Lance McCullers Jr.,True
+pitchers,621139,Brooks Kriske,True
+pitchers,621199,Matt Bowman,True
+pitchers,621219,,True
+pitchers,621237,José Alvarado,True
+pitchers,621242,Edwin Díaz,True
+pitchers,621244,José Berríos,True
+pitchers,621249,Duane Underwood Jr.,True
+pitchers,621294,Ben Heller,True
+pitchers,621295,Nick Wittgren,True
+pitchers,621345,A.J. Minter,True
+pitchers,621363,Colin Poche,True
+pitchers,621366,Ryan Borucki,True
+pitchers,621368,Taylor Hearn,True
+pitchers,621381,Matt Strahm,True
+pitchers,621383,Tanner Banks,True
+pitchers,621389,Ty Blach,True
+pitchers,621399,Brady Feigl,True
+pitchers,621433,,True
+pitchers,621512,,False
+pitchers,621550,,False
+pitchers,622065,Alex Young,True
+pitchers,622072,Alex Wood,True
+pitchers,622075,Yency Almonte,True
+pitchers,622088,Tejay Antone,True
+pitchers,622098,Drew Smith,True
+pitchers,622103,Gerardo Reyes,True
+pitchers,622110,,False
+pitchers,622250,Josh Sborz,True
+pitchers,622251,Josh Staumont,True
+pitchers,622253,Dillon Tate,True
+pitchers,622259,Trey Wingenter,True
+pitchers,622268,,True
+pitchers,622379,Luis F. Castillo,True
+pitchers,622491,Luis Castillo,True
+pitchers,622503,Nabil Crismatt,True
+pitchers,622554,Seranthony Domínguez,True
+pitchers,622569,,False
+pitchers,622608,Antonio Senzatela,True
+pitchers,622663,Luis Severino,True
+pitchers,622694,Elieser Hernández,True
+pitchers,622761,,False
+pitchers,622766,Miguel Díaz,True
+pitchers,622772,Jimmy Cordero,True
+pitchers,622780,Angel Perdomo,True
+pitchers,622786,Jesus Tinoco,True
+pitchers,623149,Paul Sewald,True
+pitchers,623167,Chris Flexen,True
+pitchers,623168,,False
+pitchers,623211,Huascar Brazobán,True
+pitchers,623352,Josh Hader,True
+pitchers,623381,Thomas Pannone,True
+pitchers,623433,Nick Anderson,True
+pitchers,623437,Justin Topa,True
+pitchers,623451,Jackson Stephens,True
+pitchers,623454,Drew Anderson,True
+pitchers,623465,Evan Phillips,True
+pitchers,623474,Jimmy Herget,True
+pitchers,623507,,True
+pitchers,623520,,True
+pitchers,624133,Ranger Suarez,True
+pitchers,624428,,False
+pitchers,624431,,False
+pitchers,624512,,False
+pitchers,624522,Keegan Thompson,True
+pitchers,624647,Victor González,True
+pitchers,625643,Reynaldo López,True
+pitchers,628317,Kenta Maeda,True
+pitchers,628452,Raisel Iglesias,True
+pitchers,628708,Yunior Marte,True
+pitchers,628711,Julio Urías,True
+pitchers,629498,,True
+pitchers,630023,Yonny Chirinos,True
+pitchers,640444,Wil Crowe,True
+pitchers,640448,Kyle Finnegan,True
+pitchers,640451,Hunter Harvey,True
+pitchers,640454,Matt Krook,True
+pitchers,640455,Sean Manaea,True
+pitchers,640462,A.J. Puk,True
+pitchers,640470,Adbert Alzolay,True
+pitchers,640902,,False
+pitchers,641149,Wes Parsons,True
+pitchers,641154,Pablo López,True
+pitchers,641302,Tyler Alexander,True
+pitchers,641312,Shaun Anderson,True
+pitchers,641329,Bryan Baker,True
+pitchers,641343,,False
+pitchers,641360,Phil Bickford,True
+pitchers,641386,Ben Bowden,True
+pitchers,641401,Connor Brogdon,True
+pitchers,641420,,True
+pitchers,641427,Alan Busenitz,True
+pitchers,641447,Daniel Castano,True
+pitchers,641482,Nestor Cortes,True
+pitchers,641525,,False
+pitchers,641540,Dane Dunning,True
+pitchers,641582,Matt Foster,True
+pitchers,641585,J.P. France,True
+pitchers,641627,Trevor Gott,True
+pitchers,641645,,True
+pitchers,641656,Ian Hamilton,True
+pitchers,641658,,True
+pitchers,641672,Thomas Hatch,True
+pitchers,641703,Brent Honeywell,True
+pitchers,641712,Dakota Hudson,True
+pitchers,641726,Daulton Jefferies,True
+pitchers,641729,Joe Jiménez,True
+pitchers,641743,Anthony Kay,True
+pitchers,641745,Brad Keller,True
+pitchers,641755,Tyler Kinley,True
+pitchers,641771,Chad Kuhl,True
+pitchers,641778,Eric Lauer,True
+pitchers,641793,Zack Littell,True
+pitchers,641816,Tyler Mahle,True
+pitchers,641835,Tim Mayza,True
+pitchers,641871,Keynan Middleton,True
+pitchers,641927,Bailey Ober,True
+pitchers,641941,Emilio Pagán,True
+pitchers,642016,Daniel Robert,True
+pitchers,642028,Josh Rogers,True
+pitchers,642048,Tayler Saucedo,True
+pitchers,642086,,False
+pitchers,642100,Gabe Speier,True
+pitchers,642121,Cole Sulser,True
+pitchers,642133,,False
+pitchers,642152,Lou Trivino III,True
+pitchers,642180,,False
+pitchers,642207,Devin Williams,True
+pitchers,642215,,True
+pitchers,642216,Allan Winans,True
+pitchers,642231,Jimmy Yacabonis,True
+pitchers,642232,Ryan Yarbrough,True
+pitchers,642239,Rob Zastryzny,True
+pitchers,642376,Jefry Yan,True
+pitchers,642397,Gregory Soto,True
+pitchers,642520,Gerson Garabito,True
+pitchers,642528,Jonathan Loáisiga,True
+pitchers,642545,Jaime Barria,True
+pitchers,642546,Jonathan Hernández,True
+pitchers,642547,Freddy Peralta,True
+pitchers,642578,,True
+pitchers,642585,Félix Bautista,True
+pitchers,642629,Emmanuel Ramirez,True
+pitchers,642701,Dennis Santana,True
+pitchers,642708,,False
+pitchers,642758,Domingo Acevedo,True
+pitchers,642759,Julian Fernández,True
+pitchers,642770,Javy Guerra,True
+pitchers,642834,Jonathan Bermúdez,True
+pitchers,643256,Adam Cimber,True
+pitchers,643338,Chad Green,True
+pitchers,643361,Kevin Herget,True
+pitchers,643377,Griffin Jax,True
+pitchers,643396,,False
+pitchers,643410,Mark Leiter Jr.,True
+pitchers,643493,Austin Pruitt,True
+pitchers,643511,Tyler Rogers,True
+pitchers,644433,,False
+pitchers,645261,Sandy Alcantara,True
+pitchers,645302,,False
+pitchers,645305,,False
+pitchers,645444,,False
+pitchers,645801,,True
+pitchers,646241,Enmanuel De Jesus,True
+pitchers,646242,Jhonathan Díaz,True
+pitchers,647315,Zach Pop,True
+pitchers,647336,Michael Soroka,True
+pitchers,647351,,True
+pitchers,650489,,False
+pitchers,650496,J.C. Mejía,True
+pitchers,650556,Bryan Abreu,True
+pitchers,650633,Michael King,True
+pitchers,650644,Aaron Civale,True
+pitchers,650671,José Quijada,True
+pitchers,650893,Génesis Cabrera,True
+pitchers,650895,Diego Castillo,True
+pitchers,650907,,False
+pitchers,650911,Cristopher Sánchez,True
+pitchers,650960,Daniel Duarte,True
+pitchers,655316,,False
+pitchers,655889,Manuel Rodríguez,True
+pitchers,656061,Albert Abreu,True
+pitchers,656186,Dan Altavilla,True
+pitchers,656212,Charlie Barnes,True
+pitchers,656222,Jalen Beeks,True
+pitchers,656232,Brandon Bielak,True
+pitchers,656234,Jake Bird,True
+pitchers,656240,Scott Blewett,True
+pitchers,656257,Jeff Brigham,True
+pitchers,656266,J.B. Bukauskas,True
+pitchers,656271,Brock Burke,True
+pitchers,656288,Griffin Canning,True
+pitchers,656290,Drew Carlton,True
+pitchers,656302,Dylan Cease,True
+pitchers,656322,,True
+pitchers,656353,Tucker Davidson,True
+pitchers,656354,Austin Davis,True
+pitchers,656382,Tommy Doyle,True
+pitchers,656412,Alex Faedo,True
+pitchers,656420,J.P. Feyereisen,True
+pitchers,656427,Jack Flaherty,True
+pitchers,656457,Tyler Gilbert,True
+pitchers,656458,Lucas Gilbreath,True
+pitchers,656464,Kevin Ginkel,True
+pitchers,656492,Foster Griffin,True
+pitchers,656529,Sam Hentges,True
+pitchers,656546,Jeff Hoffman,True
+pitchers,656550,Grant Holmes,True
+pitchers,656557,Tanner Houck,True
+pitchers,656577,,False
+pitchers,656578,Andre Jackson,True
+pitchers,656605,Mitch Keller,True
+pitchers,656629,Michael Kopech,True
+pitchers,656638,Alex Lange,True
+pitchers,656641,Jacob Latz,True
+pitchers,656657,Zach Logue,True
+pitchers,656669,,False
+pitchers,656671,Josh Maciejewski,True
+pitchers,656686,Corbin Martin,True
+pitchers,656716,,False
+pitchers,656730,Trevor Megill,True
+pitchers,656731,Tylor Megill,True
+pitchers,656756,Jordan Montgomery,True
+pitchers,656786,Parker Mushinski,True
+pitchers,656793,Nick Nelson,True
+pitchers,656794,Sean Newcomb,True
+pitchers,656814,Luis Ortiz,True
+pitchers,656818,Connor Overton,True
+pitchers,656820,Nicholas Padilla,True
+pitchers,656848,Michael Petersen,True
+pitchers,656849,David Peterson,True
+pitchers,656876,Drew Rasmussen,True
+pitchers,656887,Sean Reid-Foley,True
+pitchers,656896,,False
+pitchers,656924,Ryder Ryan,True
+pitchers,656945,Tanner Scott,True
+pitchers,656970,Devin Smeltzer,True
+pitchers,656976,,False
+pitchers,656981,Peter Solomon,True
+pitchers,656986,Bennett Sousa,True
+pitchers,657006,Justin Steele,True
+pitchers,657024,Erik Swanson,True
+pitchers,657031,Josh Taylor,True
+pitchers,657041,,False
+pitchers,657044,Ryan Thompson,True
+pitchers,657053,Touki Toussaint,True
+pitchers,657061,,False
+pitchers,657093,Spenser Watkins,True
+pitchers,657097,Jacob Webb,True
+pitchers,657140,Kyle Wright,True
+pitchers,657193,,True
+pitchers,657240,Julian Merryweather,True
+pitchers,657248,Glenn Otto Jr.,True
+pitchers,657265,Peter Strzelecki,True
+pitchers,657272,Erich Uelmen,True
+pitchers,657277,Logan Webb,True
+pitchers,657376,Clarke Schmidt,True
+pitchers,657424,Matt Gage,True
+pitchers,657508,Mike Baumann,True
+pitchers,657514,Brennan Bernardino,True
+pitchers,657571,Caleb Ferguson,True
+pitchers,657585,Reed Garrett,True
+pitchers,657612,Tim Hill,True
+pitchers,657649,Jared Koenig,True
+pitchers,657697,Vinny Nittoli,True
+pitchers,657746,Joe Ryan,True
+pitchers,657756,Connor Seabold,True
+pitchers,658648,Pedro Avila,True
+pitchers,659275,Dinelson Lamet,True
+pitchers,660261,Shintaro Fujinami,True
+pitchers,660271,Shohei Ohtani,False
+pitchers,660431,,True
+pitchers,660593,Denyi Reyes,True
+pitchers,660600,Enoli Paredes,True
+pitchers,660604,Alan Rangel,True
+pitchers,660634,,True
+pitchers,660644,,False
+pitchers,660710,,False
+pitchers,660730,Elvin Rodríguez,True
+pitchers,660761,José Suarez,True
+pitchers,660787,Yerry De los Santos,True
+pitchers,660813,Brusdar Graterol,True
+pitchers,660825,Eduard Bazardo,True
+pitchers,660844,,False
+pitchers,660853,Enyel De Los Santos,True
+pitchers,660896,Jorge Alcala,True
+pitchers,660906,Francisco Pérez,True
+pitchers,661269,Vladimir Gutierrez,True
+pitchers,661309,Adrián Martinez,True
+pitchers,661383,Oliver Ortega,True
+pitchers,661395,Jhoan Duran,True
+pitchers,661403,Emmanuel Clase,True
+pitchers,661440,Mauricio Llovera,True
+pitchers,661527,Seth Martinez,True
+pitchers,661563,Luis Gil,True
+pitchers,662144,Brian Keller,True
+pitchers,662253,Andrés Muñoz,True
+pitchers,663158,Robert Suarez,True
+pitchers,663321,Nick Hernandez,True
+pitchers,663362,Matt Waldron,True
+pitchers,663372,Ryan Feltner,True
+pitchers,663385,Chad Smith,True
+pitchers,663399,Brandon Waddell,True
+pitchers,663423,Trent Thornton,True
+pitchers,663432,Tanner Rainey,True
+pitchers,663436,Davis Martin,True
+pitchers,663455,Konnor Pilkington,True
+pitchers,663460,Kris Bubic,True
+pitchers,663462,Isaiah Campbell,True
+pitchers,663465,Kolby Allard,True
+pitchers,663474,Triston McKenzie,True
+pitchers,663485,Cole Sands,True
+pitchers,663494,,False
+pitchers,663531,Logan Allen,True
+pitchers,663542,Bryan Hudson,True
+pitchers,663546,Sean Hjelle,True
+pitchers,663554,Casey Mize,True
+pitchers,663556,Shane McClanahan,True
+pitchers,663558,Jovani Morán,True
+pitchers,663559,Bailey Falter,True
+pitchers,663562,Noah Davis,True
+pitchers,663567,Peter Lambert,True
+pitchers,663568,Stephen Kolek,True
+pitchers,663574,Tony Santillan,True
+pitchers,663623,Jake Irvin,True
+pitchers,663629,Ethan Small,True
+pitchers,663630,,False
+pitchers,663658,Thaddeus Ward,True
+pitchers,663671,Nic Enright,True
+pitchers,663687,Hogan Harris,True
+pitchers,663704,James McArthur,True
+pitchers,663738,Daniel Lynch IV,True
+pitchers,663752,Cody Morris,True
+pitchers,663753,Reiss Knehr,True
+pitchers,663765,Jake Woodford,True
+pitchers,663767,Chase Shugart,True
+pitchers,663773,Bryan Hoeing,True
+pitchers,663776,Patrick Sandoval,True
+pitchers,663795,Justin Hagenman,True
+pitchers,663804,Jackson Kowar,True
+pitchers,663855,Jordan Hicks,True
+pitchers,663878,Nate Pearson,True
+pitchers,663884,Nolan Kingham,True
+pitchers,663893,Brendon Little,True
+pitchers,663897,,True
+pitchers,663903,Brady Singer,True
+pitchers,663941,Tristan Beck,True
+pitchers,663947,Tyler Holton,True
+pitchers,663967,,True
+pitchers,663969,Tyler Phillips,True
+pitchers,663971,Blair Calvo,True
+pitchers,663978,Chris Paddack,True
+pitchers,663986,Trevor Stephan,True
+pitchers,663989,Nick Vespi,True
+pitchers,663992,Richard Lovelady,True
+pitchers,664028,Brett Kennedy,True
+pitchers,664059,,True
+pitchers,664062,Tony Gonsolin,True
+pitchers,664068,,True
+pitchers,664074,Cody Ponce,True
+pitchers,664076,Garrett Cleavinger,True
+pitchers,664079,Tyler Jay,True
+pitchers,664123,Scott Effross,True
+pitchers,664126,Pete Fairbanks,True
+pitchers,664129,Geoff Hartlieb,True
+pitchers,664139,Ian Gibaut,True
+pitchers,664141,JT Brubaker,True
+pitchers,664192,Joey Lucchesi,True
+pitchers,664199,Taylor Clarke,True
+pitchers,664202,,True
+pitchers,664208,Phil Maton,True
+pitchers,664238,,False
+pitchers,664285,Framber Valdez,True
+pitchers,664294,Dauri Moreta,True
+pitchers,664299,Cristian Javier,True
+pitchers,664350,Sixto Sánchez,True
+pitchers,664351,Luis Contreras,True
+pitchers,664353,José Urquidy,True
+pitchers,664702,,False
+pitchers,664731,,False
+pitchers,664744,Jose Espada,True
+pitchers,664747,Alexis Díaz,True
+pitchers,664774,,False
+pitchers,664776,Jake Cousins,True
+pitchers,664849,Danny Young,True
+pitchers,664854,Ryan Helsley,True
+pitchers,664874,,False
+pitchers,664875,Justin Lawrence,True
+pitchers,664901,,True
+pitchers,664942,James Naile,True
+pitchers,664948,Anthony Misiewicz,True
+pitchers,664954,,True
+pitchers,664991,Grant Wolfram,True
+pitchers,665001,Trevor Kelley,True
+pitchers,665019,,False
+pitchers,665048,Hobie Harris,True
+pitchers,665152,Dean Kremer,True
+pitchers,665620,Deivi García,True
+pitchers,665622,Luis Medina,True
+pitchers,665625,Elvis Peguero,True
+pitchers,665645,Kervin Castro,True
+pitchers,665660,Elvis Alvarado,True
+pitchers,665665,Reiver Sanmartin,True
+pitchers,665734,Angel Felipe,True
+pitchers,665795,Edward Cabrera,True
+pitchers,665828,,False
+pitchers,665871,Javier Assad,True
+pitchers,665896,José Marte,True
+pitchers,666120,Ian Anderson,True
+pitchers,666126,,False
+pitchers,666129,Braxton Garrett,True
+pitchers,666142,Cole Ragans,True
+pitchers,666149,,False
+pitchers,666154,Karl Kauffmann,True
+pitchers,666157,Nick Lodolo,True
+pitchers,666159,Matt Manning,True
+pitchers,666163,,False
+pitchers,666168,Mason Thompson,True
+pitchers,666171,Ryan Zeferjahn,True
+pitchers,666197,,False
+pitchers,666200,Jesús Luzardo,True
+pitchers,666201,Alek Manoah,True
+pitchers,666204,Dany Jiménez,True
+pitchers,666205,Kyle Muller,True
+pitchers,666207,Riley Pint,True
+pitchers,666208,Alex Speas,True
+pitchers,666214,Joey Wentz,True
+pitchers,666215,Forrest Whitley,True
+pitchers,666277,George Soriano,True
+pitchers,666364,Jordan Balazovic,True
+pitchers,666374,Matt Brash,True
+pitchers,666619,Gregory Santos,True
+pitchers,666659,Sauryn Lao,True
+pitchers,666661,Juan Morillo,True
+pitchers,666711,Joel Peguero,True
+pitchers,666720,Yerry Rodríguez,True
+pitchers,666721,Max Castillo,True
+pitchers,666745,Jhony Brito,True
+pitchers,666808,Camilo Doval,True
+pitchers,666818,Luis Frías,True
+pitchers,666974,Yennier Cano,True
+pitchers,667297,Tommy Nance,True
+pitchers,667427,Zach Jackson,True
+pitchers,667463,John King,True
+pitchers,667478,Evan Kravetz,True
+pitchers,667652,Jack Ralston,True
+pitchers,667725,Kyle Tyler,True
+pitchers,667755,José Soriano,True
+pitchers,668338,Tyson Miller,True
+pitchers,668390,Cole Winn,True
+pitchers,668470,Hagen Danner,True
+pitchers,668472,,True
+pitchers,668665,Stephen Nogosek,True
+pitchers,668670,,False
+pitchers,668674,Lucas Erceg,True
+pitchers,668676,Zach Plesac,True
+pitchers,668678,Zac Gallen,True
+pitchers,668716,Noah Murdock,True
+pitchers,668754,,True
+pitchers,668800,,False
+pitchers,668820,Max Kranick,True
+pitchers,668831,Garrett Stallings,True
+pitchers,668834,Easton McGee,True
+pitchers,668868,Zack Thompson,True
+pitchers,668873,Caleb Kilian,True
+pitchers,668874,Blair Henley,True
+pitchers,668881,Hunter Greene,True
+pitchers,668909,Gavin Williams,True
+pitchers,668933,Graham Ashcraft,True
+pitchers,668941,JoJo Romero,True
+pitchers,668942,,False
+pitchers,668943,Ryan Miller,True
+pitchers,668964,Tobias Myers,True
+pitchers,668968,Hans Crouse,True
+pitchers,668970,Gavin Hollowell,True
+pitchers,668984,Casey Legumina,True
+pitchers,669020,Ryan Rolison,True
+pitchers,669022,MacKenzie Gore,True
+pitchers,669060,Bryse Wilson,True
+pitchers,669062,Erik Miller,True
+pitchers,669084,DL Hall,True
+pitchers,669093,Jeremiah Estrada,True
+pitchers,669105,,True
+pitchers,669111,John McMillon,True
+pitchers,669145,Bruce Zimmermann,True
+pitchers,669160,Dustin May,True
+pitchers,669165,Kyle Hurt,True
+pitchers,669169,Jonathan Heasley,True
+pitchers,669193,Jack Little,True
+pitchers,669194,Ryne Nelson,True
+pitchers,669199,Lake Bachar,True
+pitchers,669203,Corbin Burnes,True
+pitchers,669211,Keegan Akin,True
+pitchers,669212,Eli Morgan,True
+pitchers,669270,Joel Kuhnel,True
+pitchers,669276,Dylan Lee,True
+pitchers,669298,TJ Shook,True
+pitchers,669302,Logan Gilbert,True
+pitchers,669308,Sean Reynolds,True
+pitchers,669310,CJ Van Eyk,True
+pitchers,669330,Tyler Wells,True
+pitchers,669358,Shane Baz,True
+pitchers,669371,Cole Henry,True
+pitchers,669372,J.T. Ginn,True
+pitchers,669373,Tarik Skubal,True
+pitchers,669387,Carmen Mlodzinski,True
+pitchers,669391,Owen White,True
+pitchers,669395,Dylan Coleman,True
+pitchers,669422,Matt Sauer,True
+pitchers,669424,Jimmy Lambert,True
+pitchers,669432,Trevor Rogers,True
+pitchers,669438,Mason Englert,True
+pitchers,669449,Jake Palisch,True
+pitchers,669450,,True
+pitchers,669456,Shane Bieber,True
+pitchers,669459,Kyle Nelson,True
+pitchers,669461,Matthew Liberatore,True
+pitchers,669467,Andre Pallante,True
+pitchers,669618,Joe Barlow,True
+pitchers,669620,Brady Basso,True
+pitchers,669622,Anthony Bender,True
+pitchers,669674,Sam Long,True
+pitchers,669684,Chris Murphy,True
+pitchers,669704,Kade Strowd,True
+pitchers,669707,,False
+pitchers,669711,Greg Weissert,True
+pitchers,669713,Hayden Wesneski,True
+pitchers,669717,,False
+pitchers,669721,Davis Daniel,True
+pitchers,669722,,True
+pitchers,669724,Brenan Hanifee,True
+pitchers,669796,Jose E. Hernandez,True
+pitchers,669854,Ronel Blanco,True
+pitchers,669912,Kirby Snead,True
+pitchers,669920,Jason Alexander,True
+pitchers,669923,George Kirby,True
+pitchers,669947,Jesse Scholtens,True
+pitchers,669952,Mitch White,True
+pitchers,670032,,False
+pitchers,670036,Matt Festa,True
+pitchers,670042,,False
+pitchers,670046,Kenny Rosenberg,True
+pitchers,670059,Colin Holderman,True
+pitchers,670062,Julian Garcia,True
+pitchers,670090,Wyatt Mills,True
+pitchers,670097,,True
+pitchers,670102,Bowden Francis,True
+pitchers,670103,Raymond Burgos,True
+pitchers,670124,Adam Oller,True
+pitchers,670156,,False
+pitchers,670161,Parker Dunshee,True
+pitchers,670167,John Schreiber,True
+pitchers,670174,Josh Winckowski,True
+pitchers,670183,Garrett Acton,True
+pitchers,670219,Zac Kristofak,True
+pitchers,670223,,True
+pitchers,670241,Darius Vines,True
+pitchers,670242,,False
+pitchers,670245,Ryan Watson,True
+pitchers,670280,David Bednar,True
+pitchers,670329,Rico Garcia,True
+pitchers,670712,,True
+pitchers,670766,Darren McCaughan,True
+pitchers,670810,Logan Gillaspie,True
+pitchers,670871,Guillo Zuñiga,True
+pitchers,670912,Johan Oviedo,True
+pitchers,670950,Trevor Richards,True
+pitchers,670955,Edwin Uceta,True
+pitchers,670970,Adrian Morejon,True
+pitchers,670990,Yohan Ramírez,True
+pitchers,671083,,False
+pitchers,671096,Andrew Abbott,True
+pitchers,671106,Logan Allen,True
+pitchers,671109,Jake Eder,True
+pitchers,671111,Sammy Peralta,True
+pitchers,671131,Jackson Rutledge,True
+pitchers,671162,Connor Thomas,True
+pitchers,671212,Joe Boyle,True
+pitchers,671305,Michel Otañez,True
+pitchers,671345,Jason Foley,True
+pitchers,671382,Cameron Foster,True
+pitchers,671737,Taj Bradley,True
+pitchers,671922,Cade Smith,True
+pitchers,671936,Adam Macko,True
+pitchers,672021,Eric Cerantola,True
+pitchers,672282,Reid Detmers,True
+pitchers,672335,Cionel Pérez,True
+pitchers,672391,Kaleb Ort,True
+pitchers,672442,Yovanny Cruz,True
+pitchers,672456,Keider Montero,True
+pitchers,672552,Jack O'Loughlin,True
+pitchers,672578,Carlos Hernández,True
+pitchers,672582,Angel Zerpa,True
+pitchers,672629,Gerardo Carrillo,True
+pitchers,672710,Roansy Contreras,True
+pitchers,672715,Luis Patiño,True
+pitchers,672724,,False
+pitchers,672730,Juan Then,True
+pitchers,672782,Yoendrys Gómez,True
+pitchers,672841,Carlos Vargas,True
+pitchers,672851,Joan Adon,True
+pitchers,672860,Prelander Berroa,True
+pitchers,673111,,True
+pitchers,673380,Dedniel Núñez,True
+pitchers,673513,Yuki Matsui,True
+pitchers,673540,Kodai Senga,True
+pitchers,673820,Robinson Piña,True
+pitchers,673858,,True
+pitchers,673929,Jordan Leasure,True
+pitchers,673965,Caleb Freeman,True
+pitchers,674003,Cody Bradford,True
+pitchers,674072,Tommy Henry,True
+pitchers,674073,Jack Weisenburger,True
+pitchers,674285,Eduardo Salazar,True
+pitchers,674370,Osvaldo Bido,True
+pitchers,674384,Eduarniel Núñez,True
+pitchers,674444,Steven Cruz,True
+pitchers,674681,Michael Plassmeyer,True
+pitchers,674841,Andrew Alvarez,True
+pitchers,674944,Sean Guenther,True
+pitchers,675512,Troy Melton,True
+pitchers,675540,Xzavion Curry,True
+pitchers,675627,Michael Grove,True
+pitchers,675650,Michael Mercado,True
+pitchers,675660,Shane Drohan,True
+pitchers,675848,Juan Mejia,True
+pitchers,675911,Spencer Strider,True
+pitchers,675916,James Karinchak,True
+pitchers,675919,Nick Raquet,True
+pitchers,675920,Seth Lonsway,True
+pitchers,675921,Spencer Howard,True
+pitchers,675989,Cody Bolton,True
+pitchers,676050,Packy Naughton,True
+pitchers,676051,Codi Heuer,True
+pitchers,676070,,True
+pitchers,676083,Janson Junk,True
+pitchers,676092,Collin Snider,True
+pitchers,676105,Jeff Criswell,True
+pitchers,676106,Emerson Hancock,True
+pitchers,676130,José Buttó,True
+pitchers,676206,Freddy Tarnok,True
+pitchers,676254,Ryan Walker,True
+pitchers,676263,Jack Dreyer,True
+pitchers,676265,Cory Abbott,True
+pitchers,676272,Bobby Miller,True
+pitchers,676282,Joey Cantillo,True
+pitchers,676391,,False
+pitchers,676395,Robert Garcia,True
+pitchers,676428,Brant Hurter,True
+pitchers,676440,Tanner Bibee,True
+pitchers,676454,Brendan Cellucci,True
+pitchers,676467,Colton Gordon,True
+pitchers,676475,,False
+pitchers,676477,Garrett Whitlock,True
+pitchers,676508,Ben Casparius,True
+pitchers,676510,Nolan Hoffman,True
+pitchers,676534,Calvin Faucher,True
+pitchers,676568,Ricky Vanasco,True
+pitchers,676571,PJ Poulin,True
+pitchers,676596,Josh Fleming,True
+pitchers,676604,Tyler Zuber,True
+pitchers,676609,,False
+pitchers,676614,Bryan Sammons,True
+pitchers,676617,Riley O'Brien,True
+pitchers,676620,Blake Weiman,True
+pitchers,676632,,True
+pitchers,676661,Max Lazar,True
+pitchers,676664,JP Sears,True
+pitchers,676679,,False
+pitchers,676680,Tom Cosgrove,True
+pitchers,676684,Will Vest,True
+pitchers,676689,Ricky Karcher,True
+pitchers,676694,,False
+pitchers,676701,,True
+pitchers,676702,Hunter Stratton,True
+pitchers,676710,Kutter Crawford,True
+pitchers,676714,Brandon Hughes,True
+pitchers,676724,,True
+pitchers,676742,Cam Sanders,True
+pitchers,676755,Isaac Mattson,True
+pitchers,676760,Ron Marinaccio,True
+pitchers,676775,Keaton Winn,True
+pitchers,676801,,False
+pitchers,676879,Aaron Ashby,True
+pitchers,676910,Matt Seelinger,True
+pitchers,676917,Cade Cavalli,True
+pitchers,676961,Caleb Boushley,True
+pitchers,676962,Ben Brown,True
+pitchers,676969,Brett de Geus,True
+pitchers,676974,Max Meyer,True
+pitchers,676979,Garrett Crochet,True
+pitchers,677020,Josh Walker,True
+pitchers,677053,Andrew Nardi,True
+pitchers,677076,Clayton Andrews,True
+pitchers,677161,Zack Kelly,True
+pitchers,677588,,False
+pitchers,677649,,False
+pitchers,677651,Luis Garcia,True
+pitchers,677865,Justin Bruihl,True
+pitchers,677944,Slade Cecconi,True
+pitchers,677952,Braxton Ashcraft,True
+pitchers,677955,Jaden Hill,True
+pitchers,677958,Kumar Rocker,True
+pitchers,677960,Ryan Weathers,True
+pitchers,677961,Cole Wilcox,True
+pitchers,677976,Randy Dobnak,True
+pitchers,678011,,False
+pitchers,678020,Seth Halvorsen,True
+pitchers,678022,Jack Perkins,True
+pitchers,678024,Mike Vasil,True
+pitchers,678061,Ray Kerr,True
+pitchers,678215,Luarbert Arias,True
+pitchers,678226,Daysbel Hernández,True
+pitchers,678316,Omar Cruz,True
+pitchers,678368,Valente Bellozo,True
+pitchers,678391,,False
+pitchers,678394,Brayan Bello,True
+pitchers,678495,Randy Rodríguez,True
+pitchers,678576,Wilkin Ramos,True
+pitchers,678606,José A. Ferrer,True
+pitchers,678692,Ronny Henriquez,True
+pitchers,678821,Luis Peralta,True
+pitchers,678868,Eddy Yean,True
+pitchers,678906,Kai-Wei Teng,True
+pitchers,679156,Walter Pennington,True
+pitchers,679346,,True
+pitchers,679358,Eric Orze,True
+pitchers,679525,Alec Marsh,True
+pitchers,679775,Kyle Backhus,True
+pitchers,679845,,False
+pitchers,679883,Luinder Avila,True
+pitchers,679885,Justin Martinez,True
+pitchers,679922,Carlos Duran,True
+pitchers,680232,Jackson Wolf,True
+pitchers,680474,,False
+pitchers,680570,Grayson Rodriguez,True
+pitchers,680572,Adam Kloffenstein,True
+pitchers,680573,Simeon Woods Richardson,True
+pitchers,680604,Blas Castaño,True
+pitchers,680684,Gunnar Hoglund,True
+pitchers,680686,Josiah Gray,True
+pitchers,680689,Lyon Richardson,True
+pitchers,680694,Kyle Bradish,True
+pitchers,680701,John Rooney,True
+pitchers,680702,Joey Gerber,True
+pitchers,680704,Nick Sandlin,True
+pitchers,680723,Drew Rom,True
+pitchers,680728,,False
+pitchers,680729,Garrett McDaniels,True
+pitchers,680730,Mitchell Parker,True
+pitchers,680732,Sean Burke,True
+pitchers,680735,Austin Cox,True
+pitchers,680736,Justin Wrobleski,True
+pitchers,680739,Josh Winder,True
+pitchers,680742,Jonathan Bowlan,True
+pitchers,680744,Ty Madden,True
+pitchers,680755,Braydon Fisher,True
+pitchers,680767,Victor Vodnik,True
+pitchers,680802,Ryan Weiss,True
+pitchers,680837,,True
+pitchers,680862,,False
+pitchers,680880,Grant Holman,True
+pitchers,680885,Spencer Schwellenbach,True
+pitchers,680891,Jack Neely,True
+pitchers,680897,Nick Nastrini,True
+pitchers,680899,Erik Tolman,True
+pitchers,680911,,False
+pitchers,680916,Franco Aleman,True
+pitchers,680951,Doug Nikhazy,True
+pitchers,680983,Kelvin Cáceres,True
+pitchers,681006,Josh Simpson,True
+pitchers,681035,Christian Scott,True
+pitchers,681066,Ky Bush,True
+pitchers,681084,Tanner Andrews,True
+pitchers,681146,,False
+pitchers,681151,Jayden Murray,True
+pitchers,681168,Luis Curvelo,True
+pitchers,681190,Randy Vásquez,True
+pitchers,681217,Chase Silseth,True
+pitchers,681252,Jack Anderson,True
+pitchers,681293,Spencer Arrighetti,True
+pitchers,681320,Nate Lavender,True
+pitchers,681343,Shane Smith,True
+pitchers,681347,Mike Burrows,True
+pitchers,681402,Gus Varland,True
+pitchers,681432,Luke Little,True
+pitchers,681517,Kyle Leahy,True
+pitchers,681520,Antoine Kelly,True
+pitchers,681544,Wyatt Olds,True
+pitchers,681584,,False
+pitchers,681676,Ryan Fernandez,True
+pitchers,681751,Lazaro Estrada,True
+pitchers,681799,Ethan Roberts,True
+pitchers,681806,Andrew Wantz,True
+pitchers,681807,,False
+pitchers,681808,Chris Vallimont,True
+pitchers,681810,Austin Warren,True
+pitchers,681857,Reese Olson,True
+pitchers,681867,Cooper Criswell,True
+pitchers,681869,Shawn Dubin,True
+pitchers,681870,Erik Sabrowski,True
+pitchers,681871,Eli Villalobos,True
+pitchers,681882,Colin Selby,True
+pitchers,681892,Kody Funderburk,True
+pitchers,681895,Evan Sisk,True
+pitchers,681911,Alex Vesia,True
+pitchers,681916,Dylan Smith,True
+pitchers,681962,,True
+pitchers,681973,Josh Hendrickson,True
+pitchers,681982,Grant Anderson,True
+pitchers,681987,,False
+pitchers,682010,Lane Ramsey,True
+pitchers,682051,Garrett Hill,True
+pitchers,682052,Jacob Lopez,True
+pitchers,682073,,False
+pitchers,682120,Tim Herrin,True
+pitchers,682144,Jayvien Sandridge,True
+pitchers,682171,Penn Murfee,True
+pitchers,682175,Joe Jacques,True
+pitchers,682227,Brandon Williamson,True
+pitchers,682243,Bryce Miller,True
+pitchers,682254,Mason Montgomery,True
+pitchers,682274,Yaramil Hiraldo,True
+pitchers,682445,Domingo Gonzalez,True
+pitchers,682515,,True
+pitchers,682608,Peyton Gray,True
+pitchers,682610,Roddery Muñoz,True
+pitchers,682668,,False
+pitchers,682769,Eiberson Castellano,True
+pitchers,682790,Wikelman González,True
+pitchers,682825,Luis Mey,True
+pitchers,682842,Abner Uribe,True
+pitchers,682847,Luis Ortiz,True
+pitchers,682967,Devin Sweet,True
+pitchers,682982,Daniel Espino,True
+pitchers,682989,Victor Mederos,True
+pitchers,682990,Quinn Priester,True
+pitchers,682995,Hunter Barco,True
+pitchers,682997,,False
+pitchers,683000,Riley Cornelio,True
+pitchers,683003,Jared Jones,True
+pitchers,683004,Jack Leiter,True
+pitchers,683021,,True
+pitchers,683068,Zach Penrod,True
+pitchers,683155,Joey Estes,True
+pitchers,683175,Connor Phillips,True
+pitchers,683232,Nick Mears,True
+pitchers,683352,Mitch Bratt,True
+pitchers,683363,Matt Wilkinson,True
+pitchers,683409,Angel Chivilli,True
+pitchers,683568,Jairo Iriarte,True
+pitchers,683618,Edgardo Henriquez,True
+pitchers,683627,Anthony Molina,True
+pitchers,683734,,False
+pitchers,683742,Jose Franco,True
+pitchers,683766,,False
+pitchers,683769,Hunter Gaddis,True
+pitchers,683822,Naoyuki Uwasawa,True
+pitchers,684007,Shota Imanaga,True
+pitchers,684049,Brandan Bidois,True
+pitchers,684320,Yariel Rodríguez,True
+pitchers,684442,Kohl Drake,True
+pitchers,684516,Hancel Rincon,True
+pitchers,684665,Luke Murphy,True
+pitchers,684974,Craig Yoho,True
+pitchers,685005,Christian Roa,True
+pitchers,685068,Carson Ragsdale,True
+pitchers,685107,Anthony Veneziano,True
+pitchers,685112,Zach McCambley,True
+pitchers,685116,Austin Kitchen,True
+pitchers,685126,Brandon Eisert,True
+pitchers,685299,Tanner Gordon,True
+pitchers,685314,Andrew Saalfrank,True
+pitchers,685326,McCade Brown,True
+pitchers,685410,Peyton Battenfield,True
+pitchers,685464,Cade Winquest,True
+pitchers,685801,Hunter Bigge,True
+pitchers,686218,Emmet Sheehan,True
+pitchers,686228,Juan Burgos,True
+pitchers,686249,Nathan Wiles,True
+pitchers,686294,Amos Willingham,True
+pitchers,686475,,False
+pitchers,686539,Declan Cronin,True
+pitchers,686560,Gavin Collyer,True
+pitchers,686563,Jonathan Cannon,True
+pitchers,686580,Justin Slaten,True
+pitchers,686610,Ken Waldichuk,True
+pitchers,686613,Hunter Brown,True
+pitchers,686628,Blake Burkhalter,True
+pitchers,686642,Fraser Ellard,True
+pitchers,686651,Levi Stoudt,True
+pitchers,686654,Ty Adcock,True
+pitchers,686676,,False
+pitchers,686678,Chase Solesky,True
+pitchers,686701,Ryan Bergert,True
+pitchers,686730,Carson Spiers,True
+pitchers,686747,Joe La Sorsa,True
+pitchers,686751,Seth Johnson,True
+pitchers,686752,Ryan Pepiot,True
+pitchers,686753,Drey Jameson,True
+pitchers,686780,,False
+pitchers,686790,Trevor McDonald,True
+pitchers,686796,Blake Walston,True
+pitchers,686799,Jack Kochanowicz,True
+pitchers,686826,Bryce Jarvis,True
+pitchers,686839,Brendan White,True
+pitchers,686842,McKinley Moore,True
+pitchers,686894,,False
+pitchers,686930,Mason Barnett,True
+pitchers,686934,Alex McFarlane,True
+pitchers,686972,Cole Waites,True
+pitchers,686973,Louis Varland,True
+pitchers,686993,Justin Sterner,True
+pitchers,687003,Brian Van Belle,True
+pitchers,687014,Nick Avila,True
+pitchers,687060,Blake Adams,True
+pitchers,687064,Brandon Young,True
+pitchers,687074,Tyler Owens,True
+pitchers,687075,Brandon Sproat,True
+pitchers,687134,Bradley Blalock,True
+pitchers,687145,Evan Justice,True
+pitchers,687166,Austin Pope,True
+pitchers,687209,Zach Maxwell,True
+pitchers,687223,Carson Palmquist,True
+pitchers,687239,Ben Peoples,True
+pitchers,687273,Quinn Mathews,True
+pitchers,687287,Patrick Monteverde,True
+pitchers,687309,Cooper Hjerpe,True
+pitchers,687312,Gabriel Hughes,True
+pitchers,687330,Kevin Kelly,True
+pitchers,687362,Connor Gillispie,True
+pitchers,687377,Orlando Ribalta,True
+pitchers,687396,Brent Headrick,True
+pitchers,687424,Anthony Maldonado,True
+pitchers,687473,Ryan Gusto,True
+pitchers,687531,William Kempner,True
+pitchers,687562,Jake Bennett,True
+pitchers,687570,Connor Prielipp,True
+pitchers,687589,Dom Hamel,True
+pitchers,687606,Paxton Schultz,True
+pitchers,687721,Cameron Weston,True
+pitchers,687765,Mitch Spence,True
+pitchers,687792,DJ Herz,True
+pitchers,687798,Nick Robertson,True
+pitchers,687830,Sawyer Gipson-Long,True
+pitchers,687847,Marc Church,True
+pitchers,687849,Zak Kent,True
+pitchers,687859,,False
+pitchers,687863,Porter Hodge,True
+pitchers,687888,Brandon Walter,True
+pitchers,687911,Bryan King,True
+pitchers,687922,Easton Lucas,True
+pitchers,687924,Julian Aguiar,True
+pitchers,687931,Carson Whisenhunt,True
+pitchers,687941,Alec Gamboa,True
+pitchers,687985,Josh White,True
+pitchers,688107,Robert Gasser,True
+pitchers,688138,Logan Evans,True
+pitchers,688158,David Morgan,True
+pitchers,688297,Chris Roycroft,True
+pitchers,688427,Kolton Ingram,True
+pitchers,688497,Taylor Rashi,True
+pitchers,688642,Zach Agnos,True
+pitchers,688692,Jared Simpson,True
+pitchers,688883,Peyton Pallette,True
+pitchers,689017,Landon Knack,True
+pitchers,689147,Orion Kerkering,True
+pitchers,689149,Chad Dallas,True
+pitchers,689167,Jeff Lindgren,True
+pitchers,689172,,True
+pitchers,689225,Beau Brieske,True
+pitchers,689254,Mason Fluharty,True
+pitchers,689266,Dylan Dodd,True
+pitchers,689296,Anthony Nunez,True
+pitchers,689441,Coleman Crow,True
+pitchers,689520,Cody Laweryson,True
+pitchers,689546,Nick Davila,True
+pitchers,689672,Drew Thorpe,True
+pitchers,689690,Alek Jacob,True
+pitchers,689818,David Sandlin,True
+pitchers,689958,Andrew Walters,True
+pitchers,689981,River Ryan,True
+pitchers,690155,Matt Pushard,True
+pitchers,690279,Mason Adams,True
+pitchers,690382,Michael Darrell-Hicks,True
+pitchers,690440,Bradley Hanner,True
+pitchers,690544,Bailey Horn,True
+pitchers,690829,Ben Joyce,True
+pitchers,690916,Richard Fitts,True
+pitchers,690925,Clayton Beeter,True
+pitchers,690928,Hunter Dobbins,True
+pitchers,690953,Mick Abel,True
+pitchers,690978,Dax Fulton,True
+pitchers,690986,Kyle Harrison,True
+pitchers,690990,Cade Horton,True
+pitchers,690997,Nolan McLean,True
+pitchers,691008,Max Rajcic,True
+pitchers,691094,Randy Wynne,True
+pitchers,691172,Yosver Zulueta,True
+pitchers,691251,Andry Lara,True
+pitchers,691384,Luis Perales,True
+pitchers,691441,Cristian Mena,True
+pitchers,691548,Rolddy Muñoz,True
+pitchers,691587,Eury Pérez,True
+pitchers,691594,,False
+pitchers,691725,Andrew Painter,True
+pitchers,691769,Philip Abner,True
+pitchers,691799,Grant Taylor,True
+pitchers,691945,Carter Baumler,True
+pitchers,691946,George Klassen,True
+pitchers,691951,Sam Aldegheri,True
+pitchers,692024,Alex Carrillo,True
+pitchers,692030,Jose Corniell,True
+pitchers,692064,José Rodríguez,True
+pitchers,692230,Carlos Rodriguez,True
+pitchers,692285,Luis Guerrero,True
+pitchers,692437,Winston Santos,True
+pitchers,693308,Nick Frasso,True
+pitchers,693312,Kyle Nicolas,True
+pitchers,693313,Carson Seymour,True
+pitchers,693433,Bryan Woo,True
+pitchers,693645,Cam Schlittler,True
+pitchers,693686,Spencer Miles,True
+pitchers,693713,Emiliano Teodo,True
+pitchers,693821,Bryce Elder,True
+pitchers,693855,Ian Seymour,True
+pitchers,694037,Daniel Palencia,True
+pitchers,694297,Brandon Pfaadt,True
+pitchers,694335,Matt Svanson,True
+pitchers,694341,Brendan Beck,True
+pitchers,694346,Trey Gibson,True
+pitchers,694350,Zach Brzykcy,True
+pitchers,694357,Ricky Tiedemann,True
+pitchers,694359,,False
+pitchers,694360,Beck Way,True
+pitchers,694361,Will Klein,True
+pitchers,694363,Jared Shuster,True
+pitchers,694397,Marco Raya,True
+pitchers,694462,Hurston Waldrep,True
+pitchers,694477,Chad Patrick,True
+pitchers,694494,Ty Johnson,True
+pitchers,694646,Chayce McDermott,True
+pitchers,694680,Trevor Martin,True
+pitchers,694738,Landen Roupp,True
+pitchers,694753,Khristian Curtis,True
+pitchers,694795,Josh Ekness,True
+pitchers,694813,Gavin Stone,True
+pitchers,694819,Jacob Misiorowski,True
+pitchers,694820,Braxton Roxby,True
+pitchers,694851,Andrew Hoffmann,True
+pitchers,694918,Blade Tidwell,True
+pitchers,694973,Paul Skenes,True
+pitchers,695001,Alimber Santa,True
+pitchers,695034,Kade Morris,True
+pitchers,695049,Brett Kerry,True
+pitchers,695076,Rhett Lowder,True
+pitchers,695239,Robby Ahlstrom,True
+pitchers,695243,Mason Miller,True
+pitchers,695378,Jack Sinclair,True
+pitchers,695380,Alex Hoppe,True
+pitchers,695418,Brad Lord,True
+pitchers,695445,Chase Lee,True
+pitchers,695505,Chase Burns,True
+pitchers,695534,Chase Petty,True
+pitchers,695549,Jackson Jobe,True
+pitchers,695611,Gage Jump,True
+pitchers,695684,Elmer Rodríguez,True
+pitchers,696062,Wilber Dotel,True
+pitchers,696070,Kendry Rojas,True
+pitchers,696131,Mason Black,True
+pitchers,696136,Jordan Wicks,True
+pitchers,696146,Hagen Smith,True
+pitchers,696147,Sam Bachman,True
+pitchers,696149,Bubba Chandler,True
+pitchers,696270,Ryan Johnson,True
+pitchers,696519,Samy Natera Jr.,True
+pitchers,696522,Hayden Juenger,True
+pitchers,697811,Dylan Ross,True
+pitchers,697812,Joe Rock,True
+pitchers,699008,Antwone Kelly,True
+pitchers,699044,Miguel Ullola,True
+pitchers,699134,Bradgley Rodriguez,True
+pitchers,699151,Jedixson Paez,True
+pitchers,699823,Tyler Davis,True
+pitchers,699911,Dugan Darnell,True
+pitchers,700187,Troy Taylor,True
+pitchers,700241,Michael McGreevy,True
+pitchers,700249,Cade Povich,True
+pitchers,700270,Yilber Díaz,True
+pitchers,700327,Welinton Herrera,True
+pitchers,700363,AJ Smith-Shawver,True
+pitchers,700413,Tyler Uberstine,True
+pitchers,700669,Gordon Graceffo,True
+pitchers,700712,Walbert Ureña,True
+pitchers,700842,Eduardo Rivera,True
+pitchers,701121,Logan VanWey,True
+pitchers,701474,Duncan Davitt,True
+pitchers,701487,Pierson Ohl,True
+pitchers,701519,Travis Adams,True
+pitchers,701542,Will Warren,True
+pitchers,701552,Andre Granillo,True
+pitchers,701581,David Festa,True
+pitchers,701643,Grant Hartwig,True
+pitchers,701656,Logan Henderson,True
+pitchers,701719,Tyler Samaniego,True
+pitchers,701780,Tanner McDougal,True
+pitchers,702021,Will Dion,True
+pitchers,702047,Alex Cook,True
+pitchers,702056,Trey Yesavage,True
+pitchers,702070,Noah Cameron,True
+pitchers,702153,Brian Fitzpatrick,True
+pitchers,702193,Andrew Morris,True
+pitchers,702273,Noah Schultz,True
+pitchers,702275,JR Ritchie,True
+pitchers,702281,Robby Snelling,True
+pitchers,702303,Riley Martin,True
+pitchers,702352,Spencer Bivens,True
+pitchers,702474,Mike Paredes,True
+pitchers,702566,Owen Murphy,True
+pitchers,702674,Caden Dana,True
+pitchers,702752,Jonathan Pintaro,True
+pitchers,702795,Ryan Loutos,True
+pitchers,702885,Cesar Perdomo,True
+pitchers,703231,James Meeker,True
+pitchers,703615,Jose Cabrera,True
+pitchers,703725,Luis Gastelum,True
+pitchers,800048,Parker Messick,True
+pitchers,800049,Adam Mazur,True
+pitchers,800311,Didier Fuentes,True
+pitchers,800600,Jackson Kent,True
+pitchers,801139,Payton Tolle,True
+pitchers,801216,Christian Montes De Oca,True
+pitchers,801403,Chase Dollander,True
+pitchers,801434,Paul Gervase,True
+pitchers,801725,Luis De León,True
+pitchers,802408,Brycen Mautz,True
+pitchers,802419,Thomas Harrington,True
+pitchers,802686,Hayden Harris,True
+pitchers,804267,Zac Thornton,True
+pitchers,804619,John Klein,True
+pitchers,804636,Jonah Tong,True
+pitchers,804668,,False
+pitchers,804926,Austin Peterson,True
+pitchers,805074,Yunior Marte,True
+pitchers,805123,AJ Blubaugh,True
+pitchers,805299,Brandyn Garcia,True
+pitchers,805326,Tyler Schweitzer,True
+pitchers,805345,Trent Harris,True
+pitchers,805427,Drew Sommers,True
+pitchers,805673,Zebby Matthews,True
+pitchers,806185,Hayden Birdsong,True
+pitchers,806188,Cade Gibson,True
+pitchers,806960,Luis Morales,True
+pitchers,807739,Kade Anderson,True
+pitchers,807743,Sean Sullivan,True
+pitchers,808825,Andrew Sears,True
+pitchers,808963,Roki Sasaki,True
+pitchers,808967,Yoshinobu Yamamoto,True
+pitchers,808970,Woo-Suk Go,True
+pitchers,810938,,False
+pitchers,811315,Brody Hopkins,True
+pitchers,813349,Connelly Early,True
+pitchers,814005,Jake Bloss,True
+pitchers,814305,Yunior Tur,True
+pitchers,814490,Ethan Pecko,True
+pitchers,815081,Mark Manfredi,True
+pitchers,815083,Mitch Farris,True
+pitchers,820862,José Fermin,True
+pitchers,829272,Shinnosuke Ogasawara,True
+pitchers,837227,Tatsuya Imai,True

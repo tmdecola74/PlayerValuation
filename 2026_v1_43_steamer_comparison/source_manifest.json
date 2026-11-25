@@ -1,0 +1,23 @@
+{
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\skill_regressed_release_v1_43\\frozen_2026_forecasts.csv": "bff9e749d122c685c094238710f064fb05d6d78638c723c705d4c65eb577768d",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\skill_regressed_release_v1_43\\publication_freeze.json": "e3f93d5cc28b29757791beb9ea8d48054b901c174569cfab60780a291b7e3b48",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\training_labels_v1_0\\holdout_labels.parquet": "b7afd8434eb169da0da40adddc4e7532989367c9989dce1377ac66cb84c03b5b",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\pitcher_evaluation_v1_29\\evaluation_label_overlay_2026.csv": "645409158e83ae2cfe545776f1a1ae3e096cbe4d59b694a8f9d0a38531f47ba2",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\pitcher_evaluation_v1_29\\report.json": "2fd3518b0357801e442e8e1c96949d80e58d87d3b0194c8ed8381cf74e73c848",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\skill_regressed_release_v1_43_evaluation\\evaluation_2026_player_comparisons.csv": "1c08aeea0d2d698c9bf30b45f123b2bc4a67cc9cc1484eeda0ab3111d1716bd5",
+  "D:\\JonAPythonClass\\pycharm\\last3yrsproj\\steamerhitters2026pre.csv": "1bed3f627477a3a77b0cf9febcf859c0e360884338faa5b581b0d079a89707ec",
+  "D:\\JonAPythonClass\\pycharm\\last3yrsproj\\steamerpitchers2026pre.csv": "2302f309fc7eeec3fd80aa3f8a4da93a467b13f89b321e5945a6e0b4befa5ed6",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\skill_regressed_release_v1_43\\baseline_to_release_changes.csv": "bb19b4f14e90f108d63c2960eac28ded25330b3f12c5d7dc9880f814935ab7bb",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\skill_regressed_release_v1_43\\input_hashes.json": "4ac5a21b47c831decd606f290980e72f7d73bf6a4478b647773d5d5e96ecb226",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\skill_regressed_release_v1_43\\projections_2027_hitters.csv": "2cd5cd51ec7c47906141a82442720e5895008e5ec7df6d58118efdf55fa6da2a",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\skill_regressed_release_v1_43\\projections_2027_pitchers.csv": "1cb2834bb4a165ac4bff9d6f45f7db5d9a83dccdada65307d871c79ee19ea328",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\skill_regressed_release_v1_43\\release_exceptions.csv": "377d121a3635069afdee7d06a1746a372948fb863d61a25bb8a5730eac739a13",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\skill_regressed_release_v1_43\\release_report.json": "99a2258eac130f2215d02088d2342b5d2642f2ba6089442a5640afeca9bb0a77",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\skill_regressed_release_v1_43\\references\\inactive_workload_challenger_2027_hitters.csv": "3bd2bc325f1d31f56b51c676c5ceee2636992cc9ad7bdc28f4570da9aad07344",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\skill_regressed_release_v1_43\\references\\inactive_workload_challenger_2027_pitchers.csv": "aa39c54b77817a5007d766ea613b7c70a05e72058f72c5e0158148292a6c3d3d",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\skill_regressed_release_v1_43\\references\\original_baseline_2027_hitters.csv": "9fda2f62b8f09924175b3364d661465fc73d42a9cd0e7924cf6c9b2a35207890",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\skill_regressed_release_v1_43\\references\\original_baseline_2027_pitchers.csv": "697b879eff37c8609afc6a6c2f32aee3f8584458eca59bef37cf461e0c4025a9",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\skill_regressed_release_v1_43\\references\\unchanged_pitcher_workload_saves_holds.csv": "e5c4c776af5b29a370715d7a2bd007594f975e6f96212f2a6b719a7be786c7da",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\skill_regressed_release_v1_43\\references\\v1_42_frozen_choices.json": "50ce359bf102810d333b83a1561755278d69eee3e9e9eb75542d57e398d78ab3",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\skill_regressed_release_v1_43\\references\\v1_42_source_bindings.json": "71e3e8488c1a0636aaa86400dca1d1dab8f96dd5d710a2a7dbf2f4fa02734358"
+}

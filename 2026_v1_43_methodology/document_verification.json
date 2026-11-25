@@ -1,0 +1,9 @@
+{
+  "pages": 10,
+  "all_pages_rendered": true,
+  "numerical_replay": 2564,
+  "source_hashes_unchanged": true,
+  "visual_inspection": "PASSED_ALL_10_PAGES; source tables, formulas, page numbers and revised workload table checked",
+  "statistic_source_map_rows": 34,
+  "numeric_forecast_fields_reproduced": 43128
+}

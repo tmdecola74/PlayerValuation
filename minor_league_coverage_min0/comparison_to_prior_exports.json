@@ -1,0 +1,160 @@
+{
+  "hitters": {
+    "standard": {
+      "old_rows": 15165,
+      "new_rows": 21651,
+      "added_rows": 6486,
+      "previous_rows_missing_or_changed": 0,
+      "seasons": {
+        "2025": 5265,
+        "2024": 5198,
+        "2026": 5533,
+        "2023": 5655
+      },
+      "levels": {
+        "AAA": 4037,
+        "A+": 3237,
+        "CPX": 3492,
+        "A": 3753,
+        "AA": 3214,
+        "DSL": 3918
+      },
+      "missing_identity_counts": {
+        "MLBAMID": 0,
+        "MinorMasterId": 0,
+        "PlayerId": 0
+      }
+    },
+    "below_prior_minimum": 6486,
+    "zero_exposure_rows": 368,
+    "advanced": {
+      "old_rows": 15165,
+      "new_rows": 21651,
+      "added_rows": 6486,
+      "previous_rows_missing_or_changed": 0,
+      "seasons": {
+        "2025": 5265,
+        "2024": 5198,
+        "2026": 5533,
+        "2023": 5655
+      },
+      "levels": {
+        "AAA": 4037,
+        "A+": 3237,
+        "CPX": 3492,
+        "A": 3753,
+        "AA": 3214,
+        "DSL": 3918
+      },
+      "missing_identity_counts": {
+        "MLBAMID": 0,
+        "MinorMasterId": 0,
+        "PlayerId": 0
+      }
+    },
+    "battedball": {
+      "old_rows": 15165,
+      "new_rows": 21651,
+      "added_rows": 6486,
+      "previous_rows_missing_or_changed": 0,
+      "seasons": {
+        "2025": 5265,
+        "2024": 5198,
+        "2026": 5533,
+        "2023": 5655
+      },
+      "levels": {
+        "AAA": 4037,
+        "A+": 3237,
+        "CPX": 3492,
+        "A": 3753,
+        "AA": 3214,
+        "DSL": 3918
+      },
+      "missing_identity_counts": {
+        "MLBAMID": 0,
+        "MinorMasterId": 0,
+        "PlayerId": 0
+      }
+    }
+  },
+  "pitchers": {
+    "standard": {
+      "old_rows": 13166,
+      "new_rows": 27870,
+      "added_rows": 14704,
+      "previous_rows_missing_or_changed": 0,
+      "seasons": {
+        "2026": 7240,
+        "2024": 6726,
+        "2025": 6904,
+        "2023": 7000
+      },
+      "levels": {
+        "AAA": 5589,
+        "A": 4933,
+        "AA": 4167,
+        "A+": 4170,
+        "CPX": 4184,
+        "DSL": 4827
+      },
+      "missing_identity_counts": {
+        "MLBAMID": 0,
+        "MinorMasterId": 0,
+        "PlayerId": 0
+      }
+    },
+    "below_prior_minimum": 14704,
+    "zero_exposure_rows": 51,
+    "advanced": {
+      "old_rows": 13166,
+      "new_rows": 27870,
+      "added_rows": 14704,
+      "previous_rows_missing_or_changed": 0,
+      "seasons": {
+        "2026": 7240,
+        "2024": 6726,
+        "2025": 6904,
+        "2023": 7000
+      },
+      "levels": {
+        "AAA": 5589,
+        "A": 4933,
+        "AA": 4167,
+        "A+": 4170,
+        "CPX": 4184,
+        "DSL": 4827
+      },
+      "missing_identity_counts": {
+        "MLBAMID": 0,
+        "MinorMasterId": 0,
+        "PlayerId": 0
+      }
+    },
+    "battedball": {
+      "old_rows": 13166,
+      "new_rows": 27870,
+      "added_rows": 14704,
+      "previous_rows_missing_or_changed": 0,
+      "seasons": {
+        "2026": 7240,
+        "2024": 6726,
+        "2025": 6904,
+        "2023": 7000
+      },
+      "levels": {
+        "AAA": 5589,
+        "A": 4933,
+        "AA": 4167,
+        "A+": 4170,
+        "CPX": 4184,
+        "DSL": 4827
+      },
+      "missing_identity_counts": {
+        "MLBAMID": 0,
+        "MinorMasterId": 0,
+        "PlayerId": 0
+      }
+    }
+  }
+}

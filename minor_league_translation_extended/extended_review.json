@@ -1,0 +1,30 @@
+{
+  "combined_coverage": {
+    "hitters": {
+      "rows": 40779,
+      "minor_unique_ids": 11088,
+      "model_players": 1024,
+      "linked_model_players": 990
+    },
+    "pitchers": {
+      "rows": 49220,
+      "minor_unique_ids": 12998,
+      "model_players": 1487,
+      "linked_model_players": 1350
+    }
+  },
+  "verification": {
+    "minor_league_translation_extended": "PASS: season gap, strict forecast chronology, paired memberships, immutable inputs and release",
+    "minor_league_translation_sensitivity_no2020": "PASS: season gap, strict forecast chronology, paired memberships, immutable inputs and release"
+  },
+  "screen_counts": {
+    "PRIMARY:hitter:FAIL": 10,
+    "PRIMARY:hitter:PASS": 21,
+    "PRIMARY:pitcher:PASS": 19,
+    "PRIMARY:pitcher:FAIL": 21,
+    "EXCLUDE_2020_CALIBRATION:hitter:FAIL": 10,
+    "EXCLUDE_2020_CALIBRATION:hitter:PASS": 21,
+    "EXCLUDE_2020_CALIBRATION:pitcher:FAIL": 23,
+    "EXCLUDE_2020_CALIBRATION:pitcher:PASS": 17
+  }
+}

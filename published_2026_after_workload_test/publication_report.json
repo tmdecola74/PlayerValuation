@@ -1,0 +1,15 @@
+{
+  "publication_date": "2026-11-25",
+  "hitter_rows": 1052,
+  "pitcher_rows": 1512,
+  "workload_comparison_rows": 1512,
+  "forecast_values_changed": false,
+  "production_changed": false,
+  "three_year_rebuild_run": false,
+  "rejected_test_adopted": false,
+  "missing_or_ambiguous_display_names": {
+    "hitter": 2,
+    "pitcher": 2
+  },
+  "all_numeric_fields_preserved": true
+}

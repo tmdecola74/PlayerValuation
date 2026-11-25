@@ -1,0 +1,1283 @@
+[
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 801155,
+      "person": {
+        "id": 621074,
+        "fullName": "Michael Rucker",
+        "link": "/api/v1/people/621074",
+        "nameSlug": "michael-rucker-621074"
+      },
+      "fromTeam": {
+        "id": 534,
+        "name": "Rochester Red Wings",
+        "link": "/api/v1/teams/534"
+      },
+      "toTeam": {
+        "id": 120,
+        "name": "Washington Nationals",
+        "link": "/api/v1/teams/120"
+      },
+      "date": "2024-10-01",
+      "effectiveDate": "2024-10-01",
+      "typeCode": "CU",
+      "typeDesc": "Recalled",
+      "description": "Washington Nationals recalled RHP Michael Rucker from Rochester Red Wings."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 801000,
+      "person": {
+        "id": 666120,
+        "fullName": "Ian Anderson",
+        "link": "/api/v1/people/666120",
+        "nameSlug": "ian-anderson-666120"
+      },
+      "fromTeam": {
+        "id": 431,
+        "name": "Gwinnett Stripers",
+        "link": "/api/v1/teams/431"
+      },
+      "toTeam": {
+        "id": 144,
+        "name": "Atlanta Braves",
+        "link": "/api/v1/teams/144"
+      },
+      "date": "2024-10-01",
+      "effectiveDate": "2024-10-01",
+      "typeCode": "CU",
+      "typeDesc": "Recalled",
+      "description": "Atlanta Braves recalled RHP Ian Anderson from Gwinnett Stripers."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 801342,
+      "person": {
+        "id": 666120,
+        "fullName": "Ian Anderson",
+        "link": "/api/v1/people/666120",
+        "nameSlug": "ian-anderson-666120"
+      },
+      "toTeam": {
+        "id": 144,
+        "name": "Atlanta Braves",
+        "link": "/api/v1/teams/144"
+      },
+      "date": "2024-10-03",
+      "effectiveDate": "2024-10-03",
+      "resolutionDate": "2024-10-03",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Atlanta Braves activated RHP Ian Anderson."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 803019,
+      "person": {
+        "id": 605507,
+        "fullName": "Zach Thompson",
+        "link": "/api/v1/people/605507",
+        "nameSlug": "zach-thompson-605507"
+      },
+      "toTeam": {
+        "id": 144,
+        "name": "Atlanta Braves",
+        "link": "/api/v1/teams/144"
+      },
+      "date": "2024-10-19",
+      "effectiveDate": "2024-10-19",
+      "resolutionDate": "2024-10-19",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Atlanta Braves signed free agent RHP Zach Thompson to a minor league contract."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 806443,
+      "person": {
+        "id": 664141,
+        "fullName": "JT Brubaker",
+        "link": "/api/v1/people/664141",
+        "nameSlug": "jt-brubaker-664141"
+      },
+      "toTeam": {
+        "id": 147,
+        "name": "New York Yankees",
+        "link": "/api/v1/teams/147"
+      },
+      "date": "2024-10-31",
+      "effectiveDate": "2024-10-31",
+      "resolutionDate": "2024-10-31",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "New York Yankees activated RHP JT Brubaker from the 60-day injured list."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 803517,
+      "person": {
+        "id": 543101,
+        "fullName": "Anthony DeSclafani",
+        "link": "/api/v1/people/543101",
+        "nameSlug": "anthony-desclafani-543101"
+      },
+      "toTeam": {
+        "id": 142,
+        "name": "Minnesota Twins",
+        "link": "/api/v1/teams/142"
+      },
+      "date": "2024-10-31",
+      "effectiveDate": "2024-10-31",
+      "resolutionDate": "2024-10-31",
+      "typeCode": "DFA",
+      "typeDesc": "Declared Free Agency",
+      "description": "RHP Anthony DeSclafani elected free agency."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 803523,
+      "person": {
+        "id": 641627,
+        "fullName": "Trevor Gott",
+        "link": "/api/v1/people/641627",
+        "nameSlug": "trevor-gott-641627"
+      },
+      "toTeam": {
+        "id": 133,
+        "name": "Athletics",
+        "link": "/api/v1/teams/133"
+      },
+      "date": "2024-10-31",
+      "effectiveDate": "2024-10-31",
+      "resolutionDate": "2024-10-31",
+      "typeCode": "DFA",
+      "typeDesc": "Declared Free Agency",
+      "description": "RHP Trevor Gott elected free agency."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 803509,
+      "person": {
+        "id": 453268,
+        "fullName": "Daniel Bard",
+        "link": "/api/v1/people/453268",
+        "nameSlug": "daniel-bard-453268"
+      },
+      "toTeam": {
+        "id": 115,
+        "name": "Colorado Rockies",
+        "link": "/api/v1/teams/115"
+      },
+      "date": "2024-10-31",
+      "effectiveDate": "2024-10-31",
+      "resolutionDate": "2024-10-31",
+      "typeCode": "DFA",
+      "typeDesc": "Declared Free Agency",
+      "description": "RHP Daniel Bard elected free agency."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 803512,
+      "person": {
+        "id": 608665,
+        "fullName": "Kendall Graveman",
+        "link": "/api/v1/people/608665",
+        "nameSlug": "kendall-graveman-608665"
+      },
+      "toTeam": {
+        "id": 117,
+        "name": "Houston Astros",
+        "link": "/api/v1/teams/117"
+      },
+      "date": "2024-10-31",
+      "effectiveDate": "2024-10-31",
+      "resolutionDate": "2024-10-31",
+      "typeCode": "DFA",
+      "typeDesc": "Declared Free Agency",
+      "description": "RHP Kendall Graveman elected free agency."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 803620,
+      "person": {
+        "id": 657140,
+        "fullName": "Kyle Wright",
+        "link": "/api/v1/people/657140",
+        "nameSlug": "kyle-wright-657140"
+      },
+      "toTeam": {
+        "id": 118,
+        "name": "Kansas City Royals",
+        "link": "/api/v1/teams/118"
+      },
+      "date": "2024-11-01",
+      "effectiveDate": "2024-11-01",
+      "resolutionDate": "2024-11-01",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Kansas City Royals activated RHP Kyle Wright from the 60-day injured list."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 803719,
+      "person": {
+        "id": 642152,
+        "fullName": "Lou Trivino III",
+        "link": "/api/v1/people/642152",
+        "nameSlug": "lou-trivino-iii-642152"
+      },
+      "toTeam": {
+        "id": 147,
+        "name": "New York Yankees",
+        "link": "/api/v1/teams/147"
+      },
+      "date": "2024-11-03",
+      "effectiveDate": "2024-11-03",
+      "resolutionDate": "2024-11-03",
+      "typeCode": "DFA",
+      "typeDesc": "Declared Free Agency",
+      "description": "RHP Lou Trivino elected free agency."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 803955,
+      "person": {
+        "id": 663986,
+        "fullName": "Trevor Stephan",
+        "link": "/api/v1/people/663986",
+        "nameSlug": "trevor-stephan-663986"
+      },
+      "toTeam": {
+        "id": 114,
+        "name": "Cleveland Guardians",
+        "link": "/api/v1/teams/114"
+      },
+      "date": "2024-11-04",
+      "effectiveDate": "2024-11-04",
+      "resolutionDate": "2024-11-04",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Cleveland Guardians activated RHP Trevor Stephan from the 60-day injured list."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 804060,
+      "person": {
+        "id": 664294,
+        "fullName": "Dauri Moreta",
+        "link": "/api/v1/people/664294",
+        "nameSlug": "dauri-moreta-664294"
+      },
+      "toTeam": {
+        "id": 134,
+        "name": "Pittsburgh Pirates",
+        "link": "/api/v1/teams/134"
+      },
+      "date": "2024-11-04",
+      "effectiveDate": "2024-11-04",
+      "resolutionDate": "2024-11-04",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Pittsburgh Pirates activated RHP Dauri Moreta from the 60-day injured list."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 803765,
+      "person": {
+        "id": 642585,
+        "fullName": "F\u00e9lix Bautista",
+        "link": "/api/v1/people/642585",
+        "nameSlug": "felix-bautista-642585"
+      },
+      "toTeam": {
+        "id": 110,
+        "name": "Baltimore Orioles",
+        "link": "/api/v1/teams/110"
+      },
+      "date": "2024-11-04",
+      "effectiveDate": "2024-11-04",
+      "resolutionDate": "2024-11-04",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Baltimore Orioles activated RHP F\u00e9lix Bautista from the 60-day injured list."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 803771,
+      "person": {
+        "id": 521230,
+        "fullName": "Liam Hendriks",
+        "link": "/api/v1/people/521230",
+        "nameSlug": "liam-hendriks-521230"
+      },
+      "toTeam": {
+        "id": 111,
+        "name": "Boston Red Sox",
+        "link": "/api/v1/teams/111"
+      },
+      "date": "2024-11-04",
+      "effectiveDate": "2024-11-04",
+      "resolutionDate": "2024-11-04",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Boston Red Sox activated RHP Liam Hendriks from the 60-day injured list."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 804061,
+      "person": {
+        "id": 670912,
+        "fullName": "Johan Oviedo",
+        "link": "/api/v1/people/670912",
+        "nameSlug": "johan-oviedo-670912"
+      },
+      "toTeam": {
+        "id": 134,
+        "name": "Pittsburgh Pirates",
+        "link": "/api/v1/teams/134"
+      },
+      "date": "2024-11-04",
+      "effectiveDate": "2024-11-04",
+      "resolutionDate": "2024-11-04",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Pittsburgh Pirates activated RHP Johan Oviedo from the 60-day injured list."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 803770,
+      "person": {
+        "id": 608337,
+        "fullName": "Lucas Giolito",
+        "link": "/api/v1/people/608337",
+        "nameSlug": "lucas-giolito-608337"
+      },
+      "toTeam": {
+        "id": 111,
+        "name": "Boston Red Sox",
+        "link": "/api/v1/teams/111"
+      },
+      "date": "2024-11-04",
+      "effectiveDate": "2024-11-04",
+      "resolutionDate": "2024-11-04",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Boston Red Sox activated RHP Lucas Giolito from the 60-day injured list."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 804646,
+      "person": {
+        "id": 672715,
+        "fullName": "Luis Pati\u00f1o",
+        "link": "/api/v1/people/672715",
+        "nameSlug": "luis-patino-672715"
+      },
+      "toTeam": {
+        "id": 135,
+        "name": "San Diego Padres",
+        "link": "/api/v1/teams/135"
+      },
+      "date": "2024-11-04",
+      "effectiveDate": "2024-11-04",
+      "resolutionDate": "2024-11-04",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "San Diego Padres activated RHP Luis Pati\u00f1o from the 60-day injured list."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 816057,
+      "person": {
+        "id": 666168,
+        "fullName": "Mason Thompson",
+        "link": "/api/v1/people/666168",
+        "nameSlug": "mason-thompson-666168"
+      },
+      "toTeam": {
+        "id": 120,
+        "name": "Washington Nationals",
+        "link": "/api/v1/teams/120"
+      },
+      "date": "2024-11-04",
+      "effectiveDate": "2025-02-19",
+      "resolutionDate": "2025-02-19",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Washington Nationals placed RHP Mason Thompson on the 60-day injured list."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 804553,
+      "person": {
+        "id": 663556,
+        "fullName": "Shane McClanahan",
+        "link": "/api/v1/people/663556",
+        "nameSlug": "shane-mcclanahan-663556"
+      },
+      "toTeam": {
+        "id": 139,
+        "name": "Tampa Bay Rays",
+        "link": "/api/v1/teams/139"
+      },
+      "date": "2024-11-04",
+      "effectiveDate": "2024-11-04",
+      "resolutionDate": "2024-11-04",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Tampa Bay Rays activated LHP Shane McClanahan from the 60-day injured list."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 804620,
+      "person": {
+        "id": 669160,
+        "fullName": "Dustin May",
+        "link": "/api/v1/people/669160",
+        "nameSlug": "dustin-may-669160"
+      },
+      "toTeam": {
+        "id": 119,
+        "name": "Los Angeles Dodgers",
+        "link": "/api/v1/teams/119"
+      },
+      "date": "2024-11-04",
+      "effectiveDate": "2024-11-04",
+      "resolutionDate": "2024-11-04",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Los Angeles Dodgers activated RHP Dustin May from the 60-day injured list."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 804619,
+      "person": {
+        "id": 664062,
+        "fullName": "Tony Gonsolin",
+        "link": "/api/v1/people/664062",
+        "nameSlug": "tony-gonsolin-664062"
+      },
+      "toTeam": {
+        "id": 119,
+        "name": "Los Angeles Dodgers",
+        "link": "/api/v1/teams/119"
+      },
+      "date": "2024-11-04",
+      "effectiveDate": "2024-11-04",
+      "resolutionDate": "2024-11-04",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Los Angeles Dodgers activated RHP Tony Gonsolin from the 60-day injured list."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 804525,
+      "person": {
+        "id": 666168,
+        "fullName": "Mason Thompson",
+        "link": "/api/v1/people/666168",
+        "nameSlug": "mason-thompson-666168"
+      },
+      "toTeam": {
+        "id": 120,
+        "name": "Washington Nationals",
+        "link": "/api/v1/teams/120"
+      },
+      "date": "2024-11-04",
+      "effectiveDate": "2024-11-04",
+      "resolutionDate": "2024-11-04",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Washington Nationals activated RHP Mason Thompson from the 60-day injured list."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 804640,
+      "person": {
+        "id": 605540,
+        "fullName": "Brandon Woodruff",
+        "link": "/api/v1/people/605540",
+        "nameSlug": "brandon-woodruff-605540"
+      },
+      "toTeam": {
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "link": "/api/v1/teams/158"
+      },
+      "date": "2024-11-04",
+      "effectiveDate": "2024-11-04",
+      "resolutionDate": "2024-11-04",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Milwaukee Brewers activated RHP Brandon Woodruff from the 60-day injured list."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 804517,
+      "person": {
+        "id": 596112,
+        "fullName": "Robert Stephenson",
+        "link": "/api/v1/people/596112",
+        "nameSlug": "robert-stephenson-596112"
+      },
+      "toTeam": {
+        "id": 108,
+        "name": "Los Angeles Angels",
+        "link": "/api/v1/teams/108"
+      },
+      "date": "2024-11-04",
+      "effectiveDate": "2024-11-04",
+      "resolutionDate": "2024-11-04",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Los Angeles Angels activated RHP Robert Stephenson from the 60-day injured list."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 815610,
+      "person": {
+        "id": 596112,
+        "fullName": "Robert Stephenson",
+        "link": "/api/v1/people/596112",
+        "nameSlug": "robert-stephenson-596112"
+      },
+      "toTeam": {
+        "id": 108,
+        "name": "Los Angeles Angels",
+        "link": "/api/v1/teams/108"
+      },
+      "date": "2024-11-04",
+      "effectiveDate": "2025-02-15",
+      "resolutionDate": "2025-02-15",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Los Angeles Angels placed RHP Robert Stephenson on the 60-day injured list. Right elbow UCL surgery."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 809571,
+      "person": {
+        "id": 664353,
+        "fullName": "Jos\u00e9 Urquidy",
+        "link": "/api/v1/people/664353",
+        "nameSlug": "jose-urquidy-664353"
+      },
+      "toTeam": {
+        "id": 117,
+        "name": "Houston Astros",
+        "link": "/api/v1/teams/117"
+      },
+      "date": "2024-11-04",
+      "effectiveDate": "2024-11-04",
+      "resolutionDate": "2024-11-04",
+      "typeCode": "DFA",
+      "typeDesc": "Declared Free Agency",
+      "description": "RHP Jos\u00e9 Urquidy elected free agency."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 804082,
+      "person": {
+        "id": 666374,
+        "fullName": "Matt Brash",
+        "link": "/api/v1/people/666374",
+        "nameSlug": "matt-brash-666374"
+      },
+      "toTeam": {
+        "id": 136,
+        "name": "Seattle Mariners",
+        "link": "/api/v1/teams/136"
+      },
+      "date": "2024-11-04",
+      "effectiveDate": "2024-11-04",
+      "resolutionDate": "2024-11-04",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Seattle Mariners activated RHP Matt Brash from the 60-day injured list."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 804549,
+      "person": {
+        "id": 677651,
+        "fullName": "Luis Garcia",
+        "link": "/api/v1/people/677651",
+        "nameSlug": "luis-garcia-677651"
+      },
+      "toTeam": {
+        "id": 117,
+        "name": "Houston Astros",
+        "link": "/api/v1/teams/117"
+      },
+      "date": "2024-11-04",
+      "effectiveDate": "2024-11-04",
+      "resolutionDate": "2024-11-04",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Houston Astros activated RHP Luis Garcia from the 60-day injured list."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 803956,
+      "person": {
+        "id": 675916,
+        "fullName": "James Karinchak",
+        "link": "/api/v1/people/675916",
+        "nameSlug": "james-karinchak-675916"
+      },
+      "toTeam": {
+        "id": 114,
+        "name": "Cleveland Guardians",
+        "link": "/api/v1/teams/114"
+      },
+      "date": "2024-11-04",
+      "effectiveDate": "2024-11-04",
+      "resolutionDate": "2024-11-04",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Cleveland Guardians activated RHP James Karinchak from the 60-day injured list."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 804501,
+      "person": {
+        "id": 645261,
+        "fullName": "Sandy Alcantara",
+        "link": "/api/v1/people/645261",
+        "nameSlug": "sandy-alcantara-645261"
+      },
+      "toTeam": {
+        "id": 146,
+        "name": "Miami Marlins",
+        "link": "/api/v1/teams/146"
+      },
+      "date": "2024-11-04",
+      "effectiveDate": "2024-11-04",
+      "resolutionDate": "2024-11-04",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Miami Marlins activated RHP Sandy Alcantara from the 60-day injured list."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 804550,
+      "person": {
+        "id": 621121,
+        "fullName": "Lance McCullers Jr.",
+        "link": "/api/v1/people/621121",
+        "nameSlug": "lance-mccullers-jr-621121"
+      },
+      "toTeam": {
+        "id": 117,
+        "name": "Houston Astros",
+        "link": "/api/v1/teams/117"
+      },
+      "date": "2024-11-04",
+      "effectiveDate": "2024-11-04",
+      "resolutionDate": "2024-11-04",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Houston Astros activated RHP Lance McCullers Jr. from the 60-day injured list."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 803957,
+      "person": {
+        "id": 675916,
+        "fullName": "James Karinchak",
+        "link": "/api/v1/people/675916",
+        "nameSlug": "james-karinchak-675916"
+      },
+      "fromTeam": {
+        "id": 114,
+        "name": "Cleveland Guardians",
+        "link": "/api/v1/teams/114"
+      },
+      "toTeam": {
+        "id": 445,
+        "name": "Columbus Clippers",
+        "link": "/api/v1/teams/445"
+      },
+      "date": "2024-11-04",
+      "effectiveDate": "2024-11-04",
+      "typeCode": "OUT",
+      "typeDesc": "Outrighted",
+      "description": "Cleveland Guardians sent RHP James Karinchak outright to Columbus Clippers."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 804529,
+      "person": {
+        "id": 621074,
+        "fullName": "Michael Rucker",
+        "link": "/api/v1/people/621074",
+        "nameSlug": "michael-rucker-621074"
+      },
+      "fromTeam": {
+        "id": 120,
+        "name": "Washington Nationals",
+        "link": "/api/v1/teams/120"
+      },
+      "toTeam": {
+        "id": 534,
+        "name": "Rochester Red Wings",
+        "link": "/api/v1/teams/534"
+      },
+      "date": "2024-11-04",
+      "effectiveDate": "2024-11-04",
+      "typeCode": "OUT",
+      "typeDesc": "Outrighted",
+      "description": "Washington Nationals sent RHP Michael Rucker outright to Rochester Red Wings."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 806905,
+      "person": {
+        "id": 672715,
+        "fullName": "Luis Pati\u00f1o",
+        "link": "/api/v1/people/672715",
+        "nameSlug": "luis-patino-672715"
+      },
+      "toTeam": {
+        "id": 135,
+        "name": "San Diego Padres",
+        "link": "/api/v1/teams/135"
+      },
+      "date": "2024-11-22",
+      "effectiveDate": "2024-11-22",
+      "resolutionDate": "2024-11-22",
+      "typeCode": "DFA",
+      "typeDesc": "Declared Free Agency",
+      "description": "RHP Luis Pati\u00f1o elected free agency."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 808506,
+      "person": {
+        "id": 664199,
+        "fullName": "Taylor Clarke",
+        "link": "/api/v1/people/664199",
+        "nameSlug": "taylor-clarke-664199"
+      },
+      "toTeam": {
+        "id": 118,
+        "name": "Kansas City Royals",
+        "link": "/api/v1/teams/118"
+      },
+      "date": "2024-12-12",
+      "effectiveDate": "2024-12-12",
+      "resolutionDate": "2024-12-12",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Kansas City Royals signed free agent RHP Taylor Clarke to a minor league contract."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 808796,
+      "person": {
+        "id": 669145,
+        "fullName": "Bruce Zimmermann",
+        "link": "/api/v1/people/669145",
+        "nameSlug": "bruce-zimmermann-669145"
+      },
+      "toTeam": {
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "link": "/api/v1/teams/158"
+      },
+      "date": "2024-12-19",
+      "effectiveDate": "2024-12-19",
+      "resolutionDate": "2024-12-19",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Milwaukee Brewers signed free agent LHP Bruce Zimmermann to a minor league contract and invited him to spring training."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 808857,
+      "person": {
+        "id": 605242,
+        "fullName": "Michael Fulmer",
+        "link": "/api/v1/people/605242",
+        "nameSlug": "michael-fulmer-605242"
+      },
+      "toTeam": {
+        "id": 111,
+        "name": "Boston Red Sox",
+        "link": "/api/v1/teams/111"
+      },
+      "date": "2024-12-20",
+      "effectiveDate": "2024-12-20",
+      "resolutionDate": "2024-12-20",
+      "typeCode": "ASG",
+      "typeDesc": "Assigned",
+      "description": "Boston Red Sox invited non-roster RHP Michael Fulmer to spring training."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 808862,
+      "person": {
+        "id": 641778,
+        "fullName": "Eric Lauer",
+        "link": "/api/v1/people/641778",
+        "nameSlug": "eric-lauer-641778"
+      },
+      "toTeam": {
+        "id": 141,
+        "name": "Toronto Blue Jays",
+        "link": "/api/v1/teams/141"
+      },
+      "date": "2024-12-20",
+      "effectiveDate": "2024-12-20",
+      "resolutionDate": "2024-12-20",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Toronto Blue Jays signed free agent LHP Eric Lauer to a minor league contract and invited him to spring training."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 809635,
+      "person": {
+        "id": 672715,
+        "fullName": "Luis Pati\u00f1o",
+        "link": "/api/v1/people/672715",
+        "nameSlug": "luis-patino-672715"
+      },
+      "toTeam": {
+        "id": 135,
+        "name": "San Diego Padres",
+        "link": "/api/v1/teams/135"
+      },
+      "date": "2025-01-06",
+      "effectiveDate": "2025-01-06",
+      "resolutionDate": "2025-01-06",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "San Diego Padres signed free agent RHP Luis Pati\u00f1o to a minor league contract."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 810848,
+      "person": {
+        "id": 657248,
+        "fullName": "Glenn Otto Jr.",
+        "link": "/api/v1/people/657248",
+        "nameSlug": "glenn-otto-jr-657248"
+      },
+      "toTeam": {
+        "id": 117,
+        "name": "Houston Astros",
+        "link": "/api/v1/teams/117"
+      },
+      "date": "2025-01-17",
+      "effectiveDate": "2025-01-17",
+      "resolutionDate": "2025-01-17",
+      "typeCode": "ASG",
+      "typeDesc": "Assigned",
+      "description": "Houston Astros invited non-roster RHP Glenn Otto to spring training."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 816198,
+      "person": {
+        "id": 675916,
+        "fullName": "James Karinchak",
+        "link": "/api/v1/people/675916",
+        "nameSlug": "james-karinchak-675916"
+      },
+      "toTeam": {
+        "id": 145,
+        "name": "Chicago White Sox",
+        "link": "/api/v1/teams/145"
+      },
+      "date": "2025-01-27",
+      "effectiveDate": "2025-01-27",
+      "resolutionDate": "2025-01-27",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Chicago White Sox signed free agent RHP James Karinchak to a minor league contract and invited him to spring training."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 813862,
+      "person": {
+        "id": 656061,
+        "fullName": "Albert Abreu",
+        "link": "/api/v1/people/656061",
+        "nameSlug": "albert-abreu-656061"
+      },
+      "toTeam": {
+        "id": 113,
+        "name": "Cincinnati Reds",
+        "link": "/api/v1/teams/113"
+      },
+      "date": "2025-02-06",
+      "effectiveDate": "2025-02-06",
+      "resolutionDate": "2025-02-06",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Cincinnati Reds signed free agent RHP Albert Abreu to a minor league contract and invited him to spring training."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 814043,
+      "person": {
+        "id": 672715,
+        "fullName": "Luis Pati\u00f1o",
+        "link": "/api/v1/people/672715",
+        "nameSlug": "luis-patino-672715"
+      },
+      "toTeam": {
+        "id": 135,
+        "name": "San Diego Padres",
+        "link": "/api/v1/teams/135"
+      },
+      "date": "2025-02-07",
+      "effectiveDate": "2025-02-07",
+      "resolutionDate": "2025-02-07",
+      "typeCode": "ASG",
+      "typeDesc": "Assigned",
+      "description": "San Diego Padres invited non-roster RHP Luis Pati\u00f1o to spring training."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 817893,
+      "person": {
+        "id": 657756,
+        "fullName": "Connor Seabold",
+        "link": "/api/v1/people/657756",
+        "nameSlug": "connor-seabold-657756"
+      },
+      "toTeam": {
+        "id": 139,
+        "name": "Tampa Bay Rays",
+        "link": "/api/v1/teams/139"
+      },
+      "date": "2025-02-10",
+      "effectiveDate": "2025-02-10",
+      "resolutionDate": "2025-02-10",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Tampa Bay Rays signed free agent RHP Connor Seabold to a minor league contract and invited him to spring training."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 815193,
+      "person": {
+        "id": 642152,
+        "fullName": "Lou Trivino III",
+        "link": "/api/v1/people/642152",
+        "nameSlug": "lou-trivino-iii-642152"
+      },
+      "toTeam": {
+        "id": 137,
+        "name": "San Francisco Giants",
+        "link": "/api/v1/teams/137"
+      },
+      "date": "2025-02-12",
+      "effectiveDate": "2025-02-12",
+      "resolutionDate": "2025-02-12",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "San Francisco Giants signed free agent RHP Lou Trivino to a minor league contract and invited him to spring training."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 815612,
+      "person": {
+        "id": 596112,
+        "fullName": "Robert Stephenson",
+        "link": "/api/v1/people/596112",
+        "nameSlug": "robert-stephenson-596112"
+      },
+      "toTeam": {
+        "id": 108,
+        "name": "Los Angeles Angels",
+        "link": "/api/v1/teams/108"
+      },
+      "date": "2025-02-15",
+      "effectiveDate": "2025-02-15",
+      "resolutionDate": "2025-02-15",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Los Angeles Angels placed RHP Robert Stephenson on the 60-day injured list. Right elbow UCL surgery."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 815678,
+      "person": {
+        "id": 664294,
+        "fullName": "Dauri Moreta",
+        "link": "/api/v1/people/664294",
+        "nameSlug": "dauri-moreta-664294"
+      },
+      "toTeam": {
+        "id": 134,
+        "name": "Pittsburgh Pirates",
+        "link": "/api/v1/teams/134"
+      },
+      "date": "2025-02-16",
+      "effectiveDate": "2025-02-16",
+      "resolutionDate": "2025-02-16",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Pittsburgh Pirates placed RHP Dauri Moreta on the 60-day injured list. Tommy John surgery."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 815693,
+      "person": {
+        "id": 608665,
+        "fullName": "Kendall Graveman",
+        "link": "/api/v1/people/608665",
+        "nameSlug": "kendall-graveman-608665"
+      },
+      "toTeam": {
+        "id": 109,
+        "name": "Arizona Diamondbacks",
+        "link": "/api/v1/teams/109"
+      },
+      "date": "2025-02-17",
+      "effectiveDate": "2025-02-17",
+      "resolutionDate": "2025-02-17",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Arizona Diamondbacks signed free agent RHP Kendall Graveman."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 817216,
+      "person": {
+        "id": 592826,
+        "fullName": "Vince Velasquez",
+        "link": "/api/v1/people/592826",
+        "nameSlug": "vince-velasquez-592826"
+      },
+      "toTeam": {
+        "id": 114,
+        "name": "Cleveland Guardians",
+        "link": "/api/v1/teams/114"
+      },
+      "date": "2025-02-25",
+      "effectiveDate": "2025-02-25",
+      "resolutionDate": "2025-02-25",
+      "typeCode": "ASG",
+      "typeDesc": "Assigned",
+      "description": "RHP Vince Velasquez assigned to Cleveland Guardians."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 817155,
+      "person": {
+        "id": 641627,
+        "fullName": "Trevor Gott",
+        "link": "/api/v1/people/641627",
+        "nameSlug": "trevor-gott-641627"
+      },
+      "toTeam": {
+        "id": 136,
+        "name": "Seattle Mariners",
+        "link": "/api/v1/teams/136"
+      },
+      "date": "2025-02-25",
+      "effectiveDate": "2025-02-25",
+      "resolutionDate": "2025-02-25",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Seattle Mariners signed free agent RHP Trevor Gott to a minor league contract and invited him to spring training."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 817937,
+      "person": {
+        "id": 670912,
+        "fullName": "Johan Oviedo",
+        "link": "/api/v1/people/670912",
+        "nameSlug": "johan-oviedo-670912"
+      },
+      "toTeam": {
+        "id": 134,
+        "name": "Pittsburgh Pirates",
+        "link": "/api/v1/teams/134"
+      },
+      "date": "2025-03-03",
+      "effectiveDate": "2025-03-03",
+      "resolutionDate": "2025-03-03",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Pittsburgh Pirates placed RHP Johan Oviedo on the 60-day injured list. Right elbow injury and right lat strain."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 819411,
+      "person": {
+        "id": 664353,
+        "fullName": "Jos\u00e9 Urquidy",
+        "link": "/api/v1/people/664353",
+        "nameSlug": "jose-urquidy-664353"
+      },
+      "toTeam": {
+        "id": 116,
+        "name": "Detroit Tigers",
+        "link": "/api/v1/teams/116"
+      },
+      "date": "2025-03-08",
+      "effectiveDate": "2025-03-08",
+      "resolutionDate": "2025-03-08",
+      "typeCode": "SFA",
+      "typeDesc": "Signed as Free Agent",
+      "description": "Detroit Tigers signed free agent RHP Jos\u00e9 Urquidy."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?sportId=1&startDate=2024-10-01&endDate=2025-03-17",
+    "record": {
+      "id": 820703,
+      "person": {
+        "id": 664062,
+        "fullName": "Tony Gonsolin",
+        "link": "/api/v1/people/664062",
+        "nameSlug": "tony-gonsolin-664062"
+      },
+      "toTeam": {
+        "id": 119,
+        "name": "Los Angeles Dodgers",
+        "link": "/api/v1/teams/119"
+      },
+      "date": "2025-03-17",
+      "effectiveDate": "2025-03-17",
+      "resolutionDate": "2025-03-17",
+      "typeCode": "SC",
+      "typeDesc": "Status Change",
+      "description": "Los Angeles Dodgers placed RHP Tony Gonsolin on the 15-day injured list. Back tightness."
+    }
+  },
+  {
+    "query": "https://statsapi.mlb.com/api/v1/transactions?startDate=2025-03-01&endDate=2025-03-17",
+    "record": {
+      "id": 817894,
+      "person": {
+        "id": 657756,
+        "fullName": "Connor Seabold",
+        "link": "/api/v1/people/657756",
+        "nameSlug": "connor-seabold-657756"
+      },
+      "toTeam": {
+        "id": 234,
+        "name": "Durham Bulls",
+        "link": "/api/v1/teams/234"
+      },
+      "date": "2025-03-02",
+      "effectiveDate": "2025-03-02",
+      "resolutionDate": "2025-03-02",
+      "typeCode": "ASG",
+      "typeDesc": "Assigned",
+      "description": "RHP Connor Seabold assigned to Durham Bulls."
+    }
+  }
+]

@@ -1,0 +1,5 @@
+﻿role,source_row,Season,Name,Team,Level,Age,W,L,ERA,G,GS,CG,ShO,SV,BS,HLD,IP,TBF,H,R,ER,HR,BB,IBB,HBP,WP,BK,SO,PlayerId,MinorMasterId,NameASCII,MLBAMID,PlayerTeamId
+pitchers,711,2019,Brent Suter,MIL,R,29,0,0,0,1,1,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,3,13942,sa621681,Brent Suter,608718,-1
+pitchers,714,2019,Brent Suter,MIL,R,29,0,0,0,1,1,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,1,13942,sa621681,Brent Suter,608718,-1
+pitchers,20493,2019,Carlos D. Rodriguez,NYY,R,20,1,0,0,1,0,0,0,0,0,0,1,5,1,0,0,0,1,0,0,1,0,2,sa916951,sa916951,Carlos D. Rodriguez,668589,-1
+pitchers,20494,2019,Carlos D. Rodriguez,NYY,R,20,0,0,18,1,0,0,0,0,0,0,1,8,2,2,2,0,2,0,1,0,0,1,sa916951,sa916951,Carlos D. Rodriguez,668589,-1

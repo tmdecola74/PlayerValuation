@@ -1,0 +1,17 @@
+{
+  "protected_files_hash_verified": 79,
+  "protected_files_changed": 0,
+  "player_rows": 2511,
+  "component_decompositions_verified": 10304,
+  "stint_component_attributions_verified": 43595,
+  "official_metadata_players": 66,
+  "official_request_errors": 0,
+  "reviewed_role_player_cases": 74,
+  "rehab_overlap_players": 29,
+  "rehab_overlap_evidence_rows": 89,
+  "forecast_values_changed": false,
+  "model_settings_changed": false,
+  "playing_time_changed": false,
+  "2026_forecast_errors_evaluated": false,
+  "decision": "RETAIN_V1_43_DEFAULT"
+}

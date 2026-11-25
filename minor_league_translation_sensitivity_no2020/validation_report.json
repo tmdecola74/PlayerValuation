@@ -1,0 +1,44 @@
+{
+  "decision": "DO_NOT_ADOPT",
+  "reason": "Adoption guard review required; unadjusted park/subleague context; component vectors not integrated or jointly validated",
+  "exclude_2020_calibration": true,
+  "training_label_max_year": 2025,
+  "2026_outcomes_read": false,
+  "production_changed": false,
+  "source_hashes_unchanged": true,
+  "pair_count": 121373,
+  "prediction_count": 81913,
+  "factor_count": 483,
+  "excluded_pair_reasons": {
+    "missing_or_ineligible_target": 895500,
+    "nonpositive_denominator": 839
+  },
+  "supported_forecast_origins": [
+    2023,
+    2024,
+    2025
+  ],
+  "minimum_adoption_folds": 3,
+  "score_summary": {
+    "NEXT_YEAR_hitter": {
+      "cells_with_at_least_30_rows": 73,
+      "cells_improving_over_identically_shrunk_untranslated": 72,
+      "mean_cell_MSE_ratio": 0.8896703486610849
+    },
+    "NEXT_YEAR_pitcher": {
+      "cells_with_at_least_30_rows": 102,
+      "cells_improving_over_identically_shrunk_untranslated": 84,
+      "mean_cell_MSE_ratio": 0.9702053398946732
+    },
+    "SAME_YEAR_DIAGNOSTIC_hitter": {
+      "cells_with_at_least_30_rows": 77,
+      "cells_improving_over_identically_shrunk_untranslated": 70,
+      "mean_cell_MSE_ratio": 0.9240561068734323
+    },
+    "SAME_YEAR_DIAGNOSTIC_pitcher": {
+      "cells_with_at_least_30_rows": 147,
+      "cells_improving_over_identically_shrunk_untranslated": 130,
+      "mean_cell_MSE_ratio": 0.9700090932794846
+    }
+  }
+}

@@ -61,3 +61,11 @@ htmlcov/
 
 # Nested copy of the original delivery package
 /PlayerValuation/
+
+# Downloaded responses and local cache
+/cache/
+
+# Generated results and backup copies
+/results/
+/complete_backup/
+/investigation_backups/

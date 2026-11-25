@@ -1,0 +1,751 @@
+﻿team,league,home_games,road_games,raw_1yr,pooled_3yr,weighted_3yr,pooled_half_regressed,weighted_half_regressed,level,season,source_file,source_row
+Colorado Rockies,National League,81,81,1.419,1.303,1.321,1.151,1.16,MLB,2025,MLB-park factors-2025-2021.xlsx,2
+Minnesota Twins,American League,81,81,1.124,1.07,1.089,1.035,1.044,MLB,2025,MLB-park factors-2025-2021.xlsx,3
+Philadelphia Phillies,National League,81,81,1.154,1.049,1.08,1.025,1.04,MLB,2025,MLB-park factors-2025-2021.xlsx,4
+Detroit Tigers,American League,81,81,1.079,1.058,1.053,1.029,1.027,MLB,2025,MLB-park factors-2025-2021.xlsx,5
+Cincinnati Reds,National League,81,81,1.007,1.045,1.052,1.022,1.026,MLB,2025,MLB-park factors-2025-2021.xlsx,6
+Miami Marlins,National League,81,81,0.854,1.05,1.032,1.025,1.016,MLB,2025,MLB-park factors-2025-2021.xlsx,7
+Boston Red Sox,American League,81,81,0.992,1.054,1.031,1.027,1.015,MLB,2025,MLB-park factors-2025-2021.xlsx,8
+Athletics,American League,81,81,1.103,0.993,1.03,0.996,1.015,MLB,2025,MLB-park factors-2025-2021.xlsx,9
+Pittsburgh Pirates,National League,81,81,0.994,1.036,1.03,1.018,1.015,MLB,2025,MLB-park factors-2025-2021.xlsx,10
+Arizona Diamondbacks,National League,81,81,1.01,1.011,1.022,1.005,1.011,MLB,2025,MLB-park factors-2025-2021.xlsx,11
+Los Angeles Angels,American League,81,81,1.03,1.012,1.021,1.006,1.01,MLB,2025,MLB-park factors-2025-2021.xlsx,12
+Los Angeles Dodgers,National League,81,81,1.13,0.965,1.019,0.982,1.009,MLB,2025,MLB-park factors-2025-2021.xlsx,13
+Kansas City Royals,American League,81,81,0.897,1.059,1.017,1.029,1.008,MLB,2025,MLB-park factors-2025-2021.xlsx,14
+Cleveland Guardians,American League,81,81,1,0.994,1.017,0.997,1.008,MLB,2025,MLB-park factors-2025-2021.xlsx,15
+Toronto Blue Jays,American League,81,81,1.023,0.994,1.016,0.997,1.008,MLB,2025,MLB-park factors-2025-2021.xlsx,16
+Tampa Bay Rays,American League,81,81,1.033,0.997,1.009,0.998,1.004,MLB,2025,MLB-park factors-2025-2021.xlsx,17
+Washington Nationals,National League,81,81,0.995,1.009,0.999,1.005,1,MLB,2025,MLB-park factors-2025-2021.xlsx,18
+Houston Astros,American League,81,81,0.972,0.992,0.996,0.996,0.998,MLB,2025,MLB-park factors-2025-2021.xlsx,19
+Baltimore Orioles,American League,81,81,1.058,0.96,0.993,0.98,0.997,MLB,2025,MLB-park factors-2025-2021.xlsx,20
+Atlanta Braves,National League,81,81,0.984,0.991,0.976,0.996,0.988,MLB,2025,MLB-park factors-2025-2021.xlsx,21
+New York Mets,National League,81,81,1.001,0.958,0.972,0.979,0.986,MLB,2025,MLB-park factors-2025-2021.xlsx,22
+Chicago White Sox,American League,81,81,0.981,0.967,0.966,0.983,0.983,MLB,2025,MLB-park factors-2025-2021.xlsx,23
+New York Yankees,American League,81,81,0.915,0.969,0.959,0.985,0.98,MLB,2025,MLB-park factors-2025-2021.xlsx,24
+St. Louis Cardinals,National League,81,81,0.911,0.989,0.959,0.995,0.98,MLB,2025,MLB-park factors-2025-2021.xlsx,25
+San Diego Padres,National League,81,81,0.934,0.943,0.946,0.971,0.973,MLB,2025,MLB-park factors-2025-2021.xlsx,26
+Milwaukee Brewers,National League,81,81,0.912,0.963,0.945,0.982,0.972,MLB,2025,MLB-park factors-2025-2021.xlsx,27
+San Francisco Giants,National League,81,81,0.97,0.911,0.935,0.956,0.967,MLB,2025,MLB-park factors-2025-2021.xlsx,28
+Chicago Cubs,National League,81,81,0.983,0.918,0.912,0.959,0.956,MLB,2025,MLB-park factors-2025-2021.xlsx,29
+Texas Rangers,American League,81,81,0.81,0.946,0.884,0.973,0.942,MLB,2025,MLB-park factors-2025-2021.xlsx,30
+Seattle Mariners,American League,81,81,0.818,0.831,0.818,0.916,0.909,MLB,2025,MLB-park factors-2025-2021.xlsx,31
+Colorado Rockies,National League,81,81,1.168,1.313,1.272,1.157,1.136,MLB,2024,MLB-park factors-2025-2021.xlsx,2
+Miami Marlins,National League,81,81,1.288,1.128,1.17,1.064,1.085,MLB,2024,MLB-park factors-2025-2021.xlsx,3
+Kansas City Royals,American League,81,81,1.131,1.1,1.119,1.05,1.059,MLB,2024,MLB-park factors-2025-2021.xlsx,4
+Cincinnati Reds,National League,81,81,1.146,1.094,1.099,1.047,1.049,MLB,2024,MLB-park factors-2025-2021.xlsx,5
+Boston Red Sox,American League,81,81,1.038,1.095,1.083,1.048,1.041,MLB,2024,MLB-park factors-2025-2021.xlsx,6
+Pittsburgh Pirates,National League,81,81,1.086,1.058,1.062,1.029,1.031,MLB,2024,MLB-park factors-2025-2021.xlsx,7
+Detroit Tigers,American League,81,81,0.988,1.033,1.03,1.017,1.015,MLB,2024,MLB-park factors-2025-2021.xlsx,8
+Minnesota Twins,American League,81,81,1.072,1,1.027,1,1.013,MLB,2024,MLB-park factors-2025-2021.xlsx,9
+Los Angeles Angels,American League,81,81,1.028,1.024,1.02,1.012,1.01,MLB,2024,MLB-park factors-2025-2021.xlsx,10
+Arizona Diamondbacks,National League,81,81,1.08,1,1.016,1,1.008,MLB,2024,MLB-park factors-2025-2021.xlsx,11
+Philadelphia Phillies,National League,81,81,1.012,1.017,1.012,1.008,1.006,MLB,2024,MLB-park factors-2025-2021.xlsx,12
+Houston Astros,American League,81,80,1.051,0.994,1.008,0.997,1.004,MLB,2024,MLB-park factors-2025-2021.xlsx,13
+Cleveland Guardians,American League,80,81,1.103,0.976,1.007,0.988,1.003,MLB,2024,MLB-park factors-2025-2021.xlsx,14
+Washington Nationals,National League,81,81,0.978,1.01,1.006,1.005,1.003,MLB,2024,MLB-park factors-2025-2021.xlsx,15
+New York Yankees,American League,81,81,1.012,0.997,1,0.999,1,MLB,2024,MLB-park factors-2025-2021.xlsx,16
+St. Louis Cardinals,National League,81,81,0.965,0.993,1,0.996,1,MLB,2024,MLB-park factors-2025-2021.xlsx,17
+Toronto Blue Jays,American League,81,81,1.064,0.975,0.994,0.987,0.997,MLB,2024,MLB-park factors-2025-2021.xlsx,18
+Texas Rangers,American League,81,81,0.845,1.019,0.99,1.009,0.995,MLB,2024,MLB-park factors-2025-2021.xlsx,19
+Chicago White Sox,American League,81,81,0.935,1.016,0.985,1.008,0.992,MLB,2024,MLB-park factors-2025-2021.xlsx,20
+Milwaukee Brewers,National League,81,81,0.948,0.973,0.976,0.986,0.988,MLB,2024,MLB-park factors-2025-2021.xlsx,21
+Tampa Bay Rays,American League,81,81,0.992,0.962,0.973,0.981,0.987,MLB,2024,MLB-park factors-2025-2021.xlsx,22
+Atlanta Braves,National League,81,81,0.928,0.976,0.971,0.988,0.985,MLB,2024,MLB-park factors-2025-2021.xlsx,23
+Oakland Athletics,American League,81,81,0.99,0.943,0.952,0.972,0.976,MLB,2024,MLB-park factors-2025-2021.xlsx,24
+Baltimore Orioles,American League,81,81,0.954,0.938,0.935,0.969,0.967,MLB,2024,MLB-park factors-2025-2021.xlsx,25
+Los Angeles Dodgers,National League,81,81,0.932,0.942,0.929,0.971,0.965,MLB,2024,MLB-park factors-2025-2021.xlsx,26
+New York Mets,National League,81,81,0.956,0.915,0.929,0.958,0.964,MLB,2024,MLB-park factors-2025-2021.xlsx,27
+San Diego Padres,National League,81,81,0.979,0.893,0.926,0.946,0.963,MLB,2024,MLB-park factors-2025-2021.xlsx,28
+San Francisco Giants,National League,81,81,0.931,0.911,0.906,0.955,0.953,MLB,2024,MLB-park factors-2025-2021.xlsx,29
+Chicago Cubs,National League,81,81,0.735,0.9,0.873,0.95,0.936,MLB,2024,MLB-park factors-2025-2021.xlsx,30
+Seattle Mariners,American League,81,81,0.777,0.854,0.836,0.927,0.918,MLB,2024,MLB-park factors-2025-2021.xlsx,31
+Colorado Rockies,National League,81,81,1.334,1.351,1.364,1.176,1.182,MLB,2023,MLB-park factors-2025-2021.xlsx,2
+Boston Red Sox,American League,81,81,1.132,1.161,1.144,1.08,1.072,MLB,2023,MLB-park factors-2025-2021.xlsx,3
+Kansas City Royals,American League,81,81,1.147,1.111,1.109,1.056,1.055,MLB,2023,MLB-park factors-2025-2021.xlsx,4
+Texas Rangers,American League,81,81,1.185,1.063,1.099,1.031,1.05,MLB,2023,MLB-park factors-2025-2021.xlsx,5
+Cincinnati Reds,National League,81,81,0.995,1.13,1.095,1.065,1.047,MLB,2023,MLB-park factors-2025-2021.xlsx,6
+Chicago White Sox,American League,81,81,0.981,1.039,1.038,1.02,1.019,MLB,2023,MLB-park factors-2025-2021.xlsx,7
+Pittsburgh Pirates,National League,81,81,1.025,1.034,1.036,1.017,1.018,MLB,2023,MLB-park factors-2025-2021.xlsx,8
+Detroit Tigers,American League,81,81,1.107,0.989,1.034,0.995,1.017,MLB,2023,MLB-park factors-2025-2021.xlsx,9
+Miami Marlins,National League,81,81,1.058,1.008,1.03,1.004,1.015,MLB,2023,MLB-park factors-2025-2021.xlsx,10
+Atlanta Braves,National League,81,81,1.051,1.033,1.023,1.016,1.012,MLB,2023,MLB-park factors-2025-2021.xlsx,11
+Los Angeles Angels,American League,81,81,0.98,1.03,1.022,1.015,1.011,MLB,2023,MLB-park factors-2025-2021.xlsx,12
+Washington Nationals,National League,81,81,1.055,0.994,1.015,0.997,1.007,MLB,2023,MLB-park factors-2025-2021.xlsx,13
+Chicago Cubs,National League,81,81,1.053,1.016,1.013,1.008,1.006,MLB,2023,MLB-park factors-2025-2021.xlsx,14
+Milwaukee Brewers,National League,81,81,1.037,1.005,1.006,1.003,1.003,MLB,2023,MLB-park factors-2025-2021.xlsx,15
+Philadelphia Phillies,National League,81,81,0.993,0.999,1.006,1,1.003,MLB,2023,MLB-park factors-2025-2021.xlsx,16
+St. Louis Cardinals,National League,81,81,1.092,0.943,0.989,0.972,0.995,MLB,2023,MLB-park factors-2025-2021.xlsx,17
+New York Yankees,American League,81,81,0.987,0.984,0.986,0.992,0.993,MLB,2023,MLB-park factors-2025-2021.xlsx,18
+Minnesota Twins,American League,81,81,1.015,0.97,0.976,0.985,0.988,MLB,2023,MLB-park factors-2025-2021.xlsx,19
+Arizona Diamondbacks,National League,81,81,0.94,0.994,0.973,0.997,0.987,MLB,2023,MLB-park factors-2025-2021.xlsx,20
+Houston Astros,American League,81,81,0.958,0.973,0.969,0.986,0.985,MLB,2023,MLB-park factors-2025-2021.xlsx,21
+Baltimore Orioles,American League,81,81,0.877,1.009,0.963,1.005,0.982,MLB,2023,MLB-park factors-2025-2021.xlsx,22
+Toronto Blue Jays,American League,81,81,0.902,0.997,0.961,0.999,0.981,MLB,2023,MLB-park factors-2025-2021.xlsx,23
+Los Angeles Dodgers,National League,81,81,0.86,0.949,0.942,0.974,0.971,MLB,2023,MLB-park factors-2025-2021.xlsx,24
+Tampa Bay Rays,American League,81,81,0.968,0.885,0.922,0.943,0.961,MLB,2023,MLB-park factors-2025-2021.xlsx,25
+Cleveland Guardians,American League,81,81,0.893,0.927,0.918,0.963,0.959,MLB,2023,MLB-park factors-2025-2021.xlsx,26
+Oakland Athletics,American League,81,81,0.893,0.908,0.911,0.954,0.956,MLB,2023,MLB-park factors-2025-2021.xlsx,27
+San Francisco Giants,National League,81,81,0.838,0.925,0.904,0.962,0.952,MLB,2023,MLB-park factors-2025-2021.xlsx,28
+Seattle Mariners,American League,81,81,0.898,0.882,0.888,0.941,0.944,MLB,2023,MLB-park factors-2025-2021.xlsx,29
+New York Mets,National League,81,81,0.916,0.87,0.885,0.935,0.943,MLB,2023,MLB-park factors-2025-2021.xlsx,30
+San Diego Padres,National League,81,81,0.915,0.869,0.872,0.935,0.936,MLB,2023,MLB-park factors-2025-2021.xlsx,31
+Colorado Rockies,National League,81,81,1.459,1.361,1.382,1.18,1.191,MLB,2022,MLB-park factors-2025-2021.xlsx,2
+Cincinnati Reds,National League,81,81,1.163,1.21,1.2,1.105,1.1,MLB,2022,MLB-park factors-2025-2021.xlsx,3
+Boston Red Sox,American League,81,81,1.117,1.175,1.164,1.088,1.082,MLB,2022,MLB-park factors-2025-2021.xlsx,4
+Chicago White Sox,American League,81,81,1.139,1.071,1.087,1.035,1.043,MLB,2022,MLB-park factors-2025-2021.xlsx,5
+Kansas City Royals,American League,81,81,1.025,1.093,1.081,1.047,1.04,MLB,2022,MLB-park factors-2025-2021.xlsx,6
+Los Angeles Angels,American League,81,81,1.076,1.058,1.063,1.029,1.032,MLB,2022,MLB-park factors-2025-2021.xlsx,7
+Baltimore Orioles,American League,81,81,0.991,1.082,1.061,1.041,1.03,MLB,2022,MLB-park factors-2025-2021.xlsx,8
+Pittsburgh Pirates,National League,81,81,1.065,1.039,1.044,1.019,1.022,MLB,2022,MLB-park factors-2025-2021.xlsx,9
+Toronto Blue Jays,American League,81,81,0.965,1.046,1.031,1.023,1.016,MLB,2022,MLB-park factors-2025-2021.xlsx,10
+Los Angeles Dodgers,National League,81,81,1.061,1.005,1.018,1.003,1.009,MLB,2022,MLB-park factors-2025-2021.xlsx,11
+Arizona Diamondbacks,National League,81,81,0.978,1.023,1.013,1.011,1.007,MLB,2022,MLB-park factors-2025-2021.xlsx,12
+Philadelphia Phillies,National League,81,81,1.046,1.002,1.012,1.001,1.006,MLB,2022,MLB-park factors-2025-2021.xlsx,13
+Texas Rangers,American League,81,81,1.037,1.001,1.009,1.001,1.004,MLB,2022,MLB-park factors-2025-2021.xlsx,14
+Atlanta Braves,National League,81,81,0.939,1.022,1.007,1.011,1.004,MLB,2022,MLB-park factors-2025-2021.xlsx,15
+Miami Marlins,National League,81,81,1.039,0.982,0.995,0.991,0.998,MLB,2022,MLB-park factors-2025-2021.xlsx,16
+New York Yankees,American League,81,81,0.991,0.983,0.984,0.991,0.992,MLB,2022,MLB-park factors-2025-2021.xlsx,17
+Chicago Cubs,National League,81,81,0.925,0.997,0.982,0.999,0.991,MLB,2022,MLB-park factors-2025-2021.xlsx,18
+Milwaukee Brewers,National League,81,81,0.938,0.99,0.982,0.995,0.991,MLB,2022,MLB-park factors-2025-2021.xlsx,19
+Houston Astros,American League,81,81,0.979,0.981,0.981,0.991,0.99,MLB,2022,MLB-park factors-2025-2021.xlsx,20
+Washington Nationals,National League,81,81,0.995,0.965,0.972,0.982,0.986,MLB,2022,MLB-park factors-2025-2021.xlsx,21
+San Francisco Giants,National League,81,81,0.968,0.971,0.971,0.986,0.985,MLB,2022,MLB-park factors-2025-2021.xlsx,22
+Detroit Tigers,American League,81,81,1.003,0.934,0.953,0.967,0.976,MLB,2022,MLB-park factors-2025-2021.xlsx,23
+Cleveland Guardians,American League,81,81,0.945,0.944,0.944,0.972,0.972,MLB,2022,MLB-park factors-2025-2021.xlsx,24
+Minnesota Twins,American League,81,81,0.914,0.949,0.941,0.975,0.97,MLB,2022,MLB-park factors-2025-2021.xlsx,25
+Oakland Athletics,American League,81,81,0.953,0.916,0.925,0.958,0.962,MLB,2022,MLB-park factors-2025-2021.xlsx,26
+St. Louis Cardinals,National League,81,81,0.92,0.869,0.88,0.935,0.94,MLB,2022,MLB-park factors-2025-2021.xlsx,27
+Seattle Mariners,American League,81,81,0.886,0.874,0.877,0.937,0.938,MLB,2022,MLB-park factors-2025-2021.xlsx,28
+Tampa Bay Rays,American League,81,81,0.926,0.843,0.867,0.922,0.934,MLB,2022,MLB-park factors-2025-2021.xlsx,29
+New York Mets,National League,81,81,0.872,0.846,0.851,0.923,0.925,MLB,2022,MLB-park factors-2025-2021.xlsx,30
+San Diego Padres,National League,81,81,0.789,0.847,0.836,0.924,0.918,MLB,2022,MLB-park factors-2025-2021.xlsx,31
+Colorado Rockies,National League,81,80,1.268,1.268,1.268,1.134,1.134,MLB,2021,MLB-park factors-2025-2021.xlsx,2
+Cincinnati Reds,National League,81,81,1.257,1.257,1.257,1.128,1.128,MLB,2021,MLB-park factors-2025-2021.xlsx,3
+Boston Red Sox,American League,81,81,1.235,1.235,1.235,1.118,1.118,MLB,2021,MLB-park factors-2025-2021.xlsx,4
+Baltimore Orioles,American League,81,81,1.165,1.165,1.165,1.082,1.082,MLB,2021,MLB-park factors-2025-2021.xlsx,5
+Kansas City Royals,American League,81,81,1.164,1.164,1.164,1.082,1.082,MLB,2021,MLB-park factors-2025-2021.xlsx,6
+Toronto Blue Jays,American League,81,81,1.131,1.131,1.131,1.066,1.066,MLB,2021,MLB-park factors-2025-2021.xlsx,7
+Atlanta Braves,National League,80,81,1.109,1.109,1.109,1.055,1.055,MLB,2021,MLB-park factors-2025-2021.xlsx,8
+Chicago Cubs,National League,81,81,1.067,1.067,1.067,1.033,1.033,MLB,2021,MLB-park factors-2025-2021.xlsx,9
+Arizona Diamondbacks,National League,81,81,1.066,1.066,1.066,1.033,1.033,MLB,2021,MLB-park factors-2025-2021.xlsx,10
+Milwaukee Brewers,National League,81,81,1.047,1.047,1.047,1.023,1.023,MLB,2021,MLB-park factors-2025-2021.xlsx,11
+Los Angeles Angels,American League,81,81,1.044,1.044,1.044,1.022,1.022,MLB,2021,MLB-park factors-2025-2021.xlsx,12
+Pittsburgh Pirates,National League,81,81,1.014,1.014,1.014,1.007,1.007,MLB,2021,MLB-park factors-2025-2021.xlsx,13
+Chicago White Sox,American League,81,81,1.008,1.008,1.008,1.004,1.004,MLB,2021,MLB-park factors-2025-2021.xlsx,14
+Houston Astros,American League,81,81,0.983,0.983,0.983,0.992,0.992,MLB,2021,MLB-park factors-2025-2021.xlsx,15
+Minnesota Twins,American League,81,81,0.981,0.981,0.981,0.99,0.99,MLB,2021,MLB-park factors-2025-2021.xlsx,16
+San Francisco Giants,National League,81,81,0.975,0.975,0.975,0.987,0.987,MLB,2021,MLB-park factors-2025-2021.xlsx,17
+New York Yankees,American League,81,81,0.974,0.974,0.974,0.987,0.987,MLB,2021,MLB-park factors-2025-2021.xlsx,18
+Texas Rangers,American League,81,81,0.967,0.967,0.967,0.984,0.984,MLB,2021,MLB-park factors-2025-2021.xlsx,19
+Philadelphia Phillies,National League,81,81,0.962,0.962,0.962,0.981,0.981,MLB,2021,MLB-park factors-2025-2021.xlsx,20
+Los Angeles Dodgers,National League,81,81,0.954,0.954,0.954,0.977,0.977,MLB,2021,MLB-park factors-2025-2021.xlsx,21
+Cleveland Indians,American League,81,81,0.943,0.943,0.943,0.972,0.972,MLB,2021,MLB-park factors-2025-2021.xlsx,22
+Washington Nationals,National League,81,81,0.937,0.937,0.937,0.969,0.969,MLB,2021,MLB-park factors-2025-2021.xlsx,23
+Miami Marlins,National League,81,81,0.93,0.93,0.93,0.965,0.965,MLB,2021,MLB-park factors-2025-2021.xlsx,24
+San Diego Padres,National League,81,81,0.906,0.906,0.906,0.953,0.953,MLB,2021,MLB-park factors-2025-2021.xlsx,25
+Oakland Athletics,American League,81,81,0.882,0.882,0.882,0.941,0.941,MLB,2021,MLB-park factors-2025-2021.xlsx,26
+Detroit Tigers,American League,81,81,0.877,0.877,0.877,0.939,0.939,MLB,2021,MLB-park factors-2025-2021.xlsx,27
+Seattle Mariners,American League,81,81,0.862,0.862,0.862,0.931,0.931,MLB,2021,MLB-park factors-2025-2021.xlsx,28
+St. Louis Cardinals,National League,81,81,0.82,0.82,0.82,0.91,0.91,MLB,2021,MLB-park factors-2025-2021.xlsx,29
+New York Mets,National League,81,81,0.819,0.819,0.819,0.909,0.909,MLB,2021,MLB-park factors-2025-2021.xlsx,30
+Tampa Bay Rays,American League,81,81,0.778,0.778,0.778,0.889,0.889,MLB,2021,MLB-park factors-2025-2021.xlsx,31
+Reno Aces,Pacific Coast League,75,75,1.24,1.29,1.27,1.145,1.135,AAA,2025,AAA-park factors-2025-2021.xlsx,3
+Las Vegas Aviators,Pacific Coast League,75,75,1.299,1.185,1.212,1.093,1.106,AAA,2025,AAA-park factors-2025-2021.xlsx,4
+Charlotte Knights,International League,75,75,1.28,1.171,1.2,1.085,1.1,AAA,2025,AAA-park factors-2025-2021.xlsx,5
+Iowa Cubs,International League,75,74,1.102,1.166,1.184,1.083,1.092,AAA,2025,AAA-park factors-2025-2021.xlsx,6
+Albuquerque Isotopes,Pacific Coast League,74,75,1.092,1.206,1.183,1.103,1.092,AAA,2025,AAA-park factors-2025-2021.xlsx,7
+St. Paul Saints,International League,75,73,1.104,1.144,1.127,1.072,1.064,AAA,2025,AAA-park factors-2025-2021.xlsx,8
+El Paso Chihuahuas,Pacific Coast League,74,75,1.05,1.13,1.121,1.065,1.06,AAA,2025,AAA-park factors-2025-2021.xlsx,9
+Omaha Storm Chasers,International League,73,75,1.145,1.098,1.107,1.049,1.054,AAA,2025,AAA-park factors-2025-2021.xlsx,10
+Syracuse Mets,International League,75,75,1.088,1.081,1.09,1.041,1.045,AAA,2025,AAA-park factors-2025-2021.xlsx,11
+Salt Lake Bees,Pacific Coast League,75,74,1.169,1.024,1.074,1.012,1.037,AAA,2025,AAA-park factors-2025-2021.xlsx,12
+Scranton/Wilkes-Barre RailRiders,International League,73,74,1.047,1.047,1.071,1.024,1.036,AAA,2025,AAA-park factors-2025-2021.xlsx,13
+Worcester Red Sox,International League,74,75,1.063,1.026,1.032,1.013,1.016,AAA,2025,AAA-park factors-2025-2021.xlsx,14
+Durham Bulls,International League,75,74,1.072,0.998,1.009,0.999,1.005,AAA,2025,AAA-park factors-2025-2021.xlsx,15
+Rochester Red Wings,International League,75,72,1.065,0.994,0.999,0.997,0.999,AAA,2025,AAA-park factors-2025-2021.xlsx,16
+Memphis Redbirds,International League,73,75,0.958,0.993,0.995,0.996,0.998,AAA,2025,AAA-park factors-2025-2021.xlsx,17
+Columbus Clippers,International League,71,74,1.014,0.962,0.993,0.981,0.997,AAA,2025,AAA-park factors-2025-2021.xlsx,18
+Tacoma Rainiers,Pacific Coast League,75,75,0.918,0.956,0.961,0.978,0.98,AAA,2025,AAA-park factors-2025-2021.xlsx,19
+Louisville Bats,International League,75,75,0.933,0.956,0.953,0.978,0.976,AAA,2025,AAA-park factors-2025-2021.xlsx,20
+Indianapolis Indians,International League,74,75,0.879,0.965,0.944,0.982,0.972,AAA,2025,AAA-park factors-2025-2021.xlsx,21
+Gwinnett Stripers,International League,75,75,0.961,0.939,0.94,0.97,0.97,AAA,2025,AAA-park factors-2025-2021.xlsx,22
+Lehigh Valley IronPigs,International League,74,74,0.862,0.953,0.939,0.976,0.97,AAA,2025,AAA-park factors-2025-2021.xlsx,23
+Nashville Sounds,International League,74,74,0.927,0.957,0.929,0.978,0.964,AAA,2025,AAA-park factors-2025-2021.xlsx,24
+Norfolk Tides,International League,73,74,0.988,0.914,0.923,0.957,0.962,AAA,2025,AAA-park factors-2025-2021.xlsx,25
+Jacksonville Jumbo Shrimp,International League,75,75,0.92,0.895,0.92,0.947,0.96,AAA,2025,AAA-park factors-2025-2021.xlsx,26
+Buffalo Bisons,International League,75,71,0.867,0.922,0.899,0.961,0.95,AAA,2025,AAA-park factors-2025-2021.xlsx,27
+Oklahoma City Comets,Pacific Coast League,75,75,0.897,0.887,0.873,0.943,0.937,AAA,2025,AAA-park factors-2025-2021.xlsx,28
+Round Rock Express,Pacific Coast League,75,75,0.792,0.889,0.867,0.945,0.933,AAA,2025,AAA-park factors-2025-2021.xlsx,29
+Toledo Mud Hens,International League,75,75,0.732,0.841,0.814,0.92,0.907,AAA,2025,AAA-park factors-2025-2021.xlsx,30
+Sugar Land Space Cowboys,Pacific Coast League,75,74,0.795,0.752,0.777,0.876,0.889,AAA,2025,AAA-park factors-2025-2021.xlsx,31
+Sacramento River Cats,Pacific Coast League,75,75,0.852,0.744,0.765,0.872,0.882,AAA,2025,AAA-park factors-2025-2021.xlsx,32
+Reno Aces,Pacific Coast League,74,75,1.267,1.238,1.267,1.119,1.134,AAA,2024,AAA-park factors-2025-2021.xlsx,2
+Albuquerque Isotopes,Pacific Coast League,75,75,1.294,1.246,1.26,1.123,1.13,AAA,2024,AAA-park factors-2025-2021.xlsx,3
+Iowa Cubs,International League,75,75,1.362,1.18,1.229,1.09,1.114,AAA,2024,AAA-park factors-2025-2021.xlsx,4
+El Paso Chihuahuas,Pacific Coast League,75,75,1.222,1.2,1.197,1.1,1.099,AAA,2024,AAA-park factors-2025-2021.xlsx,5
+Las Vegas Aviators,Pacific Coast League,75,74,1.105,1.177,1.152,1.088,1.076,AAA,2024,AAA-park factors-2025-2021.xlsx,6
+Charlotte Knights,International League,73,74,1.125,1.164,1.142,1.082,1.071,AAA,2024,AAA-park factors-2025-2021.xlsx,7
+St. Paul Saints,International League,74,75,1.122,1.082,1.12,1.041,1.06,AAA,2024,AAA-park factors-2025-2021.xlsx,8
+Omaha Storm Chasers,International League,73,75,1.062,1.118,1.093,1.059,1.046,AAA,2024,AAA-park factors-2025-2021.xlsx,9
+Syracuse Mets,International League,75,74,1.112,1.035,1.065,1.017,1.032,AAA,2024,AAA-park factors-2025-2021.xlsx,10
+Scranton/Wilkes-Barre RailRiders,International League,74,75,1.179,1.008,1.052,1.004,1.026,AAA,2024,AAA-park factors-2025-2021.xlsx,11
+Memphis Redbirds,International League,75,73,1.062,1.001,1.019,1.001,1.01,AAA,2024,AAA-park factors-2025-2021.xlsx,12
+Worcester Red Sox,International League,75,75,0.988,1.031,1.018,1.016,1.009,AAA,2024,AAA-park factors-2025-2021.xlsx,13
+Lehigh Valley IronPigs,International League,75,71,1.04,0.992,1.005,0.996,1.003,AAA,2024,AAA-park factors-2025-2021.xlsx,14
+Salt Lake Bees,Pacific Coast League,75,74,1.017,1.018,1.004,1.009,1.002,AAA,2024,AAA-park factors-2025-2021.xlsx,15
+Durham Bulls,International League,75,75,0.898,1.03,0.992,1.015,0.996,AAA,2024,AAA-park factors-2025-2021.xlsx,16
+Louisville Bats,International League,74,75,0.984,1.004,0.991,1.002,0.996,AAA,2024,AAA-park factors-2025-2021.xlsx,17
+Indianapolis Indians,International League,74,73,1.014,0.964,0.986,0.982,0.993,AAA,2024,AAA-park factors-2025-2021.xlsx,18
+Tacoma Rainiers,Pacific Coast League,75,75,1.052,0.942,0.974,0.971,0.987,AAA,2024,AAA-park factors-2025-2021.xlsx,19
+Rochester Red Wings,International League,73,75,0.881,1.001,0.97,1.001,0.985,AAA,2024,AAA-park factors-2025-2021.xlsx,20
+Columbus Clippers,International League,75,73,1.029,0.929,0.952,0.964,0.976,AAA,2024,AAA-park factors-2025-2021.xlsx,21
+Nashville Sounds,International League,72,74,0.839,0.937,0.936,0.968,0.968,AAA,2024,AAA-park factors-2025-2021.xlsx,22
+Buffalo Bisons,International League,74,74,0.895,0.931,0.93,0.965,0.965,AAA,2024,AAA-park factors-2025-2021.xlsx,23
+Round Rock Express,Pacific Coast League,74,74,0.939,0.912,0.927,0.956,0.964,AAA,2024,AAA-park factors-2025-2021.xlsx,24
+Gwinnett Stripers,International League,75,75,0.892,0.921,0.92,0.96,0.96,AAA,2024,AAA-park factors-2025-2021.xlsx,25
+Norfolk Tides,International League,75,75,0.806,0.94,0.902,0.97,0.951,AAA,2024,AAA-park factors-2025-2021.xlsx,26
+Jacksonville Jumbo Shrimp,International League,74,75,0.971,0.874,0.9,0.937,0.95,AAA,2024,AAA-park factors-2025-2021.xlsx,27
+Toledo Mud Hens,International League,75,74,0.896,0.893,0.894,0.946,0.947,AAA,2024,AAA-park factors-2025-2021.xlsx,28
+Oklahoma City Baseball Club,Pacific Coast League,75,75,0.778,0.904,0.877,0.952,0.939,AAA,2024,AAA-park factors-2025-2021.xlsx,29
+Sugar Land Space Cowboys,Pacific Coast League,74,75,0.8,0.741,0.752,0.87,0.876,AAA,2024,AAA-park factors-2025-2021.xlsx,30
+Sacramento River Cats,Pacific Coast League,75,75,0.637,0.705,0.692,0.853,0.846,AAA,2024,AAA-park factors-2025-2021.xlsx,31
+Las Vegas Aviators,Pacific Coast League,75,74,1.163,1.248,1.228,1.124,1.114,AAA,2023,AAA-park factors-2025-2021.xlsx,3
+Reno Aces,Pacific Coast League,75,75,1.364,1.175,1.222,1.088,1.111,AAA,2023,AAA-park factors-2025-2021.xlsx,4
+Albuquerque Isotopes,Pacific Coast League,75,75,1.236,1.208,1.216,1.104,1.108,AAA,2023,AAA-park factors-2025-2021.xlsx,5
+El Paso Chihuahuas,Pacific Coast League,75,75,1.133,1.21,1.195,1.105,1.098,AAA,2023,AAA-park factors-2025-2021.xlsx,6
+Charlotte Knights,International League,75,74,1.111,1.185,1.173,1.092,1.087,AAA,2023,AAA-park factors-2025-2021.xlsx,7
+Durham Bulls,International League,75,75,1.044,1.105,1.096,1.052,1.048,AAA,2023,AAA-park factors-2025-2021.xlsx,8
+Iowa Cubs,International League,73,74,1.073,1.093,1.096,1.047,1.048,AAA,2023,AAA-park factors-2025-2021.xlsx,9
+Omaha Storm Chasers,International League,74,71,1.083,1.063,1.095,1.032,1.047,AAA,2023,AAA-park factors-2025-2021.xlsx,10
+St. Paul Saints,International League,74,74,1.207,1.064,1.094,1.032,1.047,AAA,2023,AAA-park factors-2025-2021.xlsx,11
+Syracuse Mets,International League,71,75,1.051,1.049,1.039,1.025,1.02,AAA,2023,AAA-park factors-2025-2021.xlsx,12
+Rochester Red Wings,International League,73,73,1.037,1.019,1.037,1.009,1.018,AAA,2023,AAA-park factors-2025-2021.xlsx,13
+Worcester Red Sox,International League,75,72,1.029,1.019,1.031,1.009,1.016,AAA,2023,AAA-park factors-2025-2021.xlsx,14
+Salt Lake Bees,Pacific Coast League,75,74,0.904,1.039,1.021,1.02,1.011,AAA,2023,AAA-park factors-2025-2021.xlsx,15
+Memphis Redbirds,International League,74,75,0.974,1.022,1.005,1.011,1.002,AAA,2023,AAA-park factors-2025-2021.xlsx,16
+Nashville Sounds,International League,74,74,1.113,0.97,1.002,0.985,1.001,AAA,2023,AAA-park factors-2025-2021.xlsx,17
+Lehigh Valley IronPigs,International League,73,73,0.971,1.017,1,1.009,1,AAA,2023,AAA-park factors-2025-2021.xlsx,18
+Louisville Bats,International League,75,73,0.949,0.993,0.995,0.996,0.998,AAA,2023,AAA-park factors-2025-2021.xlsx,19
+Norfolk Tides,International League,75,74,0.963,0.959,0.975,0.979,0.987,AAA,2023,AAA-park factors-2025-2021.xlsx,20
+Buffalo Bisons,International League,73,75,1.005,0.968,0.969,0.984,0.984,AAA,2023,AAA-park factors-2025-2021.xlsx,21
+Indianapolis Indians,International League,74,74,0.996,0.958,0.96,0.979,0.98,AAA,2023,AAA-park factors-2025-2021.xlsx,22
+Gwinnett Stripers,International League,73,75,0.972,0.946,0.947,0.973,0.973,AAA,2023,AAA-park factors-2025-2021.xlsx,23
+Oklahoma City Dodgers,Pacific Coast League,73,75,0.992,0.914,0.945,0.957,0.972,AAA,2023,AAA-park factors-2025-2021.xlsx,24
+Round Rock Express,Pacific Coast League,74,75,0.946,0.919,0.92,0.959,0.96,AAA,2023,AAA-park factors-2025-2021.xlsx,25
+Scranton/Wilkes-Barre RailRiders,International League,74,74,0.929,0.902,0.913,0.951,0.957,AAA,2023,AAA-park factors-2025-2021.xlsx,26
+Columbus Clippers,International League,74,73,0.859,0.931,0.909,0.966,0.954,AAA,2023,AAA-park factors-2025-2021.xlsx,27
+Toledo Mud Hens,International League,74,74,0.895,0.908,0.901,0.954,0.951,AAA,2023,AAA-park factors-2025-2021.xlsx,28
+Tacoma Rainiers,Pacific Coast League,75,75,0.907,0.864,0.879,0.932,0.939,AAA,2023,AAA-park factors-2025-2021.xlsx,29
+Jacksonville Jumbo Shrimp,International League,74,75,0.815,0.846,0.839,0.923,0.92,AAA,2023,AAA-park factors-2025-2021.xlsx,30
+Sacramento River Cats,Pacific Coast League,75,74,0.759,0.779,0.765,0.889,0.883,AAA,2023,AAA-park factors-2025-2021.xlsx,31
+Sugar Land Space Cowboys,Pacific Coast League,75,75,0.679,0.722,0.715,0.861,0.857,AAA,2023,AAA-park factors-2025-2021.xlsx,32
+Las Vegas Aviators,Pacific Coast League,75,75,1.271,1.301,1.297,1.151,1.149,AAA,2022,AAA-park factors-2025-2021.xlsx,3
+El Paso Chihuahuas,Pacific Coast League,75,75,1.253,1.259,1.258,1.129,1.129,AAA,2022,AAA-park factors-2025-2021.xlsx,4
+Charlotte Knights,International League,75,75,1.256,1.228,1.231,1.114,1.116,AAA,2022,AAA-park factors-2025-2021.xlsx,5
+Albuquerque Isotopes,Pacific Coast League,75,73,1.21,1.193,1.194,1.097,1.097,AAA,2022,AAA-park factors-2025-2021.xlsx,6
+Durham Bulls,International League,75,75,1.168,1.143,1.145,1.071,1.073,AAA,2022,AAA-park factors-2025-2021.xlsx,7
+Salt Lake Bees,Pacific Coast League,75,75,1.165,1.125,1.134,1.063,1.067,AAA,2022,AAA-park factors-2025-2021.xlsx,8
+Iowa Cubs,International League,75,74,1.142,1.107,1.113,1.054,1.057,AAA,2022,AAA-park factors-2025-2021.xlsx,9
+Omaha Storm Chasers,International League,74,75,1.205,1.053,1.087,1.027,1.043,AAA,2022,AAA-park factors-2025-2021.xlsx,10
+Reno Aces,Pacific Coast League,73,75,1.075,1.077,1.079,1.038,1.04,AAA,2022,AAA-park factors-2025-2021.xlsx,11
+Memphis Redbirds,International League,75,75,0.982,1.052,1.047,1.026,1.024,AAA,2022,AAA-park factors-2025-2021.xlsx,12
+Syracuse Mets,International League,74,75,0.948,1.049,1.043,1.024,1.022,AAA,2022,AAA-park factors-2025-2021.xlsx,13
+Lehigh Valley IronPigs,International League,74,74,0.969,1.047,1.041,1.023,1.02,AAA,2022,AAA-park factors-2025-2021.xlsx,14
+Louisville Bats,International League,75,75,1.095,1.022,1.03,1.011,1.015,AAA,2022,AAA-park factors-2025-2021.xlsx,15
+Worcester Red Sox,International League,75,73,1.086,1.011,1.023,1.006,1.012,AAA,2022,AAA-park factors-2025-2021.xlsx,16
+Rochester Red Wings,International League,74,74,1.105,1.006,1.022,1.003,1.011,AAA,2022,AAA-park factors-2025-2021.xlsx,17
+St. Paul Saints,International League,74,75,0.936,0.993,0.989,0.996,0.994,AAA,2022,AAA-park factors-2025-2021.xlsx,18
+Norfolk Tides,International League,75,75,1.07,0.956,0.97,0.978,0.985,AAA,2022,AAA-park factors-2025-2021.xlsx,19
+Columbus Clippers,International League,74,75,0.909,0.974,0.969,0.987,0.985,AAA,2022,AAA-park factors-2025-2021.xlsx,20
+Buffalo Bisons,International League,73,75,0.885,0.947,0.942,0.974,0.971,AAA,2022,AAA-park factors-2025-2021.xlsx,21
+Indianapolis Indians,International League,75,74,0.884,0.937,0.932,0.968,0.966,AAA,2022,AAA-park factors-2025-2021.xlsx,22
+Gwinnett Stripers,International League,74,74,0.897,0.931,0.927,0.966,0.964,AAA,2022,AAA-park factors-2025-2021.xlsx,23
+Toledo Mud Hens,International League,75,75,0.887,0.915,0.911,0.958,0.956,AAA,2022,AAA-park factors-2025-2021.xlsx,24
+Round Rock Express,Pacific Coast League,75,75,0.857,0.904,0.901,0.952,0.951,AAA,2022,AAA-park factors-2025-2021.xlsx,25
+Nashville Sounds,International League,75,74,0.871,0.897,0.895,0.948,0.947,AAA,2022,AAA-park factors-2025-2021.xlsx,26
+Scranton/Wilkes-Barre RailRiders,International League,75,75,0.92,0.887,0.892,0.943,0.946,AAA,2022,AAA-park factors-2025-2021.xlsx,27
+Oklahoma City Dodgers,Pacific Coast League,75,75,0.946,0.876,0.887,0.938,0.944,AAA,2022,AAA-park factors-2025-2021.xlsx,28
+Jacksonville Jumbo Shrimp,International League,75,74,0.855,0.867,0.865,0.933,0.933,AAA,2022,AAA-park factors-2025-2021.xlsx,29
+Tacoma Rainiers,Pacific Coast League,75,75,0.873,0.841,0.846,0.92,0.923,AAA,2022,AAA-park factors-2025-2021.xlsx,30
+Sacramento River Cats,Pacific Coast League,75,73,0.722,0.789,0.781,0.894,0.891,AAA,2022,AAA-park factors-2025-2021.xlsx,31
+Sugar Land Space Cowboys,Pacific Coast League,73,75,0.753,0.748,0.749,0.874,0.875,AAA,2022,AAA-park factors-2025-2021.xlsx,32
+Las Vegas Aviators,Pacific Coast League,65,61,1.337,1.337,1.337,1.169,1.169,AAA,2021,AAA-park factors-2025-2021.xlsx,2
+El Paso Chihuahuas,Pacific Coast League,65,65,1.266,1.266,1.266,1.133,1.133,AAA,2021,AAA-park factors-2025-2021.xlsx,3
+Charlotte Knights,International League,65,63,1.193,1.193,1.193,1.097,1.097,AAA,2021,AAA-park factors-2025-2021.xlsx,4
+Syracuse Mets,International League,61,65,1.186,1.186,1.186,1.093,1.093,AAA,2021,AAA-park factors-2025-2021.xlsx,5
+Albuquerque Isotopes,Pacific Coast League,65,65,1.169,1.169,1.169,1.084,1.084,AAA,2021,AAA-park factors-2025-2021.xlsx,6
+Lehigh Valley IronPigs,International League,65,63,1.148,1.148,1.148,1.074,1.074,AAA,2021,AAA-park factors-2025-2021.xlsx,7
+Memphis Redbirds,International League,63,65,1.145,1.145,1.145,1.072,1.072,AAA,2021,AAA-park factors-2025-2021.xlsx,8
+Durham Bulls,International League,65,65,1.111,1.111,1.111,1.055,1.055,AAA,2021,AAA-park factors-2025-2021.xlsx,9
+Salt Lake Bees,Pacific Coast League,64,65,1.088,1.088,1.088,1.044,1.044,AAA,2021,AAA-park factors-2025-2021.xlsx,10
+Reno Aces,Pacific Coast League,59,65,1.086,1.086,1.086,1.043,1.043,AAA,2021,AAA-park factors-2025-2021.xlsx,11
+Iowa Cubs,International League,64,65,1.07,1.07,1.07,1.035,1.035,AAA,2021,AAA-park factors-2025-2021.xlsx,12
+St. Paul Saints,International League,65,65,1.068,1.068,1.068,1.034,1.034,AAA,2021,AAA-park factors-2025-2021.xlsx,13
+Columbus Clippers,International League,63,64,1.059,1.059,1.059,1.03,1.03,AAA,2021,AAA-park factors-2025-2021.xlsx,14
+Buffalo Bisons,International League,65,61,1.029,1.029,1.029,1.014,1.014,AAA,2021,AAA-park factors-2025-2021.xlsx,15
+Indianapolis Indians,International League,64,64,1.005,1.005,1.005,1.002,1.002,AAA,2021,AAA-park factors-2025-2021.xlsx,16
+Gwinnett Stripers,International League,64,65,0.973,0.973,0.973,0.986,0.986,AAA,2021,AAA-park factors-2025-2021.xlsx,17
+Round Rock Express,Pacific Coast League,65,64,0.969,0.969,0.969,0.984,0.984,AAA,2021,AAA-park factors-2025-2021.xlsx,18
+Toledo Mud Hens,International League,65,65,0.948,0.948,0.948,0.974,0.974,AAA,2021,AAA-park factors-2025-2021.xlsx,19
+Louisville Bats,International League,64,64,0.934,0.934,0.934,0.967,0.967,AAA,2021,AAA-park factors-2025-2021.xlsx,20
+Nashville Sounds,International League,65,63,0.929,0.929,0.929,0.965,0.965,AAA,2021,AAA-park factors-2025-2021.xlsx,21
+Worcester Red Sox,International League,64,64,0.929,0.929,0.929,0.965,0.965,AAA,2021,AAA-park factors-2025-2021.xlsx,22
+Omaha Storm Chasers,International League,65,64,0.909,0.909,0.909,0.955,0.955,AAA,2021,AAA-park factors-2025-2021.xlsx,23
+Rochester Red Wings,International League,62,65,0.898,0.898,0.898,0.949,0.949,AAA,2021,AAA-park factors-2025-2021.xlsx,24
+Jacksonville Jumbo Shrimp,International League,65,65,0.881,0.881,0.881,0.941,0.941,AAA,2021,AAA-park factors-2025-2021.xlsx,25
+Sacramento River Cats,Pacific Coast League,65,62,0.87,0.87,0.87,0.935,0.935,AAA,2021,AAA-park factors-2025-2021.xlsx,26
+Scranton/Wilkes-Barre RailRiders,International League,64,63,0.851,0.851,0.851,0.925,0.925,AAA,2021,AAA-park factors-2025-2021.xlsx,27
+Norfolk Tides,International League,65,65,0.82,0.82,0.82,0.91,0.91,AAA,2021,AAA-park factors-2025-2021.xlsx,28
+Tacoma Rainiers,Pacific Coast League,65,65,0.805,0.805,0.805,0.903,0.903,AAA,2021,AAA-park factors-2025-2021.xlsx,29
+Oklahoma City Dodgers,Pacific Coast League,64,65,0.799,0.799,0.799,0.9,0.9,AAA,2021,AAA-park factors-2025-2021.xlsx,30
+Sugar Land Skeeters,Pacific Coast League,65,65,0.744,0.744,0.744,0.872,0.872,AAA,2021,AAA-park factors-2025-2021.xlsx,31
+Amarillo Sod Poodles,Texas League,69,69,1.634,1.419,1.482,1.21,1.241,AA,2025,AA-park factors-2025-2021.xlsx,3
+Chattanooga Lookouts,Southern League,65,69,1.195,1.169,1.2,1.085,1.1,AA,2025,AA-park factors-2025-2021.xlsx,4
+Reading Fightin Phils,Eastern League,69,67,1.193,1.178,1.189,1.089,1.094,AA,2025,AA-park factors-2025-2021.xlsx,5
+Chesapeake Baysox,Eastern League,69,67,1.061,1.154,1.154,1.077,1.077,AA,2025,AA-park factors-2025-2021.xlsx,6
+Biloxi Shuckers,Southern League,69,69,1.167,1.068,1.128,1.034,1.064,AA,2025,AA-park factors-2025-2021.xlsx,7
+Frisco RoughRiders,Texas League,67,69,1.105,1.089,1.115,1.045,1.058,AA,2025,AA-park factors-2025-2021.xlsx,8
+Wichita Wind Surge,Texas League,69,69,1.175,1.099,1.1,1.049,1.05,AA,2025,AA-park factors-2025-2021.xlsx,9
+Hartford Yard Goats,Eastern League,69,68,1.151,1.055,1.082,1.028,1.041,AA,2025,AA-park factors-2025-2021.xlsx,10
+Midland RockHounds,Texas League,69,69,1.013,1.092,1.073,1.046,1.036,AA,2025,AA-park factors-2025-2021.xlsx,11
+Altoona Curve,Eastern League,68,69,1.098,1.05,1.072,1.025,1.036,AA,2025,AA-park factors-2025-2021.xlsx,12
+Northwest Arkansas Naturals,Texas League,69,69,1.03,1.065,1.057,1.033,1.028,AA,2025,AA-park factors-2025-2021.xlsx,13
+Pensacola Blue Wahoos,Southern League,69,69,1.08,1.056,1.05,1.028,1.025,AA,2025,AA-park factors-2025-2021.xlsx,14
+Portland Sea Dogs,Eastern League,67,68,0.988,1.07,1.05,1.035,1.025,AA,2025,AA-park factors-2025-2021.xlsx,15
+New Hampshire Fisher Cats,Eastern League,68,69,1.05,1.005,1.022,1.003,1.011,AA,2025,AA-park factors-2025-2021.xlsx,16
+Richmond Flying Squirrels,Eastern League,68,68,1.046,0.987,0.997,0.993,0.998,AA,2025,AA-park factors-2025-2021.xlsx,17
+Montgomery Biscuits,Southern League,69,69,1.026,1.007,0.991,1.004,0.995,AA,2025,AA-park factors-2025-2021.xlsx,18
+Springfield Cardinals,Texas League,69,69,0.846,0.989,0.977,0.994,0.988,AA,2025,AA-park factors-2025-2021.xlsx,19
+Tulsa Drillers,Texas League,69,69,0.979,0.949,0.975,0.974,0.988,AA,2025,AA-park factors-2025-2021.xlsx,20
+Knoxville Smokies,Southern League,68,68,0.88,0.967,0.961,0.984,0.98,AA,2025,AA-park factors-2025-2021.xlsx,21
+Erie SeaWolves,Eastern League,69,69,0.992,0.95,0.943,0.975,0.972,AA,2025,AA-park factors-2025-2021.xlsx,22
+Corpus Christi Hooks,Texas League,69,68,1.017,0.913,0.941,0.957,0.97,AA,2025,AA-park factors-2025-2021.xlsx,23
+Columbus Clingstones,Southern League,69,66,0.933,0.933,0.933,0.967,0.967,AA,2025,AA-park factors-2025-2021.xlsx,24
+Birmingham Barons,Southern League,69,69,0.847,1.009,0.931,1.005,0.965,AA,2025,AA-park factors-2025-2021.xlsx,25
+Rocket City Trash Pandas,Southern League,69,68,0.895,0.929,0.921,0.964,0.961,AA,2025,AA-park factors-2025-2021.xlsx,26
+Harrisburg Senators,Eastern League,69,69,0.906,0.93,0.914,0.965,0.957,AA,2025,AA-park factors-2025-2021.xlsx,27
+Binghamton Rumble Ponies,Eastern League,68,69,0.872,0.895,0.889,0.947,0.945,AA,2025,AA-park factors-2025-2021.xlsx,28
+Somerset Patriots,Eastern League,69,69,0.852,0.884,0.873,0.942,0.936,AA,2025,AA-park factors-2025-2021.xlsx,29
+Akron RubberDucks,Eastern League,68,69,0.841,0.873,0.868,0.937,0.934,AA,2025,AA-park factors-2025-2021.xlsx,30
+San Antonio Missions,Texas League,69,68,0.717,0.805,0.769,0.903,0.884,AA,2025,AA-park factors-2025-2021.xlsx,31
+Arkansas Travelers,Texas League,69,69,0.659,0.672,0.656,0.836,0.828,AA,2025,AA-park factors-2025-2021.xlsx,32
+Amarillo Sod Poodles,Texas League,68,69,1.332,1.398,1.362,1.199,1.181,AA,2024,AA-park factors-2025-2021.xlsx,2
+Bowie Baysox,Eastern League,68,69,1.321,1.201,1.227,1.1,1.114,AA,2024,AA-park factors-2025-2021.xlsx,3
+Chattanooga Lookouts,Southern League,67,68,1.276,1.148,1.182,1.074,1.091,AA,2024,AA-park factors-2025-2021.xlsx,4
+Reading Fightin Phils,Eastern League,69,68,1.211,1.112,1.15,1.056,1.075,AA,2024,AA-park factors-2025-2021.xlsx,5
+Springfield Cardinals,Texas League,69,69,1.183,1.092,1.103,1.046,1.052,AA,2024,AA-park factors-2025-2021.xlsx,6
+Portland Sea Dogs,Eastern League,69,69,1.129,1.086,1.099,1.043,1.049,AA,2024,AA-park factors-2025-2021.xlsx,7
+Midland RockHounds,Texas League,69,69,1.135,1.055,1.099,1.027,1.049,AA,2024,AA-park factors-2025-2021.xlsx,8
+Northwest Arkansas Naturals,Texas League,68,69,1.082,1.08,1.082,1.04,1.041,AA,2024,AA-park factors-2025-2021.xlsx,9
+Frisco RoughRiders,Texas League,69,69,1.188,1.012,1.077,1.006,1.038,AA,2024,AA-park factors-2025-2021.xlsx,10
+Biloxi Shuckers,Southern League,66,69,1.172,1.049,1.076,1.024,1.038,AA,2024,AA-park factors-2025-2021.xlsx,11
+Wichita Wind Surge,Texas League,69,69,0.952,1.099,1.062,1.049,1.031,AA,2024,AA-park factors-2025-2021.xlsx,12
+Altoona Curve,Eastern League,69,69,1.08,1.051,1.049,1.026,1.024,AA,2024,AA-park factors-2025-2021.xlsx,13
+Pensacola Blue Wahoos,Southern League,69,67,0.981,1.04,1.028,1.02,1.014,AA,2024,AA-park factors-2025-2021.xlsx,14
+Tennessee Smokies,Southern League,69,68,1.085,1.008,1.028,1.004,1.014,AA,2024,AA-park factors-2025-2021.xlsx,15
+Birmingham Barons,Southern League,69,69,0.914,1.035,1.022,1.018,1.011,AA,2024,AA-park factors-2025-2021.xlsx,16
+Hartford Yard Goats,Eastern League,68,68,1.012,1,1.007,1,1.004,AA,2024,AA-park factors-2025-2021.xlsx,17
+New Hampshire Fisher Cats,Eastern League,67,69,1.007,0.967,0.982,0.983,0.991,AA,2024,AA-park factors-2025-2021.xlsx,18
+Montgomery Biscuits,Southern League,68,69,0.877,0.989,0.971,0.995,0.986,AA,2024,AA-park factors-2025-2021.xlsx,19
+Rocket City Trash Pandas,Southern League,69,67,0.952,0.959,0.954,0.98,0.977,AA,2024,AA-park factors-2025-2021.xlsx,20
+Richmond Flying Squirrels,Eastern League,69,69,0.916,0.957,0.952,0.979,0.976,AA,2024,AA-park factors-2025-2021.xlsx,21
+Tulsa Drillers,Texas League,69,68,1.033,0.9,0.94,0.95,0.97,AA,2024,AA-park factors-2025-2021.xlsx,22
+Erie SeaWolves,Eastern League,68,67,0.821,0.966,0.931,0.983,0.966,AA,2024,AA-park factors-2025-2021.xlsx,23
+Akron RubberDucks,Eastern League,69,69,0.905,0.947,0.922,0.974,0.961,AA,2024,AA-park factors-2025-2021.xlsx,24
+Harrisburg Senators,Eastern League,69,69,0.883,0.913,0.918,0.956,0.959,AA,2024,AA-park factors-2025-2021.xlsx,25
+Binghamton Rumble Ponies,Eastern League,68,68,0.911,0.912,0.91,0.956,0.955,AA,2024,AA-park factors-2025-2021.xlsx,26
+Somerset Patriots,Eastern League,69,68,0.881,0.913,0.903,0.956,0.952,AA,2024,AA-park factors-2025-2021.xlsx,27
+Corpus Christi Hooks,Texas League,69,67,0.856,0.915,0.888,0.957,0.944,AA,2024,AA-park factors-2025-2021.xlsx,28
+San Antonio Missions,Texas League,68,68,0.765,0.806,0.816,0.903,0.908,AA,2024,AA-park factors-2025-2021.xlsx,29
+Mississippi Braves,,68,68,0.796,0.78,0.776,0.89,0.888,AA,2024,AA-park factors-2025-2021.xlsx,30
+Arkansas Travelers,Texas League,68,69,0.608,0.71,0.68,0.855,0.84,AA,2024,AA-park factors-2025-2021.xlsx,31
+Amarillo Sod Poodles,Texas League,69,69,1.321,1.398,1.393,1.199,1.196,AA,2023,AA-park factors-2025-2021.xlsx,2
+Bowie Baysox,Eastern League,69,68,1.097,1.177,1.157,1.089,1.078,AA,2023,AA-park factors-2025-2021.xlsx,3
+Wichita Wind Surge,Texas League,69,68,1.17,1.131,1.15,1.065,1.075,AA,2023,AA-park factors-2025-2021.xlsx,4
+Chattanooga Lookouts,Southern League,69,68,1.065,1.16,1.132,1.08,1.066,AA,2023,AA-park factors-2025-2021.xlsx,5
+Reading Fightin Phils,Eastern League,67,69,1.131,1.09,1.092,1.045,1.046,AA,2023,AA-park factors-2025-2021.xlsx,6
+Birmingham Barons,Southern League,69,69,1.213,1.042,1.085,1.021,1.043,AA,2023,AA-park factors-2025-2021.xlsx,7
+Springfield Cardinals,Texas League,69,69,0.956,1.088,1.058,1.044,1.029,AA,2023,AA-park factors-2025-2021.xlsx,8
+Portland Sea Dogs,Eastern League,68,68,1.079,1.049,1.058,1.025,1.029,AA,2023,AA-park factors-2025-2021.xlsx,9
+Montgomery Biscuits,Southern League,69,69,1.113,1.045,1.055,1.022,1.028,AA,2023,AA-park factors-2025-2021.xlsx,10
+Northwest Arkansas Naturals,Texas League,69,69,1.085,1.027,1.053,1.014,1.026,AA,2023,AA-park factors-2025-2021.xlsx,11
+Pensacola Blue Wahoos,Southern League,69,67,1.099,1.022,1.046,1.011,1.023,AA,2023,AA-park factors-2025-2021.xlsx,12
+Midland RockHounds,Texas League,69,69,1.127,1.003,1.032,1.001,1.016,AA,2023,AA-park factors-2025-2021.xlsx,13
+Altoona Curve,Eastern League,69,66,0.977,1.026,1.022,1.013,1.011,AA,2023,AA-park factors-2025-2021.xlsx,14
+Erie SeaWolves,Eastern League,69,68,1.041,0.995,1.017,0.997,1.009,AA,2023,AA-park factors-2025-2021.xlsx,15
+Hartford Yard Goats,Eastern League,66,67,1.018,1.004,1.004,1.002,1.002,AA,2023,AA-park factors-2025-2021.xlsx,16
+Biloxi Shuckers,Southern League,68,69,0.922,1.01,0.997,1.005,0.998,AA,2023,AA-park factors-2025-2021.xlsx,17
+Tennessee Smokies,Southern League,68,69,0.952,1.001,0.993,1.001,0.996,AA,2023,AA-park factors-2025-2021.xlsx,18
+Frisco RoughRiders,Texas League,68,69,1.002,0.984,0.982,0.992,0.991,AA,2023,AA-park factors-2025-2021.xlsx,19
+Richmond Flying Squirrels,Eastern League,69,69,1.008,0.965,0.976,0.982,0.988,AA,2023,AA-park factors-2025-2021.xlsx,20
+New Hampshire Fisher Cats,Eastern League,65,69,0.969,0.98,0.97,0.99,0.985,AA,2023,AA-park factors-2025-2021.xlsx,21
+Rocket City Trash Pandas,Southern League,69,69,0.939,0.952,0.953,0.976,0.977,AA,2023,AA-park factors-2025-2021.xlsx,22
+Harrisburg Senators,Eastern League,67,69,0.999,0.935,0.947,0.968,0.973,AA,2023,AA-park factors-2025-2021.xlsx,23
+Akron RubberDucks,Eastern League,69,69,0.878,0.941,0.941,0.97,0.97,AA,2023,AA-park factors-2025-2021.xlsx,24
+Somerset Patriots,Eastern League,69,68,0.917,0.933,0.929,0.966,0.965,AA,2023,AA-park factors-2025-2021.xlsx,25
+Corpus Christi Hooks,Texas League,69,69,0.881,0.935,0.927,0.968,0.963,AA,2023,AA-park factors-2025-2021.xlsx,26
+Binghamton Rumble Ponies,Eastern League,69,66,0.899,0.92,0.916,0.96,0.958,AA,2023,AA-park factors-2025-2021.xlsx,27
+Tulsa Drillers,Texas League,69,69,0.85,0.895,0.875,0.948,0.938,AA,2023,AA-park factors-2025-2021.xlsx,28
+San Antonio Missions,Texas League,69,69,0.933,0.827,0.851,0.914,0.926,AA,2023,AA-park factors-2025-2021.xlsx,29
+Mississippi Braves,,68,69,0.721,0.778,0.768,0.889,0.884,AA,2023,AA-park factors-2025-2021.xlsx,30
+Arkansas Travelers,Texas League,69,69,0.74,0.765,0.759,0.882,0.879,AA,2023,AA-park factors-2025-2021.xlsx,31
+Amarillo Sod Poodles,Texas League,69,68,1.532,1.442,1.45,1.221,1.225,AA,2022,AA-park factors-2025-2021.xlsx,2
+Bowie Baysox,Eastern League,69,69,1.206,1.221,1.219,1.111,1.11,AA,2022,AA-park factors-2025-2021.xlsx,3
+Chattanooga Lookouts,Southern League,68,68,1.135,1.218,1.212,1.109,1.106,AA,2022,AA-park factors-2025-2021.xlsx,4
+Springfield Cardinals,Texas League,69,69,1.158,1.162,1.161,1.081,1.081,AA,2022,AA-park factors-2025-2021.xlsx,5
+Wichita Wind Surge,Texas League,69,68,1.173,1.109,1.121,1.055,1.06,AA,2022,AA-park factors-2025-2021.xlsx,6
+Biloxi Shuckers,Southern League,66,69,1.095,1.066,1.067,1.033,1.033,AA,2022,AA-park factors-2025-2021.xlsx,7
+Reading Fightin Phils,Eastern League,69,69,1.006,1.068,1.063,1.034,1.032,AA,2022,AA-park factors-2025-2021.xlsx,8
+Altoona Curve,Eastern League,68,69,1.1,1.054,1.061,1.027,1.03,AA,2022,AA-park factors-2025-2021.xlsx,9
+Tennessee Smokies,Southern League,69,68,1.009,1.032,1.039,1.016,1.019,AA,2022,AA-park factors-2025-2021.xlsx,10
+Portland Sea Dogs,Eastern League,69,69,1.049,1.033,1.035,1.016,1.018,AA,2022,AA-park factors-2025-2021.xlsx,11
+Northwest Arkansas Naturals,Texas League,68,69,1.076,1.002,1.009,1.001,1.005,AA,2022,AA-park factors-2025-2021.xlsx,12
+Montgomery Biscuits,Southern League,64,67,0.971,1.006,1.003,1.003,1.001,AA,2022,AA-park factors-2025-2021.xlsx,13
+Hartford Yard Goats,Eastern League,69,68,0.972,0.996,0.993,0.998,0.996,AA,2022,AA-park factors-2025-2021.xlsx,14
+Akron RubberDucks,Eastern League,69,69,1.062,0.975,0.992,0.987,0.996,AA,2022,AA-park factors-2025-2021.xlsx,15
+Pensacola Blue Wahoos,Southern League,69,62,1.028,0.981,0.986,0.991,0.993,AA,2022,AA-park factors-2025-2021.xlsx,16
+Erie SeaWolves,Eastern League,69,69,1.043,0.969,0.983,0.984,0.991,AA,2022,AA-park factors-2025-2021.xlsx,17
+New Hampshire Fisher Cats,Eastern League,69,69,0.929,0.985,0.979,0.992,0.99,AA,2022,AA-park factors-2025-2021.xlsx,18
+Frisco RoughRiders,Texas League,69,68,0.894,0.975,0.976,0.987,0.988,AA,2022,AA-park factors-2025-2021.xlsx,19
+Corpus Christi Hooks,Texas League,68,69,1.002,0.965,0.968,0.983,0.984,AA,2022,AA-park factors-2025-2021.xlsx,20
+Rocket City Trash Pandas,Southern League,69,69,0.991,0.958,0.963,0.979,0.982,AA,2022,AA-park factors-2025-2021.xlsx,21
+Birmingham Barons,Southern League,69,69,0.961,0.955,0.957,0.978,0.978,AA,2022,AA-park factors-2025-2021.xlsx,22
+Richmond Flying Squirrels,Eastern League,68,69,0.949,0.942,0.944,0.971,0.972,AA,2022,AA-park factors-2025-2021.xlsx,23
+Somerset Patriots,Eastern League,69,67,0.942,0.942,0.941,0.971,0.971,AA,2022,AA-park factors-2025-2021.xlsx,24
+Midland RockHounds,Texas League,68,69,0.933,0.938,0.938,0.969,0.969,AA,2022,AA-park factors-2025-2021.xlsx,25
+Binghamton Rumble Ponies,Eastern League,67,69,0.927,0.935,0.934,0.967,0.967,AA,2022,AA-park factors-2025-2021.xlsx,26
+Tulsa Drillers,Texas League,69,67,0.84,0.918,0.912,0.959,0.956,AA,2022,AA-park factors-2025-2021.xlsx,27
+Harrisburg Senators,Eastern League,69,68,0.861,0.903,0.902,0.951,0.951,AA,2022,AA-park factors-2025-2021.xlsx,28
+Mississippi Braves,,67,69,0.827,0.81,0.811,0.905,0.906,AA,2022,AA-park factors-2025-2021.xlsx,29
+Arkansas Travelers,Texas League,69,69,0.775,0.779,0.778,0.889,0.889,AA,2022,AA-park factors-2025-2021.xlsx,30
+San Antonio Missions,Texas League,67,69,0.737,0.778,0.776,0.889,0.888,AA,2022,AA-park factors-2025-2021.xlsx,31
+Chattanooga Lookouts,Southern League,52,60,1.328,1.328,1.328,1.164,1.164,AA,2021,AA-park factors-2025-2021.xlsx,2
+Amarillo Sod Poodles,Texas League,60,60,1.328,1.328,1.328,1.164,1.164,AA,2021,AA-park factors-2025-2021.xlsx,3
+Bowie Baysox,Eastern League,60,60,1.239,1.239,1.239,1.12,1.12,AA,2021,AA-park factors-2025-2021.xlsx,4
+Springfield Cardinals,Texas League,60,60,1.166,1.166,1.166,1.083,1.083,AA,2021,AA-park factors-2025-2021.xlsx,5
+Reading Fightin Phils,Eastern League,54,59,1.149,1.149,1.149,1.074,1.074,AA,2021,AA-park factors-2025-2021.xlsx,6
+Frisco RoughRiders,Texas League,60,59,1.098,1.098,1.098,1.049,1.049,AA,2021,AA-park factors-2025-2021.xlsx,7
+Tennessee Smokies,Southern League,60,49,1.084,1.084,1.084,1.042,1.042,AA,2021,AA-park factors-2025-2021.xlsx,8
+New Hampshire Fisher Cats,Eastern League,55,52,1.055,1.055,1.055,1.027,1.027,AA,2021,AA-park factors-2025-2021.xlsx,9
+Montgomery Biscuits,Southern League,58,59,1.05,1.05,1.05,1.025,1.025,AA,2021,AA-park factors-2025-2021.xlsx,10
+Wichita Wind Surge,Texas League,60,60,1.042,1.042,1.042,1.021,1.021,AA,2021,AA-park factors-2025-2021.xlsx,11
+Biloxi Shuckers,Southern League,54,60,1.025,1.025,1.025,1.013,1.013,AA,2021,AA-park factors-2025-2021.xlsx,12
+Hartford Yard Goats,Eastern League,58,60,1.024,1.024,1.024,1.012,1.012,AA,2021,AA-park factors-2025-2021.xlsx,13
+Tulsa Drillers,Texas League,60,60,1.02,1.02,1.02,1.01,1.01,AA,2021,AA-park factors-2025-2021.xlsx,14
+Portland Sea Dogs,Eastern League,56,58,1.015,1.015,1.015,1.008,1.008,AA,2021,AA-park factors-2025-2021.xlsx,15
+Altoona Curve,Eastern League,58,59,1.003,1.003,1.003,1.001,1.001,AA,2021,AA-park factors-2025-2021.xlsx,16
+Harrisburg Senators,Eastern League,61,57,0.962,0.962,0.962,0.981,0.981,AA,2021,AA-park factors-2025-2021.xlsx,17
+Birmingham Barons,Southern League,60,58,0.95,0.95,0.95,0.975,0.975,AA,2021,AA-park factors-2025-2021.xlsx,18
+Midland RockHounds,Texas League,60,59,0.947,0.947,0.947,0.974,0.974,AA,2021,AA-park factors-2025-2021.xlsx,19
+Binghamton Rumble Ponies,Eastern League,51,56,0.943,0.943,0.943,0.971,0.971,AA,2021,AA-park factors-2025-2021.xlsx,20
+Somerset Patriots,Eastern League,59,60,0.94,0.94,0.94,0.97,0.97,AA,2021,AA-park factors-2025-2021.xlsx,21
+Richmond Flying Squirrels,Eastern League,60,53,0.935,0.935,0.935,0.967,0.967,AA,2021,AA-park factors-2025-2021.xlsx,22
+Pensacola Blue Wahoos,Southern League,60,51,0.923,0.923,0.923,0.962,0.962,AA,2021,AA-park factors-2025-2021.xlsx,23
+Rocket City Trash Pandas,Southern League,52,58,0.921,0.921,0.921,0.961,0.961,AA,2021,AA-park factors-2025-2021.xlsx,24
+Corpus Christi Hooks,Texas League,59,60,0.917,0.917,0.917,0.959,0.959,AA,2021,AA-park factors-2025-2021.xlsx,25
+Northwest Arkansas Naturals,Texas League,59,60,0.909,0.909,0.909,0.954,0.954,AA,2021,AA-park factors-2025-2021.xlsx,26
+Erie SeaWolves,Eastern League,60,59,0.892,0.892,0.892,0.946,0.946,AA,2021,AA-park factors-2025-2021.xlsx,27
+Akron RubberDucks,Eastern League,60,59,0.887,0.887,0.887,0.943,0.943,AA,2021,AA-park factors-2025-2021.xlsx,28
+San Antonio Missions,Texas League,60,60,0.835,0.835,0.835,0.917,0.917,AA,2021,AA-park factors-2025-2021.xlsx,29
+Mississippi Braves,,55,56,0.788,0.788,0.788,0.894,0.894,AA,2021,AA-park factors-2025-2021.xlsx,30
+Arkansas Travelers,Texas League,60,60,0.784,0.784,0.784,0.892,0.892,AA,2021,AA-park factors-2025-2021.xlsx,31
+Lansing Lugnuts,Midwest League,66,66,1.398,1.295,1.316,1.147,1.158,A+,2025,HiA-park factors-2025-2021.xlsx,2
+Asheville Tourists,South Atlantic League,63,65,1.197,1.27,1.252,1.135,1.126,A+,2025,HiA-park factors-2025-2021.xlsx,3
+Greenville Drive,South Atlantic League,66,66,1.264,1.122,1.158,1.061,1.079,A+,2025,HiA-park factors-2025-2021.xlsx,4
+Everett AquaSox,Northwest League,66,66,1.23,1.091,1.146,1.046,1.073,A+,2025,HiA-park factors-2025-2021.xlsx,5
+Spokane Indians,Northwest League,66,66,1.124,1.147,1.138,1.074,1.069,A+,2025,HiA-park factors-2025-2021.xlsx,6
+Greensboro Grasshoppers,South Atlantic League,65,66,1.125,1.064,1.092,1.032,1.046,A+,2025,HiA-park factors-2025-2021.xlsx,7
+Peoria Chiefs,Midwest League,65,65,1.151,1.057,1.082,1.029,1.041,A+,2025,HiA-park factors-2025-2021.xlsx,8
+Wisconsin Timber Rattlers,Midwest League,66,64,1.054,1.046,1.053,1.023,1.027,A+,2025,HiA-park factors-2025-2021.xlsx,9
+Hillsboro Hops,Northwest League,66,65,1.085,1.059,1.049,1.03,1.024,A+,2025,HiA-park factors-2025-2021.xlsx,10
+Bowling Green Hot Rods,South Atlantic League,65,65,0.954,1.069,1.033,1.035,1.016,A+,2025,HiA-park factors-2025-2021.xlsx,11
+Aberdeen IronBirds,,65,64,1.027,1.04,1.031,1.02,1.015,A+,2025,HiA-park factors-2025-2021.xlsx,12
+Dayton Dragons,Midwest League,63,65,1.005,1.039,1.019,1.02,1.009,A+,2025,HiA-park factors-2025-2021.xlsx,13
+Lake County Captains,Midwest League,66,66,0.998,0.986,1.01,0.993,1.005,A+,2025,HiA-park factors-2025-2021.xlsx,14
+Fort Wayne TinCaps,Midwest League,66,65,0.91,1.014,1.009,1.007,1.005,A+,2025,HiA-park factors-2025-2021.xlsx,15
+Great Lakes Loons,Midwest League,65,65,1.008,1.004,1.006,1.002,1.003,A+,2025,HiA-park factors-2025-2021.xlsx,16
+Winston-Salem Dash,South Atlantic League,65,65,0.944,0.972,0.971,0.986,0.986,A+,2025,HiA-park factors-2025-2021.xlsx,17
+Hub City Spartanburgers,South Atlantic League,66,65,0.968,0.968,0.968,0.984,0.984,A+,2025,HiA-park factors-2025-2021.xlsx,18
+Cedar Rapids Kernels,Midwest League,66,66,0.935,0.975,0.958,0.988,0.979,A+,2025,HiA-park factors-2025-2021.xlsx,19
+Quad Cities River Bandits,Midwest League,66,66,1.039,0.918,0.95,0.959,0.975,A+,2025,HiA-park factors-2025-2021.xlsx,20
+Brooklyn Cyclones,South Atlantic League,66,65,0.98,0.915,0.934,0.958,0.967,A+,2025,HiA-park factors-2025-2021.xlsx,21
+South Bend Cubs,Midwest League,66,65,0.857,0.955,0.924,0.978,0.962,A+,2025,HiA-park factors-2025-2021.xlsx,22
+Tri-City Dust Devils,Northwest League,65,66,0.981,0.882,0.92,0.941,0.96,A+,2025,HiA-park factors-2025-2021.xlsx,23
+Hudson Valley Renegades,South Atlantic League,65,64,0.82,0.925,0.918,0.963,0.959,A+,2025,HiA-park factors-2025-2021.xlsx,24
+Wilmington Blue Rocks,South Atlantic League,64,66,0.896,0.937,0.918,0.968,0.959,A+,2025,HiA-park factors-2025-2021.xlsx,25
+Beloit Sky Carp,Midwest League,65,66,0.908,0.921,0.917,0.961,0.958,A+,2025,HiA-park factors-2025-2021.xlsx,26
+Jersey Shore BlueClaws,South Atlantic League,62,65,0.976,0.876,0.913,0.938,0.957,A+,2025,HiA-park factors-2025-2021.xlsx,27
+Vancouver Canadians,Northwest League,66,66,0.869,0.903,0.9,0.951,0.95,A+,2025,HiA-park factors-2025-2021.xlsx,28
+Eugene Emeralds,Northwest League,66,66,0.787,0.925,0.885,0.962,0.943,A+,2025,HiA-park factors-2025-2021.xlsx,29
+Rome Emperors,South Atlantic League,66,62,0.883,0.841,0.842,0.92,0.921,A+,2025,HiA-park factors-2025-2021.xlsx,30
+West Michigan Whitecaps,Midwest League,65,66,0.84,0.835,0.834,0.917,0.917,A+,2025,HiA-park factors-2025-2021.xlsx,31
+Asheville Tourists,South Atlantic League,64,66,1.316,1.298,1.303,1.149,1.151,A+,2024,HiA-park factors-2025-2021.xlsx,3
+Lansing Lugnuts,Midwest League,66,65,1.2,1.287,1.263,1.144,1.131,A+,2024,HiA-park factors-2025-2021.xlsx,4
+Spokane Indians,Northwest League,66,64,1.14,1.2,1.178,1.1,1.089,A+,2024,HiA-park factors-2025-2021.xlsx,5
+Everett AquaSox,Northwest League,66,66,1.115,1.113,1.093,1.057,1.046,A+,2024,HiA-park factors-2025-2021.xlsx,6
+Bowling Green Hot Rods,South Atlantic League,65,64,1.079,1.065,1.09,1.032,1.045,A+,2024,HiA-park factors-2025-2021.xlsx,7
+Greensboro Grasshoppers,South Atlantic League,66,64,1.086,1.106,1.086,1.053,1.043,A+,2024,HiA-park factors-2025-2021.xlsx,8
+Greenville Drive,South Atlantic League,66,66,1.025,1.041,1.047,1.021,1.023,A+,2024,HiA-park factors-2025-2021.xlsx,9
+Fort Wayne TinCaps,Midwest League,66,66,1.171,0.969,1.045,0.984,1.022,A+,2024,HiA-park factors-2025-2021.xlsx,10
+Dayton Dragons,Midwest League,66,66,0.971,1.052,1.045,1.026,1.022,A+,2024,HiA-park factors-2025-2021.xlsx,11
+Wisconsin Timber Rattlers,Midwest League,65,66,1.07,1.022,1.038,1.011,1.019,A+,2024,HiA-park factors-2025-2021.xlsx,12
+Lake County Captains,Midwest League,64,66,1.093,1.018,1.023,1.009,1.011,A+,2024,HiA-park factors-2025-2021.xlsx,13
+Peoria Chiefs,Midwest League,66,65,1.021,1.023,1.018,1.012,1.009,A+,2024,HiA-park factors-2025-2021.xlsx,14
+Aberdeen IronBirds,,66,66,1.01,0.99,1.014,0.995,1.007,A+,2024,HiA-park factors-2025-2021.xlsx,15
+South Bend Cubs,Midwest League,66,66,0.959,1.019,1.006,1.009,1.003,A+,2024,HiA-park factors-2025-2021.xlsx,16
+Hillsboro Hops,Northwest League,65,66,0.956,0.974,0.995,0.987,0.997,A+,2024,HiA-park factors-2025-2021.xlsx,17
+Hudson Valley Renegades,South Atlantic League,66,65,1.082,0.961,0.992,0.981,0.996,A+,2024,HiA-park factors-2025-2021.xlsx,18
+Winston-Salem Dash,South Atlantic League,66,66,1.021,0.981,0.991,0.99,0.995,A+,2024,HiA-park factors-2025-2021.xlsx,19
+Great Lakes Loons,Midwest League,66,64,1.005,0.968,0.987,0.984,0.993,A+,2024,HiA-park factors-2025-2021.xlsx,20
+Cedar Rapids Kernels,Midwest League,64,66,0.952,0.991,0.985,0.995,0.993,A+,2024,HiA-park factors-2025-2021.xlsx,21
+Hickory Crawdads,Carolina League,66,66,0.966,0.987,0.98,0.993,0.99,A+,2024,HiA-park factors-2025-2021.xlsx,22
+Eugene Emeralds,Northwest League,66,65,0.932,0.971,0.977,0.985,0.988,A+,2024,HiA-park factors-2025-2021.xlsx,23
+Wilmington Blue Rocks,South Atlantic League,66,66,0.909,0.944,0.942,0.972,0.971,A+,2024,HiA-park factors-2025-2021.xlsx,24
+Vancouver Canadians,Northwest League,63,66,0.947,0.922,0.926,0.961,0.963,A+,2024,HiA-park factors-2025-2021.xlsx,25
+Beloit Sky Carp,Midwest League,65,64,0.923,0.898,0.911,0.949,0.956,A+,2024,HiA-park factors-2025-2021.xlsx,26
+Quad Cities River Bandits,Midwest League,65,66,0.85,0.961,0.91,0.981,0.955,A+,2024,HiA-park factors-2025-2021.xlsx,27
+Jersey Shore BlueClaws,South Atlantic League,66,66,0.886,0.91,0.888,0.955,0.944,A+,2024,HiA-park factors-2025-2021.xlsx,28
+Brooklyn Cyclones,South Atlantic League,66,66,0.897,0.879,0.884,0.939,0.942,A+,2024,HiA-park factors-2025-2021.xlsx,29
+Tri-City Dust Devils,Northwest League,66,65,0.905,0.824,0.842,0.912,0.921,A+,2024,HiA-park factors-2025-2021.xlsx,30
+West Michigan Whitecaps,Midwest League,66,65,0.82,0.833,0.831,0.916,0.915,A+,2024,HiA-park factors-2025-2021.xlsx,31
+Rome Emperors,South Atlantic League,63,65,0.751,0.815,0.809,0.908,0.905,A+,2024,HiA-park factors-2025-2021.xlsx,32
+Lansing Lugnuts,Midwest League,66,65,1.305,1.329,1.327,1.165,1.164,A+,2023,HiA-park factors-2025-2021.xlsx,2
+Asheville Tourists,South Atlantic League,64,63,1.291,1.348,1.321,1.174,1.161,A+,2023,HiA-park factors-2025-2021.xlsx,3
+Spokane Indians,Northwest League,64,65,1.176,1.26,1.24,1.13,1.12,A+,2023,HiA-park factors-2025-2021.xlsx,4
+Everett AquaSox,Northwest League,66,66,0.954,1.163,1.124,1.081,1.062,A+,2023,HiA-park factors-2025-2021.xlsx,5
+Greensboro Grasshoppers,South Atlantic League,63,66,1.002,1.138,1.116,1.069,1.058,A+,2023,HiA-park factors-2025-2021.xlsx,6
+Dayton Dragons,Midwest League,66,66,1.157,1.054,1.087,1.027,1.043,A+,2023,HiA-park factors-2025-2021.xlsx,7
+Bowling Green Hot Rods,South Atlantic League,64,63,1.174,1.012,1.059,1.006,1.03,A+,2023,HiA-park factors-2025-2021.xlsx,8
+Greenville Drive,South Atlantic League,66,66,1.106,1.039,1.053,1.019,1.027,A+,2023,HiA-park factors-2025-2021.xlsx,9
+South Bend Cubs,Midwest League,65,65,1.056,1.052,1.053,1.026,1.026,A+,2023,HiA-park factors-2025-2021.xlsx,10
+Wisconsin Timber Rattlers,Midwest League,65,65,1.017,1.024,1.014,1.012,1.007,A+,2023,HiA-park factors-2025-2021.xlsx,11
+Hillsboro Hops,Northwest League,66,66,1.127,0.982,1.01,0.991,1.005,A+,2023,HiA-park factors-2025-2021.xlsx,12
+Cedar Rapids Kernels,Midwest League,66,66,1.039,0.976,0.997,0.988,0.998,A+,2023,HiA-park factors-2025-2021.xlsx,13
+Eugene Emeralds,Northwest League,66,66,1.085,0.97,0.996,0.985,0.998,A+,2023,HiA-park factors-2025-2021.xlsx,14
+Peoria Chiefs,Midwest League,66,66,0.997,0.968,0.993,0.984,0.996,A+,2023,HiA-park factors-2025-2021.xlsx,15
+Hickory Crawdads,Carolina League,63,62,0.992,0.989,0.992,0.994,0.996,A+,2023,HiA-park factors-2025-2021.xlsx,16
+Aberdeen IronBirds,,66,63,1.082,0.956,0.989,0.978,0.995,A+,2023,HiA-park factors-2025-2021.xlsx,17
+Quad Cities River Bandits,Midwest League,66,66,0.879,0.979,0.976,0.99,0.988,A+,2023,HiA-park factors-2025-2021.xlsx,18
+Wilmington Blue Rocks,South Atlantic League,64,66,1.002,0.976,0.974,0.988,0.987,A+,2023,HiA-park factors-2025-2021.xlsx,19
+Lake County Captains,Midwest League,65,64,0.881,0.97,0.964,0.985,0.982,A+,2023,HiA-park factors-2025-2021.xlsx,20
+Winston-Salem Dash,South Atlantic League,63,64,0.954,0.954,0.957,0.977,0.978,A+,2023,HiA-park factors-2025-2021.xlsx,21
+Great Lakes Loons,Midwest League,65,66,1.002,0.943,0.957,0.971,0.978,A+,2023,HiA-park factors-2025-2021.xlsx,22
+Beloit Sky Carp,Midwest League,66,65,0.93,0.977,0.942,0.989,0.971,A+,2023,HiA-park factors-2025-2021.xlsx,23
+Hudson Valley Renegades,South Atlantic League,66,66,0.888,0.968,0.937,0.984,0.969,A+,2023,HiA-park factors-2025-2021.xlsx,24
+Fort Wayne TinCaps,Midwest League,66,66,0.982,0.942,0.934,0.971,0.967,A+,2023,HiA-park factors-2025-2021.xlsx,25
+Jersey Shore BlueClaws,South Atlantic League,65,66,0.779,0.931,0.919,0.966,0.959,A+,2023,HiA-park factors-2025-2021.xlsx,26
+Vancouver Canadians,Northwest League,65,66,0.896,0.856,0.882,0.928,0.941,A+,2023,HiA-park factors-2025-2021.xlsx,27
+Brooklyn Cyclones,South Atlantic League,66,65,0.873,0.837,0.854,0.919,0.927,A+,2023,HiA-park factors-2025-2021.xlsx,28
+Rome Braves,South Atlantic League,66,66,0.901,0.827,0.848,0.914,0.924,A+,2023,HiA-park factors-2025-2021.xlsx,29
+West Michigan Whitecaps,Midwest League,64,66,0.846,0.85,0.846,0.925,0.923,A+,2023,HiA-park factors-2025-2021.xlsx,30
+Tri-City Dust Devils,Northwest League,66,64,0.767,0.793,0.787,0.897,0.894,A+,2023,HiA-park factors-2025-2021.xlsx,31
+Asheville Tourists,South Atlantic League,66,65,1.285,1.375,1.366,1.187,1.183,A+,2022,HiA-park factors-2025-2021.xlsx,2
+Lansing Lugnuts,Midwest League,65,66,1.368,1.342,1.346,1.171,1.173,A+,2022,HiA-park factors-2025-2021.xlsx,3
+Spokane Indians,Northwest League,64,66,1.292,1.311,1.307,1.155,1.154,A+,2022,HiA-park factors-2025-2021.xlsx,4
+Everett AquaSox,Northwest League,65,66,1.303,1.286,1.291,1.143,1.146,A+,2022,HiA-park factors-2025-2021.xlsx,5
+Greensboro Grasshoppers,South Atlantic League,65,63,1.252,1.218,1.225,1.109,1.113,A+,2022,HiA-park factors-2025-2021.xlsx,6
+Quad Cities River Bandits,Midwest League,66,66,1.153,1.031,1.058,1.016,1.029,A+,2022,HiA-park factors-2025-2021.xlsx,7
+South Bend Cubs,Midwest League,66,65,1.047,1.05,1.05,1.025,1.025,A+,2022,HiA-park factors-2025-2021.xlsx,8
+Jersey Shore BlueClaws,South Atlantic League,66,66,1.111,1.028,1.048,1.014,1.024,A+,2022,HiA-park factors-2025-2021.xlsx,9
+Lake County Captains,Midwest League,63,66,1.098,1.02,1.037,1.01,1.018,A+,2022,HiA-park factors-2025-2021.xlsx,10
+Wisconsin Timber Rattlers,Midwest League,64,65,0.983,1.027,1.016,1.014,1.008,A+,2022,HiA-park factors-2025-2021.xlsx,11
+Dayton Dragons,Midwest League,66,62,1.04,1.005,1.012,1.003,1.006,A+,2022,HiA-park factors-2025-2021.xlsx,12
+Greenville Drive,South Atlantic League,66,64,0.993,1.004,1.002,1.002,1.001,A+,2022,HiA-park factors-2025-2021.xlsx,13
+Hudson Valley Renegades,South Atlantic League,65,65,0.932,1.011,0.998,1.006,0.999,A+,2022,HiA-park factors-2025-2021.xlsx,14
+Hickory Crawdads,Carolina League,65,66,1.001,0.987,0.989,0.994,0.995,A+,2022,HiA-park factors-2025-2021.xlsx,15
+Beloit Sky Carp,Midwest League,65,64,0.839,1.004,0.977,1.002,0.988,A+,2022,HiA-park factors-2025-2021.xlsx,16
+Peoria Chiefs,Midwest League,66,66,1.053,0.954,0.976,0.977,0.988,A+,2022,HiA-park factors-2025-2021.xlsx,17
+Winston-Salem Dash,South Atlantic League,66,66,0.973,0.954,0.957,0.977,0.979,A+,2022,HiA-park factors-2025-2021.xlsx,18
+Wilmington Blue Rocks,South Atlantic League,64,66,0.921,0.963,0.952,0.982,0.976,A+,2022,HiA-park factors-2025-2021.xlsx,19
+Cedar Rapids Kernels,Midwest League,65,66,0.98,0.943,0.95,0.972,0.975,A+,2022,HiA-park factors-2025-2021.xlsx,20
+Bowling Green Hot Rods,South Atlantic League,65,65,0.957,0.938,0.942,0.969,0.971,A+,2022,HiA-park factors-2025-2021.xlsx,21
+Great Lakes Loons,Midwest League,66,65,0.904,0.915,0.913,0.958,0.957,A+,2022,HiA-park factors-2025-2021.xlsx,22
+Eugene Emeralds,Northwest League,63,66,0.896,0.913,0.909,0.956,0.954,A+,2022,HiA-park factors-2025-2021.xlsx,23
+Fort Wayne TinCaps,Midwest League,65,65,0.79,0.922,0.904,0.961,0.952,A+,2022,HiA-park factors-2025-2021.xlsx,24
+Hillsboro Hops,Northwest League,66,64,0.846,0.909,0.902,0.955,0.951,A+,2022,HiA-park factors-2025-2021.xlsx,25
+Aberdeen IronBirds,,66,66,0.89,0.899,0.898,0.95,0.949,A+,2022,HiA-park factors-2025-2021.xlsx,26
+Vancouver Canadians,Northwest League,66,63,0.92,0.837,0.859,0.919,0.929,A+,2022,HiA-park factors-2025-2021.xlsx,27
+West Michigan Whitecaps,Midwest League,65,66,0.834,0.852,0.849,0.926,0.925,A+,2022,HiA-park factors-2025-2021.xlsx,28
+Brooklyn Cyclones,South Atlantic League,66,66,0.865,0.819,0.829,0.909,0.915,A+,2022,HiA-park factors-2025-2021.xlsx,29
+Tri-City Dust Devils,Northwest League,65,64,0.804,0.808,0.808,0.904,0.904,A+,2022,HiA-park factors-2025-2021.xlsx,30
+Rome Braves,South Atlantic League,63,65,0.799,0.793,0.794,0.897,0.897,A+,2022,HiA-park factors-2025-2021.xlsx,31
+Asheville Tourists,South Atlantic League,58,58,1.488,1.488,1.488,1.244,1.244,A+,2021,HiA-park factors-2025-2021.xlsx,2
+Spokane Indians,Northwest League,58,58,1.33,1.33,1.33,1.165,1.165,A+,2021,HiA-park factors-2025-2021.xlsx,3
+Lansing Lugnuts,Midwest League,60,60,1.313,1.313,1.313,1.157,1.157,A+,2021,HiA-park factors-2025-2021.xlsx,4
+Everett AquaSox,Northwest League,57,60,1.273,1.273,1.273,1.137,1.137,A+,2021,HiA-park factors-2025-2021.xlsx,5
+Greensboro Grasshoppers,South Atlantic League,60,60,1.185,1.185,1.185,1.092,1.092,A+,2021,HiA-park factors-2025-2021.xlsx,6
+Beloit Snappers,Midwest League,60,60,1.184,1.184,1.184,1.092,1.092,A+,2021,HiA-park factors-2025-2021.xlsx,7
+Hudson Valley Renegades,South Atlantic League,60,60,1.096,1.096,1.096,1.048,1.048,A+,2021,HiA-park factors-2025-2021.xlsx,8
+Fort Wayne TinCaps,Midwest League,60,60,1.075,1.075,1.075,1.037,1.037,A+,2021,HiA-park factors-2025-2021.xlsx,9
+Wisconsin Timber Rattlers,Midwest League,60,59,1.066,1.066,1.066,1.033,1.033,A+,2021,HiA-park factors-2025-2021.xlsx,10
+South Bend Cubs,Midwest League,59,60,1.056,1.056,1.056,1.028,1.028,A+,2021,HiA-park factors-2025-2021.xlsx,11
+Greenville Drive,South Atlantic League,60,60,1.016,1.016,1.016,1.008,1.008,A+,2021,HiA-park factors-2025-2021.xlsx,12
+Wilmington Blue Rocks,South Atlantic League,60,56,0.997,0.997,0.997,0.999,0.999,A+,2021,HiA-park factors-2025-2021.xlsx,13
+Hillsboro Hops,Northwest League,60,52,0.985,0.985,0.985,0.993,0.993,A+,2021,HiA-park factors-2025-2021.xlsx,14
+Hickory Crawdads,Carolina League,58,56,0.972,0.972,0.972,0.986,0.986,A+,2021,HiA-park factors-2025-2021.xlsx,15
+Dayton Dragons,Midwest League,60,60,0.97,0.97,0.97,0.985,0.985,A+,2021,HiA-park factors-2025-2021.xlsx,16
+Jersey Shore BlueClaws,South Atlantic League,58,60,0.952,0.952,0.952,0.976,0.976,A+,2021,HiA-park factors-2025-2021.xlsx,17
+Lake County Captains,Midwest League,60,60,0.944,0.944,0.944,0.972,0.972,A+,2021,HiA-park factors-2025-2021.xlsx,18
+Winston-Salem Dash,South Atlantic League,60,59,0.934,0.934,0.934,0.967,0.967,A+,2021,HiA-park factors-2025-2021.xlsx,19
+Eugene Emeralds,Northwest League,59,60,0.928,0.928,0.928,0.964,0.964,A+,2021,HiA-park factors-2025-2021.xlsx,20
+Great Lakes Loons,Midwest League,60,60,0.927,0.927,0.927,0.964,0.964,A+,2021,HiA-park factors-2025-2021.xlsx,21
+Bowling Green Hot Rods,South Atlantic League,58,60,0.921,0.921,0.921,0.96,0.96,A+,2021,HiA-park factors-2025-2021.xlsx,22
+Quad Cities River Bandits,Midwest League,59,59,0.915,0.915,0.915,0.958,0.958,A+,2021,HiA-park factors-2025-2021.xlsx,23
+Aberdeen IronBirds,,59,60,0.909,0.909,0.909,0.955,0.955,A+,2021,HiA-park factors-2025-2021.xlsx,24
+Cedar Rapids Kernels,Midwest League,60,60,0.906,0.906,0.906,0.953,0.953,A+,2021,HiA-park factors-2025-2021.xlsx,25
+West Michigan Whitecaps,Midwest League,60,60,0.872,0.872,0.872,0.936,0.936,A+,2021,HiA-park factors-2025-2021.xlsx,26
+Peoria Chiefs,Midwest League,60,60,0.859,0.859,0.859,0.93,0.93,A+,2021,HiA-park factors-2025-2021.xlsx,27
+Tri-City Dust Devils,Northwest League,54,57,0.813,0.813,0.813,0.907,0.907,A+,2021,HiA-park factors-2025-2021.xlsx,28
+Rome Braves,South Atlantic League,57,59,0.787,0.787,0.787,0.893,0.893,A+,2021,HiA-park factors-2025-2021.xlsx,29
+Brooklyn Cyclones,South Atlantic League,59,59,0.776,0.776,0.776,0.888,0.888,A+,2021,HiA-park factors-2025-2021.xlsx,30
+Vancouver Canadians,Northwest League,59,60,0.767,0.767,0.767,0.884,0.884,A+,2021,HiA-park factors-2025-2021.xlsx,31
+Hickory Crawdads,Carolina League,65,65,1.274,1.274,1.274,1.137,1.137,A,2025,LoA-park factors-2025-2021.xlsx,2
+Salem Red Sox,Carolina League,65,65,1.106,1.191,1.163,1.095,1.081,A,2025,LoA-park factors-2025-2021.xlsx,3
+San Jose Giants,California League,66,66,1.211,1.092,1.125,1.046,1.063,A,2025,LoA-park factors-2025-2021.xlsx,4
+Stockton Ports,California League,66,66,1.067,1.115,1.094,1.058,1.047,A,2025,LoA-park factors-2025-2021.xlsx,5
+Rancho Cucamonga Quakes,California League,66,66,1.165,1.047,1.082,1.024,1.041,A,2025,LoA-park factors-2025-2021.xlsx,6
+Clearwater Threshers,Florida State League,66,62,1.063,1.084,1.082,1.042,1.041,A,2025,LoA-park factors-2025-2021.xlsx,7
+Daytona Tortugas,Florida State League,66,65,1.106,1.034,1.058,1.017,1.029,A,2025,LoA-park factors-2025-2021.xlsx,8
+Fredericksburg Nationals,Carolina League,66,63,1.151,1.019,1.056,1.01,1.028,A,2025,LoA-park factors-2025-2021.xlsx,9
+Carolina Mudcats,Carolina League,63,65,1.057,1.052,1.053,1.026,1.027,A,2025,LoA-park factors-2025-2021.xlsx,10
+Augusta GreenJackets,Carolina League,64,65,1.062,1.024,1.047,1.012,1.024,A,2025,LoA-park factors-2025-2021.xlsx,11
+Dunedin Blue Jays,Florida State League,63,63,1.079,1.02,1.036,1.01,1.018,A,2025,LoA-park factors-2025-2021.xlsx,12
+Bradenton Marauders,Florida State League,64,65,0.99,1.002,1.029,1.001,1.014,A,2025,LoA-park factors-2025-2021.xlsx,13
+Tampa Tarpons,Florida State League,62,64,1.015,1.01,1.013,1.005,1.007,A,2025,LoA-park factors-2025-2021.xlsx,14
+Jupiter Hammerheads,Florida State League,66,65,1.077,0.974,1.009,0.987,1.005,A,2025,LoA-park factors-2025-2021.xlsx,15
+Fayetteville Woodpeckers,Carolina League,66,66,0.907,1.006,1,1.003,1,A,2025,LoA-park factors-2025-2021.xlsx,16
+Lakeland Flying Tigers,Florida State League,63,65,0.996,1.006,0.988,1.003,0.994,A,2025,LoA-park factors-2025-2021.xlsx,17
+Columbia Fireflies,Carolina League,65,64,0.961,1.013,0.985,1.006,0.992,A,2025,LoA-park factors-2025-2021.xlsx,18
+Myrtle Beach Pelicans,Carolina League,63,65,1.08,0.937,0.981,0.969,0.991,A,2025,LoA-park factors-2025-2021.xlsx,19
+Lake Elsinore Storm,California League,66,66,0.963,0.977,0.969,0.989,0.985,A,2025,LoA-park factors-2025-2021.xlsx,20
+Inland Empire 66ers,California League,66,66,0.959,0.977,0.968,0.989,0.984,A,2025,LoA-park factors-2025-2021.xlsx,21
+Lynchburg Hillcats,Carolina League,66,63,0.928,0.985,0.966,0.992,0.983,A,2025,LoA-park factors-2025-2021.xlsx,22
+Kannapolis Cannon Ballers,Carolina League,66,66,0.986,0.956,0.958,0.978,0.979,A,2025,LoA-park factors-2025-2021.xlsx,23
+Fresno Grizzlies,California League,66,66,0.989,0.93,0.952,0.965,0.976,A,2025,LoA-park factors-2025-2021.xlsx,24
+Fort Myers Mighty Mussels,Florida State League,61,64,0.927,0.971,0.942,0.985,0.971,A,2025,LoA-park factors-2025-2021.xlsx,25
+Palm Beach Cardinals,Florida State League,65,65,0.918,0.954,0.94,0.977,0.97,A,2025,LoA-park factors-2025-2021.xlsx,26
+Delmarva Shorebirds,Carolina League,64,66,0.868,0.943,0.928,0.972,0.964,A,2025,LoA-park factors-2025-2021.xlsx,27
+St. Lucie Mets,Florida State League,66,64,0.845,0.954,0.925,0.977,0.962,A,2025,LoA-park factors-2025-2021.xlsx,28
+Modesto Nuts,,66,66,0.836,0.91,0.924,0.955,0.962,A,2025,LoA-park factors-2025-2021.xlsx,29
+Visalia Rawhide,California League,66,66,0.855,0.967,0.92,0.984,0.96,A,2025,LoA-park factors-2025-2021.xlsx,30
+Charleston RiverDogs,Carolina League,65,65,0.74,0.927,0.896,0.964,0.948,A,2025,LoA-park factors-2025-2021.xlsx,31
+Salem Red Sox,Carolina League,66,66,1.181,1.196,1.21,1.098,1.105,A,2024,LoA-park factors-2025-2021.xlsx,2
+Stockton Ports,California League,66,64,1.086,1.14,1.131,1.07,1.066,A,2024,LoA-park factors-2025-2021.xlsx,3
+Carolina Mudcats,Carolina League,64,65,1.049,1.115,1.082,1.057,1.041,A,2024,LoA-park factors-2025-2021.xlsx,4
+Clearwater Threshers,Florida State League,63,64,1.111,1.053,1.076,1.027,1.038,A,2024,LoA-park factors-2025-2021.xlsx,5
+Columbia Fireflies,Carolina League,66,65,0.941,1.109,1.059,1.054,1.029,A,2024,LoA-park factors-2025-2021.xlsx,6
+Fayetteville Woodpeckers,Carolina League,64,66,1.156,1.001,1.048,1,1.024,A,2024,LoA-park factors-2025-2021.xlsx,7
+Bradenton Marauders,Florida State League,66,65,1.148,1.01,1.045,1.005,1.023,A,2024,LoA-park factors-2025-2021.xlsx,8
+Charleston RiverDogs,Carolina League,65,65,1.073,1.024,1.04,1.012,1.02,A,2024,LoA-park factors-2025-2021.xlsx,9
+San Jose Giants,California League,66,65,1.041,1.031,1.035,1.016,1.018,A,2024,LoA-park factors-2025-2021.xlsx,10
+Daytona Tortugas,Florida State League,64,64,1.04,1.033,1.025,1.017,1.012,A,2024,LoA-park factors-2025-2021.xlsx,11
+Dunedin Blue Jays,Florida State League,66,64,0.993,1.046,1.024,1.023,1.012,A,2024,LoA-park factors-2025-2021.xlsx,12
+St. Lucie Mets,Florida State League,66,63,0.989,1.03,1.018,1.015,1.009,A,2024,LoA-park factors-2025-2021.xlsx,13
+Augusta GreenJackets,Carolina League,65,64,1.075,0.966,1.005,0.983,1.003,A,2024,LoA-park factors-2025-2021.xlsx,14
+Inland Empire 66ers,California League,65,65,0.94,1.02,1.001,1.01,1.001,A,2024,LoA-park factors-2025-2021.xlsx,15
+Rancho Cucamonga Quakes,California League,64,66,1.02,0.999,0.998,0.999,0.999,A,2024,LoA-park factors-2025-2021.xlsx,16
+Kannapolis Cannon Ballers,Carolina League,65,66,0.905,1.046,0.995,1.023,0.998,A,2024,LoA-park factors-2025-2021.xlsx,17
+Visalia Rawhide,California League,65,66,0.901,0.991,0.991,0.996,0.996,A,2024,LoA-park factors-2025-2021.xlsx,18
+Lakeland Flying Tigers,Florida State League,65,65,0.929,1.005,0.991,1.002,0.996,A,2024,LoA-park factors-2025-2021.xlsx,19
+Tampa Tarpons,Florida State League,63,65,1.019,0.968,0.989,0.984,0.994,A,2024,LoA-park factors-2025-2021.xlsx,20
+Modesto Nuts,,64,66,1.121,0.951,0.984,0.975,0.992,A,2024,LoA-park factors-2025-2021.xlsx,21
+Lake Elsinore Storm,California League,66,63,0.96,0.993,0.984,0.997,0.992,A,2024,LoA-park factors-2025-2021.xlsx,22
+Lynchburg Hillcats,Carolina League,65,64,0.989,0.954,0.98,0.977,0.99,A,2024,LoA-park factors-2025-2021.xlsx,23
+Fredericksburg Nationals,Carolina League,66,65,0.949,0.987,0.974,0.994,0.987,A,2024,LoA-park factors-2025-2021.xlsx,24
+Fort Myers Mighty Mussels,Florida State League,60,65,0.892,0.99,0.973,0.995,0.987,A,2024,LoA-park factors-2025-2021.xlsx,25
+Delmarva Shorebirds,Carolina League,66,65,0.995,0.947,0.97,0.974,0.985,A,2024,LoA-park factors-2025-2021.xlsx,26
+Palm Beach Cardinals,Florida State League,65,65,0.939,0.948,0.954,0.974,0.977,A,2024,LoA-park factors-2025-2021.xlsx,27
+Jupiter Hammerheads,Florida State League,66,64,0.978,0.922,0.933,0.961,0.966,A,2024,LoA-park factors-2025-2021.xlsx,28
+Fresno Grizzlies,California League,65,66,0.937,0.89,0.904,0.945,0.952,A,2024,LoA-park factors-2025-2021.xlsx,29
+Myrtle Beach Pelicans,Carolina League,65,64,0.899,0.857,0.871,0.929,0.936,A,2024,LoA-park factors-2025-2021.xlsx,30
+Down East Wood Ducks,,63,65,0.823,0.843,0.834,0.922,0.917,A,2024,LoA-park factors-2025-2021.xlsx,31
+Columbia Fireflies,Carolina League,65,66,1.146,1.2,1.188,1.1,1.094,A,2023,LoA-park factors-2025-2021.xlsx,2
+Salem Red Sox,Carolina League,61,66,1.297,1.116,1.183,1.058,1.092,A,2023,LoA-park factors-2025-2021.xlsx,3
+Stockton Ports,California League,66,66,1.192,1.109,1.143,1.054,1.071,A,2023,LoA-park factors-2025-2021.xlsx,4
+Carolina Mudcats,Carolina League,63,64,1.051,1.153,1.133,1.077,1.067,A,2023,LoA-park factors-2025-2021.xlsx,5
+Kannapolis Cannon Ballers,Carolina League,65,66,0.979,1.14,1.118,1.07,1.059,A,2023,LoA-park factors-2025-2021.xlsx,6
+St. Lucie Mets,Florida State League,64,64,1.036,1.139,1.1,1.069,1.05,A,2023,LoA-park factors-2025-2021.xlsx,7
+Visalia Rawhide,California League,66,66,1.153,1.03,1.059,1.015,1.03,A,2023,LoA-park factors-2025-2021.xlsx,8
+Clearwater Threshers,Florida State League,65,64,1.08,1.07,1.056,1.035,1.028,A,2023,LoA-park factors-2025-2021.xlsx,9
+Inland Empire 66ers,California League,66,63,1.052,1.035,1.049,1.017,1.024,A,2023,LoA-park factors-2025-2021.xlsx,10
+Lakeland Flying Tigers,Florida State League,65,66,1.084,1,1.025,1,1.012,A,2023,LoA-park factors-2025-2021.xlsx,11
+Dunedin Blue Jays,Florida State League,66,66,0.994,0.974,1.025,0.987,1.012,A,2023,LoA-park factors-2025-2021.xlsx,12
+Fort Myers Mighty Mussels,Florida State League,66,65,1.09,0.997,1.022,0.999,1.011,A,2023,LoA-park factors-2025-2021.xlsx,13
+San Jose Giants,California League,66,66,1.035,1.013,1.02,1.006,1.01,A,2023,LoA-park factors-2025-2021.xlsx,14
+Fredericksburg Nationals,Carolina League,65,63,0.987,1.019,1.009,1.009,1.005,A,2023,LoA-park factors-2025-2021.xlsx,15
+Lake Elsinore Storm,California League,63,66,1.008,1.002,1.004,1.001,1.002,A,2023,LoA-park factors-2025-2021.xlsx,16
+Daytona Tortugas,Florida State League,65,63,0.951,0.992,1.003,0.996,1.002,A,2023,LoA-park factors-2025-2021.xlsx,17
+Lynchburg Hillcats,Carolina League,66,65,1.033,1.008,0.994,1.004,0.997,A,2023,LoA-park factors-2025-2021.xlsx,18
+Rancho Cucamonga Quakes,California League,66,66,0.959,1.003,0.989,1.002,0.995,A,2023,LoA-park factors-2025-2021.xlsx,19
+Bradenton Marauders,Florida State League,65,65,0.904,1.012,0.983,1.006,0.992,A,2023,LoA-park factors-2025-2021.xlsx,20
+Charleston RiverDogs,Carolina League,65,66,1.01,0.954,0.981,0.977,0.991,A,2023,LoA-park factors-2025-2021.xlsx,21
+Tampa Tarpons,Florida State League,64,66,0.998,0.991,0.973,0.995,0.986,A,2023,LoA-park factors-2025-2021.xlsx,22
+Palm Beach Cardinals,Florida State League,63,64,1.008,0.922,0.945,0.961,0.973,A,2023,LoA-park factors-2025-2021.xlsx,23
+Delmarva Shorebirds,Carolina League,64,66,0.971,0.926,0.937,0.963,0.968,A,2023,LoA-park factors-2025-2021.xlsx,24
+Augusta GreenJackets,Carolina League,66,65,0.95,0.928,0.933,0.964,0.966,A,2023,LoA-park factors-2025-2021.xlsx,25
+Fresno Grizzlies,California League,66,66,0.873,0.945,0.923,0.972,0.962,A,2023,LoA-park factors-2025-2021.xlsx,26
+Fayetteville Woodpeckers,Carolina League,66,66,0.965,0.893,0.92,0.946,0.96,A,2023,LoA-park factors-2025-2021.xlsx,27
+Jupiter Hammerheads,Florida State League,66,66,0.866,0.915,0.903,0.957,0.951,A,2023,LoA-park factors-2025-2021.xlsx,28
+Modesto Nuts,,66,66,0.794,0.883,0.867,0.942,0.933,A,2023,LoA-park factors-2025-2021.xlsx,29
+Down East Wood Ducks,,66,61,0.838,0.874,0.86,0.937,0.93,A,2023,LoA-park factors-2025-2021.xlsx,30
+Myrtle Beach Pelicans,Carolina League,66,64,0.851,0.853,0.849,0.926,0.925,A,2023,LoA-park factors-2025-2021.xlsx,31
+Kannapolis Cannon Ballers,Carolina League,66,66,1.299,1.233,1.248,1.117,1.124,A,2022,LoA-park factors-2025-2021.xlsx,2
+Columbia Fireflies,Carolina League,65,66,1.237,1.226,1.228,1.113,1.114,A,2022,LoA-park factors-2025-2021.xlsx,3
+Carolina Mudcats,Carolina League,66,65,1.243,1.199,1.209,1.099,1.105,A,2022,LoA-park factors-2025-2021.xlsx,4
+St. Lucie Mets,Florida State League,64,65,1.067,1.201,1.183,1.101,1.091,A,2022,LoA-park factors-2025-2021.xlsx,5
+Stockton Ports,California League,66,66,1.147,1.07,1.083,1.035,1.041,A,2022,LoA-park factors-2025-2021.xlsx,6
+Bradenton Marauders,Florida State League,66,63,1.02,1.081,1.071,1.041,1.036,A,2022,LoA-park factors-2025-2021.xlsx,7
+Salem Red Sox,Carolina League,65,65,1.126,1.042,1.058,1.021,1.029,A,2022,LoA-park factors-2025-2021.xlsx,8
+Clearwater Threshers,Florida State League,64,64,0.96,1.061,1.045,1.031,1.022,A,2022,LoA-park factors-2025-2021.xlsx,9
+Daytona Tortugas,Florida State League,64,64,1.125,1.015,1.042,1.008,1.021,A,2022,LoA-park factors-2025-2021.xlsx,10
+Inland Empire 66ers,California League,66,66,1.086,1.028,1.037,1.014,1.019,A,2022,LoA-park factors-2025-2021.xlsx,11
+Fredericksburg Nationals,Carolina League,65,65,1.022,1.036,1.034,1.018,1.017,A,2022,LoA-park factors-2025-2021.xlsx,12
+Dunedin Blue Jays,Florida State League,65,64,1.178,0.964,1.031,0.982,1.016,A,2022,LoA-park factors-2025-2021.xlsx,13
+Rancho Cucamonga Quakes,California League,66,66,1.011,1.023,1.021,1.011,1.011,A,2022,LoA-park factors-2025-2021.xlsx,14
+San Jose Giants,California League,66,66,1.019,1.001,1.003,1,1.002,A,2022,LoA-park factors-2025-2021.xlsx,15
+Lake Elsinore Storm,California League,66,66,1.009,0.997,0.998,0.998,0.999,A,2022,LoA-park factors-2025-2021.xlsx,16
+Fresno Grizzlies,California League,66,66,0.868,0.982,0.994,0.991,0.997,A,2022,LoA-park factors-2025-2021.xlsx,17
+Lynchburg Hillcats,Carolina League,66,65,0.843,0.995,0.978,0.997,0.989,A,2022,LoA-park factors-2025-2021.xlsx,18
+Visalia Rawhide,California League,66,66,0.938,0.976,0.971,0.988,0.985,A,2022,LoA-park factors-2025-2021.xlsx,19
+Tampa Tarpons,Florida State League,64,64,0.881,0.989,0.961,0.994,0.98,A,2022,LoA-park factors-2025-2021.xlsx,20
+Lakeland Flying Tigers,Florida State League,65,65,0.993,0.951,0.96,0.976,0.98,A,2022,LoA-park factors-2025-2021.xlsx,21
+Fort Myers Mighty Mussels,Florida State League,62,66,0.983,0.941,0.948,0.971,0.974,A,2022,LoA-park factors-2025-2021.xlsx,22
+Charleston RiverDogs,Carolina League,66,66,0.997,0.929,0.943,0.965,0.972,A,2022,LoA-park factors-2025-2021.xlsx,23
+Jupiter Hammerheads,Florida State League,65,64,0.93,0.943,0.941,0.972,0.971,A,2022,LoA-park factors-2025-2021.xlsx,24
+Modesto Nuts,,66,66,0.956,0.932,0.936,0.966,0.968,A,2022,LoA-park factors-2025-2021.xlsx,25
+Augusta GreenJackets,Carolina League,66,65,0.906,0.919,0.917,0.959,0.958,A,2022,LoA-park factors-2025-2021.xlsx,26
+Delmarva Shorebirds,Carolina League,64,66,0.894,0.906,0.904,0.953,0.952,A,2022,LoA-park factors-2025-2021.xlsx,27
+Down East Wood Ducks,,66,65,0.862,0.893,0.887,0.947,0.944,A,2022,LoA-park factors-2025-2021.xlsx,28
+Palm Beach Cardinals,Florida State League,64,64,0.894,0.879,0.881,0.94,0.94,A,2022,LoA-park factors-2025-2021.xlsx,29
+Fayetteville Woodpeckers,Carolina League,65,65,0.891,0.862,0.871,0.931,0.935,A,2022,LoA-park factors-2025-2021.xlsx,30
+Myrtle Beach Pelicans,Carolina League,65,66,0.83,0.854,0.852,0.927,0.926,A,2022,LoA-park factors-2025-2021.xlsx,31
+St. Lucie Mets,Florida State League,55,60,1.356,1.356,1.356,1.178,1.178,A,2021,LoA-park factors-2025-2021.xlsx,2
+Columbia Fireflies,Carolina League,59,60,1.214,1.214,1.214,1.107,1.107,A,2021,LoA-park factors-2025-2021.xlsx,3
+Fresno Grizzlies,California League,60,55,1.184,1.184,1.184,1.092,1.092,A,2021,LoA-park factors-2025-2021.xlsx,4
+Lynchburg Hillcats,Carolina League,60,60,1.18,1.18,1.18,1.09,1.09,A,2021,LoA-park factors-2025-2021.xlsx,5
+Clearwater Threshers,Florida State League,57,59,1.173,1.173,1.173,1.086,1.086,A,2021,LoA-park factors-2025-2021.xlsx,6
+Kannapolis Cannon Ballers,Carolina League,60,59,1.17,1.17,1.17,1.085,1.085,A,2021,LoA-park factors-2025-2021.xlsx,7
+Carolina Mudcats,Carolina League,61,59,1.158,1.158,1.158,1.079,1.079,A,2021,LoA-park factors-2025-2021.xlsx,8
+Bradenton Marauders,Florida State League,59,60,1.148,1.148,1.148,1.074,1.074,A,2021,LoA-park factors-2025-2021.xlsx,9
+Tampa Tarpons,Florida State League,60,56,1.081,1.081,1.081,1.04,1.04,A,2021,LoA-park factors-2025-2021.xlsx,10
+Fredericksburg Nationals,Carolina League,60,60,1.051,1.051,1.051,1.026,1.026,A,2021,LoA-park factors-2025-2021.xlsx,11
+Rancho Cucamonga Quakes,California League,60,60,1.036,1.036,1.036,1.018,1.018,A,2021,LoA-park factors-2025-2021.xlsx,12
+Visalia Rawhide,California League,60,60,1.02,1.02,1.02,1.01,1.01,A,2021,LoA-park factors-2025-2021.xlsx,13
+Stockton Ports,California League,57,60,0.987,0.987,0.987,0.994,0.994,A,2021,LoA-park factors-2025-2021.xlsx,14
+Lake Elsinore Storm,California League,60,60,0.983,0.983,0.983,0.991,0.991,A,2021,LoA-park factors-2025-2021.xlsx,15
+San Jose Giants,California League,60,60,0.981,0.981,0.981,0.99,0.99,A,2021,LoA-park factors-2025-2021.xlsx,16
+Inland Empire 66ers,California League,60,57,0.964,0.964,0.964,0.982,0.982,A,2021,LoA-park factors-2025-2021.xlsx,17
+Jupiter Hammerheads,Florida State League,58,59,0.958,0.958,0.958,0.979,0.979,A,2021,LoA-park factors-2025-2021.xlsx,18
+Salem Red Sox,Carolina League,60,60,0.956,0.956,0.956,0.978,0.978,A,2021,LoA-park factors-2025-2021.xlsx,19
+Augusta GreenJackets,Carolina League,60,60,0.933,0.933,0.933,0.966,0.966,A,2021,LoA-park factors-2025-2021.xlsx,20
+Down East Wood Ducks,,60,60,0.925,0.925,0.925,0.963,0.963,A,2021,LoA-park factors-2025-2021.xlsx,21
+Delmarva Shorebirds,Carolina League,60,60,0.918,0.918,0.918,0.959,0.959,A,2021,LoA-park factors-2025-2021.xlsx,22
+Daytona Tortugas,Florida State League,60,60,0.918,0.918,0.918,0.959,0.959,A,2021,LoA-park factors-2025-2021.xlsx,23
+Lakeland Flying Tigers,Florida State League,59,59,0.91,0.91,0.91,0.955,0.955,A,2021,LoA-park factors-2025-2021.xlsx,24
+Modesto Nuts,,55,60,0.907,0.907,0.907,0.953,0.953,A,2021,LoA-park factors-2025-2021.xlsx,25
+Fort Myers Mighty Mussels,Florida State League,58,56,0.896,0.896,0.896,0.948,0.948,A,2021,LoA-park factors-2025-2021.xlsx,26
+Myrtle Beach Pelicans,Carolina League,60,60,0.885,0.885,0.885,0.942,0.942,A,2021,LoA-park factors-2025-2021.xlsx,27
+Charleston RiverDogs,Carolina League,60,60,0.863,0.863,0.863,0.931,0.931,A,2021,LoA-park factors-2025-2021.xlsx,28
+Palm Beach Cardinals,Florida State League,60,57,0.862,0.862,0.862,0.931,0.931,A,2021,LoA-park factors-2025-2021.xlsx,29
+Fayetteville Woodpeckers,Carolina League,59,61,0.84,0.84,0.84,0.92,0.92,A,2021,LoA-park factors-2025-2021.xlsx,30
+Dunedin Blue Jays,Florida State League,60,60,0.812,0.812,0.812,0.906,0.906,A,2021,LoA-park factors-2025-2021.xlsx,31

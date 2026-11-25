@@ -1,0 +1,721 @@
+﻿season,organization_code,franchise,level,affiliate_as_supplied,park_team,league_as_supplied,park_final,status,source_row
+2026,ARI,Arizona Diamondbacks,AAA,Reno,,,,NO_PARK_SEASON,4
+2026,ARI,Arizona Diamondbacks,AA,Amarillo,,,,NO_PARK_SEASON,4
+2026,ARI,Arizona Diamondbacks,A+,Hillsboro,,,,NO_PARK_SEASON,4
+2026,ARI,Arizona Diamondbacks,A,Visalia,,,,NO_PARK_SEASON,4
+2026,ATH,Athletics,AAA,Las Vegas,,,,NO_PARK_SEASON,5
+2026,ATH,Athletics,AA,Midland,,,,NO_PARK_SEASON,5
+2026,ATH,Athletics,A+,Lansing,,,,NO_PARK_SEASON,5
+2026,ATH,Athletics,A,Stockton,,,,NO_PARK_SEASON,5
+2026,ATL,Atlanta Braves,AAA,Gwinnett,,,,NO_PARK_SEASON,6
+2026,ATL,Atlanta Braves,AA,Columbus,,,,NO_PARK_SEASON,6
+2026,ATL,Atlanta Braves,A+,Rome,,,,NO_PARK_SEASON,6
+2026,ATL,Atlanta Braves,A,Augusta,,,,NO_PARK_SEASON,6
+2026,BAL,Baltimore Orioles,AAA,Norfolk,,,,NO_PARK_SEASON,7
+2026,BAL,Baltimore Orioles,AA,Chesapeake,,,,NO_PARK_SEASON,7
+2026,BAL,Baltimore Orioles,A+,Frederick,,,,NO_PARK_SEASON,7
+2026,BAL,Baltimore Orioles,A,Delmarva,,,,NO_PARK_SEASON,7
+2026,BOS,Boston Red Sox,AAA,Worcester,,,,NO_PARK_SEASON,8
+2026,BOS,Boston Red Sox,AA,Portland,,,,NO_PARK_SEASON,8
+2026,BOS,Boston Red Sox,A+,Greenville,,,,NO_PARK_SEASON,8
+2026,BOS,Boston Red Sox,A,Salem,,,,NO_PARK_SEASON,8
+2026,CHC,Chicago Cubs,AAA,Iowa,,,,NO_PARK_SEASON,9
+2026,CHC,Chicago Cubs,AA,Knoxville,,,,NO_PARK_SEASON,9
+2026,CHC,Chicago Cubs,A+,South Bend,,,,NO_PARK_SEASON,9
+2026,CHC,Chicago Cubs,A,Myrtle Beach,,,,NO_PARK_SEASON,9
+2026,CHW,Chicago White Sox,AAA,Charlotte,,,,NO_PARK_SEASON,10
+2026,CHW,Chicago White Sox,AA,Birmingham,,,,NO_PARK_SEASON,10
+2026,CHW,Chicago White Sox,A+,Winston-Salem,,,,NO_PARK_SEASON,10
+2026,CHW,Chicago White Sox,A,Kannapolis,,,,NO_PARK_SEASON,10
+2026,CIN,Cincinnati Reds,AAA,Louisville,,,,NO_PARK_SEASON,11
+2026,CIN,Cincinnati Reds,AA,Chattanooga,,,,NO_PARK_SEASON,11
+2026,CIN,Cincinnati Reds,A+,Dayton,,,,NO_PARK_SEASON,11
+2026,CIN,Cincinnati Reds,A,Daytona,,,,NO_PARK_SEASON,11
+2026,CLE,Cleveland Guardians,AAA,Columbus,,,,NO_PARK_SEASON,12
+2026,CLE,Cleveland Guardians,AA,Akron,,,,NO_PARK_SEASON,12
+2026,CLE,Cleveland Guardians,A+,Lake County,,,,NO_PARK_SEASON,12
+2026,CLE,Cleveland Guardians,A,Hill City,,,,NO_PARK_SEASON,12
+2026,COL,Colorado Rockies,AAA,Albuquerque,,,,NO_PARK_SEASON,13
+2026,COL,Colorado Rockies,AA,Hartford,,,,NO_PARK_SEASON,13
+2026,COL,Colorado Rockies,A+,Spokane,,,,NO_PARK_SEASON,13
+2026,COL,Colorado Rockies,A,Fresno,,,,NO_PARK_SEASON,13
+2026,DET,Detroit Tigers,AAA,Toledo,,,,NO_PARK_SEASON,14
+2026,DET,Detroit Tigers,AA,Erie,,,,NO_PARK_SEASON,14
+2026,DET,Detroit Tigers,A+,West Michigan,,,,NO_PARK_SEASON,14
+2026,DET,Detroit Tigers,A,Lakeland,,,,NO_PARK_SEASON,14
+2026,HOU,Houston Astros,AAA,Sugar Land,,,,NO_PARK_SEASON,15
+2026,HOU,Houston Astros,AA,Corpus Christi,,,,NO_PARK_SEASON,15
+2026,HOU,Houston Astros,A+,Asheville,,,,NO_PARK_SEASON,15
+2026,HOU,Houston Astros,A,Fayetteville,,,,NO_PARK_SEASON,15
+2026,KCR,Kansas City Royals,AAA,Omaha,,,,NO_PARK_SEASON,16
+2026,KCR,Kansas City Royals,AA,Northwest Arkansas,,,,NO_PARK_SEASON,16
+2026,KCR,Kansas City Royals,A+,Quad Cities,,,,NO_PARK_SEASON,16
+2026,KCR,Kansas City Royals,A,Columbia,,,,NO_PARK_SEASON,16
+2026,LAA,Los Angeles Angels,AAA,Salt Lake,,,,NO_PARK_SEASON,17
+2026,LAA,Los Angeles Angels,AA,Rocket City,,,,NO_PARK_SEASON,17
+2026,LAA,Los Angeles Angels,A+,Tri-City,,,,NO_PARK_SEASON,17
+2026,LAA,Los Angeles Angels,A,Rancho Cucamonga,,,,NO_PARK_SEASON,17
+2026,LAD,Los Angeles Dodgers,AAA,Oklahoma City,,,,NO_PARK_SEASON,18
+2026,LAD,Los Angeles Dodgers,AA,Tulsa,,,,NO_PARK_SEASON,18
+2026,LAD,Los Angeles Dodgers,A+,Great Lakes,,,,NO_PARK_SEASON,18
+2026,LAD,Los Angeles Dodgers,A,Ontario,,,,NO_PARK_SEASON,18
+2026,MIA,Miami Marlins,AAA,Jacksonville,,,,NO_PARK_SEASON,19
+2026,MIA,Miami Marlins,AA,Pensacola,,,,NO_PARK_SEASON,19
+2026,MIA,Miami Marlins,A+,Beloit,,,,NO_PARK_SEASON,19
+2026,MIA,Miami Marlins,A,Jupiter,,,,NO_PARK_SEASON,19
+2026,MIL,Milwaukee Brewers,AAA,Nashville,,,,NO_PARK_SEASON,20
+2026,MIL,Milwaukee Brewers,AA,Biloxi,,,,NO_PARK_SEASON,20
+2026,MIL,Milwaukee Brewers,A+,Wisconsin,,,,NO_PARK_SEASON,20
+2026,MIL,Milwaukee Brewers,A,Wilson,,,,NO_PARK_SEASON,20
+2026,MIN,Minnesota Twins,AAA,St. Paul,,,,NO_PARK_SEASON,21
+2026,MIN,Minnesota Twins,AA,Wichita,,,,NO_PARK_SEASON,21
+2026,MIN,Minnesota Twins,A+,Cedar Rapids,,,,NO_PARK_SEASON,21
+2026,MIN,Minnesota Twins,A,Fort Myers,,,,NO_PARK_SEASON,21
+2026,NYM,New York Mets,AAA,Syracuse,,,,NO_PARK_SEASON,22
+2026,NYM,New York Mets,AA,Binghamton,,,,NO_PARK_SEASON,22
+2026,NYM,New York Mets,A+,Brooklyn,,,,NO_PARK_SEASON,22
+2026,NYM,New York Mets,A,St. Lucie,,,,NO_PARK_SEASON,22
+2026,NYY,New York Yankees,AAA,Scranton/Wilkes-Barre,,,,NO_PARK_SEASON,23
+2026,NYY,New York Yankees,AA,Somerset,,,,NO_PARK_SEASON,23
+2026,NYY,New York Yankees,A+,Hudson Valley,,,,NO_PARK_SEASON,23
+2026,NYY,New York Yankees,A,Tampa,,,,NO_PARK_SEASON,23
+2026,PHI,Philadelphia Phillies,AAA,Lehigh Valley,,,,NO_PARK_SEASON,24
+2026,PHI,Philadelphia Phillies,AA,Reading,,,,NO_PARK_SEASON,24
+2026,PHI,Philadelphia Phillies,A+,Jersey Shore,,,,NO_PARK_SEASON,24
+2026,PHI,Philadelphia Phillies,A,Clearwater,,,,NO_PARK_SEASON,24
+2026,PIT,Pittsburgh Pirates,AAA,Indianapolis,,,,NO_PARK_SEASON,25
+2026,PIT,Pittsburgh Pirates,AA,Altoona,,,,NO_PARK_SEASON,25
+2026,PIT,Pittsburgh Pirates,A+,Greensboro,,,,NO_PARK_SEASON,25
+2026,PIT,Pittsburgh Pirates,A,Bradenton,,,,NO_PARK_SEASON,25
+2026,SDP,San Diego Padres,AAA,El Paso,,,,NO_PARK_SEASON,26
+2026,SDP,San Diego Padres,AA,San Antonio,,,,NO_PARK_SEASON,26
+2026,SDP,San Diego Padres,A+,Fort Wayne,,,,NO_PARK_SEASON,26
+2026,SDP,San Diego Padres,A,Lake Elsinore,,,,NO_PARK_SEASON,26
+2026,SFG,San Francisco Giants,AAA,Sacramento,,,,NO_PARK_SEASON,27
+2026,SFG,San Francisco Giants,AA,Richmond,,,,NO_PARK_SEASON,27
+2026,SFG,San Francisco Giants,A+,Eugene,,,,NO_PARK_SEASON,27
+2026,SFG,San Francisco Giants,A,San Jose,,,,NO_PARK_SEASON,27
+2026,SEA,Seattle Mariners,AAA,Tacoma,,,,NO_PARK_SEASON,28
+2026,SEA,Seattle Mariners,AA,Arkansas,,,,NO_PARK_SEASON,28
+2026,SEA,Seattle Mariners,A+,Everett,,,,NO_PARK_SEASON,28
+2026,SEA,Seattle Mariners,A,Inland Empire,,,,NO_PARK_SEASON,28
+2026,STL,St. Louis Cardinals,AAA,Memphis,,,,NO_PARK_SEASON,29
+2026,STL,St. Louis Cardinals,AA,Springfield,,,,NO_PARK_SEASON,29
+2026,STL,St. Louis Cardinals,A+,Peoria,,,,NO_PARK_SEASON,29
+2026,STL,St. Louis Cardinals,A,Palm Beach,,,,NO_PARK_SEASON,29
+2026,TBR,Tampa Bay Rays,AAA,Durham,,,,NO_PARK_SEASON,30
+2026,TBR,Tampa Bay Rays,AA,Montgomery,,,,NO_PARK_SEASON,30
+2026,TBR,Tampa Bay Rays,A+,Bowling Green,,,,NO_PARK_SEASON,30
+2026,TBR,Tampa Bay Rays,A,Charleston,,,,NO_PARK_SEASON,30
+2026,TEX,Texas Rangers,AAA,Round Rock,,,,NO_PARK_SEASON,31
+2026,TEX,Texas Rangers,AA,Frisco,,,,NO_PARK_SEASON,31
+2026,TEX,Texas Rangers,A+,Hub City,,,,NO_PARK_SEASON,31
+2026,TEX,Texas Rangers,A,Hickory,,,,NO_PARK_SEASON,31
+2026,TOR,Toronto Blue Jays,AAA,Buffalo,,,,NO_PARK_SEASON,32
+2026,TOR,Toronto Blue Jays,AA,New Hampshire,,,,NO_PARK_SEASON,32
+2026,TOR,Toronto Blue Jays,A+,Vancouver,,,,NO_PARK_SEASON,32
+2026,TOR,Toronto Blue Jays,A,Dunedin,,,,NO_PARK_SEASON,32
+2026,WSN,Washington Nationals,AAA,Rochester,,,,NO_PARK_SEASON,33
+2026,WSN,Washington Nationals,AA,Harrisburg,,,,NO_PARK_SEASON,33
+2026,WSN,Washington Nationals,A+,Wilmington,,,,NO_PARK_SEASON,33
+2026,WSN,Washington Nationals,A,Fredericksburg,,,,NO_PARK_SEASON,33
+2025,ARI,Arizona Diamondbacks,AAA,Reno,Reno Aces,Pacific Coast League,1.135,UNIQUE_NAME_MATCH,4
+2025,ARI,Arizona Diamondbacks,AA,Amarillo,Amarillo Sod Poodles,Texas League,1.241,UNIQUE_NAME_MATCH,4
+2025,ARI,Arizona Diamondbacks,A+,Hillsboro,Hillsboro Hops,Northwest League,1.024,UNIQUE_NAME_MATCH,4
+2025,ARI,Arizona Diamondbacks,A,Visalia,Visalia Rawhide,California League,0.96,UNIQUE_NAME_MATCH,4
+2025,ATH,Athletics,AAA,Las Vegas,Las Vegas Aviators,Pacific Coast League,1.106,UNIQUE_NAME_MATCH,5
+2025,ATH,Athletics,AA,Midland,Midland RockHounds,Texas League,1.036,UNIQUE_NAME_MATCH,5
+2025,ATH,Athletics,A+,Lansing,Lansing Lugnuts,Midwest League,1.158,UNIQUE_NAME_MATCH,5
+2025,ATH,Athletics,A,Stockton,Stockton Ports,California League,1.047,UNIQUE_NAME_MATCH,5
+2025,ATL,Atlanta Braves,AAA,Gwinnett,Gwinnett Stripers,International League,0.97,UNIQUE_NAME_MATCH,6
+2025,ATL,Atlanta Braves,AA,Columbus,Columbus Clingstones,Southern League,0.967,UNIQUE_NAME_MATCH,6
+2025,ATL,Atlanta Braves,A+,Rome,Rome Emperors,South Atlantic League,0.921,UNIQUE_NAME_MATCH,6
+2025,ATL,Atlanta Braves,A,Augusta,Augusta GreenJackets,Carolina League,1.024,UNIQUE_NAME_MATCH,6
+2025,BAL,Baltimore Orioles,AAA,Norfolk,Norfolk Tides,International League,0.962,UNIQUE_NAME_MATCH,7
+2025,BAL,Baltimore Orioles,AA,Chesapeake,Chesapeake Baysox,Eastern League,1.077,UNIQUE_NAME_MATCH,7
+2025,BAL,Baltimore Orioles,A+,Aberdeen,Aberdeen IronBirds,,1.015,UNIQUE_NAME_MATCH,7
+2025,BAL,Baltimore Orioles,A,Delmarva,Delmarva Shorebirds,Carolina League,0.964,UNIQUE_NAME_MATCH,7
+2025,BOS,Boston Red Sox,AAA,Worcester,Worcester Red Sox,International League,1.016,UNIQUE_NAME_MATCH,8
+2025,BOS,Boston Red Sox,AA,Portland,Portland Sea Dogs,Eastern League,1.025,UNIQUE_NAME_MATCH,8
+2025,BOS,Boston Red Sox,A+,Greenville,Greenville Drive,South Atlantic League,1.079,UNIQUE_NAME_MATCH,8
+2025,BOS,Boston Red Sox,A,Salem,Salem Red Sox,Carolina League,1.081,UNIQUE_NAME_MATCH,8
+2025,CHC,Chicago Cubs,AAA,Iowa,Iowa Cubs,International League,1.092,UNIQUE_NAME_MATCH,9
+2025,CHC,Chicago Cubs,AA,Knoxville,Knoxville Smokies,Southern League,0.98,UNIQUE_NAME_MATCH,9
+2025,CHC,Chicago Cubs,A+,South Bend,South Bend Cubs,Midwest League,0.962,UNIQUE_NAME_MATCH,9
+2025,CHC,Chicago Cubs,A,Myrtle Beach,Myrtle Beach Pelicans,Carolina League,0.991,UNIQUE_NAME_MATCH,9
+2025,CHW,Chicago White Sox,AAA,Charlotte,Charlotte Knights,International League,1.1,UNIQUE_NAME_MATCH,10
+2025,CHW,Chicago White Sox,AA,Birmingham,Birmingham Barons,Southern League,0.965,UNIQUE_NAME_MATCH,10
+2025,CHW,Chicago White Sox,A+,Winston-Salem,Winston-Salem Dash,South Atlantic League,0.986,UNIQUE_NAME_MATCH,10
+2025,CHW,Chicago White Sox,A,Kannapolis,Kannapolis Cannon Ballers,Carolina League,0.979,UNIQUE_NAME_MATCH,10
+2025,CIN,Cincinnati Reds,AAA,Louisville,Louisville Bats,International League,0.976,UNIQUE_NAME_MATCH,11
+2025,CIN,Cincinnati Reds,AA,Chattanooga,Chattanooga Lookouts,Southern League,1.1,UNIQUE_NAME_MATCH,11
+2025,CIN,Cincinnati Reds,A+,Dayton,Dayton Dragons,Midwest League,1.009,UNIQUE_NAME_MATCH,11
+2025,CIN,Cincinnati Reds,A,Daytona,Daytona Tortugas,Florida State League,1.029,UNIQUE_NAME_MATCH,11
+2025,CLE,Cleveland Guardians,AAA,Columbus,Columbus Clippers,International League,0.997,UNIQUE_NAME_MATCH,12
+2025,CLE,Cleveland Guardians,AA,Akron,Akron RubberDucks,Eastern League,0.934,UNIQUE_NAME_MATCH,12
+2025,CLE,Cleveland Guardians,A+,Lake County,Lake County Captains,Midwest League,1.005,UNIQUE_NAME_MATCH,12
+2025,CLE,Cleveland Guardians,A,Lynchburg,Lynchburg Hillcats,Carolina League,0.983,UNIQUE_NAME_MATCH,12
+2025,COL,Colorado Rockies,AAA,Albuquerque,Albuquerque Isotopes,Pacific Coast League,1.092,UNIQUE_NAME_MATCH,13
+2025,COL,Colorado Rockies,AA,Hartford,Hartford Yard Goats,Eastern League,1.041,UNIQUE_NAME_MATCH,13
+2025,COL,Colorado Rockies,A+,Spokane,Spokane Indians,Northwest League,1.069,UNIQUE_NAME_MATCH,13
+2025,COL,Colorado Rockies,A,Fresno,Fresno Grizzlies,California League,0.976,UNIQUE_NAME_MATCH,13
+2025,DET,Detroit Tigers,AAA,Toledo,Toledo Mud Hens,International League,0.907,UNIQUE_NAME_MATCH,14
+2025,DET,Detroit Tigers,AA,Erie,Erie SeaWolves,Eastern League,0.972,UNIQUE_NAME_MATCH,14
+2025,DET,Detroit Tigers,A+,West Michigan,West Michigan Whitecaps,Midwest League,0.917,UNIQUE_NAME_MATCH,14
+2025,DET,Detroit Tigers,A,Lakeland,Lakeland Flying Tigers,Florida State League,0.994,UNIQUE_NAME_MATCH,14
+2025,HOU,Houston Astros,AAA,Sugar Land,Sugar Land Space Cowboys,Pacific Coast League,0.889,UNIQUE_NAME_MATCH,15
+2025,HOU,Houston Astros,AA,Corpus Christi,Corpus Christi Hooks,Texas League,0.97,UNIQUE_NAME_MATCH,15
+2025,HOU,Houston Astros,A+,Asheville,Asheville Tourists,South Atlantic League,1.126,UNIQUE_NAME_MATCH,15
+2025,HOU,Houston Astros,A,Fayetteville,Fayetteville Woodpeckers,Carolina League,1,UNIQUE_NAME_MATCH,15
+2025,KCR,Kansas City Royals,AAA,Omaha,Omaha Storm Chasers,International League,1.054,UNIQUE_NAME_MATCH,16
+2025,KCR,Kansas City Royals,AA,Northwest Arkansas,Northwest Arkansas Naturals,Texas League,1.028,UNIQUE_NAME_MATCH,16
+2025,KCR,Kansas City Royals,A+,Quad Cities,Quad Cities River Bandits,Midwest League,0.975,UNIQUE_NAME_MATCH,16
+2025,KCR,Kansas City Royals,A,Columbia,Columbia Fireflies,Carolina League,0.992,UNIQUE_NAME_MATCH,16
+2025,LAA,Los Angeles Angels,AAA,Salt Lake,Salt Lake Bees,Pacific Coast League,1.037,UNIQUE_NAME_MATCH,17
+2025,LAA,Los Angeles Angels,AA,Rocket City,Rocket City Trash Pandas,Southern League,0.961,UNIQUE_NAME_MATCH,17
+2025,LAA,Los Angeles Angels,A+,Tri-City,Tri-City Dust Devils,Northwest League,0.96,UNIQUE_NAME_MATCH,17
+2025,LAA,Los Angeles Angels,A,Inland Empire,Inland Empire 66ers,California League,0.984,UNIQUE_NAME_MATCH,17
+2025,LAD,Los Angeles Dodgers,AAA,Oklahoma City,Oklahoma City Comets,Pacific Coast League,0.937,UNIQUE_NAME_MATCH,18
+2025,LAD,Los Angeles Dodgers,AA,Tulsa,Tulsa Drillers,Texas League,0.988,UNIQUE_NAME_MATCH,18
+2025,LAD,Los Angeles Dodgers,A+,Great Lakes,Great Lakes Loons,Midwest League,1.003,UNIQUE_NAME_MATCH,18
+2025,LAD,Los Angeles Dodgers,A,Rancho Cucamonga,Rancho Cucamonga Quakes,California League,1.041,UNIQUE_NAME_MATCH,18
+2025,MIA,Miami Marlins,AAA,Jacksonville,Jacksonville Jumbo Shrimp,International League,0.96,UNIQUE_NAME_MATCH,19
+2025,MIA,Miami Marlins,AA,Pensacola,Pensacola Blue Wahoos,Southern League,1.025,UNIQUE_NAME_MATCH,19
+2025,MIA,Miami Marlins,A+,Beloit,Beloit Sky Carp,Midwest League,0.958,UNIQUE_NAME_MATCH,19
+2025,MIA,Miami Marlins,A,Jupiter,Jupiter Hammerheads,Florida State League,1.005,UNIQUE_NAME_MATCH,19
+2025,MIL,Milwaukee Brewers,AAA,Nashville,Nashville Sounds,International League,0.964,UNIQUE_NAME_MATCH,20
+2025,MIL,Milwaukee Brewers,AA,Biloxi,Biloxi Shuckers,Southern League,1.064,UNIQUE_NAME_MATCH,20
+2025,MIL,Milwaukee Brewers,A+,Wisconsin,Wisconsin Timber Rattlers,Midwest League,1.027,UNIQUE_NAME_MATCH,20
+2025,MIL,Milwaukee Brewers,A,Carolina,Carolina Mudcats,Carolina League,1.027,UNIQUE_NAME_MATCH,20
+2025,MIN,Minnesota Twins,AAA,St. Paul,St. Paul Saints,International League,1.064,UNIQUE_NAME_MATCH,21
+2025,MIN,Minnesota Twins,AA,Wichita,Wichita Wind Surge,Texas League,1.05,UNIQUE_NAME_MATCH,21
+2025,MIN,Minnesota Twins,A+,Cedar Rapids,Cedar Rapids Kernels,Midwest League,0.979,UNIQUE_NAME_MATCH,21
+2025,MIN,Minnesota Twins,A,Fort Myers,Fort Myers Mighty Mussels,Florida State League,0.971,UNIQUE_NAME_MATCH,21
+2025,NYM,New York Mets,AAA,Syracuse,Syracuse Mets,International League,1.045,UNIQUE_NAME_MATCH,22
+2025,NYM,New York Mets,AA,Binghamton,Binghamton Rumble Ponies,Eastern League,0.945,UNIQUE_NAME_MATCH,22
+2025,NYM,New York Mets,A+,Brooklyn,Brooklyn Cyclones,South Atlantic League,0.967,UNIQUE_NAME_MATCH,22
+2025,NYM,New York Mets,A,St. Lucie,St. Lucie Mets,Florida State League,0.962,UNIQUE_NAME_MATCH,22
+2025,NYY,New York Yankees,AAA,Scranton/Wilkes-Barre,Scranton/Wilkes-Barre RailRiders,International League,1.036,UNIQUE_NAME_MATCH,23
+2025,NYY,New York Yankees,AA,Somerset,Somerset Patriots,Eastern League,0.936,UNIQUE_NAME_MATCH,23
+2025,NYY,New York Yankees,A+,Hudson Valley,Hudson Valley Renegades,South Atlantic League,0.959,UNIQUE_NAME_MATCH,23
+2025,NYY,New York Yankees,A,Tampa,Tampa Tarpons,Florida State League,1.007,UNIQUE_NAME_MATCH,23
+2025,PHI,Philadelphia Phillies,AAA,Lehigh Valley,Lehigh Valley IronPigs,International League,0.97,UNIQUE_NAME_MATCH,24
+2025,PHI,Philadelphia Phillies,AA,Reading,Reading Fightin Phils,Eastern League,1.094,UNIQUE_NAME_MATCH,24
+2025,PHI,Philadelphia Phillies,A+,Jersey Shore,Jersey Shore BlueClaws,South Atlantic League,0.957,UNIQUE_NAME_MATCH,24
+2025,PHI,Philadelphia Phillies,A,Clearwater,Clearwater Threshers,Florida State League,1.041,UNIQUE_NAME_MATCH,24
+2025,PIT,Pittsburgh Pirates,AAA,Indianapolis,Indianapolis Indians,International League,0.972,UNIQUE_NAME_MATCH,25
+2025,PIT,Pittsburgh Pirates,AA,Altoona,Altoona Curve,Eastern League,1.036,UNIQUE_NAME_MATCH,25
+2025,PIT,Pittsburgh Pirates,A+,Greensboro,Greensboro Grasshoppers,South Atlantic League,1.046,UNIQUE_NAME_MATCH,25
+2025,PIT,Pittsburgh Pirates,A,Bradenton,Bradenton Marauders,Florida State League,1.014,UNIQUE_NAME_MATCH,25
+2025,SDP,San Diego Padres,AAA,El Paso,El Paso Chihuahuas,Pacific Coast League,1.06,UNIQUE_NAME_MATCH,26
+2025,SDP,San Diego Padres,AA,San Antonio,San Antonio Missions,Texas League,0.884,UNIQUE_NAME_MATCH,26
+2025,SDP,San Diego Padres,A+,Fort Wayne,Fort Wayne TinCaps,Midwest League,1.005,UNIQUE_NAME_MATCH,26
+2025,SDP,San Diego Padres,A,Lake Elsinore,Lake Elsinore Storm,California League,0.985,UNIQUE_NAME_MATCH,26
+2025,SFG,San Francisco Giants,AAA,Sacramento,Sacramento River Cats,Pacific Coast League,0.882,UNIQUE_NAME_MATCH,27
+2025,SFG,San Francisco Giants,AA,Richmond,Richmond Flying Squirrels,Eastern League,0.998,UNIQUE_NAME_MATCH,27
+2025,SFG,San Francisco Giants,A+,Eugene,Eugene Emeralds,Northwest League,0.943,UNIQUE_NAME_MATCH,27
+2025,SFG,San Francisco Giants,A,San Jose,San Jose Giants,California League,1.063,UNIQUE_NAME_MATCH,27
+2025,SEA,Seattle Mariners,AAA,Tacoma,Tacoma Rainiers,Pacific Coast League,0.98,UNIQUE_NAME_MATCH,28
+2025,SEA,Seattle Mariners,AA,Arkansas,Arkansas Travelers,Texas League,0.828,UNIQUE_NAME_MATCH,28
+2025,SEA,Seattle Mariners,A+,Everett,Everett AquaSox,Northwest League,1.073,UNIQUE_NAME_MATCH,28
+2025,SEA,Seattle Mariners,A,Modesto,Modesto Nuts,,0.962,UNIQUE_NAME_MATCH,28
+2025,STL,St. Louis Cardinals,AAA,Memphis,Memphis Redbirds,International League,0.998,UNIQUE_NAME_MATCH,29
+2025,STL,St. Louis Cardinals,AA,Springfield,Springfield Cardinals,Texas League,0.988,UNIQUE_NAME_MATCH,29
+2025,STL,St. Louis Cardinals,A+,Peoria,Peoria Chiefs,Midwest League,1.041,UNIQUE_NAME_MATCH,29
+2025,STL,St. Louis Cardinals,A,Palm Beach,Palm Beach Cardinals,Florida State League,0.97,UNIQUE_NAME_MATCH,29
+2025,TBR,Tampa Bay Rays,AAA,Durham,Durham Bulls,International League,1.005,UNIQUE_NAME_MATCH,30
+2025,TBR,Tampa Bay Rays,AA,Montgomery,Montgomery Biscuits,Southern League,0.995,UNIQUE_NAME_MATCH,30
+2025,TBR,Tampa Bay Rays,A+,Bowling Green,Bowling Green Hot Rods,South Atlantic League,1.016,UNIQUE_NAME_MATCH,30
+2025,TBR,Tampa Bay Rays,A,Charleston,Charleston RiverDogs,Carolina League,0.948,UNIQUE_NAME_MATCH,30
+2025,TEX,Texas Rangers,AAA,Round Rock,Round Rock Express,Pacific Coast League,0.933,UNIQUE_NAME_MATCH,31
+2025,TEX,Texas Rangers,AA,Frisco,Frisco RoughRiders,Texas League,1.058,UNIQUE_NAME_MATCH,31
+2025,TEX,Texas Rangers,A+,Hub City,Hub City Spartanburgers,South Atlantic League,0.984,UNIQUE_NAME_MATCH,31
+2025,TEX,Texas Rangers,A,Hickory,Hickory Crawdads,Carolina League,1.137,UNIQUE_NAME_MATCH,31
+2025,TOR,Toronto Blue Jays,AAA,Buffalo,Buffalo Bisons,International League,0.95,UNIQUE_NAME_MATCH,32
+2025,TOR,Toronto Blue Jays,AA,New Hampshire,New Hampshire Fisher Cats,Eastern League,1.011,UNIQUE_NAME_MATCH,32
+2025,TOR,Toronto Blue Jays,A+,Vancouver,Vancouver Canadians,Northwest League,0.95,UNIQUE_NAME_MATCH,32
+2025,TOR,Toronto Blue Jays,A,Dunedin,Dunedin Blue Jays,Florida State League,1.018,UNIQUE_NAME_MATCH,32
+2025,WSN,Washington Nationals,AAA,Rochester,Rochester Red Wings,International League,0.999,UNIQUE_NAME_MATCH,33
+2025,WSN,Washington Nationals,AA,Harrisburg,Harrisburg Senators,Eastern League,0.957,UNIQUE_NAME_MATCH,33
+2025,WSN,Washington Nationals,A+,Wilmington,Wilmington Blue Rocks,South Atlantic League,0.959,UNIQUE_NAME_MATCH,33
+2025,WSN,Washington Nationals,A,Fredericksburg,Fredericksburg Nationals,Carolina League,1.028,UNIQUE_NAME_MATCH,33
+2024,ARI,Arizona Diamondbacks,AAA,Reno,Reno Aces,Pacific Coast League,1.134,UNIQUE_NAME_MATCH,4
+2024,ARI,Arizona Diamondbacks,AA,Amarillo,Amarillo Sod Poodles,Texas League,1.181,UNIQUE_NAME_MATCH,4
+2024,ARI,Arizona Diamondbacks,A+,Hillsboro,Hillsboro Hops,Northwest League,0.997,UNIQUE_NAME_MATCH,4
+2024,ARI,Arizona Diamondbacks,A,Visalia,Visalia Rawhide,California League,0.996,UNIQUE_NAME_MATCH,4
+2024,ATL,Atlanta Braves,AAA,Gwinnett,Gwinnett Stripers,International League,0.96,UNIQUE_NAME_MATCH,5
+2024,ATL,Atlanta Braves,AA,Mississippi,Mississippi Braves,,0.888,UNIQUE_NAME_MATCH,5
+2024,ATL,Atlanta Braves,A+,Rome,Rome Emperors,South Atlantic League,0.905,UNIQUE_NAME_MATCH,5
+2024,ATL,Atlanta Braves,A,Augusta,Augusta GreenJackets,Carolina League,1.003,UNIQUE_NAME_MATCH,5
+2024,BAL,Baltimore Orioles,AAA,Norfolk,Norfolk Tides,International League,0.951,UNIQUE_NAME_MATCH,6
+2024,BAL,Baltimore Orioles,AA,Bowie,Bowie Baysox,Eastern League,1.114,UNIQUE_NAME_MATCH,6
+2024,BAL,Baltimore Orioles,A+,Aberdeen,Aberdeen IronBirds,,1.007,UNIQUE_NAME_MATCH,6
+2024,BAL,Baltimore Orioles,A,Delmarva,Delmarva Shorebirds,Carolina League,0.985,UNIQUE_NAME_MATCH,6
+2024,BOS,Boston Red Sox,AAA,Worcester,Worcester Red Sox,International League,1.009,UNIQUE_NAME_MATCH,7
+2024,BOS,Boston Red Sox,AA,Portland,Portland Sea Dogs,Eastern League,1.049,UNIQUE_NAME_MATCH,7
+2024,BOS,Boston Red Sox,A+,Greenville,Greenville Drive,South Atlantic League,1.023,UNIQUE_NAME_MATCH,7
+2024,BOS,Boston Red Sox,A,Salem,Salem Red Sox,Carolina League,1.105,UNIQUE_NAME_MATCH,7
+2024,CHC,Chicago Cubs,AAA,Iowa,Iowa Cubs,International League,1.114,UNIQUE_NAME_MATCH,8
+2024,CHC,Chicago Cubs,AA,Tennessee,Tennessee Smokies,Southern League,1.014,UNIQUE_NAME_MATCH,8
+2024,CHC,Chicago Cubs,A+,South Bend,South Bend Cubs,Midwest League,1.003,UNIQUE_NAME_MATCH,8
+2024,CHC,Chicago Cubs,A,Myrtle Beach,Myrtle Beach Pelicans,Carolina League,0.936,UNIQUE_NAME_MATCH,8
+2024,CHW,Chicago White Sox,AAA,Charlotte,Charlotte Knights,International League,1.071,UNIQUE_NAME_MATCH,9
+2024,CHW,Chicago White Sox,AA,Birmingham,Birmingham Barons,Southern League,1.011,UNIQUE_NAME_MATCH,9
+2024,CHW,Chicago White Sox,A+,Winston-Salem,Winston-Salem Dash,South Atlantic League,0.995,UNIQUE_NAME_MATCH,9
+2024,CHW,Chicago White Sox,A,Kannapolis,Kannapolis Cannon Ballers,Carolina League,0.998,UNIQUE_NAME_MATCH,9
+2024,CIN,Cincinnati Reds,AAA,Louisville,Louisville Bats,International League,0.996,UNIQUE_NAME_MATCH,10
+2024,CIN,Cincinnati Reds,AA,Chattanooga,Chattanooga Lookouts,Southern League,1.091,UNIQUE_NAME_MATCH,10
+2024,CIN,Cincinnati Reds,A+,Dayton,Dayton Dragons,Midwest League,1.022,UNIQUE_NAME_MATCH,10
+2024,CIN,Cincinnati Reds,A,Daytona,Daytona Tortugas,Florida State League,1.012,UNIQUE_NAME_MATCH,10
+2024,CLE,Cleveland Guardians,AAA,Columbus,Columbus Clippers,International League,0.976,UNIQUE_NAME_MATCH,11
+2024,CLE,Cleveland Guardians,AA,Akron,Akron RubberDucks,Eastern League,0.961,UNIQUE_NAME_MATCH,11
+2024,CLE,Cleveland Guardians,A+,Lake County,Lake County Captains,Midwest League,1.011,UNIQUE_NAME_MATCH,11
+2024,CLE,Cleveland Guardians,A,Lynchburg,Lynchburg Hillcats,Carolina League,0.99,UNIQUE_NAME_MATCH,11
+2024,COL,Colorado Rockies,AAA,Albuquerque,Albuquerque Isotopes,Pacific Coast League,1.13,UNIQUE_NAME_MATCH,12
+2024,COL,Colorado Rockies,AA,Hartford,Hartford Yard Goats,Eastern League,1.004,UNIQUE_NAME_MATCH,12
+2024,COL,Colorado Rockies,A+,Spokane,Spokane Indians,Northwest League,1.089,UNIQUE_NAME_MATCH,12
+2024,COL,Colorado Rockies,A,Fresno,Fresno Grizzlies,California League,0.952,UNIQUE_NAME_MATCH,12
+2024,DET,Detroit Tigers,AAA,Toledo,Toledo Mud Hens,International League,0.947,UNIQUE_NAME_MATCH,13
+2024,DET,Detroit Tigers,AA,Erie,Erie SeaWolves,Eastern League,0.966,UNIQUE_NAME_MATCH,13
+2024,DET,Detroit Tigers,A+,West Michigan,West Michigan Whitecaps,Midwest League,0.915,UNIQUE_NAME_MATCH,13
+2024,DET,Detroit Tigers,A,Lakeland,Lakeland Flying Tigers,Florida State League,0.996,UNIQUE_NAME_MATCH,13
+2024,HOU,Houston Astros,AAA,Sugar Land,Sugar Land Space Cowboys,Pacific Coast League,0.876,UNIQUE_NAME_MATCH,14
+2024,HOU,Houston Astros,AA,Corpus Christi,Corpus Christi Hooks,Texas League,0.944,UNIQUE_NAME_MATCH,14
+2024,HOU,Houston Astros,A+,Asheville,Asheville Tourists,South Atlantic League,1.151,UNIQUE_NAME_MATCH,14
+2024,HOU,Houston Astros,A,Fayetteville,Fayetteville Woodpeckers,Carolina League,1.024,UNIQUE_NAME_MATCH,14
+2024,KCR,Kansas City Royals,AAA,Omaha,Omaha Storm Chasers,International League,1.046,UNIQUE_NAME_MATCH,15
+2024,KCR,Kansas City Royals,AA,Northwest Arkansas,Northwest Arkansas Naturals,Texas League,1.041,UNIQUE_NAME_MATCH,15
+2024,KCR,Kansas City Royals,A+,Quad Cities,Quad Cities River Bandits,Midwest League,0.955,UNIQUE_NAME_MATCH,15
+2024,KCR,Kansas City Royals,A,Columbia,Columbia Fireflies,Carolina League,1.029,UNIQUE_NAME_MATCH,15
+2024,LAA,Los Angeles Angels,AAA,Salt Lake,Salt Lake Bees,Pacific Coast League,1.002,UNIQUE_NAME_MATCH,16
+2024,LAA,Los Angeles Angels,AA,Rocket City,Rocket City Trash Pandas,Southern League,0.977,UNIQUE_NAME_MATCH,16
+2024,LAA,Los Angeles Angels,A+,Tri-City,Tri-City Dust Devils,Northwest League,0.921,UNIQUE_NAME_MATCH,16
+2024,LAA,Los Angeles Angels,A,Inland Empire,Inland Empire 66ers,California League,1.001,UNIQUE_NAME_MATCH,16
+2024,LAD,Los Angeles Dodgers,AAA,Oklahoma City,Oklahoma City Baseball Club,Pacific Coast League,0.939,UNIQUE_NAME_MATCH,17
+2024,LAD,Los Angeles Dodgers,AA,Tulsa,Tulsa Drillers,Texas League,0.97,UNIQUE_NAME_MATCH,17
+2024,LAD,Los Angeles Dodgers,A+,Great Lakes,Great Lakes Loons,Midwest League,0.993,UNIQUE_NAME_MATCH,17
+2024,LAD,Los Angeles Dodgers,A,Rancho Cucamonga,Rancho Cucamonga Quakes,California League,0.999,UNIQUE_NAME_MATCH,17
+2024,MIA,Miami Marlins,AAA,Jacksonville,Jacksonville Jumbo Shrimp,International League,0.95,UNIQUE_NAME_MATCH,18
+2024,MIA,Miami Marlins,AA,Pensacola,Pensacola Blue Wahoos,Southern League,1.014,UNIQUE_NAME_MATCH,18
+2024,MIA,Miami Marlins,A+,Beloit,Beloit Sky Carp,Midwest League,0.956,UNIQUE_NAME_MATCH,18
+2024,MIA,Miami Marlins,A,Jupiter,Jupiter Hammerheads,Florida State League,0.966,UNIQUE_NAME_MATCH,18
+2024,MIL,Milwaukee Brewers,AAA,Nashville,Nashville Sounds,International League,0.968,UNIQUE_NAME_MATCH,19
+2024,MIL,Milwaukee Brewers,AA,Biloxi,Biloxi Shuckers,Southern League,1.038,UNIQUE_NAME_MATCH,19
+2024,MIL,Milwaukee Brewers,A+,Wisconsin,Wisconsin Timber Rattlers,Midwest League,1.019,UNIQUE_NAME_MATCH,19
+2024,MIL,Milwaukee Brewers,A,Carolina,Carolina Mudcats,Carolina League,1.041,UNIQUE_NAME_MATCH,19
+2024,MIN,Minnesota Twins,AAA,St. Paul,St. Paul Saints,International League,1.06,UNIQUE_NAME_MATCH,20
+2024,MIN,Minnesota Twins,AA,Wichita,Wichita Wind Surge,Texas League,1.031,UNIQUE_NAME_MATCH,20
+2024,MIN,Minnesota Twins,A+,Cedar Rapids,Cedar Rapids Kernels,Midwest League,0.993,UNIQUE_NAME_MATCH,20
+2024,MIN,Minnesota Twins,A,Fort Myers,Fort Myers Mighty Mussels,Florida State League,0.987,UNIQUE_NAME_MATCH,20
+2024,NYM,New York Mets,AAA,Syracuse,Syracuse Mets,International League,1.032,UNIQUE_NAME_MATCH,21
+2024,NYM,New York Mets,AA,Binghamton,Binghamton Rumble Ponies,Eastern League,0.955,UNIQUE_NAME_MATCH,21
+2024,NYM,New York Mets,A+,Brooklyn,Brooklyn Cyclones,South Atlantic League,0.942,UNIQUE_NAME_MATCH,21
+2024,NYM,New York Mets,A,St. Lucie,St. Lucie Mets,Florida State League,1.009,UNIQUE_NAME_MATCH,21
+2024,NYY,New York Yankees,AAA,Scranton/Wilkes-Barre,Scranton/Wilkes-Barre RailRiders,International League,1.026,UNIQUE_NAME_MATCH,22
+2024,NYY,New York Yankees,AA,Somerset,Somerset Patriots,Eastern League,0.952,UNIQUE_NAME_MATCH,22
+2024,NYY,New York Yankees,A+,Hudson Valley,Hudson Valley Renegades,South Atlantic League,0.996,UNIQUE_NAME_MATCH,22
+2024,NYY,New York Yankees,A,Tampa,Tampa Tarpons,Florida State League,0.994,UNIQUE_NAME_MATCH,22
+2024,OAK,Oakland Athletics,AAA,Las Vegas,Las Vegas Aviators,Pacific Coast League,1.076,UNIQUE_NAME_MATCH,23
+2024,OAK,Oakland Athletics,AA,Midland,Midland RockHounds,Texas League,1.049,UNIQUE_NAME_MATCH,23
+2024,OAK,Oakland Athletics,A+,Lansing,Lansing Lugnuts,Midwest League,1.131,UNIQUE_NAME_MATCH,23
+2024,OAK,Oakland Athletics,A,Stockton,Stockton Ports,California League,1.066,UNIQUE_NAME_MATCH,23
+2024,PHI,Philadelphia Phillies,AAA,Lehigh Valley,Lehigh Valley IronPigs,International League,1.003,UNIQUE_NAME_MATCH,24
+2024,PHI,Philadelphia Phillies,AA,Reading,Reading Fightin Phils,Eastern League,1.075,UNIQUE_NAME_MATCH,24
+2024,PHI,Philadelphia Phillies,A+,Jersey Shore,Jersey Shore BlueClaws,South Atlantic League,0.944,UNIQUE_NAME_MATCH,24
+2024,PHI,Philadelphia Phillies,A,Clearwater,Clearwater Threshers,Florida State League,1.038,UNIQUE_NAME_MATCH,24
+2024,PIT,Pittsburgh Pirates,AAA,Indianapolis,Indianapolis Indians,International League,0.993,UNIQUE_NAME_MATCH,25
+2024,PIT,Pittsburgh Pirates,AA,Altoona,Altoona Curve,Eastern League,1.024,UNIQUE_NAME_MATCH,25
+2024,PIT,Pittsburgh Pirates,A+,Greensboro,Greensboro Grasshoppers,South Atlantic League,1.043,UNIQUE_NAME_MATCH,25
+2024,PIT,Pittsburgh Pirates,A,Bradenton,Bradenton Marauders,Florida State League,1.023,UNIQUE_NAME_MATCH,25
+2024,SDP,San Diego Padres,AAA,El Paso,El Paso Chihuahuas,Pacific Coast League,1.099,UNIQUE_NAME_MATCH,26
+2024,SDP,San Diego Padres,AA,San Antonio,San Antonio Missions,Texas League,0.908,UNIQUE_NAME_MATCH,26
+2024,SDP,San Diego Padres,A+,Fort Wayne,Fort Wayne TinCaps,Midwest League,1.022,UNIQUE_NAME_MATCH,26
+2024,SDP,San Diego Padres,A,Lake Elsinore,Lake Elsinore Storm,California League,0.992,UNIQUE_NAME_MATCH,26
+2024,SFG,San Francisco Giants,AAA,Sacramento,Sacramento River Cats,Pacific Coast League,0.846,UNIQUE_NAME_MATCH,27
+2024,SFG,San Francisco Giants,AA,Richmond,Richmond Flying Squirrels,Eastern League,0.976,UNIQUE_NAME_MATCH,27
+2024,SFG,San Francisco Giants,A+,Eugene,Eugene Emeralds,Northwest League,0.988,UNIQUE_NAME_MATCH,27
+2024,SFG,San Francisco Giants,A,San Jose,San Jose Giants,California League,1.018,UNIQUE_NAME_MATCH,27
+2024,SEA,Seattle Mariners,AAA,Tacoma,Tacoma Rainiers,Pacific Coast League,0.987,UNIQUE_NAME_MATCH,28
+2024,SEA,Seattle Mariners,AA,Arkansas,Arkansas Travelers,Texas League,0.84,UNIQUE_NAME_MATCH,28
+2024,SEA,Seattle Mariners,A+,Everett,Everett AquaSox,Northwest League,1.046,UNIQUE_NAME_MATCH,28
+2024,SEA,Seattle Mariners,A,Modesto,Modesto Nuts,,0.992,UNIQUE_NAME_MATCH,28
+2024,STL,St. Louis Cardinals,AAA,Memphis,Memphis Redbirds,International League,1.01,UNIQUE_NAME_MATCH,29
+2024,STL,St. Louis Cardinals,AA,Springfield,Springfield Cardinals,Texas League,1.052,UNIQUE_NAME_MATCH,29
+2024,STL,St. Louis Cardinals,A+,Peoria,Peoria Chiefs,Midwest League,1.009,UNIQUE_NAME_MATCH,29
+2024,STL,St. Louis Cardinals,A,Palm Beach,Palm Beach Cardinals,Florida State League,0.977,UNIQUE_NAME_MATCH,29
+2024,TBR,Tampa Bay Rays,AAA,Durham,Durham Bulls,International League,0.996,UNIQUE_NAME_MATCH,30
+2024,TBR,Tampa Bay Rays,AA,Montgomery,Montgomery Biscuits,Southern League,0.986,UNIQUE_NAME_MATCH,30
+2024,TBR,Tampa Bay Rays,A+,Bowling Green,Bowling Green Hot Rods,South Atlantic League,1.045,UNIQUE_NAME_MATCH,30
+2024,TBR,Tampa Bay Rays,A,Charleston,Charleston RiverDogs,Carolina League,1.02,UNIQUE_NAME_MATCH,30
+2024,TEX,Texas Rangers,AAA,Round Rock,Round Rock Express,Pacific Coast League,0.964,UNIQUE_NAME_MATCH,31
+2024,TEX,Texas Rangers,AA,Frisco,Frisco RoughRiders,Texas League,1.038,UNIQUE_NAME_MATCH,31
+2024,TEX,Texas Rangers,A+,Hickory,Hickory Crawdads,Carolina League,0.99,UNIQUE_NAME_MATCH,31
+2024,TEX,Texas Rangers,A,Down East,Down East Wood Ducks,,0.917,UNIQUE_NAME_MATCH,31
+2024,TOR,Toronto Blue Jays,AAA,Buffalo,Buffalo Bisons,International League,0.965,UNIQUE_NAME_MATCH,32
+2024,TOR,Toronto Blue Jays,AA,New Hampshire,New Hampshire Fisher Cats,Eastern League,0.991,UNIQUE_NAME_MATCH,32
+2024,TOR,Toronto Blue Jays,A+,Vancouver,Vancouver Canadians,Northwest League,0.963,UNIQUE_NAME_MATCH,32
+2024,TOR,Toronto Blue Jays,A,Dunedin,Dunedin Blue Jays,Florida State League,1.012,UNIQUE_NAME_MATCH,32
+2024,WSN,Washington Nationals,AAA,Rochester,Rochester Red Wings,International League,0.985,UNIQUE_NAME_MATCH,33
+2024,WSN,Washington Nationals,AA,Harrisburg,Harrisburg Senators,Eastern League,0.959,UNIQUE_NAME_MATCH,33
+2024,WSN,Washington Nationals,A+,Wilmington,Wilmington Blue Rocks,South Atlantic League,0.971,UNIQUE_NAME_MATCH,33
+2024,WSN,Washington Nationals,A,Fredericksburg,Fredericksburg Nationals,Carolina League,0.987,UNIQUE_NAME_MATCH,33
+2023,ARI,Arizona Diamondbacks,AAA,Reno,Reno Aces,Pacific Coast League,1.111,UNIQUE_NAME_MATCH,4
+2023,ARI,Arizona Diamondbacks,AA,Amarillo,Amarillo Sod Poodles,Texas League,1.196,UNIQUE_NAME_MATCH,4
+2023,ARI,Arizona Diamondbacks,A+,Hillsboro,Hillsboro Hops,Northwest League,1.005,UNIQUE_NAME_MATCH,4
+2023,ARI,Arizona Diamondbacks,A,Visalia,Visalia Rawhide,California League,1.03,UNIQUE_NAME_MATCH,4
+2023,ATL,Atlanta Braves,AAA,Gwinnett,Gwinnett Stripers,International League,0.973,UNIQUE_NAME_MATCH,5
+2023,ATL,Atlanta Braves,AA,Mississippi,Mississippi Braves,,0.884,UNIQUE_NAME_MATCH,5
+2023,ATL,Atlanta Braves,A+,Rome,Rome Braves,South Atlantic League,0.924,UNIQUE_NAME_MATCH,5
+2023,ATL,Atlanta Braves,A,Augusta,Augusta GreenJackets,Carolina League,0.966,UNIQUE_NAME_MATCH,5
+2023,BAL,Baltimore Orioles,AAA,Norfolk,Norfolk Tides,International League,0.987,UNIQUE_NAME_MATCH,6
+2023,BAL,Baltimore Orioles,AA,Bowie,Bowie Baysox,Eastern League,1.078,UNIQUE_NAME_MATCH,6
+2023,BAL,Baltimore Orioles,A+,Aberdeen,Aberdeen IronBirds,,0.995,UNIQUE_NAME_MATCH,6
+2023,BAL,Baltimore Orioles,A,Delmarva,Delmarva Shorebirds,Carolina League,0.968,UNIQUE_NAME_MATCH,6
+2023,BOS,Boston Red Sox,AAA,Worcester,Worcester Red Sox,International League,1.016,UNIQUE_NAME_MATCH,7
+2023,BOS,Boston Red Sox,AA,Portland,Portland Sea Dogs,Eastern League,1.029,UNIQUE_NAME_MATCH,7
+2023,BOS,Boston Red Sox,A+,Greenville,Greenville Drive,South Atlantic League,1.027,UNIQUE_NAME_MATCH,7
+2023,BOS,Boston Red Sox,A,Salem,Salem Red Sox,Carolina League,1.092,UNIQUE_NAME_MATCH,7
+2023,CHC,Chicago Cubs,AAA,Iowa,Iowa Cubs,International League,1.048,UNIQUE_NAME_MATCH,8
+2023,CHC,Chicago Cubs,AA,Tennessee,Tennessee Smokies,Southern League,0.996,UNIQUE_NAME_MATCH,8
+2023,CHC,Chicago Cubs,A+,South Bend,South Bend Cubs,Midwest League,1.026,UNIQUE_NAME_MATCH,8
+2023,CHC,Chicago Cubs,A,Myrtle Beach,Myrtle Beach Pelicans,Carolina League,0.925,UNIQUE_NAME_MATCH,8
+2023,CHW,Chicago White Sox,AAA,Charlotte,Charlotte Knights,International League,1.087,UNIQUE_NAME_MATCH,9
+2023,CHW,Chicago White Sox,AA,Birmingham,Birmingham Barons,Southern League,1.043,UNIQUE_NAME_MATCH,9
+2023,CHW,Chicago White Sox,A+,Winston-Salem,Winston-Salem Dash,South Atlantic League,0.978,UNIQUE_NAME_MATCH,9
+2023,CHW,Chicago White Sox,A,Kannapolis,Kannapolis Cannon Ballers,Carolina League,1.059,UNIQUE_NAME_MATCH,9
+2023,CIN,Cincinnati Reds,AAA,Louisville,Louisville Bats,International League,0.998,UNIQUE_NAME_MATCH,10
+2023,CIN,Cincinnati Reds,AA,Chattanooga,Chattanooga Lookouts,Southern League,1.066,UNIQUE_NAME_MATCH,10
+2023,CIN,Cincinnati Reds,A+,Dayton,Dayton Dragons,Midwest League,1.043,UNIQUE_NAME_MATCH,10
+2023,CIN,Cincinnati Reds,A,Daytona,Daytona Tortugas,Florida State League,1.002,UNIQUE_NAME_MATCH,10
+2023,CLE,Cleveland Guardians,AAA,Columbus,Columbus Clippers,International League,0.954,UNIQUE_NAME_MATCH,11
+2023,CLE,Cleveland Guardians,AA,Akron,Akron RubberDucks,Eastern League,0.97,UNIQUE_NAME_MATCH,11
+2023,CLE,Cleveland Guardians,A+,Lake County,Lake County Captains,Midwest League,0.982,UNIQUE_NAME_MATCH,11
+2023,CLE,Cleveland Guardians,A,Lynchburg,Lynchburg Hillcats,Carolina League,0.997,UNIQUE_NAME_MATCH,11
+2023,COL,Colorado Rockies,AAA,Albuquerque,Albuquerque Isotopes,Pacific Coast League,1.108,UNIQUE_NAME_MATCH,12
+2023,COL,Colorado Rockies,AA,Hartford,Hartford Yard Goats,Eastern League,1.002,UNIQUE_NAME_MATCH,12
+2023,COL,Colorado Rockies,A+,Spokane,Spokane Indians,Northwest League,1.12,UNIQUE_NAME_MATCH,12
+2023,COL,Colorado Rockies,A,Fresno,Fresno Grizzlies,California League,0.962,UNIQUE_NAME_MATCH,12
+2023,DET,Detroit Tigers,AAA,Toledo,Toledo Mud Hens,International League,0.951,UNIQUE_NAME_MATCH,13
+2023,DET,Detroit Tigers,AA,Erie,Erie SeaWolves,Eastern League,1.009,UNIQUE_NAME_MATCH,13
+2023,DET,Detroit Tigers,A+,West Michigan,West Michigan Whitecaps,Midwest League,0.923,UNIQUE_NAME_MATCH,13
+2023,DET,Detroit Tigers,A,Lakeland,Lakeland Flying Tigers,Florida State League,1.012,UNIQUE_NAME_MATCH,13
+2023,HOU,Houston Astros,AAA,Sugar Land,Sugar Land Space Cowboys,Pacific Coast League,0.857,UNIQUE_NAME_MATCH,14
+2023,HOU,Houston Astros,AA,Corpus Christi,Corpus Christi Hooks,Texas League,0.963,UNIQUE_NAME_MATCH,14
+2023,HOU,Houston Astros,A+,Asheville,Asheville Tourists,South Atlantic League,1.161,UNIQUE_NAME_MATCH,14
+2023,HOU,Houston Astros,A,Fayetteville,Fayetteville Woodpeckers,Carolina League,0.96,UNIQUE_NAME_MATCH,14
+2023,KCR,Kansas City Royals,AAA,Omaha,Omaha Storm Chasers,International League,1.047,UNIQUE_NAME_MATCH,15
+2023,KCR,Kansas City Royals,AA,Northwest Arkansas,Northwest Arkansas Naturals,Texas League,1.026,UNIQUE_NAME_MATCH,15
+2023,KCR,Kansas City Royals,A+,Quad Cities,Quad Cities River Bandits,Midwest League,0.988,UNIQUE_NAME_MATCH,15
+2023,KCR,Kansas City Royals,A,Columbia,Columbia Fireflies,Carolina League,1.094,UNIQUE_NAME_MATCH,15
+2023,LAA,Los Angeles Angels,AAA,Salt Lake,Salt Lake Bees,Pacific Coast League,1.011,UNIQUE_NAME_MATCH,16
+2023,LAA,Los Angeles Angels,AA,Rocket City,Rocket City Trash Pandas,Southern League,0.977,UNIQUE_NAME_MATCH,16
+2023,LAA,Los Angeles Angels,A+,Tri-City,Tri-City Dust Devils,Northwest League,0.894,UNIQUE_NAME_MATCH,16
+2023,LAA,Los Angeles Angels,A,Inland Empire,Inland Empire 66ers,California League,1.024,UNIQUE_NAME_MATCH,16
+2023,LAD,Los Angeles Dodgers,AAA,Oklahoma City,Oklahoma City Dodgers,Pacific Coast League,0.972,UNIQUE_NAME_MATCH,17
+2023,LAD,Los Angeles Dodgers,AA,Tulsa,Tulsa Drillers,Texas League,0.938,UNIQUE_NAME_MATCH,17
+2023,LAD,Los Angeles Dodgers,A+,Great Lakes,Great Lakes Loons,Midwest League,0.978,UNIQUE_NAME_MATCH,17
+2023,LAD,Los Angeles Dodgers,A,Rancho Cucamonga,Rancho Cucamonga Quakes,California League,0.995,UNIQUE_NAME_MATCH,17
+2023,MIA,Miami Marlins,AAA,Jacksonville,Jacksonville Jumbo Shrimp,International League,0.92,UNIQUE_NAME_MATCH,18
+2023,MIA,Miami Marlins,AA,Pensacola,Pensacola Blue Wahoos,Southern League,1.023,UNIQUE_NAME_MATCH,18
+2023,MIA,Miami Marlins,A+,Beloit,Beloit Sky Carp,Midwest League,0.971,UNIQUE_NAME_MATCH,18
+2023,MIA,Miami Marlins,A,Jupiter,Jupiter Hammerheads,Florida State League,0.951,UNIQUE_NAME_MATCH,18
+2023,MIL,Milwaukee Brewers,AAA,Nashville,Nashville Sounds,International League,1.001,UNIQUE_NAME_MATCH,19
+2023,MIL,Milwaukee Brewers,AA,Biloxi,Biloxi Shuckers,Southern League,0.998,UNIQUE_NAME_MATCH,19
+2023,MIL,Milwaukee Brewers,A+,Wisconsin,Wisconsin Timber Rattlers,Midwest League,1.007,UNIQUE_NAME_MATCH,19
+2023,MIL,Milwaukee Brewers,A,Carolina,Carolina Mudcats,Carolina League,1.067,UNIQUE_NAME_MATCH,19
+2023,MIN,Minnesota Twins,AAA,St. Paul,St. Paul Saints,International League,1.047,UNIQUE_NAME_MATCH,20
+2023,MIN,Minnesota Twins,AA,Wichita,Wichita Wind Surge,Texas League,1.075,UNIQUE_NAME_MATCH,20
+2023,MIN,Minnesota Twins,A+,Cedar Rapids,Cedar Rapids Kernels,Midwest League,0.998,UNIQUE_NAME_MATCH,20
+2023,MIN,Minnesota Twins,A,Fort Myers,Fort Myers Mighty Mussels,Florida State League,1.011,UNIQUE_NAME_MATCH,20
+2023,NYM,New York Mets,AAA,Syracuse,Syracuse Mets,International League,1.02,UNIQUE_NAME_MATCH,21
+2023,NYM,New York Mets,AA,Binghamton,Binghamton Rumble Ponies,Eastern League,0.958,UNIQUE_NAME_MATCH,21
+2023,NYM,New York Mets,A+,Brooklyn,Brooklyn Cyclones,South Atlantic League,0.927,UNIQUE_NAME_MATCH,21
+2023,NYM,New York Mets,A,St. Lucie,St. Lucie Mets,Florida State League,1.05,UNIQUE_NAME_MATCH,21
+2023,NYY,New York Yankees,AAA,Scranton/Wilkes-Barre,Scranton/Wilkes-Barre RailRiders,International League,0.957,UNIQUE_NAME_MATCH,22
+2023,NYY,New York Yankees,AA,Somerset,Somerset Patriots,Eastern League,0.965,UNIQUE_NAME_MATCH,22
+2023,NYY,New York Yankees,A+,Hudson Valley,Hudson Valley Renegades,South Atlantic League,0.969,UNIQUE_NAME_MATCH,22
+2023,NYY,New York Yankees,A,Tampa,Tampa Tarpons,Florida State League,0.986,UNIQUE_NAME_MATCH,22
+2023,OAK,Oakland Athletics,AAA,Las Vegas,Las Vegas Aviators,Pacific Coast League,1.114,UNIQUE_NAME_MATCH,23
+2023,OAK,Oakland Athletics,AA,Midland,Midland RockHounds,Texas League,1.016,UNIQUE_NAME_MATCH,23
+2023,OAK,Oakland Athletics,A+,Lansing,Lansing Lugnuts,Midwest League,1.164,UNIQUE_NAME_MATCH,23
+2023,OAK,Oakland Athletics,A,Stockton,Stockton Ports,California League,1.071,UNIQUE_NAME_MATCH,23
+2023,PHI,Philadelphia Phillies,AAA,Lehigh Valley,Lehigh Valley IronPigs,International League,1,UNIQUE_NAME_MATCH,24
+2023,PHI,Philadelphia Phillies,AA,Reading,Reading Fightin Phils,Eastern League,1.046,UNIQUE_NAME_MATCH,24
+2023,PHI,Philadelphia Phillies,A+,Jersey Shore,Jersey Shore BlueClaws,South Atlantic League,0.959,UNIQUE_NAME_MATCH,24
+2023,PHI,Philadelphia Phillies,A,Clearwater,Clearwater Threshers,Florida State League,1.028,UNIQUE_NAME_MATCH,24
+2023,PIT,Pittsburgh Pirates,AAA,Indianapolis,Indianapolis Indians,International League,0.98,UNIQUE_NAME_MATCH,25
+2023,PIT,Pittsburgh Pirates,AA,Altoona,Altoona Curve,Eastern League,1.011,UNIQUE_NAME_MATCH,25
+2023,PIT,Pittsburgh Pirates,A+,Greensboro,Greensboro Grasshoppers,South Atlantic League,1.058,UNIQUE_NAME_MATCH,25
+2023,PIT,Pittsburgh Pirates,A,Bradenton,Bradenton Marauders,Florida State League,0.992,UNIQUE_NAME_MATCH,25
+2023,SDP,San Diego Padres,AAA,El Paso,El Paso Chihuahuas,Pacific Coast League,1.098,UNIQUE_NAME_MATCH,26
+2023,SDP,San Diego Padres,AA,San Antonio,San Antonio Missions,Texas League,0.926,UNIQUE_NAME_MATCH,26
+2023,SDP,San Diego Padres,A+,Fort Wayne,Fort Wayne TinCaps,Midwest League,0.967,UNIQUE_NAME_MATCH,26
+2023,SDP,San Diego Padres,A,Lake Elsinore,Lake Elsinore Storm,California League,1.002,UNIQUE_NAME_MATCH,26
+2023,SFG,San Francisco Giants,AAA,Sacramento,Sacramento River Cats,Pacific Coast League,0.883,UNIQUE_NAME_MATCH,27
+2023,SFG,San Francisco Giants,AA,Richmond,Richmond Flying Squirrels,Eastern League,0.988,UNIQUE_NAME_MATCH,27
+2023,SFG,San Francisco Giants,A+,Eugene,Eugene Emeralds,Northwest League,0.998,UNIQUE_NAME_MATCH,27
+2023,SFG,San Francisco Giants,A,San Jose,San Jose Giants,California League,1.01,UNIQUE_NAME_MATCH,27
+2023,SEA,Seattle Mariners,AAA,Tacoma,Tacoma Rainiers,Pacific Coast League,0.939,UNIQUE_NAME_MATCH,28
+2023,SEA,Seattle Mariners,AA,Arkansas,Arkansas Travelers,Texas League,0.879,UNIQUE_NAME_MATCH,28
+2023,SEA,Seattle Mariners,A+,Everett,Everett AquaSox,Northwest League,1.062,UNIQUE_NAME_MATCH,28
+2023,SEA,Seattle Mariners,A,Modesto,Modesto Nuts,,0.933,UNIQUE_NAME_MATCH,28
+2023,STL,St. Louis Cardinals,AAA,Memphis,Memphis Redbirds,International League,1.002,UNIQUE_NAME_MATCH,29
+2023,STL,St. Louis Cardinals,AA,Springfield,Springfield Cardinals,Texas League,1.029,UNIQUE_NAME_MATCH,29
+2023,STL,St. Louis Cardinals,A+,Peoria,Peoria Chiefs,Midwest League,0.996,UNIQUE_NAME_MATCH,29
+2023,STL,St. Louis Cardinals,A,Palm Beach,Palm Beach Cardinals,Florida State League,0.973,UNIQUE_NAME_MATCH,29
+2023,TBR,Tampa Bay Rays,AAA,Durham,Durham Bulls,International League,1.048,UNIQUE_NAME_MATCH,30
+2023,TBR,Tampa Bay Rays,AA,Montgomery,Montgomery Biscuits,Southern League,1.028,UNIQUE_NAME_MATCH,30
+2023,TBR,Tampa Bay Rays,A+,Bowling Green,Bowling Green Hot Rods,South Atlantic League,1.03,UNIQUE_NAME_MATCH,30
+2023,TBR,Tampa Bay Rays,A,Charleston,Charleston RiverDogs,Carolina League,0.991,UNIQUE_NAME_MATCH,30
+2023,TEX,Texas Rangers,AAA,Round Rock,Round Rock Express,Pacific Coast League,0.96,UNIQUE_NAME_MATCH,31
+2023,TEX,Texas Rangers,AA,Frisco,Frisco RoughRiders,Texas League,0.991,UNIQUE_NAME_MATCH,31
+2023,TEX,Texas Rangers,A+,Hickory,Hickory Crawdads,Carolina League,0.996,UNIQUE_NAME_MATCH,31
+2023,TEX,Texas Rangers,A,Down East,Down East Wood Ducks,,0.93,UNIQUE_NAME_MATCH,31
+2023,TOR,Toronto Blue Jays,AAA,Buffalo,Buffalo Bisons,International League,0.984,UNIQUE_NAME_MATCH,32
+2023,TOR,Toronto Blue Jays,AA,New Hampshire,New Hampshire Fisher Cats,Eastern League,0.985,UNIQUE_NAME_MATCH,32
+2023,TOR,Toronto Blue Jays,A+,Vancouver,Vancouver Canadians,Northwest League,0.941,UNIQUE_NAME_MATCH,32
+2023,TOR,Toronto Blue Jays,A,Dunedin,Dunedin Blue Jays,Florida State League,1.012,UNIQUE_NAME_MATCH,32
+2023,WSN,Washington Nationals,AAA,Rochester,Rochester Red Wings,International League,1.018,UNIQUE_NAME_MATCH,33
+2023,WSN,Washington Nationals,AA,Harrisburg,Harrisburg Senators,Eastern League,0.973,UNIQUE_NAME_MATCH,33
+2023,WSN,Washington Nationals,A+,Wilmington,Wilmington Blue Rocks,South Atlantic League,0.987,UNIQUE_NAME_MATCH,33
+2023,WSN,Washington Nationals,A,Fredericksburg,Fredericksburg Nationals,Carolina League,1.005,UNIQUE_NAME_MATCH,33
+2022,ARI,Arizona Diamondbacks,AAA,Reno,Reno Aces,Pacific Coast League,1.04,UNIQUE_NAME_MATCH,4
+2022,ARI,Arizona Diamondbacks,AA,Amarillo,Amarillo Sod Poodles,Texas League,1.225,UNIQUE_NAME_MATCH,4
+2022,ARI,Arizona Diamondbacks,A+,Hillsboro,Hillsboro Hops,Northwest League,0.951,UNIQUE_NAME_MATCH,4
+2022,ARI,Arizona Diamondbacks,A,Visalia,Visalia Rawhide,California League,0.985,UNIQUE_NAME_MATCH,4
+2022,ATL,Atlanta Braves,AAA,Gwinnett,Gwinnett Stripers,International League,0.964,UNIQUE_NAME_MATCH,5
+2022,ATL,Atlanta Braves,AA,Mississippi,Mississippi Braves,,0.906,UNIQUE_NAME_MATCH,5
+2022,ATL,Atlanta Braves,A+,Rome,Rome Braves,South Atlantic League,0.897,UNIQUE_NAME_MATCH,5
+2022,ATL,Atlanta Braves,A,Augusta,Augusta GreenJackets,Carolina League,0.958,UNIQUE_NAME_MATCH,5
+2022,BAL,Baltimore Orioles,AAA,Norfolk,Norfolk Tides,International League,0.985,UNIQUE_NAME_MATCH,6
+2022,BAL,Baltimore Orioles,AA,Bowie,Bowie Baysox,Eastern League,1.11,UNIQUE_NAME_MATCH,6
+2022,BAL,Baltimore Orioles,A+,Aberdeen,Aberdeen IronBirds,,0.949,UNIQUE_NAME_MATCH,6
+2022,BAL,Baltimore Orioles,A,Delmarva,Delmarva Shorebirds,Carolina League,0.952,UNIQUE_NAME_MATCH,6
+2022,BOS,Boston Red Sox,AAA,Worcester,Worcester Red Sox,International League,1.012,UNIQUE_NAME_MATCH,7
+2022,BOS,Boston Red Sox,AA,Portland,Portland Sea Dogs,Eastern League,1.018,UNIQUE_NAME_MATCH,7
+2022,BOS,Boston Red Sox,A+,Greenville,Greenville Drive,South Atlantic League,1.001,UNIQUE_NAME_MATCH,7
+2022,BOS,Boston Red Sox,A,Salem,Salem Red Sox,Carolina League,1.029,UNIQUE_NAME_MATCH,7
+2022,CHC,Chicago Cubs,AAA,Iowa,Iowa Cubs,International League,1.057,UNIQUE_NAME_MATCH,8
+2022,CHC,Chicago Cubs,AA,Tennessee,Tennessee Smokies,Southern League,1.019,UNIQUE_NAME_MATCH,8
+2022,CHC,Chicago Cubs,A+,South Bend,South Bend Cubs,Midwest League,1.025,UNIQUE_NAME_MATCH,8
+2022,CHC,Chicago Cubs,A,Myrtle Beach,Myrtle Beach Pelicans,Carolina League,0.926,UNIQUE_NAME_MATCH,8
+2022,CHW,Chicago White Sox,AAA,Charlotte,Charlotte Knights,International League,1.116,UNIQUE_NAME_MATCH,9
+2022,CHW,Chicago White Sox,AA,Birmingham,Birmingham Barons,Southern League,0.978,UNIQUE_NAME_MATCH,9
+2022,CHW,Chicago White Sox,A+,Winston-Salem,Winston-Salem Dash,South Atlantic League,0.979,UNIQUE_NAME_MATCH,9
+2022,CHW,Chicago White Sox,A,Kannapolis,Kannapolis Cannon Ballers,Carolina League,1.124,UNIQUE_NAME_MATCH,9
+2022,CIN,Cincinnati Reds,AAA,Louisville,Louisville Bats,International League,1.015,UNIQUE_NAME_MATCH,10
+2022,CIN,Cincinnati Reds,AA,Chattanooga,Chattanooga Lookouts,Southern League,1.106,UNIQUE_NAME_MATCH,10
+2022,CIN,Cincinnati Reds,A+,Dayton,Dayton Dragons,Midwest League,1.006,UNIQUE_NAME_MATCH,10
+2022,CIN,Cincinnati Reds,A,Daytona,Daytona Tortugas,Florida State League,1.021,UNIQUE_NAME_MATCH,10
+2022,CLE,Cleveland Guardians,AAA,Columbus,Columbus Clippers,International League,0.985,UNIQUE_NAME_MATCH,11
+2022,CLE,Cleveland Guardians,AA,Akron,Akron RubberDucks,Eastern League,0.996,UNIQUE_NAME_MATCH,11
+2022,CLE,Cleveland Guardians,A+,Lake County,Lake County Captains,Midwest League,1.018,UNIQUE_NAME_MATCH,11
+2022,CLE,Cleveland Guardians,A,Lynchburg,Lynchburg Hillcats,Carolina League,0.989,UNIQUE_NAME_MATCH,11
+2022,COL,Colorado Rockies,AAA,Albuquerque,Albuquerque Isotopes,Pacific Coast League,1.097,UNIQUE_NAME_MATCH,12
+2022,COL,Colorado Rockies,AA,Hartford,Hartford Yard Goats,Eastern League,0.996,UNIQUE_NAME_MATCH,12
+2022,COL,Colorado Rockies,A+,Spokane,Spokane Indians,Northwest League,1.154,UNIQUE_NAME_MATCH,12
+2022,COL,Colorado Rockies,A,Fresno,Fresno Grizzlies,California League,0.997,UNIQUE_NAME_MATCH,12
+2022,DET,Detroit Tigers,AAA,Toledo,Toledo Mud Hens,International League,0.956,UNIQUE_NAME_MATCH,13
+2022,DET,Detroit Tigers,AA,Erie,Erie SeaWolves,Eastern League,0.991,UNIQUE_NAME_MATCH,13
+2022,DET,Detroit Tigers,A+,West Michigan,West Michigan Whitecaps,Midwest League,0.925,UNIQUE_NAME_MATCH,13
+2022,DET,Detroit Tigers,A,Lakeland,Lakeland Flying Tigers,Florida State League,0.98,UNIQUE_NAME_MATCH,13
+2022,HOU,Houston Astros,AAA,Sugar Land,Sugar Land Space Cowboys,Pacific Coast League,0.875,UNIQUE_NAME_MATCH,14
+2022,HOU,Houston Astros,AA,Corpus Christi,Corpus Christi Hooks,Texas League,0.984,UNIQUE_NAME_MATCH,14
+2022,HOU,Houston Astros,A+,Asheville,Asheville Tourists,South Atlantic League,1.183,UNIQUE_NAME_MATCH,14
+2022,HOU,Houston Astros,A,Fayetteville,Fayetteville Woodpeckers,Carolina League,0.935,UNIQUE_NAME_MATCH,14
+2022,KCR,Kansas City Royals,AAA,Omaha,Omaha Storm Chasers,International League,1.043,UNIQUE_NAME_MATCH,15
+2022,KCR,Kansas City Royals,AA,Northwest Arkansas,Northwest Arkansas Naturals,Texas League,1.005,UNIQUE_NAME_MATCH,15
+2022,KCR,Kansas City Royals,A+,Quad Cities,Quad Cities River Bandits,Midwest League,1.029,UNIQUE_NAME_MATCH,15
+2022,KCR,Kansas City Royals,A,Columbia,Columbia Fireflies,Carolina League,1.114,UNIQUE_NAME_MATCH,15
+2022,LAA,Los Angeles Angels,AAA,Salt Lake,Salt Lake Bees,Pacific Coast League,1.067,UNIQUE_NAME_MATCH,16
+2022,LAA,Los Angeles Angels,AA,Rocket City,Rocket City Trash Pandas,Southern League,0.982,UNIQUE_NAME_MATCH,16
+2022,LAA,Los Angeles Angels,A+,Tri-City,Tri-City Dust Devils,Northwest League,0.904,UNIQUE_NAME_MATCH,16
+2022,LAA,Los Angeles Angels,A,Inland Empire,Inland Empire 66ers,California League,1.019,UNIQUE_NAME_MATCH,16
+2022,LAD,Los Angeles Dodgers,AAA,Oklahoma City,Oklahoma City Dodgers,Pacific Coast League,0.944,UNIQUE_NAME_MATCH,17
+2022,LAD,Los Angeles Dodgers,AA,Tulsa,Tulsa Drillers,Texas League,0.956,UNIQUE_NAME_MATCH,17
+2022,LAD,Los Angeles Dodgers,A+,Great Lakes,Great Lakes Loons,Midwest League,0.957,UNIQUE_NAME_MATCH,17
+2022,LAD,Los Angeles Dodgers,A,Rancho Cucamonga,Rancho Cucamonga Quakes,California League,1.011,UNIQUE_NAME_MATCH,17
+2022,MIA,Miami Marlins,AAA,Jacksonville,Jacksonville Jumbo Shrimp,International League,0.933,UNIQUE_NAME_MATCH,18
+2022,MIA,Miami Marlins,AA,Pensacola,Pensacola Blue Wahoos,Southern League,0.993,UNIQUE_NAME_MATCH,18
+2022,MIA,Miami Marlins,A+,Beloit,Beloit Sky Carp,Midwest League,0.988,UNIQUE_NAME_MATCH,18
+2022,MIA,Miami Marlins,A,Jupiter,Jupiter Hammerheads,Florida State League,0.971,UNIQUE_NAME_MATCH,18
+2022,MIL,Milwaukee Brewers,AAA,Nashville,Nashville Sounds,International League,0.947,UNIQUE_NAME_MATCH,19
+2022,MIL,Milwaukee Brewers,AA,Biloxi,Biloxi Shuckers,Southern League,1.033,UNIQUE_NAME_MATCH,19
+2022,MIL,Milwaukee Brewers,A+,Wisconsin,Wisconsin Timber Rattlers,Midwest League,1.008,UNIQUE_NAME_MATCH,19
+2022,MIL,Milwaukee Brewers,A,Carolina,Carolina Mudcats,Carolina League,1.105,UNIQUE_NAME_MATCH,19
+2022,MIN,Minnesota Twins,AAA,St. Paul,St. Paul Saints,International League,0.994,UNIQUE_NAME_MATCH,20
+2022,MIN,Minnesota Twins,AA,Wichita,Wichita Wind Surge,Texas League,1.06,UNIQUE_NAME_MATCH,20
+2022,MIN,Minnesota Twins,A+,Cedar Rapids,Cedar Rapids Kernels,Midwest League,0.975,UNIQUE_NAME_MATCH,20
+2022,MIN,Minnesota Twins,A,Fort Myers,Fort Myers Mighty Mussels,Florida State League,0.974,UNIQUE_NAME_MATCH,20
+2022,NYM,New York Mets,AAA,Syracuse,Syracuse Mets,International League,1.022,UNIQUE_NAME_MATCH,21
+2022,NYM,New York Mets,AA,Binghamton,Binghamton Rumble Ponies,Eastern League,0.967,UNIQUE_NAME_MATCH,21
+2022,NYM,New York Mets,A+,Brooklyn,Brooklyn Cyclones,South Atlantic League,0.915,UNIQUE_NAME_MATCH,21
+2022,NYM,New York Mets,A,St. Lucie,St. Lucie Mets,Florida State League,1.091,UNIQUE_NAME_MATCH,21
+2022,NYY,New York Yankees,AAA,Scranton/Wilkes-Barre,Scranton/Wilkes-Barre RailRiders,International League,0.946,UNIQUE_NAME_MATCH,22
+2022,NYY,New York Yankees,AA,Somerset,Somerset Patriots,Eastern League,0.971,UNIQUE_NAME_MATCH,22
+2022,NYY,New York Yankees,A+,Hudson Valley,Hudson Valley Renegades,South Atlantic League,0.999,UNIQUE_NAME_MATCH,22
+2022,NYY,New York Yankees,A,Tampa,Tampa Tarpons,Florida State League,0.98,UNIQUE_NAME_MATCH,22
+2022,OAK,Oakland Athletics,AAA,Las Vegas,Las Vegas Aviators,Pacific Coast League,1.149,UNIQUE_NAME_MATCH,23
+2022,OAK,Oakland Athletics,AA,Midland,Midland RockHounds,Texas League,0.969,UNIQUE_NAME_MATCH,23
+2022,OAK,Oakland Athletics,A+,Lansing,Lansing Lugnuts,Midwest League,1.173,UNIQUE_NAME_MATCH,23
+2022,OAK,Oakland Athletics,A,Stockton,Stockton Ports,California League,1.041,UNIQUE_NAME_MATCH,23
+2022,PHI,Philadelphia Phillies,AAA,Lehigh Valley,Lehigh Valley IronPigs,International League,1.02,UNIQUE_NAME_MATCH,24
+2022,PHI,Philadelphia Phillies,AA,Reading,Reading Fightin Phils,Eastern League,1.032,UNIQUE_NAME_MATCH,24
+2022,PHI,Philadelphia Phillies,A+,Jersey Shore,Jersey Shore BlueClaws,South Atlantic League,1.024,UNIQUE_NAME_MATCH,24
+2022,PHI,Philadelphia Phillies,A,Clearwater,Clearwater Threshers,Florida State League,1.022,UNIQUE_NAME_MATCH,24
+2022,PIT,Pittsburgh Pirates,AAA,Indianapolis,Indianapolis Indians,International League,0.966,UNIQUE_NAME_MATCH,25
+2022,PIT,Pittsburgh Pirates,AA,Altoona,Altoona Curve,Eastern League,1.03,UNIQUE_NAME_MATCH,25
+2022,PIT,Pittsburgh Pirates,A+,Greensboro,Greensboro Grasshoppers,South Atlantic League,1.113,UNIQUE_NAME_MATCH,25
+2022,PIT,Pittsburgh Pirates,A,Bradenton,Bradenton Marauders,Florida State League,1.036,UNIQUE_NAME_MATCH,25
+2022,SDP,San Diego Padres,AAA,El Paso,El Paso Chihuahuas,Pacific Coast League,1.129,UNIQUE_NAME_MATCH,26
+2022,SDP,San Diego Padres,AA,San Antonio,San Antonio Missions,Texas League,0.888,UNIQUE_NAME_MATCH,26
+2022,SDP,San Diego Padres,A+,Fort Wayne,Fort Wayne TinCaps,Midwest League,0.952,UNIQUE_NAME_MATCH,26
+2022,SDP,San Diego Padres,A,Lake Elsinore,Lake Elsinore Storm,California League,0.999,UNIQUE_NAME_MATCH,26
+2022,SFG,San Francisco Giants,AAA,Sacramento,Sacramento River Cats,Pacific Coast League,0.891,UNIQUE_NAME_MATCH,27
+2022,SFG,San Francisco Giants,AA,Richmond,Richmond Flying Squirrels,Eastern League,0.972,UNIQUE_NAME_MATCH,27
+2022,SFG,San Francisco Giants,A+,Eugene,Eugene Emeralds,Northwest League,0.954,UNIQUE_NAME_MATCH,27
+2022,SFG,San Francisco Giants,A,San Jose,San Jose Giants,California League,1.002,UNIQUE_NAME_MATCH,27
+2022,SEA,Seattle Mariners,AAA,Tacoma,Tacoma Rainiers,Pacific Coast League,0.923,UNIQUE_NAME_MATCH,28
+2022,SEA,Seattle Mariners,AA,Arkansas,Arkansas Travelers,Texas League,0.889,UNIQUE_NAME_MATCH,28
+2022,SEA,Seattle Mariners,A+,Everett,Everett AquaSox,Northwest League,1.146,UNIQUE_NAME_MATCH,28
+2022,SEA,Seattle Mariners,A,Modesto,Modesto Nuts,,0.968,UNIQUE_NAME_MATCH,28
+2022,STL,St. Louis Cardinals,AAA,Memphis,Memphis Redbirds,International League,1.024,UNIQUE_NAME_MATCH,29
+2022,STL,St. Louis Cardinals,AA,Springfield,Springfield Cardinals,Texas League,1.081,UNIQUE_NAME_MATCH,29
+2022,STL,St. Louis Cardinals,A+,Peoria,Peoria Chiefs,Midwest League,0.988,UNIQUE_NAME_MATCH,29
+2022,STL,St. Louis Cardinals,A,Palm Beach,Palm Beach Cardinals,Florida State League,0.94,UNIQUE_NAME_MATCH,29
+2022,TBR,Tampa Bay Rays,AAA,Durham,Durham Bulls,International League,1.073,UNIQUE_NAME_MATCH,30
+2022,TBR,Tampa Bay Rays,AA,Montgomery,Montgomery Biscuits,Southern League,1.001,UNIQUE_NAME_MATCH,30
+2022,TBR,Tampa Bay Rays,A+,Bowling Green,Bowling Green Hot Rods,South Atlantic League,0.971,UNIQUE_NAME_MATCH,30
+2022,TBR,Tampa Bay Rays,A,Charleston,Charleston RiverDogs,Carolina League,0.972,UNIQUE_NAME_MATCH,30
+2022,TEX,Texas Rangers,AAA,Round Rock,Round Rock Express,Pacific Coast League,0.951,UNIQUE_NAME_MATCH,31
+2022,TEX,Texas Rangers,AA,Frisco,Frisco RoughRiders,Texas League,0.988,UNIQUE_NAME_MATCH,31
+2022,TEX,Texas Rangers,A+,Hickory,Hickory Crawdads,Carolina League,0.995,UNIQUE_NAME_MATCH,31
+2022,TEX,Texas Rangers,A,Down East,Down East Wood Ducks,,0.944,UNIQUE_NAME_MATCH,31
+2022,TOR,Toronto Blue Jays,AAA,Buffalo,Buffalo Bisons,International League,0.971,UNIQUE_NAME_MATCH,32
+2022,TOR,Toronto Blue Jays,AA,New Hampshire,New Hampshire Fisher Cats,Eastern League,0.99,UNIQUE_NAME_MATCH,32
+2022,TOR,Toronto Blue Jays,A+,Vancouver,Vancouver Canadians,Northwest League,0.929,UNIQUE_NAME_MATCH,32
+2022,TOR,Toronto Blue Jays,A,Dunedin,Dunedin Blue Jays,Florida State League,1.016,UNIQUE_NAME_MATCH,32
+2022,WSN,Washington Nationals,AAA,Rochester,Rochester Red Wings,International League,1.011,UNIQUE_NAME_MATCH,33
+2022,WSN,Washington Nationals,AA,Harrisburg,Harrisburg Senators,Eastern League,0.951,UNIQUE_NAME_MATCH,33
+2022,WSN,Washington Nationals,A+,Wilmington,Wilmington Blue Rocks,South Atlantic League,0.976,UNIQUE_NAME_MATCH,33
+2022,WSN,Washington Nationals,A,Fredericksburg,Fredericksburg Nationals,Carolina League,1.017,UNIQUE_NAME_MATCH,33
+2021,ARI,Arizona Diamondbacks,AAA,Reno,Reno Aces,Pacific Coast League,1.043,UNIQUE_NAME_MATCH,4
+2021,ARI,Arizona Diamondbacks,AA,Amarillo,Amarillo Sod Poodles,Texas League,1.164,UNIQUE_NAME_MATCH,4
+2021,ARI,Arizona Diamondbacks,A+,Hillsboro,Hillsboro Hops,Northwest League,0.993,UNIQUE_NAME_MATCH,4
+2021,ARI,Arizona Diamondbacks,A,Visalia,Visalia Rawhide,California League,1.01,UNIQUE_NAME_MATCH,4
+2021,ATL,Atlanta Braves,AAA,Gwinnett,Gwinnett Stripers,International League,0.986,UNIQUE_NAME_MATCH,5
+2021,ATL,Atlanta Braves,AA,Mississippi,Mississippi Braves,,0.894,UNIQUE_NAME_MATCH,5
+2021,ATL,Atlanta Braves,A+,Rome,Rome Braves,South Atlantic League,0.893,UNIQUE_NAME_MATCH,5
+2021,ATL,Atlanta Braves,A,Augusta,Augusta GreenJackets,Carolina League,0.966,UNIQUE_NAME_MATCH,5
+2021,BAL,Baltimore Orioles,AAA,Norfolk,Norfolk Tides,International League,0.91,UNIQUE_NAME_MATCH,6
+2021,BAL,Baltimore Orioles,AA,Bowie,Bowie Baysox,Eastern League,1.12,UNIQUE_NAME_MATCH,6
+2021,BAL,Baltimore Orioles,A+,Aberdeen,Aberdeen IronBirds,,0.955,UNIQUE_NAME_MATCH,6
+2021,BAL,Baltimore Orioles,A,Delmarva,Delmarva Shorebirds,Carolina League,0.959,UNIQUE_NAME_MATCH,6
+2021,BOS,Boston Red Sox,AAA,Worcester,Worcester Red Sox,International League,0.965,UNIQUE_NAME_MATCH,7
+2021,BOS,Boston Red Sox,AA,Portland,Portland Sea Dogs,Eastern League,1.008,UNIQUE_NAME_MATCH,7
+2021,BOS,Boston Red Sox,A+,Greenville,Greenville Drive,South Atlantic League,1.008,UNIQUE_NAME_MATCH,7
+2021,BOS,Boston Red Sox,A,Salem,Salem Red Sox,Carolina League,0.978,UNIQUE_NAME_MATCH,7
+2021,CHC,Chicago Cubs,AAA,Iowa,Iowa Cubs,International League,1.035,UNIQUE_NAME_MATCH,8
+2021,CHC,Chicago Cubs,AA,Tennessee,Tennessee Smokies,Southern League,1.042,UNIQUE_NAME_MATCH,8
+2021,CHC,Chicago Cubs,A+,South Bend,South Bend Cubs,Midwest League,1.028,UNIQUE_NAME_MATCH,8
+2021,CHC,Chicago Cubs,A,Myrtle Beach,Myrtle Beach Pelicans,Carolina League,0.942,UNIQUE_NAME_MATCH,8
+2021,CHW,Chicago White Sox,AAA,Charlotte,Charlotte Knights,International League,1.097,UNIQUE_NAME_MATCH,9
+2021,CHW,Chicago White Sox,AA,Birmingham,Birmingham Barons,Southern League,0.975,UNIQUE_NAME_MATCH,9
+2021,CHW,Chicago White Sox,A+,Winston-Salem,Winston-Salem Dash,South Atlantic League,0.967,UNIQUE_NAME_MATCH,9
+2021,CHW,Chicago White Sox,A,Kannapolis,Kannapolis Cannon Ballers,Carolina League,1.085,UNIQUE_NAME_MATCH,9
+2021,CIN,Cincinnati Reds,AAA,Louisville,Louisville Bats,International League,0.967,UNIQUE_NAME_MATCH,10
+2021,CIN,Cincinnati Reds,AA,Chattanooga,Chattanooga Lookouts,Southern League,1.164,UNIQUE_NAME_MATCH,10
+2021,CIN,Cincinnati Reds,A+,Dayton,Dayton Dragons,Midwest League,0.985,UNIQUE_NAME_MATCH,10
+2021,CIN,Cincinnati Reds,A,Daytona,Daytona Tortugas,Florida State League,0.959,UNIQUE_NAME_MATCH,10
+2021,CLE,Cleveland Indians,AAA,Columbus,Columbus Clippers,International League,1.03,UNIQUE_NAME_MATCH,11
+2021,CLE,Cleveland Indians,AA,Akron,Akron RubberDucks,Eastern League,0.943,UNIQUE_NAME_MATCH,11
+2021,CLE,Cleveland Indians,A+,Lake County,Lake County Captains,Midwest League,0.972,UNIQUE_NAME_MATCH,11
+2021,CLE,Cleveland Indians,A,Lynchburg,Lynchburg Hillcats,Carolina League,1.09,UNIQUE_NAME_MATCH,11
+2021,COL,Colorado Rockies,AAA,Albuquerque,Albuquerque Isotopes,Pacific Coast League,1.084,UNIQUE_NAME_MATCH,12
+2021,COL,Colorado Rockies,AA,Hartford,Hartford Yard Goats,Eastern League,1.012,UNIQUE_NAME_MATCH,12
+2021,COL,Colorado Rockies,A+,Spokane,Spokane Indians,Northwest League,1.165,UNIQUE_NAME_MATCH,12
+2021,COL,Colorado Rockies,A,Fresno,Fresno Grizzlies,California League,1.092,UNIQUE_NAME_MATCH,12
+2021,DET,Detroit Tigers,AAA,Toledo,Toledo Mud Hens,International League,0.974,UNIQUE_NAME_MATCH,13
+2021,DET,Detroit Tigers,AA,Erie,Erie SeaWolves,Eastern League,0.946,UNIQUE_NAME_MATCH,13
+2021,DET,Detroit Tigers,A+,West Michigan,West Michigan Whitecaps,Midwest League,0.936,UNIQUE_NAME_MATCH,13
+2021,DET,Detroit Tigers,A,Lakeland,Lakeland Flying Tigers,Florida State League,0.955,UNIQUE_NAME_MATCH,13
+2021,HOU,Houston Astros,AAA,Sugar Land,Sugar Land Skeeters,Pacific Coast League,0.872,UNIQUE_NAME_MATCH,14
+2021,HOU,Houston Astros,AA,Corpus Christi,Corpus Christi Hooks,Texas League,0.959,UNIQUE_NAME_MATCH,14
+2021,HOU,Houston Astros,A+,Asheville,Asheville Tourists,South Atlantic League,1.244,UNIQUE_NAME_MATCH,14
+2021,HOU,Houston Astros,A,Fayetteville,Fayetteville Woodpeckers,Carolina League,0.92,UNIQUE_NAME_MATCH,14
+2021,KCR,Kansas City Royals,AAA,Omaha,Omaha Storm Chasers,International League,0.955,UNIQUE_NAME_MATCH,15
+2021,KCR,Kansas City Royals,AA,Northwest Arkansas,Northwest Arkansas Naturals,Texas League,0.954,UNIQUE_NAME_MATCH,15
+2021,KCR,Kansas City Royals,A+,Quad Cities,Quad Cities River Bandits,Midwest League,0.958,UNIQUE_NAME_MATCH,15
+2021,KCR,Kansas City Royals,A,Columbia,Columbia Fireflies,Carolina League,1.107,UNIQUE_NAME_MATCH,15
+2021,LAA,Los Angeles Angels,AAA,Salt Lake,Salt Lake Bees,Pacific Coast League,1.044,UNIQUE_NAME_MATCH,16
+2021,LAA,Los Angeles Angels,AA,Rocket City,Rocket City Trash Pandas,Southern League,0.961,UNIQUE_NAME_MATCH,16
+2021,LAA,Los Angeles Angels,A+,Tri-City,Tri-City Dust Devils,Northwest League,0.907,UNIQUE_NAME_MATCH,16
+2021,LAA,Los Angeles Angels,A,Inland Empire,Inland Empire 66ers,California League,0.982,UNIQUE_NAME_MATCH,16
+2021,LAD,Los Angeles Dodgers,AAA,Oklahoma City,Oklahoma City Dodgers,Pacific Coast League,0.9,UNIQUE_NAME_MATCH,17
+2021,LAD,Los Angeles Dodgers,AA,Tulsa,Tulsa Drillers,Texas League,1.01,UNIQUE_NAME_MATCH,17
+2021,LAD,Los Angeles Dodgers,A+,Great Lakes,Great Lakes Loons,Midwest League,0.964,UNIQUE_NAME_MATCH,17
+2021,LAD,Los Angeles Dodgers,A,Rancho Cucamonga,Rancho Cucamonga Quakes,California League,1.018,UNIQUE_NAME_MATCH,17
+2021,MIA,Miami Marlins,AAA,Jacksonville,Jacksonville Jumbo Shrimp,International League,0.941,UNIQUE_NAME_MATCH,18
+2021,MIA,Miami Marlins,AA,Pensacola,Pensacola Blue Wahoos,Southern League,0.962,UNIQUE_NAME_MATCH,18
+2021,MIA,Miami Marlins,A+,Beloit,Beloit Snappers,Midwest League,1.092,UNIQUE_NAME_MATCH,18
+2021,MIA,Miami Marlins,A,Jupiter,Jupiter Hammerheads,Florida State League,0.979,UNIQUE_NAME_MATCH,18
+2021,MIL,Milwaukee Brewers,AAA,Nashville,Nashville Sounds,International League,0.965,UNIQUE_NAME_MATCH,19
+2021,MIL,Milwaukee Brewers,AA,Biloxi,Biloxi Shuckers,Southern League,1.013,UNIQUE_NAME_MATCH,19
+2021,MIL,Milwaukee Brewers,A+,Wisconsin,Wisconsin Timber Rattlers,Midwest League,1.033,UNIQUE_NAME_MATCH,19
+2021,MIL,Milwaukee Brewers,A,Carolina,Carolina Mudcats,Carolina League,1.079,UNIQUE_NAME_MATCH,19
+2021,MIN,Minnesota Twins,AAA,St. Paul,St. Paul Saints,International League,1.034,UNIQUE_NAME_MATCH,20
+2021,MIN,Minnesota Twins,AA,Wichita,Wichita Wind Surge,Texas League,1.021,UNIQUE_NAME_MATCH,20
+2021,MIN,Minnesota Twins,A+,Cedar Rapids,Cedar Rapids Kernels,Midwest League,0.953,UNIQUE_NAME_MATCH,20
+2021,MIN,Minnesota Twins,A,Fort Myers,Fort Myers Mighty Mussels,Florida State League,0.948,UNIQUE_NAME_MATCH,20
+2021,NYM,New York Mets,AAA,Syracuse,Syracuse Mets,International League,1.093,UNIQUE_NAME_MATCH,21
+2021,NYM,New York Mets,AA,Binghamton,Binghamton Rumble Ponies,Eastern League,0.971,UNIQUE_NAME_MATCH,21
+2021,NYM,New York Mets,A+,Brooklyn,Brooklyn Cyclones,South Atlantic League,0.888,UNIQUE_NAME_MATCH,21
+2021,NYM,New York Mets,A,St. Lucie,St. Lucie Mets,Florida State League,1.178,UNIQUE_NAME_MATCH,21
+2021,NYY,New York Yankees,AAA,Scranton/Wilkes-Barre,Scranton/Wilkes-Barre RailRiders,International League,0.925,UNIQUE_NAME_MATCH,22
+2021,NYY,New York Yankees,AA,Somerset,Somerset Patriots,Eastern League,0.97,UNIQUE_NAME_MATCH,22
+2021,NYY,New York Yankees,A+,Hudson Valley,Hudson Valley Renegades,South Atlantic League,1.048,UNIQUE_NAME_MATCH,22
+2021,NYY,New York Yankees,A,Tampa,Tampa Tarpons,Florida State League,1.04,UNIQUE_NAME_MATCH,22
+2021,OAK,Oakland Athletics,AAA,Las Vegas,Las Vegas Aviators,Pacific Coast League,1.169,UNIQUE_NAME_MATCH,23
+2021,OAK,Oakland Athletics,AA,Midland,Midland RockHounds,Texas League,0.974,UNIQUE_NAME_MATCH,23
+2021,OAK,Oakland Athletics,A+,Lansing,Lansing Lugnuts,Midwest League,1.157,UNIQUE_NAME_MATCH,23
+2021,OAK,Oakland Athletics,A,Stockton,Stockton Ports,California League,0.994,UNIQUE_NAME_MATCH,23
+2021,PHI,Philadelphia Phillies,AAA,Lehigh Valley,Lehigh Valley IronPigs,International League,1.074,UNIQUE_NAME_MATCH,24
+2021,PHI,Philadelphia Phillies,AA,Reading,Reading Fightin Phils,Eastern League,1.074,UNIQUE_NAME_MATCH,24
+2021,PHI,Philadelphia Phillies,A+,Jersey Shore,Jersey Shore BlueClaws,South Atlantic League,0.976,UNIQUE_NAME_MATCH,24
+2021,PHI,Philadelphia Phillies,A,Clearwater,Clearwater Threshers,Florida State League,1.086,UNIQUE_NAME_MATCH,24
+2021,PIT,Pittsburgh Pirates,AAA,Indianapolis,Indianapolis Indians,International League,1.002,UNIQUE_NAME_MATCH,25
+2021,PIT,Pittsburgh Pirates,AA,Altoona,Altoona Curve,Eastern League,1.001,UNIQUE_NAME_MATCH,25
+2021,PIT,Pittsburgh Pirates,A+,Greensboro,Greensboro Grasshoppers,South Atlantic League,1.092,UNIQUE_NAME_MATCH,25
+2021,PIT,Pittsburgh Pirates,A,Bradenton,Bradenton Marauders,Florida State League,1.074,UNIQUE_NAME_MATCH,25
+2021,SDP,San Diego Padres,AAA,El Paso,El Paso Chihuahuas,Pacific Coast League,1.133,UNIQUE_NAME_MATCH,26
+2021,SDP,San Diego Padres,AA,San Antonio,San Antonio Missions,Texas League,0.917,UNIQUE_NAME_MATCH,26
+2021,SDP,San Diego Padres,A+,Fort Wayne,Fort Wayne TinCaps,Midwest League,1.037,UNIQUE_NAME_MATCH,26
+2021,SDP,San Diego Padres,A,Lake Elsinore,Lake Elsinore Storm,California League,0.991,UNIQUE_NAME_MATCH,26
+2021,SFG,San Francisco Giants,AAA,Sacramento,Sacramento River Cats,Pacific Coast League,0.935,UNIQUE_NAME_MATCH,27
+2021,SFG,San Francisco Giants,AA,Richmond,Richmond Flying Squirrels,Eastern League,0.967,UNIQUE_NAME_MATCH,27
+2021,SFG,San Francisco Giants,A+,Eugene,Eugene Emeralds,Northwest League,0.964,UNIQUE_NAME_MATCH,27
+2021,SFG,San Francisco Giants,A,San Jose,San Jose Giants,California League,0.99,UNIQUE_NAME_MATCH,27
+2021,SEA,Seattle Mariners,AAA,Tacoma,Tacoma Rainiers,Pacific Coast League,0.903,UNIQUE_NAME_MATCH,28
+2021,SEA,Seattle Mariners,AA,Arkansas,Arkansas Travelers,Texas League,0.892,UNIQUE_NAME_MATCH,28
+2021,SEA,Seattle Mariners,A+,Everett,Everett AquaSox,Northwest League,1.137,UNIQUE_NAME_MATCH,28
+2021,SEA,Seattle Mariners,A,Modesto,Modesto Nuts,,0.953,UNIQUE_NAME_MATCH,28
+2021,STL,St. Louis Cardinals,AAA,Memphis,Memphis Redbirds,International League,1.072,UNIQUE_NAME_MATCH,29
+2021,STL,St. Louis Cardinals,AA,Springfield,Springfield Cardinals,Texas League,1.083,UNIQUE_NAME_MATCH,29
+2021,STL,St. Louis Cardinals,A+,Peoria,Peoria Chiefs,Midwest League,0.93,UNIQUE_NAME_MATCH,29
+2021,STL,St. Louis Cardinals,A,Palm Beach,Palm Beach Cardinals,Florida State League,0.931,UNIQUE_NAME_MATCH,29
+2021,TBR,Tampa Bay Rays,AAA,Durham,Durham Bulls,International League,1.055,UNIQUE_NAME_MATCH,30
+2021,TBR,Tampa Bay Rays,AA,Montgomery,Montgomery Biscuits,Southern League,1.025,UNIQUE_NAME_MATCH,30
+2021,TBR,Tampa Bay Rays,A+,Bowling Green,Bowling Green Hot Rods,South Atlantic League,0.96,UNIQUE_NAME_MATCH,30
+2021,TBR,Tampa Bay Rays,A,Charleston,Charleston RiverDogs,Carolina League,0.931,UNIQUE_NAME_MATCH,30
+2021,TEX,Texas Rangers,AAA,Round Rock,Round Rock Express,Pacific Coast League,0.984,UNIQUE_NAME_MATCH,31
+2021,TEX,Texas Rangers,AA,Frisco,Frisco RoughRiders,Texas League,1.049,UNIQUE_NAME_MATCH,31
+2021,TEX,Texas Rangers,A+,Hickory,Hickory Crawdads,Carolina League,0.986,UNIQUE_NAME_MATCH,31
+2021,TEX,Texas Rangers,A,Down East,Down East Wood Ducks,,0.963,UNIQUE_NAME_MATCH,31
+2021,TOR,Toronto Blue Jays,AAA,Buffalo,Buffalo Bisons,International League,1.014,UNIQUE_NAME_MATCH,32
+2021,TOR,Toronto Blue Jays,AA,New Hampshire,New Hampshire Fisher Cats,Eastern League,1.027,UNIQUE_NAME_MATCH,32
+2021,TOR,Toronto Blue Jays,A+,Vancouver,Vancouver Canadians,Northwest League,0.884,UNIQUE_NAME_MATCH,32
+2021,TOR,Toronto Blue Jays,A,Dunedin,Dunedin Blue Jays,Florida State League,0.906,UNIQUE_NAME_MATCH,32
+2021,WSN,Washington Nationals,AAA,Rochester,Rochester Red Wings,International League,0.949,UNIQUE_NAME_MATCH,33
+2021,WSN,Washington Nationals,AA,Harrisburg,Harrisburg Senators,Eastern League,0.981,UNIQUE_NAME_MATCH,33
+2021,WSN,Washington Nationals,A+,Wilmington,Wilmington Blue Rocks,South Atlantic League,0.999,UNIQUE_NAME_MATCH,33
+2021,WSN,Washington Nationals,A,Fredericksburg,Fredericksburg Nationals,Carolina League,1.026,UNIQUE_NAME_MATCH,33

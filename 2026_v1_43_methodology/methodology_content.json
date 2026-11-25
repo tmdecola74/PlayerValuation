@@ -1,0 +1,661 @@
+[
+  {
+    "title": "What generated the published forecasts",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "The saved 2026 v1.43 forecasts are based on prior MLB season results from FanGraphs, followed by recency weighting and regression of selected component rates toward MLB population averages. The player-history window is 2022 through 2025. Statcast measurements do not enter the final prediction formulas. Minor league and international performance do not enter this release either. [S1-S5]"
+      },
+      {
+        "type": "p",
+        "text": "This document describes the exact forecasts published for review and later imported into DRAFTTOOL. It separates the final calculation from the much larger collection of data, audits and research experiments. Possessing a column in an export does not make that column an active predictor."
+      },
+      {
+        "type": "table",
+        "heads": [
+          "Source or calculation",
+          "Role in v1.43"
+        ],
+        "rows": [
+          [
+            "FanGraphs MLB actual counts",
+            "Direct input to playing time, historical rates and population priors."
+          ],
+          [
+            "Certified MLB participation evidence",
+            "Separate G and OUTS overlay: confirmed nonappearance zeros and one documented games correction."
+          ],
+          [
+            "Statcast physical measurements",
+            "Used in audits and separate research. No direct predictor or coefficient in the final v1.43 calculation."
+          ],
+          [
+            "MLB component regression",
+            "Active for hitter hit types and pitcher H, ER, BB, SO and HR."
+          ],
+          [
+            "MiLB, NPB, KBO and park factors",
+            "Absent from this 2026 release. Later branches remain separate."
+          ],
+          [
+            "Steamer and other projection systems",
+            "Benchmarks and later DRAFTTOOL blend sources; not ingredients of standalone v1.43."
+          ]
+        ],
+        "widths": [
+          155,
+          349
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The verification for this document reproduced all 2,564 published player-role forecasts: 1,052 hitters and 1,512 pitchers. It checked 43,128 published fields and exactly reconstructed the nine population priors. The replay needed no Statcast feature file, minor league data, external forecast or 2026 outcome. Two hitters use the complete baseline fallback; 1,050 hitters and all 1,512 pitchers have supported regression groups. [S1, S2, V1]"
+      },
+      {
+        "type": "p",
+        "text": "Documentation date: November 25, 2026. This is an audited historical reconstruction, not evidence that the forecasts were actually issued before the 2026 season. The requested three-year rebuild has not replaced these forecasts."
+      }
+    ]
+  },
+  {
+    "title": "Where the FanGraphs data entered",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "The direct source snapshots are hitters.csv and pitchers.csv in data/actuals_reference_v1_0_min0ip/source_files under the PlayerValuation project. The archive contains 2015-2026 exports. Only 2022-2025 player observations are used in a 2026 v1.43 forecast. The final pitcher snapshot came from the minimum-zero-IP export. [S3]"
+      },
+      {
+        "type": "table",
+        "heads": [
+          "Season",
+          "Hitter source rows",
+          "Pitcher source rows"
+        ],
+        "rows": [
+          [
+            "2022",
+            "693",
+            "871"
+          ],
+          [
+            "2023",
+            "656",
+            "863"
+          ],
+          [
+            "2024",
+            "651",
+            "855"
+          ],
+          [
+            "2025",
+            "673",
+            "873"
+          ]
+        ],
+        "widths": [
+          100,
+          202,
+          202
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The importer preserves source rows, converts season totals into canonical count records and derives rates from count components. Players are keyed by season, MLBAM ID and hitter/pitcher role. A two-way player keeps separate role records. The snapshots retain advanced columns too, but the final calculation reads a restricted set of eligible counts. Raw annual IP is converted to outs before arithmetic. [S3, S4]"
+      },
+      {
+        "type": "p",
+        "text": "The frozen FanGraphs counts become training_labels.parquet through the label rules and discrepancy register. Disputed components are masked together with dependent rates. Undefined rates stay missing. A disputed H count can exclude a dependent AVG or 1B observation while leaving an independently eligible PA or HR observation intact; therefore component histories and population denominators can differ. Statcast or MLB values are not silently substituted for excluded count components. [S4]"
+      },
+      {
+        "type": "p",
+        "text": "A separate certified participation overlay adds G=0 and OUTS=0 for proven pitcher nonappearance. In 2022, 2023, 2024 and 2025 it covers 583, 619, 714 and 639 pitcher-seasons respectively. These are eligibility-pool certifications, not zero pitching outcomes invented for every absent name. The overlay also changes MLBAM 677020 games in 2023 from 13 to 14, with documented game-log evidence. Original FanGraphs snapshot files remain unchanged. [S5]"
+      },
+      {
+        "type": "p",
+        "text": "Processing order: preserve source snapshots; build canonical counts and derived rates; apply component eligibility; apply the separate certified pitcher overlay; select 2022-2025 history; calculate the baseline; regress supported skill components; check mathematical consistency; freeze the published output."
+      }
+    ]
+  },
+  {
+    "title": "Season weighting and projected playing time",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "The fixed recency weights for 2026 are 2022=1, 2023=2, 2024=3 and 2025=4. With all four seasons present they represent 10%, 20%, 30% and 40% of the exposure average. They are not the weights of the later DRAFTTOOL multi-system blend. [S1, S2]"
+      },
+      {
+        "type": "formula",
+        "text": "Projected exposure = sum(weight x known season exposure) / sum(weights of known seasons)"
+      },
+      {
+        "type": "p",
+        "text": "Exposure is PA for hitters and OUTS for pitchers. Projected IP equals projected OUTS divided by three. Unknown seasons are excluded from this average. Known zero exposure remains in it. A player must have positive exposure in at least one of the four source seasons to enter the baseline population. There is no automatic full-season promotion, rotation assignment, growth allowance or injury recovery adjustment."
+      },
+      {
+        "type": "table",
+        "heads": [
+          "Pitcher",
+          "2022 IP",
+          "2023 IP",
+          "2024 IP",
+          "2025 IP",
+          "2026 IP"
+        ],
+        "rows": [
+          [
+            "Kevin Gausman",
+            "174.667",
+            "185.000",
+            "181.000",
+            "193.000",
+            "185.967"
+          ],
+          [
+            "Logan Webb",
+            "192.333",
+            "216.000",
+            "204.667",
+            "207.000",
+            "206.633"
+          ],
+          [
+            "Paul Skenes",
+            "Missing",
+            "Missing",
+            "133.000",
+            "187.667",
+            "164.238"
+          ]
+        ],
+        "widths": [
+          104,
+          80,
+          80,
+          80,
+          80,
+          80
+        ]
+      },
+      {
+        "type": "formula",
+        "text": "Webb IP = (1 x 192.333 + 2 x 216 + 3 x 204.667 + 4 x 207) / 10 = 206.633"
+      },
+      {
+        "type": "formula",
+        "text": "Skenes IP = (3 x 133 + 4 x 187.667) / 7 = 164.238"
+      },
+      {
+        "type": "p",
+        "text": "This explains why v1.43 already projected Webb at about 207 IP and Gausman at about 186 IP. Lower estimates discussed later belonged to rejected workload experiments. Skenes has no eligible MLB exposure in 2022 or 2023, so those seasons are omitted, not inserted as zeros."
+      },
+      {
+        "type": "p",
+        "text": "Displayed historical IP above are decimal innings. FanGraphs baseball notation 204.2 means 204 innings plus two outs, or 204.6667 decimal innings. Projected fractional innings and counts remain unrounded in the files. Averaging annual workloads can understate pitchers who have moved from partial seasons to full workloads; stable history does not independently establish a future job."
+      }
+    ]
+  },
+  {
+    "title": "How hitter statistics were generated",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "The baseline first projects PA. For each eligible component it then divides recency-weighted historical counts by recency-weighted historical exposure. That is a ratio of weighted totals, not an arithmetic average of annual AVG, OPS or percentages. Different components use only seasons with both the numerator and a positive denominator. [S1]"
+      },
+      {
+        "type": "formula",
+        "text": "Historical component rate = sum(weight x count) / sum(weight x denominator)"
+      },
+      {
+        "type": "table",
+        "heads": [
+          "Published statistic",
+          "Calculation and source"
+        ],
+        "rows": [
+          [
+            "PA",
+            "Weighted mean of known 2022-2025 MLB PA. No MiLB PA added."
+          ],
+          [
+            "AB, BB, HBP, SF and SH",
+            "Projected PA x the corresponding weighted count/PA rate. These remain baseline anchors."
+          ],
+          [
+            "R, RBI and SB",
+            "Projected PA x weighted historical R/PA, RBI/PA or SB/PA. No lineup slot, team offense, speed or sprint-speed model."
+          ],
+          [
+            "1B, 2B, 3B and HR",
+            "Regress each eligible count/AB rate toward its frozen population rate, then multiply by projected AB."
+          ],
+          [
+            "H and AVG",
+            "H = 1B + 2B + 3B + HR; AVG = H / AB."
+          ],
+          [
+            "OBP",
+            "(H + BB + HBP) / (AB + BB + HBP + SF)."
+          ],
+          [
+            "SLG and OPS",
+            "SLG = (1B + 2 x 2B + 3 x 3B + 4 x HR) / AB; OPS = OBP + SLG."
+          ]
+        ],
+        "widths": [
+          133,
+          371
+        ]
+      },
+      {
+        "type": "p",
+        "text": "If the initial AB+BB+HBP+SF+SH total exceeds projected PA, those five parts are scaled together to fit PA. If regressed hit components exceed AB, all four hit types are reduced proportionally so H cannot exceed AB. These are consistency constraints, not park or league adjustments. [S1, S2]"
+      },
+      {
+        "type": "p",
+        "text": "Only the four hit-type rates receive population regression. H and the slash-line statistics change because they are recalculated from those rates. BB, R, RBI, SB and the other baseline anchors are not refit by that regression. For unsupported regression groups the entire baseline vector is retained, rather than substituting a population-only player."
+      },
+      {
+        "type": "p",
+        "text": "The published hitter schema does not include every input statistic. Hitter strikeouts, caught stealing, games and intentional walks were available in the broader data, but were not published as v1.43 hitter projections. Advanced metrics such as wOBA, xwOBA, wRC+, WAR, ISO, BABIP, BB% and K% are not direct fitted predictors in this release."
+      }
+    ]
+  },
+  {
+    "title": "How pitcher statistics were generated",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Pitcher historical rates use OUTS as exposure. IP is always derived as OUTS/3. The baseline opportunity statistics remain in place when the skill rates change. This is why improved or regressed ERA does not automatically alter wins, starts or innings. [S1, S2]"
+      },
+      {
+        "type": "table",
+        "heads": [
+          "Published statistic",
+          "Calculation and source"
+        ],
+        "rows": [
+          [
+            "OUTS and IP",
+            "Weighted mean of known annual OUTS; IP = OUTS / 3."
+          ],
+          [
+            "H, ER, BB, SO and HR",
+            "Regress weighted historical count/OUTS toward frozen MLB population count/OUTS; multiply by projected OUTS."
+          ],
+          [
+            "ERA",
+            "27 x projected ER / projected OUTS, equivalent to 9 x ER / IP. Not a weighted mean of annual ERA."
+          ],
+          [
+            "WHIP",
+            "3 x (projected H + BB) / projected OUTS, equivalent to (H + BB) / IP."
+          ],
+          [
+            "W, SV and HLD",
+            "Projected OUTS x the corresponding weighted historical count/OUTS rate. No separate win, save-chance or bullpen assignment model."
+          ],
+          [
+            "G and GS",
+            "Projected OUTS x weighted historical G/OUTS or GS/OUTS; projected GS is capped at projected G."
+          ],
+          [
+            "QS",
+            "Projected GS x weighted historical QS/GS, bounded by GS and IP/6. If GS is zero, QS is zero; missing required information stays missing."
+          ],
+          [
+            "SV plus HLD",
+            "Sum of the two projected components when both are available."
+          ]
+        ],
+        "widths": [
+          133,
+          371
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Only H, ER, BB, SO and HR receive skill regression. ERA and WHIP are recalculated from them. H is increased to HR if necessary to prevent HR allowed from exceeding total hits allowed. W, saves, holds, G, GS, QS and workload stay at their baseline values."
+      },
+      {
+        "type": "p",
+        "text": "The model does not use K%, BB%, K/9, FIP, xFIP, SIERA, velocity, pitch movement or pitch mix as separate predictors. Strikeouts and walks enter as their actual historical counts. Any K/9 or similar rate subsequently displayed can be derived from the forecast counts, but is not an extra model input."
+      },
+      {
+        "type": "p",
+        "text": "In particular, starter and relief labels and recent-appearance flags are descriptive metadata here. They do not activate the rejected role/availability workload model, determine an injury probability or reassign a pitcher to a future rotation."
+      }
+    ]
+  },
+  {
+    "title": "Regression toward the MLB population",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "The active skill adjustment is component regression toward a population mean, not a Statcast regression model. Each population rate is an unweighted pooled count divided by eligible positive exposure from MLB players in 2022-2025. At least 10,000 exposure units must support a rate. The same seasons supply the player history and the final population priors. Older seasons are used for historical validation, not the final 2026 prior pool. [S2]"
+      },
+      {
+        "type": "formula",
+        "text": "N = sum(weight x component count); D = sum(weight x exposure)"
+      },
+      {
+        "type": "formula",
+        "text": "m = mean of weights for the eligible positive-exposure season pairs"
+      },
+      {
+        "type": "formula",
+        "text": "Normalized count = N / m; normalized exposure = D / m"
+      },
+      {
+        "type": "formula",
+        "text": "Regressed rate = (N / m + prior strength x population rate) / (D / m + prior strength)"
+      },
+      {
+        "type": "p",
+        "text": "Normalization prevents a lone recent season with weight four from being treated as four independent seasons of evidence. The prior strength is 200 AB for hitter hit types and 300 OUTS, equivalent to 100 IP, for pitcher components. Smaller player samples therefore move farther toward the population rate."
+      },
+      {
+        "type": "table",
+        "heads": [
+          "Role",
+          "Component",
+          "Frozen rate",
+          "Units"
+        ],
+        "rows": [
+          [
+            "Hitter",
+            "1B",
+            "0.158597270",
+            "per AB"
+          ],
+          [
+            "Hitter",
+            "2B",
+            "0.048355244",
+            "per AB"
+          ],
+          [
+            "Hitter",
+            "3B",
+            "0.004090142",
+            "per AB"
+          ],
+          [
+            "Hitter",
+            "HR",
+            "0.033859659",
+            "per AB"
+          ],
+          [
+            "Pitcher",
+            "H",
+            "0.310346495",
+            "per OUTS"
+          ],
+          [
+            "Pitcher",
+            "ER",
+            "0.153124770",
+            "per OUTS"
+          ],
+          [
+            "Pitcher",
+            "BB",
+            "0.117931699",
+            "per OUTS"
+          ],
+          [
+            "Pitcher",
+            "SO",
+            "0.318137864",
+            "per OUTS"
+          ],
+          [
+            "Pitcher",
+            "HR",
+            "0.042907814",
+            "per OUTS"
+          ]
+        ],
+        "widths": [
+          85,
+          95,
+          130,
+          194
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Each component has its own eligibility and pooled denominator. For example, disputed hit data can remove a single-season 1B pair without removing every other component. The complete regression group must be supported; a missing essential component causes whole-vector baseline fallback, not a synthetic population-only forecast. [S2, S4]"
+      }
+    ]
+  },
+  {
+    "title": "Worked calculations from the saved release",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Aaron Judge provides a complete four-season hitter example. His projected PA is 644 and projected AB is 514.5. Weighted HR count is 522, weighted AB is 5,145 and mean season weight is 2.5. The normalized sample is therefore 208.8 HR over 2,058 AB. The frozen HR prior is 0.033859659 HR per AB with strength 200 AB."
+      },
+      {
+        "type": "formula",
+        "text": "Judge HR rate = (208.8 + 200 x 0.033859659) / (2058 + 200) = 0.095470298"
+      },
+      {
+        "type": "formula",
+        "text": "Judge projected HR = 514.5 x 0.095470298 = 49.119468"
+      },
+      {
+        "type": "p",
+        "text": "After all four hit types are regressed and recombined, Judge has AVG 0.310266 and OPS 1.097968. This does not use his exit velocity, barrels, xwOBA or another system's home run forecast. Those columns are not referenced by the final calculation. [S1, S2, V1]"
+      },
+      {
+        "type": "p",
+        "text": "Paul Skenes provides a shorter-history pitcher example. His two eligible seasons have weights three and four, so their mean weight is 3.5. Weighted ER is 251 and weighted OUTS is 3,449. The normalized ER count is 71.714286 and normalized exposure is 985.428571 outs. The ER prior is 0.153124770 ER per out with strength 300 outs."
+      },
+      {
+        "type": "formula",
+        "text": "Skenes ER rate = (251 / 3.5 + 300 x 0.153124770) / (3449 / 3.5 + 300)"
+      },
+      {
+        "type": "formula",
+        "text": "Skenes regressed ER per out = 0.091527230; ERA = 27 x that rate = 2.471235"
+      },
+      {
+        "type": "p",
+        "text": "The same pitcher still has 164.238095 projected IP and 28.142857 projected starts from the unchanged baseline. His regressed strikeout estimate is 187.058914. Skill regression adjusts performance rates without turning a two-season workload average into a full-season rotation assumption."
+      },
+      {
+        "type": "p",
+        "text": "The accompanying component_calculation_trace.csv records the weighted numerator, weighted denominator, normalized exposure, prior, regressed rate, projected denominator and released count for every player-component. worked_example_source_seasons.csv supplies the annual inputs for Judge, Skenes, Webb and Gausman. These are calculation traces, not a new projection version."
+      }
+    ]
+  },
+  {
+    "title": "Where Statcast and advanced data were used",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Statcast had research and audit roles in the broader project. The active v1.43 generation path calls the weighted-actuals baseline and the population-regression functions. Neither reads a Statcast feature matrix. The audit for this document reproduced every saved output without one. This is an implementation finding, not evidence that Statcast has no forecasting value. [S1, S2, V1]"
+      },
+      {
+        "type": "table",
+        "heads": [
+          "Data family",
+          "Work done in the broader project",
+          "Final v1.43 effect"
+        ],
+        "rows": [
+          [
+            "Pitch and event records",
+            "Reconciliation and coverage audits against frozen season counts; investigation of discrepancies.",
+            "No silent substitution for FanGraphs totals. Reviewed component eligibility can affect usable history."
+          ],
+          [
+            "EV, hard hit, barrels, xwOBA on contact; whiff and chase",
+            "Separate standard-versus-Statcast skill experiments in v1.17 and later research.",
+            "No active measurement coefficient or player adjustment."
+          ],
+          [
+            "Contact, swing, launch angle and batted-ball distribution",
+            "Expanded research features and availability checks in v1.20/v1.23.",
+            "No active predictor."
+          ],
+          [
+            "Velocity, spin, extension, movement and arsenal usage",
+            "Pitcher research and pitch-type feature preparation.",
+            "No active predictor."
+          ],
+          [
+            "Bat speed, squared-up/blast and other bat tracking",
+            "Short-history exploratory research; partial measurement availability.",
+            "No active predictor; not treated as a complete 2022-2025 panel."
+          ],
+          [
+            "FanGraphs advanced and batted-ball dashboards",
+            "Available for audits/research, with original columns preserved.",
+            "Not separately fitted in the final formulas."
+          ]
+        ],
+        "widths": [
+          120,
+          214,
+          170
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Some earlier research reports describe passing gates for individual skill rates. Those results did not automatically authorize a full projection replacement. The v1.17 report says accepted forecasts were not modified; the v1.23 final choices retain accepted_frozen for both roles. v1.43 explicitly publishes the separate v1.42 component-regression bundle. The documents must not be combined into an invented Statcast-adjusted v1.43 formula. [S6-S8]"
+      }
+    ]
+  },
+  {
+    "title": "Validation boundaries and known limitations",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "The active skill bundle passed the original historical gates across 2019-2025 forecasting origins. Every historical origin uses only earlier observations to form priors and player inputs. The release required at least three supported folds, at least 30 players per main fold, at least 1% mean objective MSE improvement, and safeguards on individual metrics, count coherence, recent years and low-history players. [S2]"
+      },
+      {
+        "type": "table",
+        "heads": [
+          "Skill bundle",
+          "Mean historical objective MSE ratio",
+          "Decision"
+        ],
+        "rows": [
+          [
+            "Hitters",
+            "0.964099 versus weighted baseline",
+            "Passed"
+          ],
+          [
+            "Pitchers",
+            "0.794340 versus weighted baseline",
+            "Passed"
+          ]
+        ],
+        "widths": [
+          140,
+          225,
+          139
+        ]
+      },
+      {
+        "type": "p",
+        "text": "These are averages of historical error ratios for the specified objectives, not accuracy percentages, a universal superiority claim or a fresh 2026 test. The 2026 outcomes had already been reviewed and are used only for reporting. Steamer comparison results did not refit these forecasts. Some earlier workload research had positive gate evidence, but v1.43 deliberately kept the accepted workload and opportunity anchors unchanged; later rejected workload models are separate too."
+      },
+      {
+        "type": "p",
+        "text": "The history archive goes back to 2015 and the scored historical origins go back to 2019. That is distinct from feeding every old season into a 2026 player forecast. The final 2026 player history and population prior pool both stop at the four seasons 2022-2025. There are no aging curves, injury recovery estimates, park corrections, league translations, platoon adjustments or future lineup/bullpen assignments in this release."
+      },
+      {
+        "type": "p",
+        "text": "Low-history and stale-history flags are disclosures, not discounts in the final workload calculation. Unknown values remain missing. Certified zero pitching changes exposure only where supported; it does not create zero wins, strikeouts or saves for every absent season. Full-history and component eligibility can differ."
+      },
+      {
+        "type": "p",
+        "text": "Subsequent DRAFTTOOL integration adds the unchanged v1.43 forecasts at a configurable initial 10% weight alongside its other systems. That blend recalculates rates from paired components and is a separate downstream operation. Its source weights, eligibility, market prices and league valuations are not part of the standalone v1.43 generation formula."
+      }
+    ]
+  },
+  {
+    "title": "Source map and verification files",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "All project paths below are relative to D:/JonAPythonClass/pycharm/PlayerValuation. The accompanying source_manifest.json stores the exact absolute paths and SHA-256 hashes used for this documentation. The original project and forecasts were read only."
+      },
+      {
+        "type": "table",
+        "heads": [
+          "ID",
+          "Source",
+          "What it establishes"
+        ],
+        "rows": [
+          [
+            "S1",
+            "project_2027_v1_31.py",
+            "project(): four-season baseline and derived statistics; called with target=2026."
+          ],
+          [
+            "S2",
+            "projection_phase_v1_42.py; outputs/projection_phase_v1_42/frozen_choices.json; release_report.json",
+            "population(), skill_candidate(), context(), historical guard decisions and final prior rates."
+          ],
+          [
+            "S3",
+            "data/actuals_reference_v1_0_min0ip/source_files/hitters.csv and pitchers.csv; import_report.json",
+            "Frozen FanGraphs snapshots, original row provenance and source hashes."
+          ],
+          [
+            "S4",
+            "outputs/training_labels_v1_0/training_labels.parquet; training_label_audit.csv; training_label_rules_snapshot.py",
+            "Eligible counts, dependent-rate rules and component masks."
+          ],
+          [
+            "S5",
+            "outputs/participation_label_overlay_v1_27/participation_label_overlay.csv; report.json",
+            "Certified G/OUTS zeros and documented 2023 G correction."
+          ],
+          [
+            "S6",
+            "outputs/statcast_incremental_v1_17/incremental_build_report.json",
+            "Statcast skill research; accepted_forecasts_modified=false and no automatic source promotion."
+          ],
+          [
+            "S7",
+            "outputs/expanded_statcast_v1_20/expanded_feature_report.json",
+            "Expanded feature preparation and measurement/coverage limitations."
+          ],
+          [
+            "S8",
+            "outputs/recent_history_skills_v1_23/recent_history_build_report.json",
+            "Separate recent-history research; both final choices accepted_frozen."
+          ],
+          [
+            "S9",
+            "skill_regressed_release_v1_43.py; outputs/skill_regressed_release_v1_43/frozen_2026_forecasts.csv; publication_freeze.json",
+            "Frozen 2026 player forecasts, immutable anchors and release identity."
+          ],
+          [
+            "V1",
+            "This package: methodology_verification.json; component_calculation_trace.csv; frozen_population_priors.csv",
+            "2,564 forecasts and 43,128 fields replayed; all nine priors exactly reproduced."
+          ]
+        ],
+        "widths": [
+          35,
+          269,
+          200
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Also included: fangraphs_source_inventory_2022_2025.csv, participation_overlay_scope.csv, excluded_input_components_2022_2025.csv, worked_example_source_seasons.csv and worked_examples.json. These distinguish source availability from actual model usage and make the formulas reviewable before any 2027 change."
+      }
+    ]
+  }
+]

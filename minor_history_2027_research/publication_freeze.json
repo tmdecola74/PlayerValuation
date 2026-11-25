@@ -1,0 +1,71 @@
+{
+  "version": "MINOR_HISTORY_2027_RESEARCH_0.1",
+  "active": "MLB_PLUS_MINOR",
+  "park_context_active": false,
+  "international_active": false,
+  "selection_max_year": 2025,
+  "factor_max_target_year": 2025,
+  "evidence_weight": 0.5,
+  "recency_weights": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "skill_population": {
+    "hitter": {
+      "1B": {
+        "numerator": 103869.0,
+        "denominator": 654923.0,
+        "rate": 0.15859727021344494
+      },
+      "2B": {
+        "numerator": 31684.0,
+        "denominator": 655234.0,
+        "rate": 0.04835524408074062
+      },
+      "3B": {
+        "numerator": 2680.0,
+        "denominator": 655234.0,
+        "rate": 0.004090141842456283
+      },
+      "HR": {
+        "numerator": 22186.0,
+        "denominator": 655234.0,
+        "rate": 0.033859659297289214
+      }
+    },
+    "pitcher": {
+      "H": {
+        "numerator": 160415.0,
+        "denominator": 516890.0,
+        "rate": 0.31034649538586545
+      },
+      "ER": {
+        "numerator": 79175.0,
+        "denominator": 517062.0,
+        "rate": 0.15312477033701954
+      },
+      "BB": {
+        "numerator": 60978.0,
+        "denominator": 517062.0,
+        "rate": 0.11793169871311371
+      },
+      "SO": {
+        "numerator": 164497.0,
+        "denominator": 517062.0,
+        "rate": 0.31813786354441054
+      },
+      "HR": {
+        "numerator": 22186.0,
+        "denominator": 517062.0,
+        "rate": 0.04290781376314639
+      }
+    }
+  },
+  "source_contract_sha256": "f30b61afd0f334593728e5efe47a5ffd6fc8ace98e1c82364ac743749cb4ceaa",
+  "factor_sha256": "ef77f3bb1d62f789c3757c85fb58c19da3c8cb34699ce363b9724385747fbe92",
+  "historical_vectors_replayed": 11946,
+  "eligibility_clarification": "Verified full-season affiliate membership, not PF presence, controls non-park source eligibility. Historical 2021-25 membership and every forecast unchanged; this permits mapped 2026 stints without a missing PF proxy.",
+  "history_2026_opened": false
+}

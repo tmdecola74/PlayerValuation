@@ -1,0 +1,37 @@
+{
+  "players": 2511,
+  "severity_counts": {
+    "1": 227,
+    "2": 916,
+    "3": 1018,
+    "4": 350
+  },
+  "new_review_flag_counts": {
+    "MATERIAL_RATE_OR_COUNT_CHANGE": 233,
+    "RECENT_MLB_MINOR_ROLE_MIX": 200,
+    "PRIOR_NORMALIZATION_MATERIAL_SHARE_REVIEW": 328,
+    "SHORT_MINOR_SEASON_REHAB_REVIEW_CANDIDATE": 537,
+    "CHANGED_SKILL_IN_NONPRIMARY_ROLE": 8,
+    "NONPRIMARY_ROLE_INHERITED": 52
+  },
+  "inherited_or_context_flag_counts": {
+    "SPARSE_MLB_COMPONENT_HISTORY": 1286,
+    "NO_POSITIVE_2026_MLB_COMPONENT_HISTORY": 983,
+    "INHERITED_WORKLOAD_FRESHNESS_EXCEPTION": 981,
+    "NO_EXACT_MATCH_IN_DEPTH_SNAPSHOT": 1333,
+    "MINOR_EVIDENCE_NOT_FROM_2026": 909,
+    "INTERNATIONAL_PERFORMANCE_UNTRANSLATED": 118,
+    "INHERITED_BLANK_RELEASE_NAME": 300,
+    "INJURY_SNAPSHOT_REVIEW": 111,
+    "PRIMARY_ROLE_CONFLICT_IN_DEPTH_SNAPSHOT": 60,
+    "RETURNER_ROSTER_REVIEW": 4
+  },
+  "material_change_players": 233,
+  "material_change_substantial_exposure": 3,
+  "component_replays": 10304,
+  "focus_cases": 47,
+  "forecast_values_changed": false,
+  "settings_changed": false,
+  "prior_rebasing_is_diagnostic_only": true,
+  "original_sources_unchanged": true
+}

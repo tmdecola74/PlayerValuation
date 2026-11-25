@@ -1,0 +1,1 @@
+Seven tests passed: priority and candidate-ID separation; chronology; factor intervals and prior sensitivity settings; paired memberships and original sample limits; distinct-player fit counts; protected source/release/minor hashes; independent score recomputation. No international settings adopted. No 2026 MLB outcomes used in model fitting or decisions.

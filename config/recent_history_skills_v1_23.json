@@ -1,0 +1,44 @@
+{
+  "version": "1.23.0",
+  "first_origin": 2019,
+  "last_historical_origin": 2025,
+  "evaluation_origin": 2026,
+  "minimum_fit_rows": 50,
+  "ridge_alpha": 1.0,
+  "clip_z": 8.0,
+  "maximum_exposure_weight": 600.0,
+  "minimum_folds": 3,
+  "minimum_rows_per_fold": 30,
+  "minimum_history_folds": 2,
+  "minimum_history_rows": 20,
+  "recent_folds": 2,
+  "minimum_objective_improvement": 0.01,
+  "maximum_metric_degradation": 0.01,
+  "maximum_guard_degradation": 0.02,
+  "weights": {
+    "equal": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "recent": [
+      3.0,
+      2.0,
+      1.0
+    ],
+    "strong": [
+      5.0,
+      2.0,
+      1.0
+    ]
+  },
+  "accepted_policy": "FROZEN_REFERENCE_NO_PROMOTION",
+  "bat_policy": "EXPLORATORY_NOT_SELECTABLE",
+  "future_2027_primary_source_years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "future_2027_weights_status": "NOT_SELECTED_OR_FITTED"
+}

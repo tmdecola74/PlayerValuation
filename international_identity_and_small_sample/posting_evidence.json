@@ -1,0 +1,38 @@
+{
+  "sa3063811": {
+    "name": "Teruaki Sato",
+    "role": "hitter",
+    "league": "NPB",
+    "club": "Tigers (NPB)",
+    "evidence": "https://www.mlb.com/news/teruaki-sato-mlb-posting-system",
+    "candidate_mlbam": "831664",
+    "profile": "https://www.mlb.com/player/teruaki-sato-831664"
+  },
+  "sa3062990": {
+    "name": "Kaima Taira",
+    "role": "pitcher",
+    "league": "NPB",
+    "club": "Lions (NPB)",
+    "evidence": "https://www.mlb.com/news/kaima-taira-will-enter-mlb-posting-system",
+    "candidate_mlbam": "",
+    "profile": ""
+  },
+  "sa3063835": {
+    "name": "Hiromi Itoh",
+    "role": "pitcher",
+    "league": "NPB",
+    "club": "Fighters (NPB)",
+    "evidence": "https://www.mlb.com/news/hiromi-itoh-posted-hokkaido-nippon-ham-fighters",
+    "candidate_mlbam": "808955",
+    "profile": "https://www.mlb.com/player/hiromi-itoh-808955"
+  },
+  "sa3012734": {
+    "name": "Si-hwan Roh",
+    "role": "hitter",
+    "league": "KBO",
+    "club": "Eagles (KBO)",
+    "evidence": "https://www.mlb.com/news/si-hwan-roh-and-the-kbo-stars-who-could-be-mlb-bound",
+    "candidate_mlbam": "823574",
+    "profile": "https://www.mlb.com/player/si-hwan-roh-823574"
+  }
+}

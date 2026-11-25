@@ -1,0 +1,1 @@
+Start with comparison_report.html or REVIEW_REPORT.txt. Decision: retain v1.43; both new models are research-only and failed adoption guards. No production change. Read availability and source-coverage limitations before using component traces.

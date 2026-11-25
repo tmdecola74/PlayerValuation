@@ -1,0 +1,3 @@
+﻿role,source_row,Season,Name,Team,Level,Age,G,AB,PA,H,1B,2B,3B,HR,R,RBI,BB,IBB,SO,HBP,SF,SH,GDP,SB,CS,AVG,PlayerId,MinorMasterId,NameASCII,MLBAMID,PlayerTeamId
+hitters,11947,2024,Robinson Chacon,KCR,DSL,17,20,58,67,14,13,1,0,0,8,6,4,0,18,0,2,3,1,1,2,0.24137931,sa3024382,sa3024382,Robinson Chacon,823850,7
+hitters,11949,2024,Robinson Chacon,KCR,DSL,17,17,55,67,14,12,2,0,0,9,5,10,0,13,1,0,0,0,3,0,0.254545454,sa3024382,sa3024382,Robinson Chacon,823850,7

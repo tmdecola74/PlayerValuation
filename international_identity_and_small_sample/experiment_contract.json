@@ -1,0 +1,70 @@
+{
+  "version": "international_small_sample_0.1",
+  "date": "2026-11-24",
+  "decision": "RESEARCH_ONLY_NO_PRODUCTION_ADOPTION",
+  "identity_priorities": [
+    "P1 official posting report",
+    "P2 exact ID present in supplied 2027 benchmark",
+    "P3 recent overseas positive exposure and known prior MLB exposure through 2025",
+    "P4 positive 2025/2026 overseas history only",
+    "P5 secondary-role review: batting <100 PA with >=30 pitching outs, or pitching <30 outs with >=100 batting PA, same league/year; queue triage only, not model filtering"
+  ],
+  "identity_policy": "Accept only consistent existing or direct co-occurring FG/MLBAM identifiers. Profile-name matches are review candidates, never auto-merged.",
+  "benchmark_policy": "Use identity columns and presence only, never projected stats or playing time to fit or rank talent",
+  "fit": "Separate league/role/component normal-normal log-rate-ratio model; no pooling NPB/KBO or borrowing minor coefficients",
+  "log_ratio": "log((target_count+0.5)/(target_den+1))-log((source_count+0.5)/(source_den+1))",
+  "sampling_variance": "Count inverse variances; subtract denominator inverse terms for PA/AB/TBF binomial approximation; no subtraction for OUTS Poisson rate approximation; floor 0.000001",
+  "prior_mean_log_factor": 0,
+  "prior_sd_primary": 0.35,
+  "prior_sd_sensitivity": [
+    0.2,
+    0.5
+  ],
+  "prior_interpretation": "Numerical shrinkage toward no change, NOT evidence that overseas statistics equal MLB statistics",
+  "fixed_between_player_log_sd": 0.25,
+  "minimum_players_for_diagnostic_fit": 3,
+  "dedup": "First eligible next-year transition per player, selected within earlier-only calibration set; repeated movers are not independent people",
+  "origins": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "label_max_year": 2025,
+  "comparators": [
+    "same-prior untranslated rate",
+    "MLB population prior"
+  ],
+  "regression_exposure": {
+    "AB": 200,
+    "PA": 200,
+    "OUTS": 300,
+    "TBF": 300
+  },
+  "uncertainty": "Conditional 95% factor intervals under fixed assumed prior/heterogeneity; not empirically calibrated forecast intervals",
+  "influence": "Leave one calibration player out; log-factor change, no parameter selection",
+  "adoption_rules_unchanged": {
+    "minimum_calibration_players": 30,
+    "minimum_paired_exposure": 1000,
+    "minimum_test_rows": 30,
+    "minimum_supported_folds": 3
+  },
+  "forbidden": [
+    "2026 MLB labels or evaluation",
+    "prospective MLB PA/IP forecasts",
+    "production writes",
+    "automatic promotion",
+    "threshold relaxation presented as validation",
+    "pooling leagues"
+  ],
+  "limitations": [
+    "Few movers",
+    "Selected arrivals and returners",
+    "Tiny batting samples from pitchers",
+    "No age/park adjustments",
+    "Retrospective identity links",
+    "No independent untouched test",
+    "Fixed uncertainty assumptions"
+  ]
+}

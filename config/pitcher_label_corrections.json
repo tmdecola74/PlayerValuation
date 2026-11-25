@@ -1,0 +1,10 @@
+{
+  "season": 2023,
+  "player_type": "pitcher",
+  "mlbam_id": "677020",
+  "metric": "G",
+  "old_value": 13,
+  "new_value": 14,
+  "reason": "MLB credits Josh Walker with an appearance in game 717170. He entered in relief and committed a walk-off balk before throwing a pitch.",
+  "source": "https://statsapi.mlb.com/api/v1/people/677020/stats?stats=gameLog&group=pitching&season=2023&gameType=R"
+}

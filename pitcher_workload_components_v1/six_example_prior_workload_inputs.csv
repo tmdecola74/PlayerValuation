@@ -1,0 +1,25 @@
+﻿name,mlbam_id,source_season,MLB_IP,eligible_minor_IP,observed_combined_IP,MLB_G,MLB_GS,interpretation
+Paul Skenes,694973,2022,,0.0,0.0,,,Physical workload lower bound; no level-equivalence multiplier; no target outcomes used
+Paul Skenes,694973,2023,,5.666666666666666,5.666666666666666,,,Physical workload lower bound; no level-equivalence multiplier; no target outcomes used
+Paul Skenes,694973,2024,133.0,27.333333333333332,160.33333333333334,23.0,23.0,Physical workload lower bound; no level-equivalence multiplier; no target outcomes used
+Paul Skenes,694973,2025,187.66666666666666,0.0,187.66666666666666,32.0,32.0,Physical workload lower bound; no level-equivalence multiplier; no target outcomes used
+Cole Ragans,666142,2022,40.0,94.66666666666667,134.66666666666669,9.0,9.0,Physical workload lower bound; no level-equivalence multiplier; no target outcomes used
+Cole Ragans,666142,2023,96.0,28.333333333333336,124.33333333333334,29.0,12.0,Physical workload lower bound; no level-equivalence multiplier; no target outcomes used
+Cole Ragans,666142,2024,186.33333333333334,0.0,186.33333333333334,32.0,32.0,Physical workload lower bound; no level-equivalence multiplier; no target outcomes used
+Cole Ragans,666142,2025,61.666666666666664,10.333333333333334,72.0,13.0,13.0,Physical workload lower bound; no level-equivalence multiplier; no target outcomes used
+George Kirby,669923,2022,130.0,26.666666666666668,156.66666666666666,25.0,25.0,Physical workload lower bound; no level-equivalence multiplier; no target outcomes used
+George Kirby,669923,2023,190.66666666666666,0.0,190.66666666666666,31.0,31.0,Physical workload lower bound; no level-equivalence multiplier; no target outcomes used
+George Kirby,669923,2024,191.0,0.0,191.0,33.0,33.0,Physical workload lower bound; no level-equivalence multiplier; no target outcomes used
+George Kirby,669923,2025,126.0,10.0,136.0,23.0,23.0,Physical workload lower bound; no level-equivalence multiplier; no target outcomes used
+Kevin Gausman,592332,2022,174.66666666666666,0.0,174.66666666666666,31.0,31.0,Physical workload lower bound; no level-equivalence multiplier; no target outcomes used
+Kevin Gausman,592332,2023,185.0,0.0,185.0,31.0,31.0,Physical workload lower bound; no level-equivalence multiplier; no target outcomes used
+Kevin Gausman,592332,2024,181.0,0.0,181.0,31.0,31.0,Physical workload lower bound; no level-equivalence multiplier; no target outcomes used
+Kevin Gausman,592332,2025,193.0,0.0,193.0,32.0,32.0,Physical workload lower bound; no level-equivalence multiplier; no target outcomes used
+Logan Webb,657277,2022,192.33333333333334,0.0,192.33333333333334,32.0,32.0,Physical workload lower bound; no level-equivalence multiplier; no target outcomes used
+Logan Webb,657277,2023,216.0,0.0,216.0,33.0,33.0,Physical workload lower bound; no level-equivalence multiplier; no target outcomes used
+Logan Webb,657277,2024,204.66666666666666,0.0,204.66666666666666,33.0,33.0,Physical workload lower bound; no level-equivalence multiplier; no target outcomes used
+Logan Webb,657277,2025,207.0,0.0,207.0,34.0,34.0,Physical workload lower bound; no level-equivalence multiplier; no target outcomes used
+Logan Gilbert,669302,2022,185.66666666666666,0.0,185.66666666666666,32.0,32.0,Physical workload lower bound; no level-equivalence multiplier; no target outcomes used
+Logan Gilbert,669302,2023,190.66666666666666,0.0,190.66666666666666,32.0,32.0,Physical workload lower bound; no level-equivalence multiplier; no target outcomes used
+Logan Gilbert,669302,2024,208.66666666666666,0.0,208.66666666666666,33.0,33.0,Physical workload lower bound; no level-equivalence multiplier; no target outcomes used
+Logan Gilbert,669302,2025,131.0,9.666666666666666,140.66666666666666,25.0,25.0,Physical workload lower bound; no level-equivalence multiplier; no target outcomes used

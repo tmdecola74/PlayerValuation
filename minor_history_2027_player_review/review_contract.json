@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-24",
+  "purpose": "Player-level review only, no forecasts/settings changed",
+  "ranking": "Severity then largest absolute delta divided by existing v1.31 review threshold; separate substantial-volume list >=200 PA or >=100 projected IP. Ranking is triage, not talent/confidence.",
+  "thresholds": {
+    "HR": 8,
+    "AVG": 0.025,
+    "OPS": 0.08,
+    "SO": 35,
+    "ERA": 0.75,
+    "WHIP": 0.15
+  },
+  "sparse": "Prior MLB paired AB<200 or OUTS<300",
+  "short_stint": "A season with <50 minor PA or <60 minor OUTS plus >=400 prior MLB PA or >=300 OUTS in prior four years; candidate for rehab review, not confirmation",
+  "role_mix": "At least five games and 60 OUTS, GS/G >=.5 starter, GS=0 reliever, otherwise swing; source recent minor vs latest eligible MLB role",
+  "normalization_diagnostic": "Hold original MLB-only mean recency weight fixed in a counterfactual, without fitting, tuning or replacing predictions; attribute pre-coherence difference only",
+  "metadata": "Exact MLBAM or unambiguous observed FanGraphs-ID bridge. No name-only injury/roster joins. Snapshots are undated unless dates explicitly supplied.",
+  "forbidden": [
+    "2026 forecast error scoring",
+    "changing workload",
+    "changing coefficients",
+    "park/international substitution",
+    "selective adoption from reviewed players"
+  ]
+}

@@ -1,0 +1,106 @@
+[
+  {
+    "query": "831664",
+    "url": "https://statsapi.mlb.com/api/v1/people/831664",
+    "people": [
+      {
+        "id": 831664,
+        "fullName": "Teruaki Sato",
+        "birthDate": "1999-03-13",
+        "birthCountry": "Japan",
+        "primaryPosition": {
+          "code": "5",
+          "name": "Third Base",
+          "type": "Infielder",
+          "abbreviation": "3B"
+        },
+        "batSide": {
+          "code": "L",
+          "description": "Left"
+        },
+        "pitchHand": {
+          "code": "R",
+          "description": "Right"
+        }
+      }
+    ]
+  },
+  {
+    "query": "808955",
+    "url": "https://statsapi.mlb.com/api/v1/people/808955",
+    "people": [
+      {
+        "id": 808955,
+        "fullName": "Hiromi Itoh",
+        "birthDate": "1997-08-31",
+        "birthCountry": "Japan",
+        "primaryPosition": {
+          "code": "1",
+          "name": "Pitcher",
+          "type": "Pitcher",
+          "abbreviation": "P"
+        },
+        "batSide": {
+          "code": "L",
+          "description": "Left"
+        },
+        "pitchHand": {
+          "code": "R",
+          "description": "Right"
+        }
+      }
+    ]
+  },
+  {
+    "query": "823574",
+    "url": "https://statsapi.mlb.com/api/v1/people/823574",
+    "people": [
+      {
+        "id": 823574,
+        "fullName": "Si Hwan Roh",
+        "birthDate": "2000-12-03",
+        "birthCountry": "Republic of Korea",
+        "primaryPosition": {
+          "code": "5",
+          "name": "Third Base",
+          "type": "Infielder",
+          "abbreviation": "3B"
+        },
+        "batSide": {
+          "code": "R",
+          "description": "Right"
+        },
+        "pitchHand": {
+          "code": "R",
+          "description": "Right"
+        }
+      }
+    ]
+  },
+  {
+    "query": "838343",
+    "url": "https://statsapi.mlb.com/api/v1/people/838343",
+    "people": [
+      {
+        "id": 838343,
+        "fullName": "Kaima Taira",
+        "birthDate": "1999-11-15",
+        "birthCountry": "Japan",
+        "primaryPosition": {
+          "code": "1",
+          "name": "Pitcher",
+          "type": "Pitcher",
+          "abbreviation": "P"
+        },
+        "batSide": {
+          "code": "R",
+          "description": "Right"
+        },
+        "pitchHand": {
+          "code": "R",
+          "description": "Right"
+        }
+      }
+    ]
+  }
+]

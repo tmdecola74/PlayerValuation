@@ -1,0 +1,11 @@
+{
+  "coefficient_max_target": 2025,
+  "decisions": {
+    "experiment_contract.json": "a2d87300fadaf354a41ab73da8e15fd5aa44d9bc20271104827a85544d319292",
+    "historical_decision.json": "9fb6d276f7388c5e4b0c8249e0c866c0318319971895ac644fb722ca53bfa180",
+    "models.json": "6d8d182c0acb95c6487d60a8beec221bfe7c4f4413a19f23e8b95cdbcb956248",
+    "feature_names.json": "a2900d839d2cdaf1c90ff27cbbdb1c80ddf5a37e66a997ae564496fc9e7b6f24"
+  },
+  "holdout_opened": false,
+  "production_changed": false
+}

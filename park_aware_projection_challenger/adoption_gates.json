@@ -1,0 +1,451 @@
+[
+  {
+    "comparison": "MINOR_vs_MLB",
+    "origin": 2023,
+    "role": "hitter",
+    "experiment": "SKILL",
+    "eligible": false,
+    "reasons": [
+      "COUNT_GUARD_H",
+      "COUNT_GUARD_HR",
+      "INSUFFICIENT_EARLIER_FOLDS",
+      "LOW_HISTORY_GUARD",
+      "METRIC_REGRESSION_AVG",
+      "METRIC_REGRESSION_OPS",
+      "NO_ONE_PERCENT_MSE_IMPROVEMENT",
+      "RECENT_GUARD"
+    ],
+    "selected_for_research": "weighted_actuals",
+    "years": [],
+    "mean_mse_ratio": null,
+    "default_changed": false
+  },
+  {
+    "comparison": "MINOR_vs_MLB",
+    "origin": 2023,
+    "role": "pitcher",
+    "experiment": "SKILL",
+    "eligible": false,
+    "reasons": [
+      "COUNT_GUARD_BB",
+      "COUNT_GUARD_ER",
+      "COUNT_GUARD_H",
+      "COUNT_GUARD_HR",
+      "COUNT_GUARD_SO",
+      "INSUFFICIENT_EARLIER_FOLDS",
+      "LOW_HISTORY_GUARD",
+      "METRIC_REGRESSION_ERA",
+      "METRIC_REGRESSION_HR_PER_OUTS",
+      "METRIC_REGRESSION_SO_PER_OUTS",
+      "METRIC_REGRESSION_WHIP",
+      "NO_ONE_PERCENT_MSE_IMPROVEMENT",
+      "RECENT_GUARD"
+    ],
+    "selected_for_research": "weighted_actuals",
+    "years": [],
+    "mean_mse_ratio": null,
+    "default_changed": false
+  },
+  {
+    "comparison": "MINOR_vs_MLB",
+    "origin": 2024,
+    "role": "hitter",
+    "experiment": "SKILL",
+    "eligible": false,
+    "reasons": [
+      "INSUFFICIENT_EARLIER_FOLDS",
+      "RECENT_GUARD"
+    ],
+    "selected_for_research": "weighted_actuals",
+    "years": [
+      2023
+    ],
+    "mean_mse_ratio": 0.9400987994258954,
+    "default_changed": false
+  },
+  {
+    "comparison": "MINOR_vs_MLB",
+    "origin": 2024,
+    "role": "pitcher",
+    "experiment": "SKILL",
+    "eligible": false,
+    "reasons": [
+      "INSUFFICIENT_EARLIER_FOLDS",
+      "RECENT_GUARD"
+    ],
+    "selected_for_research": "weighted_actuals",
+    "years": [
+      2023
+    ],
+    "mean_mse_ratio": 0.9849998801470013,
+    "default_changed": false
+  },
+  {
+    "comparison": "MINOR_vs_MLB",
+    "origin": 2025,
+    "role": "hitter",
+    "experiment": "SKILL",
+    "eligible": false,
+    "reasons": [
+      "INSUFFICIENT_EARLIER_FOLDS"
+    ],
+    "selected_for_research": "weighted_actuals",
+    "years": [
+      2023,
+      2024
+    ],
+    "mean_mse_ratio": 0.9395130822049551,
+    "default_changed": false
+  },
+  {
+    "comparison": "MINOR_vs_MLB",
+    "origin": 2025,
+    "role": "pitcher",
+    "experiment": "SKILL",
+    "eligible": false,
+    "reasons": [
+      "INSUFFICIENT_EARLIER_FOLDS"
+    ],
+    "selected_for_research": "weighted_actuals",
+    "years": [
+      2023,
+      2024
+    ],
+    "mean_mse_ratio": 0.9820169516845922,
+    "default_changed": false
+  },
+  {
+    "comparison": "MINOR_vs_MLB",
+    "origin": 2026,
+    "role": "hitter",
+    "experiment": "SKILL",
+    "eligible": true,
+    "reasons": [],
+    "selected_for_research": "skill_regression",
+    "years": [
+      2023,
+      2024,
+      2025
+    ],
+    "mean_mse_ratio": 0.9359470226413112,
+    "default_changed": false
+  },
+  {
+    "comparison": "MINOR_vs_MLB",
+    "origin": 2026,
+    "role": "pitcher",
+    "experiment": "SKILL",
+    "eligible": true,
+    "reasons": [],
+    "selected_for_research": "skill_regression",
+    "years": [
+      2023,
+      2024,
+      2025
+    ],
+    "mean_mse_ratio": 0.9820163547229749,
+    "default_changed": false
+  },
+  {
+    "comparison": "PARK_vs_MLB",
+    "origin": 2023,
+    "role": "hitter",
+    "experiment": "SKILL",
+    "eligible": false,
+    "reasons": [
+      "COUNT_GUARD_H",
+      "COUNT_GUARD_HR",
+      "INSUFFICIENT_EARLIER_FOLDS",
+      "LOW_HISTORY_GUARD",
+      "METRIC_REGRESSION_AVG",
+      "METRIC_REGRESSION_OPS",
+      "NO_ONE_PERCENT_MSE_IMPROVEMENT",
+      "RECENT_GUARD"
+    ],
+    "selected_for_research": "weighted_actuals",
+    "years": [],
+    "mean_mse_ratio": null,
+    "default_changed": false
+  },
+  {
+    "comparison": "PARK_vs_MLB",
+    "origin": 2023,
+    "role": "pitcher",
+    "experiment": "SKILL",
+    "eligible": false,
+    "reasons": [
+      "COUNT_GUARD_BB",
+      "COUNT_GUARD_ER",
+      "COUNT_GUARD_H",
+      "COUNT_GUARD_HR",
+      "COUNT_GUARD_SO",
+      "INSUFFICIENT_EARLIER_FOLDS",
+      "LOW_HISTORY_GUARD",
+      "METRIC_REGRESSION_ERA",
+      "METRIC_REGRESSION_HR_PER_OUTS",
+      "METRIC_REGRESSION_SO_PER_OUTS",
+      "METRIC_REGRESSION_WHIP",
+      "NO_ONE_PERCENT_MSE_IMPROVEMENT",
+      "RECENT_GUARD"
+    ],
+    "selected_for_research": "weighted_actuals",
+    "years": [],
+    "mean_mse_ratio": null,
+    "default_changed": false
+  },
+  {
+    "comparison": "PARK_vs_MLB",
+    "origin": 2024,
+    "role": "hitter",
+    "experiment": "SKILL",
+    "eligible": false,
+    "reasons": [
+      "INSUFFICIENT_EARLIER_FOLDS",
+      "RECENT_GUARD"
+    ],
+    "selected_for_research": "weighted_actuals",
+    "years": [
+      2023
+    ],
+    "mean_mse_ratio": 0.9352564346836463,
+    "default_changed": false
+  },
+  {
+    "comparison": "PARK_vs_MLB",
+    "origin": 2024,
+    "role": "pitcher",
+    "experiment": "SKILL",
+    "eligible": false,
+    "reasons": [
+      "INSUFFICIENT_EARLIER_FOLDS",
+      "RECENT_GUARD"
+    ],
+    "selected_for_research": "weighted_actuals",
+    "years": [
+      2023
+    ],
+    "mean_mse_ratio": 0.9859373120167348,
+    "default_changed": false
+  },
+  {
+    "comparison": "PARK_vs_MLB",
+    "origin": 2025,
+    "role": "hitter",
+    "experiment": "SKILL",
+    "eligible": false,
+    "reasons": [
+      "INSUFFICIENT_EARLIER_FOLDS"
+    ],
+    "selected_for_research": "weighted_actuals",
+    "years": [
+      2023,
+      2024
+    ],
+    "mean_mse_ratio": 0.936482221792932,
+    "default_changed": false
+  },
+  {
+    "comparison": "PARK_vs_MLB",
+    "origin": 2025,
+    "role": "pitcher",
+    "experiment": "SKILL",
+    "eligible": false,
+    "reasons": [
+      "INSUFFICIENT_EARLIER_FOLDS"
+    ],
+    "selected_for_research": "weighted_actuals",
+    "years": [
+      2023,
+      2024
+    ],
+    "mean_mse_ratio": 0.9830174643762234,
+    "default_changed": false
+  },
+  {
+    "comparison": "PARK_vs_MLB",
+    "origin": 2026,
+    "role": "hitter",
+    "experiment": "SKILL",
+    "eligible": true,
+    "reasons": [],
+    "selected_for_research": "skill_regression",
+    "years": [
+      2023,
+      2024,
+      2025
+    ],
+    "mean_mse_ratio": 0.9318381414524824,
+    "default_changed": false
+  },
+  {
+    "comparison": "PARK_vs_MLB",
+    "origin": 2026,
+    "role": "pitcher",
+    "experiment": "SKILL",
+    "eligible": true,
+    "reasons": [],
+    "selected_for_research": "skill_regression",
+    "years": [
+      2023,
+      2024,
+      2025
+    ],
+    "mean_mse_ratio": 0.9827989854504571,
+    "default_changed": false
+  },
+  {
+    "comparison": "PARK_vs_MINOR",
+    "origin": 2023,
+    "role": "hitter",
+    "experiment": "SKILL",
+    "eligible": false,
+    "reasons": [
+      "COUNT_GUARD_H",
+      "COUNT_GUARD_HR",
+      "INSUFFICIENT_EARLIER_FOLDS",
+      "LOW_HISTORY_GUARD",
+      "METRIC_REGRESSION_AVG",
+      "METRIC_REGRESSION_OPS",
+      "NO_ONE_PERCENT_MSE_IMPROVEMENT",
+      "RECENT_GUARD"
+    ],
+    "selected_for_research": "weighted_actuals",
+    "years": [],
+    "mean_mse_ratio": null,
+    "default_changed": false
+  },
+  {
+    "comparison": "PARK_vs_MINOR",
+    "origin": 2023,
+    "role": "pitcher",
+    "experiment": "SKILL",
+    "eligible": false,
+    "reasons": [
+      "COUNT_GUARD_BB",
+      "COUNT_GUARD_ER",
+      "COUNT_GUARD_H",
+      "COUNT_GUARD_HR",
+      "COUNT_GUARD_SO",
+      "INSUFFICIENT_EARLIER_FOLDS",
+      "LOW_HISTORY_GUARD",
+      "METRIC_REGRESSION_ERA",
+      "METRIC_REGRESSION_HR_PER_OUTS",
+      "METRIC_REGRESSION_SO_PER_OUTS",
+      "METRIC_REGRESSION_WHIP",
+      "NO_ONE_PERCENT_MSE_IMPROVEMENT",
+      "RECENT_GUARD"
+    ],
+    "selected_for_research": "weighted_actuals",
+    "years": [],
+    "mean_mse_ratio": null,
+    "default_changed": false
+  },
+  {
+    "comparison": "PARK_vs_MINOR",
+    "origin": 2024,
+    "role": "hitter",
+    "experiment": "SKILL",
+    "eligible": false,
+    "reasons": [
+      "INSUFFICIENT_EARLIER_FOLDS",
+      "NO_ONE_PERCENT_MSE_IMPROVEMENT",
+      "RECENT_GUARD"
+    ],
+    "selected_for_research": "weighted_actuals",
+    "years": [
+      2023
+    ],
+    "mean_mse_ratio": 0.994876238430501,
+    "default_changed": false
+  },
+  {
+    "comparison": "PARK_vs_MINOR",
+    "origin": 2024,
+    "role": "pitcher",
+    "experiment": "SKILL",
+    "eligible": false,
+    "reasons": [
+      "INSUFFICIENT_EARLIER_FOLDS",
+      "NO_ONE_PERCENT_MSE_IMPROVEMENT",
+      "RECENT_GUARD"
+    ],
+    "selected_for_research": "weighted_actuals",
+    "years": [
+      2023
+    ],
+    "mean_mse_ratio": 1.0009501642164016,
+    "default_changed": false
+  },
+  {
+    "comparison": "PARK_vs_MINOR",
+    "origin": 2025,
+    "role": "hitter",
+    "experiment": "SKILL",
+    "eligible": false,
+    "reasons": [
+      "INSUFFICIENT_EARLIER_FOLDS",
+      "NO_ONE_PERCENT_MSE_IMPROVEMENT"
+    ],
+    "selected_for_research": "weighted_actuals",
+    "years": [
+      2023,
+      2024
+    ],
+    "mean_mse_ratio": 0.9967908399235719,
+    "default_changed": false
+  },
+  {
+    "comparison": "PARK_vs_MINOR",
+    "origin": 2025,
+    "role": "pitcher",
+    "experiment": "SKILL",
+    "eligible": false,
+    "reasons": [
+      "INSUFFICIENT_EARLIER_FOLDS",
+      "NO_ONE_PERCENT_MSE_IMPROVEMENT"
+    ],
+    "selected_for_research": "weighted_actuals",
+    "years": [
+      2023,
+      2024
+    ],
+    "mean_mse_ratio": 1.0010169854568156,
+    "default_changed": false
+  },
+  {
+    "comparison": "PARK_vs_MINOR",
+    "origin": 2026,
+    "role": "hitter",
+    "experiment": "SKILL",
+    "eligible": false,
+    "reasons": [
+      "NO_ONE_PERCENT_MSE_IMPROVEMENT"
+    ],
+    "selected_for_research": "weighted_actuals",
+    "years": [
+      2023,
+      2024,
+      2025
+    ],
+    "mean_mse_ratio": 0.9956075750720274,
+    "default_changed": false
+  },
+  {
+    "comparison": "PARK_vs_MINOR",
+    "origin": 2026,
+    "role": "pitcher",
+    "experiment": "SKILL",
+    "eligible": false,
+    "reasons": [
+      "NO_ONE_PERCENT_MSE_IMPROVEMENT"
+    ],
+    "selected_for_research": "weighted_actuals",
+    "years": [
+      2023,
+      2024,
+      2025
+    ],
+    "mean_mse_ratio": 1.0007983105853986,
+    "default_changed": false
+  }
+]

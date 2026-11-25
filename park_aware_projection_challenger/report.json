@@ -1,0 +1,138 @@
+{
+  "version": "park_challenger_0.1",
+  "decision": "RESEARCH_ONLY_NO_AUTOMATIC_ADOPTION",
+  "stint_coverage": {
+    "('hitter', 'MAPPED_PF')": 18465,
+    "('hitter', 'NO_FACTOR_FOR_YEAR_OR_LEVEL')": 22314,
+    "('pitcher', 'MAPPED_PF')": 22973,
+    "('pitcher', 'NO_FACTOR_FOR_YEAR_OR_LEVEL')": 26247
+  },
+  "forecast_rows": 35838,
+  "support_counts": {
+    "2022 hitter False": 1606,
+    "2022 pitcher False": 1423,
+    "2023 hitter False": 676,
+    "2023 hitter True": 881,
+    "2023 pitcher False": 441,
+    "2023 pitcher True": 1012,
+    "2024 hitter False": 437,
+    "2024 hitter True": 974,
+    "2024 pitcher False": 271,
+    "2024 pitcher True": 1211,
+    "2025 hitter False": 383,
+    "2025 hitter True": 1065,
+    "2025 pitcher False": 216,
+    "2025 pitcher True": 1350
+  },
+  "final_gates": [
+    {
+      "comparison": "MINOR_vs_MLB",
+      "origin": 2026,
+      "role": "hitter",
+      "experiment": "SKILL",
+      "eligible": true,
+      "reasons": [],
+      "selected_for_research": "skill_regression",
+      "years": [
+        2023,
+        2024,
+        2025
+      ],
+      "mean_mse_ratio": 0.9359470226413112,
+      "default_changed": false
+    },
+    {
+      "comparison": "MINOR_vs_MLB",
+      "origin": 2026,
+      "role": "pitcher",
+      "experiment": "SKILL",
+      "eligible": true,
+      "reasons": [],
+      "selected_for_research": "skill_regression",
+      "years": [
+        2023,
+        2024,
+        2025
+      ],
+      "mean_mse_ratio": 0.9820163547229749,
+      "default_changed": false
+    },
+    {
+      "comparison": "PARK_vs_MLB",
+      "origin": 2026,
+      "role": "hitter",
+      "experiment": "SKILL",
+      "eligible": true,
+      "reasons": [],
+      "selected_for_research": "skill_regression",
+      "years": [
+        2023,
+        2024,
+        2025
+      ],
+      "mean_mse_ratio": 0.9318381414524824,
+      "default_changed": false
+    },
+    {
+      "comparison": "PARK_vs_MLB",
+      "origin": 2026,
+      "role": "pitcher",
+      "experiment": "SKILL",
+      "eligible": true,
+      "reasons": [],
+      "selected_for_research": "skill_regression",
+      "years": [
+        2023,
+        2024,
+        2025
+      ],
+      "mean_mse_ratio": 0.9827989854504571,
+      "default_changed": false
+    },
+    {
+      "comparison": "PARK_vs_MINOR",
+      "origin": 2026,
+      "role": "hitter",
+      "experiment": "SKILL",
+      "eligible": false,
+      "reasons": [
+        "NO_ONE_PERCENT_MSE_IMPROVEMENT"
+      ],
+      "selected_for_research": "weighted_actuals",
+      "years": [
+        2023,
+        2024,
+        2025
+      ],
+      "mean_mse_ratio": 0.9956075750720274,
+      "default_changed": false
+    },
+    {
+      "comparison": "PARK_vs_MINOR",
+      "origin": 2026,
+      "role": "pitcher",
+      "experiment": "SKILL",
+      "eligible": false,
+      "reasons": [
+        "NO_ONE_PERCENT_MSE_IMPROVEMENT"
+      ],
+      "selected_for_research": "weighted_actuals",
+      "years": [
+        2023,
+        2024,
+        2025
+      ],
+      "mean_mse_ratio": 1.0007983105853986,
+      "default_changed": false
+    }
+  ],
+  "production_unchanged": true,
+  "outcomes_2026_read": false,
+  "overlay": {
+    "path": "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\participation_label_overlay_v1_27",
+    "report_sha256": "07631b2994818dcd9ee461daa10e4dd51f9df3add9578c2377c9237fca43302d",
+    "csv_sha256": "917a4afba286e349236e7bf74bb9c11fc048f2b518b0a990d99de6fda0934f81",
+    "certified_zero_players": 4230,
+    "walker_correction": true
+  }
+}

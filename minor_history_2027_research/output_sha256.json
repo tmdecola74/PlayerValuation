@@ -1,0 +1,23 @@
+{
+  "component_trace_2027.csv": "06f6759111b411ebb2be1a4dd15e80113a4ea5e099c810422278be69932470d3",
+  "frozen_minor_factors.csv": "ef77f3bb1d62f789c3757c85fb58c19da3c8cb34699ce363b9724385747fbe92",
+  "identity_status_closeout.py": "66b94c91e84a14c775dfbbe4d1d5c341dbb195fcd7fdd39dcce0c4d1351d50ba",
+  "identity_status_review.json": "75fba8b3d2e136c824713a3f76d2baf2d7b97afb8789901499ebb1dcc39eaf7a",
+  "international_coverage_exceptions.csv": "f768ad2ed6391366b71d4e8ad6c2a6b7e34a907ff5a47428a48777323cbacc6e",
+  "minor_stint_eligibility.csv": "201753a81bc593403d6b7feb17601a013a701da1d830782313c11894ec297bcc",
+  "official_MLB_identity_responses.json": "1847d1a55203125cef818bbc2def8a970b70f680359d4199a61d4dc0b82201aa",
+  "official_returner_metadata_responses.json": "21e80b7b6d7726ac22be6784f4eaeee6ac9abb96c583746198bc11153bb014f3",
+  "P1_corroborated_identity_and_status.csv": "b7ae20df7bb31ea6fccc769531553c0efec187c41b1267ba10b7f1f1bb4d6dff",
+  "P1_international_coverage_only.csv": "3752d5d0bce665f8348073c074c22acee5c83390ba890ac0014fbe189289418e",
+  "priority_returner_status_review.csv": "81c4c45734e7903ab68d406f67b1cd88bf144474e76303390f2637928852d17c",
+  "publication_freeze.json": "e5482370cb0eb91e5dc5dffea9294798d8cbf9a108b4c0776b92e1e7ef2dab39",
+  "READ_ME.txt": "52bc72d002234061fca408674754d5008a2f1dc1ca77dafb585f02f75c1d86b7",
+  "release_minor_2027.py": "7eb646922ff3750c7d0c94e40ca05ba19a1356affb5cd1b778de121150dfd684",
+  "release_report.json": "ac3d461153b8904109d2e0ade99471271c978dd1b1d99aa8c6412e058227a69c",
+  "research_2027_hitters.csv": "79355d19683725636698ddda77bb46ed95c926ff473927df98af4051ce89eff1",
+  "research_2027_pitchers.csv": "2d89d3a2e591edb9e0ddddcb1ebc141c1d78d7375b60240d5116c568fe8bb1dc",
+  "research_exceptions.csv": "afc9a12dd08effba378a494850f7914bc1250d11e69c2c59307588b88d95d622",
+  "source_manifest.json": "ae3294128a95e521432a0e543c7a080ae26e093baad6be3be5c0ccfaff23781d",
+  "v1_43_to_research_changes.csv": "bb6f28d55b580636d7daca8b1222843d25f86d69dce4c0aaa8b313316e708bc9",
+  "verification.txt": "0394e3768d6a9b8abdb918b3aac24ff6ffd8b0fe994128b0ce3e05ef77222617"
+}

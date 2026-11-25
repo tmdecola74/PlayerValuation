@@ -1,0 +1,16 @@
+{
+  "status": "PROPOSED_NOT_RUN",
+  "decision": "RETAIN_V1_43_DEFAULT; MINOR_CHALLENGER_RESEARCH_ONLY",
+  "reason": "Historical gates pass, but player review exposes source-year prior normalization and rehab/role sensitivity that the existing three-arm test does not isolate. This is a robustness concern, not demonstrated forecast harm.",
+  "normalization_experiment": "Predeclare an arm preserving the baseline MLB source normalization and handling minor source normalization separately, prior once; freeze evidence weight 0.5 and all other settings. Specify exact formulas before evaluating.",
+  "rehab_role_experiment": "First obtain dated stints and pre-origin role/rehab metadata. Annual affiliate-year totals cannot isolate rehab; do not selectively remove entire seasons based on this review. Predeclare any policy and test separately.",
+  "evaluation": "Original earlier-only supported historical folds through 2025, identical player samples, original adoption and subgroup guards unchanged; report support and uncertainty. Do not use 2026 MLB forecast errors for model decisions.",
+  "unchanged": [
+    "playing time",
+    "park context off",
+    "international translations absent",
+    "current release values",
+    "production v1.43"
+  ],
+  "prohibited": "No hand-edited player exceptions, weaker thresholds, copied minor coefficients for international players, or retrospective current-roster filters in historical validation."
+}

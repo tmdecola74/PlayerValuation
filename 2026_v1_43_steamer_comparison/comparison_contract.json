@@ -1,0 +1,15 @@
+{
+  "season": 2026,
+  "Steamer_as_of": "2026-03-25",
+  "Steamer_date_basis": "USER_PROVIDED_TIMESTAMP_ACCEPTED",
+  "Steamer_inputs": "DIRECT_USER_SPECIFIED_CSV_FILES",
+  "our_method": "FROZEN_V1_43_RELEASE",
+  "comparison_status": "HISTORICAL_REPORTING_ONLY; 2026 previously reviewed",
+  "join": "EXACT_MLBAM_ID_WITHIN_PLAYER_ROLE; no name matching",
+  "actuals": "Registered eligible 2026 year-end labels plus certified pitcher G/OUTS overlay",
+  "missing": "Unknown stays unknown; no inferred zero events or hitter participation",
+  "scoring": "Identical eligible players for both forecasts per metric/cohort; metric pools may differ",
+  "actual_exposure_cohorts": "ALL_ELIGIBLE primary; POSITIVE_ACTUAL_EXPOSURE and ACTUAL_GE200_PA_OR100_IP secondary diagnostics, selected using outcomes",
+  "no_model_changes": true,
+  "no_2027_minor_challenger": true
+}

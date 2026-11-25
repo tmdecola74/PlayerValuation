@@ -1,0 +1,20 @@
+{
+  "decision": "RESEARCH_ONLY_DO_NOT_ADOPT",
+  "priority_counts": {
+    "1": 4,
+    "2": 212,
+    "3": 10,
+    "4": 1417,
+    "5": 165
+  },
+  "queue_rows": 1808,
+  "new_exact_ID_links": 1,
+  "P1_resolved_exact": 0,
+  "P1_profile_candidates_not_applied": 3,
+  "experimental_model_rows": 498,
+  "diagnostic_predictions": 1599,
+  "supported_adoption_score_rows": 0,
+  "protected_hashes_unchanged": true,
+  "MLB_2026_outcomes_used": false,
+  "prior_note": "Shrinkage-to-one is an assumption, not MLB equivalence. Sensitivity and factor intervals are conditional and uncalibrated."
+}

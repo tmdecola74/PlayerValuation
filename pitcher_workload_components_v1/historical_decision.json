@@ -1,0 +1,105 @@
+{
+  "arms": [
+    {
+      "arm": "STRUCTURED_MLB",
+      "eligible_under_predeclared_guards": false,
+      "mean_IP_MSE_ratio": 1.014159132428858,
+      "reasons": [
+        "NO_ONE_PERCENT_IP_MSE_IMPROVEMENT",
+        "OPPORTUNITY_COUNT_GUARD_GS",
+        "SUBGROUP_IP_GUARD_FRESHNESS_RECENT_POSITIVE",
+        "SUBGROUP_IP_GUARD_PRIOR_ROLE_STARTER",
+        "SUBGROUP_IP_GUARD_PRIOR_ROLE_SWING"
+      ],
+      "subgroup_guards": {
+        "LOW_HISTORY": {
+          "supported_folds": 3,
+          "mean_ratio": 1.0134432656521042
+        },
+        "PRIOR_ROLE_STARTER": {
+          "supported_folds": 3,
+          "mean_ratio": 1.0889675953199043
+        },
+        "PRIOR_ROLE_SWING": {
+          "supported_folds": 3,
+          "mean_ratio": 1.023259146565773
+        },
+        "PRIOR_ROLE_RELIEVER": {
+          "supported_folds": 3,
+          "mean_ratio": 0.9351016925826111
+        },
+        "FRESHNESS_RECENT_POSITIVE": {
+          "supported_folds": 3,
+          "mean_ratio": 1.0441476238747869
+        },
+        "FRESHNESS_KNOWN_ZERO_RECENT": {
+          "supported_folds": 3,
+          "mean_ratio": 0.7301818680687379
+        }
+      },
+      "default_changed": false
+    },
+    {
+      "arm": "STRUCTURED_MLB_MINOR",
+      "eligible_under_predeclared_guards": false,
+      "mean_IP_MSE_ratio": 0.9954399024460279,
+      "reasons": [
+        "NO_ONE_PERCENT_IP_MSE_IMPROVEMENT",
+        "OPPORTUNITY_COUNT_GUARD_GS",
+        "SUBGROUP_IP_GUARD_FRESHNESS_RECENT_POSITIVE",
+        "SUBGROUP_IP_GUARD_PRIOR_ROLE_STARTER"
+      ],
+      "subgroup_guards": {
+        "LOW_HISTORY": {
+          "supported_folds": 3,
+          "mean_ratio": 1.0121980568950513
+        },
+        "PRIOR_ROLE_STARTER": {
+          "supported_folds": 3,
+          "mean_ratio": 1.053202897551002
+        },
+        "PRIOR_ROLE_SWING": {
+          "supported_folds": 3,
+          "mean_ratio": 0.9713510992975595
+        },
+        "PRIOR_ROLE_RELIEVER": {
+          "supported_folds": 3,
+          "mean_ratio": 0.9650191293407456
+        },
+        "FRESHNESS_RECENT_POSITIVE": {
+          "supported_folds": 3,
+          "mean_ratio": 1.0210533551367103
+        },
+        "FRESHNESS_KNOWN_ZERO_RECENT": {
+          "supported_folds": 3,
+          "mean_ratio": 0.7512078733101303
+        }
+      },
+      "default_changed": false
+    }
+  ],
+  "minor_increment": {
+    "mean_MSE_ratio": 0.9832194499350404,
+    "at_least_one_percent_improvement": true,
+    "by_year": [
+      {
+        "season": 2023,
+        "n": 1287,
+        "minor_vs_MLB_MSE_ratio": 0.9673945328066028
+      },
+      {
+        "season": 2024,
+        "n": 1387,
+        "minor_vs_MLB_MSE_ratio": 0.9812421839435495
+      },
+      {
+        "season": 2025,
+        "n": 1338,
+        "minor_vs_MLB_MSE_ratio": 1.001021633054969
+      }
+    ]
+  },
+  "recommendation": "RESEARCH_ONLY_NO_AUTOMATIC_ADOPTION",
+  "selection_max_year": 2025,
+  "2026_used_for_selection": false
+}

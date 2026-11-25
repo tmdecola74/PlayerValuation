@@ -1,0 +1,12 @@
+{
+  "outputs\\minor_league_coverage_min0\\hitters_stints_linkable.csv": "11d511faad952b10f8078429815fe599b9906d9e72b2b5cb6e01280822a4fac6",
+  "outputs\\minor_league_coverage_min0\\pitchers_stints_linkable.csv": "06c1bf21535ad8b44e93edf1226432a10b2b9725380bcad86a7da8981d547107",
+  "outputs\\minor_league_coverage_2019_2022\\hitters_stints_linkable.csv": "eaebd3ff95d704235319653d8cae3fcf4599bf953ca14b6c21112bd5cd96baa4",
+  "outputs\\minor_league_coverage_2019_2022\\pitchers_stints_linkable.csv": "cc7dfb6a8539c3f336854ef8eeaa7cf1db082a86c3f5a97a761a4d18d69c252f",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\training_labels_v1_0\\training_labels.csv": "a2e7243ac69e6c69160a40d1b747b115fdbb096c0adece9647550381266f8542",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\skill_regressed_release_v1_43\\baseline_to_release_changes.csv": "bb19b4f14e90f108d63c2960eac28ded25330b3f12c5d7dc9880f814935ab7bb",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\skill_regressed_release_v1_43\\frozen_2026_forecasts.csv": "bff9e749d122c685c094238710f064fb05d6d78638c723c705d4c65eb577768d",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\skill_regressed_release_v1_43\\projections_2027_hitters.csv": "2cd5cd51ec7c47906141a82442720e5895008e5ec7df6d58118efdf55fa6da2a",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\skill_regressed_release_v1_43\\projections_2027_pitchers.csv": "1cb2834bb4a165ac4bff9d6f45f7db5d9a83dccdada65307d871c79ee19ea328",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\skill_regressed_release_v1_43\\release_exceptions.csv": "377d121a3635069afdee7d06a1746a372948fb863d61a25bb8a5730eac739a13"
+}

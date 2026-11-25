@@ -1,0 +1,51 @@
+{
+  "hitters": {
+    "source_rows_per_dashboard": 19128,
+    "joined_rows": 19128,
+    "unresolved_join_rows": 0,
+    "unmatched_advanced": 0,
+    "unmatched_battedball": 0,
+    "unique_minor_MLBAMIDs": 7679,
+    "v1_43_players": 1024,
+    "v1_43_unique_ids": 1024,
+    "matched_unique_ids": 888,
+    "minor_ids_outside_release": 6791,
+    "release_ids_without_minor_history": 136,
+    "observed_min_exposure": 0
+  },
+  "pitchers": {
+    "source_rows_per_dashboard": 21350,
+    "joined_rows": 21350,
+    "unresolved_join_rows": 4,
+    "unmatched_advanced": 0,
+    "unmatched_battedball": 4,
+    "unique_minor_MLBAMIDs": 8035,
+    "v1_43_players": 1487,
+    "v1_43_unique_ids": 1487,
+    "matched_unique_ids": 1173,
+    "minor_ids_outside_release": 6862,
+    "release_ids_without_minor_history": 314,
+    "observed_min_exposure": 0.0
+  },
+  "PA_residuals": {
+    "rows": 536,
+    "distribution": {
+      "1": 416,
+      "2": 76,
+      "3": 24,
+      "9": 2,
+      "4": 10,
+      "8": 1,
+      "5": 3,
+      "7": 2,
+      "-1": 1,
+      "10": 1
+    },
+    "status": "Unresolved: omitted events such as interference are possible, not verified from these exports."
+  },
+  "identity": {
+    "multiple_minor_ids": 0,
+    "multiple_FG_ids": 0
+  },
+  "scope": "Separate observational coverage branch. No model fits, equivalencies, forecasts, workloads, or release files changed. 2026 minor history is for 2027 only; not used to choose settings from reviewed 2026 MLB outcomes."
+}

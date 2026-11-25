@@ -1,0 +1,101 @@
+{
+  "version": "park_challenger_0.1",
+  "status": "RESEARCH_ONLY",
+  "origins": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "MLB_baseline": "Exact reconstructed v1.43 skill recipe via original project/population/skill_candidate; certified v1.27 historical participation overlay",
+  "components": {
+    "hitter": [
+      "1B",
+      "2B",
+      "3B",
+      "HR"
+    ],
+    "pitcher": [
+      "H",
+      "ER",
+      "BB",
+      "SO",
+      "HR"
+    ]
+  },
+  "priors": {
+    "hitter_AB": 200,
+    "pitcher_OUTS": 300
+  },
+  "weights": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "minor_evidence_weight": 0.5,
+  "minor_window": "Same prior four seasons; only mapped 2021-2025 AAA/AA/A+/A stints",
+  "calibration": "Previous-season MiLB to next-season eligible MLB; targets strictly before forecast origin; min 30 distinct players and 1000 min(source,target) exposure per level/component",
+  "plain_factor": "Sum(w*target_rate)/sum(w*source_rate), w=min(source_den,target_den)",
+  "park_context": "Sequential fixed residual model: per-subleague residual mean shrunk with 1000 exposure, then centered log(final run PF) residual slope shrunk with penalty 10. Component-specific coefficients, no uniform division.",
+  "context_features": "Source-season PF and supplied source subleague only; no target park, future league constants or target playing time",
+  "missing_context": "Missing PF excludes stint from BOTH minor-history arms; missing subleague is explicit UNKNOWN group",
+  "fairness": "Same mapped stints, component support, baseline players, target-label eligibility and fixed anchors across all three arms",
+  "merge": "MLB and MiLB events are disjoint; sum each source stint once. Recency mean normalized by distinct observed seasons, then add population prior ONCE.",
+  "fallback": "If complete minor skill group or park fit unsupported, both minor arms equal MLB_ONLY for whole vector",
+  "new_players": "Coverage-only; no population-only baseline or invented PA/IP",
+  "gates": {
+    "version": "1.42.0",
+    "origins": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "weights": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "skill_prior_exposure": {
+      "hitter_AB": 200,
+      "pitcher_OUTS": 300
+    },
+    "minimum_population_exposure": 10000,
+    "workload_group_prior_players": 50,
+    "minimum_selection_folds": 3,
+    "minimum_rows_per_fold": 30,
+    "minimum_improvement": 0.01,
+    "maximum_individual_metric_degradation": 0.02,
+    "maximum_recent_degradation": 0.02,
+    "maximum_low_history_degradation": 0.02,
+    "minimum_cohort_rows": 15,
+    "final_selection_max_season": 2025,
+    "include_2020_2021": true,
+    "default_skill": "weighted_actuals",
+    "default_workload": "accepted_ip",
+    "automatic_promotion": false,
+    "valuation_enabled": false
+  },
+  "comparisons": [
+    "MINOR_vs_MLB",
+    "PARK_vs_MLB",
+    "PARK_vs_MINOR"
+  ],
+  "selection_max_year": 2025,
+  "2026_MLB_outcomes_forbidden": true,
+  "production_changes": false,
+  "limitations": [
+    "Retrospective vintages",
+    "Selected MLB movers",
+    "No actual home/road exposure",
+    "Run PF is context proxy, not component PF",
+    "MLB target park not neutralized",
+    "No NPB/KBO",
+    "Previously reviewed development seasons, no untouched holdout"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "README_RECENT_HISTORY_SKILLS_v1_23.md": "0436102d62bc7d68b3794277c766ce8c4821d5b2e1dc55bb2544038cea4b3d76",
+  "TEST_RESULTS_RECENT_HISTORY_SKILLS_v1_23.txt": "11504e072afb33d3b8295b183f9ba34c7caf1e39861c8680e6fb4e1a74ccaf86",
+  "VALIDATION_RECENT_HISTORY_SKILLS_v1_23.md": "98e784ec7498d0fbe320b6f48c1f0f3ca3038dc7b861620813b9d5cc59713fda",
+  "config/recent_history_skills_v1_23.json": "9f189a6a89cb137b6f35d8c85112fb76904202b0e5d42c6a624ba577511ffbe9",
+  "evaluate_recent_history_skills_v1_23.py": "e6973fddfe984c558e9843b4e1a6818b570106d8675c37cafd325d9ce3315df5",
+  "inventory_projection_benchmarks_v1_23.py": "7b4360c6b1bcd79a6f45856224915e891b68746acb0bae7202443f584e1c2109",
+  "recent_history_skills_v1_23.py": "98d4dac9de3727946b875efc031fba59125e3add3071a0cbc414bba0b12cf9a4",
+  "recent_skill_core_v1_23.py": "1d08a7b6ccb95be7953f46c3663abbc48199183da93ad5658691cd54b77e3b24",
+  "recent_skill_inputs_v1_23.py": "ae9254a9324d44f92e47e8a2e6c50fa31eef8279e9c37fec3dd4edf03f108d8b",
+  "tests/test_recent_history_skills_v1_23.py": "39c46d5cd87be3ac8066d697f2c7b03c406c5e3f7a255cfa7f51db96c54597f2"
+}

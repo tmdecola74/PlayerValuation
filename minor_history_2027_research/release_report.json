@@ -1,0 +1,29 @@
+{
+  "version": "MINOR_HISTORY_2027_RESEARCH_0.1",
+  "status": "SEPARATE_RESEARCH_RELEASE_NOT_PRODUCTION",
+  "summary": {
+    "hitter": {
+      "players": 1024,
+      "minor_supported": 931,
+      "includes_2026_minor": 548,
+      "international_history_flagged": 39
+    },
+    "pitcher": {
+      "players": 1487,
+      "minor_supported": 1316,
+      "includes_2026_minor": 790,
+      "international_history_flagged": 79
+    }
+  },
+  "baseline_2027_vectors_replayed": 2511,
+  "historical_vectors_replayed": 11946,
+  "changed_cells": 17591,
+  "settings_frozen_before_2026_history": true,
+  "freeze_sha256": "e5482370cb0eb91e5dc5dffea9294798d8cbf9a108b4c0776b92e1e7ef2dab39",
+  "history_2026_used_only_for_2027": true,
+  "outcomes_2026_used_for_fit_selection_scoring": false,
+  "all_workload_anchors_unchanged": true,
+  "production_unchanged": true,
+  "international_coefficients_used": false,
+  "park_coefficients_used": false
+}

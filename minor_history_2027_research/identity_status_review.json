@@ -1,0 +1,14 @@
+{
+  "P1_players": 4,
+  "home_registry_identity_ties": 4,
+  "corroborated_MLBAM_ties": 4,
+  "MLBAM_unresolved": [],
+  "non_identifier_biographic_conflicts": [
+    "Kaima Taira batting hand: MLB R versus NPB L; not used"
+  ],
+  "priority_returners_reviewed": 10,
+  "returner_current_2027_roster_certified": false,
+  "international_translation_adopted": false,
+  "production_identity_crosswalk_modified": false,
+  "as_of": "2026-11-24"
+}

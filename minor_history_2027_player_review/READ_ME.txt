@@ -1,0 +1,1 @@
+Start with REVIEW_REPORT.txt. Decision: retain v1.43 default; challenger remains research-only. No forecast/settings/workload values changed. CSV flags are review triage, not proven errors. See validation_results.json.

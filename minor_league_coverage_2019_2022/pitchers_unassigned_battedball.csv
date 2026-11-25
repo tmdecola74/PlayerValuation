@@ -1,0 +1,5 @@
+﻿source_row,Season,Name,Team,Level,Age,IP,BABIP,GB/FB,LD%,GB%,FB%,IFFB%,HR/FB,Pull%,Cent%,Oppo%,SwStr%,Balls,Strikes,Pitches,PlayerId,MinorMasterId,NameASCII,MLBAMID,PlayerTeamId
+711,2019,Brent Suter,MIL,R,29,1,0,0,0,0,0,0,0,,,,0.46153846,2,11,13,13942,sa621681,Brent Suter,608718,-1
+714,2019,Brent Suter,MIL,R,29,1,0,1,0.5,0.5,0,0,0,0,0.5,0.5,0.6,0,5,5,13942,sa621681,Brent Suter,608718,-1
+20493,2019,Carlos D. Rodriguez,NYY,R,20,1,0.5,1,0.5,0.5,0,0,0,1,0,0,0.08695652,11,12,23,sa916951,sa916951,Carlos D. Rodriguez,668589,-1
+20494,2019,Carlos D. Rodriguez,NYY,R,20,1,0.5,1,0.5,0.25,0.25,0,0,0.5,0.25,0.25,0.1875,9,7,16,sa916951,sa916951,Carlos D. Rodriguez,668589,-1

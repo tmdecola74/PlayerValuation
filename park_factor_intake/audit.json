@@ -1,0 +1,731 @@
+{
+  "sheets": [
+    {
+      "file": "MLB-park factors-2025-2021.xlsx",
+      "season": 2025,
+      "level": "MLB",
+      "team_rows": 30,
+      "leagues": [
+        "American League",
+        "National League"
+      ],
+      "missing_league_rows": 0,
+      "duplicate_teams": 0,
+      "formula_count": 0,
+      "min_final": 0.909,
+      "max_final": 1.16,
+      "half_regression_mismatch_gt_0_001": 0
+    },
+    {
+      "file": "MLB-park factors-2025-2021.xlsx",
+      "season": 2024,
+      "level": "MLB",
+      "team_rows": 30,
+      "leagues": [
+        "American League",
+        "National League"
+      ],
+      "missing_league_rows": 0,
+      "duplicate_teams": 0,
+      "formula_count": 0,
+      "min_final": 0.918,
+      "max_final": 1.136,
+      "half_regression_mismatch_gt_0_001": 0
+    },
+    {
+      "file": "MLB-park factors-2025-2021.xlsx",
+      "season": 2023,
+      "level": "MLB",
+      "team_rows": 30,
+      "leagues": [
+        "American League",
+        "National League"
+      ],
+      "missing_league_rows": 0,
+      "duplicate_teams": 0,
+      "formula_count": 0,
+      "min_final": 0.936,
+      "max_final": 1.182,
+      "half_regression_mismatch_gt_0_001": 0
+    },
+    {
+      "file": "MLB-park factors-2025-2021.xlsx",
+      "season": 2022,
+      "level": "MLB",
+      "team_rows": 30,
+      "leagues": [
+        "American League",
+        "National League"
+      ],
+      "missing_league_rows": 0,
+      "duplicate_teams": 0,
+      "formula_count": 0,
+      "min_final": 0.918,
+      "max_final": 1.191,
+      "half_regression_mismatch_gt_0_001": 0
+    },
+    {
+      "file": "MLB-park factors-2025-2021.xlsx",
+      "season": 2021,
+      "level": "MLB",
+      "team_rows": 30,
+      "leagues": [
+        "American League",
+        "National League"
+      ],
+      "missing_league_rows": 0,
+      "duplicate_teams": 0,
+      "formula_count": 0,
+      "min_final": 0.889,
+      "max_final": 1.134,
+      "half_regression_mismatch_gt_0_001": 0
+    },
+    {
+      "file": "AAA-park factors-2025-2021.xlsx",
+      "season": 2025,
+      "level": "AAA",
+      "team_rows": 30,
+      "leagues": [
+        "International League",
+        "Pacific Coast League"
+      ],
+      "missing_league_rows": 0,
+      "duplicate_teams": 0,
+      "formula_count": 0,
+      "min_final": 0.882,
+      "max_final": 1.135,
+      "half_regression_mismatch_gt_0_001": 0
+    },
+    {
+      "file": "AAA-park factors-2025-2021.xlsx",
+      "season": 2024,
+      "level": "AAA",
+      "team_rows": 30,
+      "leagues": [
+        "International League",
+        "Pacific Coast League"
+      ],
+      "missing_league_rows": 0,
+      "duplicate_teams": 0,
+      "formula_count": 0,
+      "min_final": 0.846,
+      "max_final": 1.134,
+      "half_regression_mismatch_gt_0_001": 0
+    },
+    {
+      "file": "AAA-park factors-2025-2021.xlsx",
+      "season": 2023,
+      "level": "AAA",
+      "team_rows": 30,
+      "leagues": [
+        "International League",
+        "Pacific Coast League"
+      ],
+      "missing_league_rows": 0,
+      "duplicate_teams": 0,
+      "formula_count": 0,
+      "min_final": 0.857,
+      "max_final": 1.114,
+      "half_regression_mismatch_gt_0_001": 0
+    },
+    {
+      "file": "AAA-park factors-2025-2021.xlsx",
+      "season": 2022,
+      "level": "AAA",
+      "team_rows": 30,
+      "leagues": [
+        "International League",
+        "Pacific Coast League"
+      ],
+      "missing_league_rows": 0,
+      "duplicate_teams": 0,
+      "formula_count": 0,
+      "min_final": 0.875,
+      "max_final": 1.149,
+      "half_regression_mismatch_gt_0_001": 0
+    },
+    {
+      "file": "AAA-park factors-2025-2021.xlsx",
+      "season": 2021,
+      "level": "AAA",
+      "team_rows": 30,
+      "leagues": [
+        "International League",
+        "Pacific Coast League"
+      ],
+      "missing_league_rows": 0,
+      "duplicate_teams": 0,
+      "formula_count": 0,
+      "min_final": 0.872,
+      "max_final": 1.169,
+      "half_regression_mismatch_gt_0_001": 0
+    },
+    {
+      "file": "AA-park factors-2025-2021.xlsx",
+      "season": 2025,
+      "level": "AA",
+      "team_rows": 30,
+      "leagues": [
+        "Eastern League",
+        "Southern League",
+        "Texas League"
+      ],
+      "missing_league_rows": 0,
+      "duplicate_teams": 0,
+      "formula_count": 0,
+      "min_final": 0.828,
+      "max_final": 1.241,
+      "half_regression_mismatch_gt_0_001": 0
+    },
+    {
+      "file": "AA-park factors-2025-2021.xlsx",
+      "season": 2024,
+      "level": "AA",
+      "team_rows": 30,
+      "leagues": [
+        "Eastern League",
+        "Southern League",
+        "Texas League"
+      ],
+      "missing_league_rows": 1,
+      "duplicate_teams": 0,
+      "formula_count": 0,
+      "min_final": 0.84,
+      "max_final": 1.181,
+      "half_regression_mismatch_gt_0_001": 0
+    },
+    {
+      "file": "AA-park factors-2025-2021.xlsx",
+      "season": 2023,
+      "level": "AA",
+      "team_rows": 30,
+      "leagues": [
+        "Eastern League",
+        "Southern League",
+        "Texas League"
+      ],
+      "missing_league_rows": 1,
+      "duplicate_teams": 0,
+      "formula_count": 0,
+      "min_final": 0.879,
+      "max_final": 1.196,
+      "half_regression_mismatch_gt_0_001": 0
+    },
+    {
+      "file": "AA-park factors-2025-2021.xlsx",
+      "season": 2022,
+      "level": "AA",
+      "team_rows": 30,
+      "leagues": [
+        "Eastern League",
+        "Southern League",
+        "Texas League"
+      ],
+      "missing_league_rows": 1,
+      "duplicate_teams": 0,
+      "formula_count": 0,
+      "min_final": 0.888,
+      "max_final": 1.225,
+      "half_regression_mismatch_gt_0_001": 0
+    },
+    {
+      "file": "AA-park factors-2025-2021.xlsx",
+      "season": 2021,
+      "level": "AA",
+      "team_rows": 30,
+      "leagues": [
+        "Eastern League",
+        "Southern League",
+        "Texas League"
+      ],
+      "missing_league_rows": 1,
+      "duplicate_teams": 0,
+      "formula_count": 0,
+      "min_final": 0.892,
+      "max_final": 1.164,
+      "half_regression_mismatch_gt_0_001": 0
+    },
+    {
+      "file": "HiA-park factors-2025-2021.xlsx",
+      "season": 2025,
+      "level": "A+",
+      "team_rows": 30,
+      "leagues": [
+        "Midwest League",
+        "Northwest League",
+        "South Atlantic League"
+      ],
+      "missing_league_rows": 1,
+      "duplicate_teams": 0,
+      "formula_count": 0,
+      "min_final": 0.917,
+      "max_final": 1.158,
+      "half_regression_mismatch_gt_0_001": 0
+    },
+    {
+      "file": "HiA-park factors-2025-2021.xlsx",
+      "season": 2024,
+      "level": "A+",
+      "team_rows": 30,
+      "leagues": [
+        "Carolina League",
+        "Midwest League",
+        "Northwest League",
+        "South Atlantic League"
+      ],
+      "missing_league_rows": 1,
+      "duplicate_teams": 0,
+      "formula_count": 0,
+      "min_final": 0.905,
+      "max_final": 1.151,
+      "half_regression_mismatch_gt_0_001": 0
+    },
+    {
+      "file": "HiA-park factors-2025-2021.xlsx",
+      "season": 2023,
+      "level": "A+",
+      "team_rows": 30,
+      "leagues": [
+        "Carolina League",
+        "Midwest League",
+        "Northwest League",
+        "South Atlantic League"
+      ],
+      "missing_league_rows": 1,
+      "duplicate_teams": 0,
+      "formula_count": 0,
+      "min_final": 0.894,
+      "max_final": 1.164,
+      "half_regression_mismatch_gt_0_001": 0
+    },
+    {
+      "file": "HiA-park factors-2025-2021.xlsx",
+      "season": 2022,
+      "level": "A+",
+      "team_rows": 30,
+      "leagues": [
+        "Carolina League",
+        "Midwest League",
+        "Northwest League",
+        "South Atlantic League"
+      ],
+      "missing_league_rows": 1,
+      "duplicate_teams": 0,
+      "formula_count": 0,
+      "min_final": 0.897,
+      "max_final": 1.183,
+      "half_regression_mismatch_gt_0_001": 0
+    },
+    {
+      "file": "HiA-park factors-2025-2021.xlsx",
+      "season": 2021,
+      "level": "A+",
+      "team_rows": 30,
+      "leagues": [
+        "Carolina League",
+        "Midwest League",
+        "Northwest League",
+        "South Atlantic League"
+      ],
+      "missing_league_rows": 1,
+      "duplicate_teams": 0,
+      "formula_count": 0,
+      "min_final": 0.884,
+      "max_final": 1.244,
+      "half_regression_mismatch_gt_0_001": 0
+    },
+    {
+      "file": "LoA-park factors-2025-2021.xlsx",
+      "season": 2025,
+      "level": "A",
+      "team_rows": 30,
+      "leagues": [
+        "California League",
+        "Carolina League",
+        "Florida State League"
+      ],
+      "missing_league_rows": 1,
+      "duplicate_teams": 0,
+      "formula_count": 0,
+      "min_final": 0.948,
+      "max_final": 1.137,
+      "half_regression_mismatch_gt_0_001": 0
+    },
+    {
+      "file": "LoA-park factors-2025-2021.xlsx",
+      "season": 2024,
+      "level": "A",
+      "team_rows": 30,
+      "leagues": [
+        "California League",
+        "Carolina League",
+        "Florida State League"
+      ],
+      "missing_league_rows": 2,
+      "duplicate_teams": 0,
+      "formula_count": 0,
+      "min_final": 0.917,
+      "max_final": 1.105,
+      "half_regression_mismatch_gt_0_001": 0
+    },
+    {
+      "file": "LoA-park factors-2025-2021.xlsx",
+      "season": 2023,
+      "level": "A",
+      "team_rows": 30,
+      "leagues": [
+        "California League",
+        "Carolina League",
+        "Florida State League"
+      ],
+      "missing_league_rows": 2,
+      "duplicate_teams": 0,
+      "formula_count": 0,
+      "min_final": 0.925,
+      "max_final": 1.094,
+      "half_regression_mismatch_gt_0_001": 0
+    },
+    {
+      "file": "LoA-park factors-2025-2021.xlsx",
+      "season": 2022,
+      "level": "A",
+      "team_rows": 30,
+      "leagues": [
+        "California League",
+        "Carolina League",
+        "Florida State League"
+      ],
+      "missing_league_rows": 2,
+      "duplicate_teams": 0,
+      "formula_count": 0,
+      "min_final": 0.926,
+      "max_final": 1.124,
+      "half_regression_mismatch_gt_0_001": 0
+    },
+    {
+      "file": "LoA-park factors-2025-2021.xlsx",
+      "season": 2021,
+      "level": "A",
+      "team_rows": 30,
+      "leagues": [
+        "California League",
+        "Carolina League",
+        "Florida State League"
+      ],
+      "missing_league_rows": 2,
+      "duplicate_teams": 0,
+      "formula_count": 0,
+      "min_final": 0.906,
+      "max_final": 1.178,
+      "half_regression_mismatch_gt_0_001": 0
+    }
+  ],
+  "notes": [
+    {
+      "file": "AA-park factors-2025-2021.xlsx",
+      "sheet": "2023",
+      "row": 32,
+      "values": [
+        "PF final (pf_reg_wgt_3y) is the value applied to wOBA+ and TJBat+. Blue = pitcher-friendly, red = hitter-friendly (beyond a \u00b12% band).",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "file": "AA-park factors-2025-2021.xlsx",
+      "sheet": "2023",
+      "row": 34,
+      "values": [
+        "League Constants \u2014",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "file": "AA-park factors-2025-2021.xlsx",
+      "sheet": "2023",
+      "row": 35,
+      "values": [
+        "\u00a0 \u00a0 \u00a0\u00a0 \u00a0\u00a0 \u00a0\u00a0 \u00a0\u00a0 \u00a0\u00a0 \u00a0\u00a0 \u00a0\u00a0 \u00a0\u00a0 \u00a0",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "file": "AA-park factors-2025-2021.xlsx",
+      "sheet": "2023",
+      "row": 38,
+      "values": [
+        "aa",
+        "Eastern League",
+        61581,
+        0.318,
+        0.33,
+        0.124,
+        1.24,
+        null,
+        null
+      ]
+    },
+    {
+      "file": "AA-park factors-2025-2021.xlsx",
+      "sheet": "2023",
+      "row": 39,
+      "values": [
+        "aa",
+        "Southern League",
+        31676,
+        0.332,
+        0.344,
+        0.139,
+        1.24,
+        null,
+        null
+      ]
+    },
+    {
+      "file": "AA-park factors-2025-2021.xlsx",
+      "sheet": "2023",
+      "row": 40,
+      "values": [
+        "aa",
+        "Texas League",
+        53201,
+        0.33,
+        0.344,
+        0.135,
+        1.24,
+        null,
+        null
+      ]
+    },
+    {
+      "file": "AA-park factors-2025-2021.xlsx",
+      "sheet": "2023",
+      "row": 41,
+      "values": [
+        "aaa",
+        "International League",
+        115090,
+        0.347,
+        0.356,
+        0.141,
+        1.24,
+        null,
+        null
+      ]
+    },
+    {
+      "file": "AA-park factors-2025-2021.xlsx",
+      "sheet": "2023",
+      "row": 42,
+      "values": [
+        "aaa",
+        "Pacific Coast League",
+        59859,
+        0.358,
+        0.369,
+        0.152,
+        1.24,
+        null,
+        null
+      ]
+    },
+    {
+      "file": "AA-park factors-2025-2021.xlsx",
+      "sheet": "2023",
+      "row": 43,
+      "values": [
+        "hi-a",
+        "Midwest League",
+        59291,
+        0.311,
+        0.328,
+        0.122,
+        1.24,
+        null,
+        null
+      ]
+    },
+    {
+      "file": "AA-park factors-2025-2021.xlsx",
+      "sheet": "2023",
+      "row": 44,
+      "values": [
+        "hi-a",
+        "Northwest League",
+        30016,
+        0.322,
+        0.336,
+        0.129,
+        1.24,
+        null,
+        null
+      ]
+    },
+    {
+      "file": "AA-park factors-2025-2021.xlsx",
+      "sheet": "2023",
+      "row": 45,
+      "values": [
+        "hi-a",
+        "South Atlantic League",
+        39934,
+        0.321,
+        0.335,
+        0.132,
+        1.24,
+        null,
+        null
+      ]
+    },
+    {
+      "file": "AA-park factors-2025-2021.xlsx",
+      "sheet": "2023",
+      "row": 46,
+      "values": [
+        "lo-a",
+        "California League",
+        30640,
+        0.319,
+        0.341,
+        0.135,
+        1.24,
+        null,
+        null
+      ]
+    },
+    {
+      "file": "AA-park factors-2025-2021.xlsx",
+      "sheet": "2023",
+      "row": 47,
+      "values": [
+        "lo-a",
+        "Carolina League",
+        49012,
+        0.311,
+        0.338,
+        0.127,
+        1.24,
+        null,
+        null
+      ]
+    },
+    {
+      "file": "AA-park factors-2025-2021.xlsx",
+      "sheet": "2023",
+      "row": 48,
+      "values": [
+        "lo-a",
+        "Florida State League",
+        49424,
+        0.319,
+        0.346,
+        0.134,
+        1.24,
+        null,
+        null
+      ]
+    },
+    {
+      "file": "AA-park factors-2025-2021.xlsx",
+      "sheet": "2023",
+      "row": 49,
+      "values": [
+        "mlb",
+        "American League",
+        65815,
+        0.317,
+        0.317,
+        0.121,
+        1.24,
+        null,
+        null
+      ]
+    },
+    {
+      "file": "AA-park factors-2025-2021.xlsx",
+      "sheet": "2023",
+      "row": 50,
+      "values": [
+        "mlb",
+        "National League",
+        66077,
+        0.325,
+        0.326,
+        0.125,
+        1.24,
+        null,
+        null
+      ]
+    },
+    {
+      "file": "AA-park factors-2025-2021.xlsx",
+      "sheet": "2023",
+      "row": 52,
+      "values": [
+        "TJStats logoTJStatsMLBProspectsAppsSubscribeAboutPrivacy Policy",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "file": "AA-park factors-2025-2021.xlsx",
+      "sheet": "2023",
+      "row": 53,
+      "values": [
+        "\u00a9 2026 TJStats \u00b7 Baseball analysis powered by data \u00b7 By Thomas Nestico",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "file": "AA-park factors-2025-2021.xlsx",
+      "sheet": "2023",
+      "row": 54,
+      "values": [
+        "Subscribe",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  ],
+  "rows": 750,
+  "trailing_weight_flags": 0
+}

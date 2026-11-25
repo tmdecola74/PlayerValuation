@@ -1,0 +1,88 @@
+{
+  "documented_release": "2026 v1.43 unchanged",
+  "documentation_date": "2026-11-25",
+  "player_source_seasons": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "weights": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "population_prior_seasons": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "all_2026_vectors_reproduced": 2564,
+  "published_numeric_field_comparisons": 43128,
+  "component_trace_rows": 11768,
+  "population_priors_exactly_reproduced": true,
+  "statcast_measurements_needed_for_replay": false,
+  "minor_history_used": false,
+  "park_context_used": false,
+  "source_files_unchanged": true,
+  "support_counts": [
+    {
+      "role": "hitter",
+      "status": "supported",
+      "players": 1050
+    },
+    {
+      "role": "hitter",
+      "status": "fallback",
+      "players": 2
+    },
+    {
+      "role": "pitcher",
+      "status": "supported",
+      "players": 1512
+    }
+  ],
+  "historical_skill_gates": [
+    {
+      "origin": 2026,
+      "role": "hitter",
+      "experiment": "SKILL",
+      "eligible": true,
+      "reasons": [],
+      "selected_for_research": "skill_regression",
+      "years": [
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "mean_mse_ratio": 0.9640989096776513,
+      "default_changed": false
+    },
+    {
+      "origin": 2026,
+      "role": "pitcher",
+      "experiment": "SKILL",
+      "eligible": true,
+      "reasons": [],
+      "selected_for_research": "skill_regression",
+      "years": [
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "mean_mse_ratio": 0.7943396280092391,
+      "default_changed": false
+    }
+  ],
+  "notes": "Replay used only 2022\u20132025 eligible FanGraphs labels, the certified G/OUTS participation overlay and frozen population rates recomputed from those same seasons. No Statcast feature file, 2026 outcome, minor data or external forecast was opened for replay."
+}

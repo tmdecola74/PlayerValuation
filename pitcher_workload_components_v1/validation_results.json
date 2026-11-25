@@ -1,0 +1,28 @@
+{
+  "historical_prediction_rows": 9002,
+  "historical_origins": [
+    2023,
+    2024,
+    2025
+  ],
+  "future_2026_unscored_rows": 3024,
+  "future_2027_rows": 2974,
+  "minor_stint_trace_rows": 32671,
+  "protected_release_files_verified": 36,
+  "all_source_hashes_unchanged": true,
+  "all_origin_training_targets_strictly_earlier": true,
+  "all_feature_source_seasons_strictly_earlier": true,
+  "scalers_fitted_on_training_only": true,
+  "workload_component_identities_verified": true,
+  "frozen_2026_baselines_replayed": 1512,
+  "frozen_models_unchanged_after_2026_history_read": true,
+  "models_use_2026_targets": false,
+  "Steamer_read": false,
+  "production_changed": false,
+  "counts_or_skill_forecasts_replaced": false,
+  "independently_checked_component_rows": 15000,
+  "same_metric_memberships_across_arms": true,
+  "appearance_calibration_bins": 30,
+  "ranked_future_workload_exceptions": 2974,
+  "automatic_adoption": false
+}

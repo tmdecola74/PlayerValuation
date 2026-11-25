@@ -1,0 +1,623 @@
+[
+  {
+    "mlbam_id": "650331",
+    "profile_url": "https://statsapi.mlb.com/api/v1/people/650331?hydrate=currentTeam",
+    "profile": {
+      "id": 650331,
+      "fullName": "Lewin D\u00edaz",
+      "active": false,
+      "currentTeam": {
+        "id": 532,
+        "name": "Diablos Rojos del Mexico",
+        "link": "/api/v1/teams/532",
+        "parentOrgId": 11
+      },
+      "primaryPosition": {
+        "code": "3",
+        "name": "First Base",
+        "type": "Infielder",
+        "abbreviation": "1B"
+      }
+    },
+    "transactions_url": "https://statsapi.mlb.com/api/v1/transactions?playerId=650331&startDate=01%2F01%2F2026&endDate=11%2F24%2F2026",
+    "latest_transactions": []
+  },
+  {
+    "mlbam_id": "641541",
+    "profile_url": "https://statsapi.mlb.com/api/v1/people/641541?hydrate=currentTeam",
+    "profile": {
+      "id": 641541,
+      "fullName": "Jon Duplantier",
+      "active": false,
+      "currentTeam": {
+        "id": 158,
+        "name": "Milwaukee Brewers",
+        "link": "/api/v1/teams/158"
+      },
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      }
+    },
+    "transactions_url": "https://statsapi.mlb.com/api/v1/transactions?playerId=641541&startDate=01%2F01%2F2026&endDate=11%2F24%2F2026",
+    "latest_transactions": []
+  },
+  {
+    "mlbam_id": "672773",
+    "profile_url": "https://statsapi.mlb.com/api/v1/people/672773?hydrate=currentTeam",
+    "profile": {
+      "id": 672773,
+      "fullName": "Elvis Luciano",
+      "active": false,
+      "currentTeam": {
+        "id": 463,
+        "name": "New Hampshire Fisher Cats",
+        "link": "/api/v1/teams/463",
+        "parentOrgId": 141
+      },
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      }
+    },
+    "transactions_url": "https://statsapi.mlb.com/api/v1/transactions?playerId=672773&startDate=01%2F01%2F2026&endDate=11%2F24%2F2026",
+    "latest_transactions": []
+  },
+  {
+    "mlbam_id": "642451",
+    "profile_url": "https://statsapi.mlb.com/api/v1/people/642451?hydrate=currentTeam",
+    "profile": {
+      "id": 642451,
+      "fullName": "Luis Liberato",
+      "active": true,
+      "currentTeam": {
+        "id": 667,
+        "name": "Aguilas Cibaenas",
+        "link": "/api/v1/teams/667",
+        "parentOrgId": 11
+      },
+      "primaryPosition": {
+        "code": "O",
+        "name": "Outfield",
+        "type": "Outfielder",
+        "abbreviation": "OF"
+      }
+    },
+    "transactions_url": "https://statsapi.mlb.com/api/v1/transactions?playerId=642451&startDate=01%2F01%2F2026&endDate=11%2F24%2F2026",
+    "latest_transactions": [
+      {
+        "date": "2026-10-21",
+        "effectiveDate": "2026-10-21",
+        "typeCode": "ASG",
+        "typeDesc": "Assigned",
+        "description": "OF Luis Liberato assigned to Aguilas Cibaenas.",
+        "toTeam": {
+          "id": 667,
+          "name": "Aguilas Cibaenas",
+          "link": "/api/v1/teams/667"
+        },
+        "fromTeam": null
+      },
+      {
+        "date": "2026-08-07",
+        "effectiveDate": "2026-08-07",
+        "typeCode": "SC",
+        "typeDesc": "Status Change",
+        "description": "Diablos Rojos del Mexico activated OF Luis Liberato from the reserve list.",
+        "toTeam": {
+          "id": 532,
+          "name": "Diablos Rojos del Mexico",
+          "link": "/api/v1/teams/532"
+        },
+        "fromTeam": null
+      },
+      {
+        "date": "2026-08-04",
+        "effectiveDate": "2026-08-04",
+        "typeCode": "SC",
+        "typeDesc": "Status Change",
+        "description": "Diablos Rojos del Mexico placed OF Luis Liberato on the reserve list.",
+        "toTeam": {
+          "id": 532,
+          "name": "Diablos Rojos del Mexico",
+          "link": "/api/v1/teams/532"
+        },
+        "fromTeam": null
+      },
+      {
+        "date": "2026-06-02",
+        "effectiveDate": "2026-06-02",
+        "typeCode": "SFA",
+        "typeDesc": "Signed as Free Agent",
+        "description": "Diablos Rojos del Mexico signed free agent OF Luis Liberato.",
+        "toTeam": {
+          "id": 532,
+          "name": "Diablos Rojos del Mexico",
+          "link": "/api/v1/teams/532"
+        },
+        "fromTeam": null
+      }
+    ]
+  },
+  {
+    "mlbam_id": "664057",
+    "profile_url": "https://statsapi.mlb.com/api/v1/people/664057?hydrate=currentTeam",
+    "profile": {
+      "id": 664057,
+      "fullName": "Andrew Stevenson",
+      "active": true,
+      "currentTeam": {
+        "id": 523,
+        "name": "Piratas de Campeche",
+        "link": "/api/v1/teams/523",
+        "parentOrgId": 11
+      },
+      "primaryPosition": {
+        "code": "8",
+        "name": "Outfielder",
+        "type": "Outfielder",
+        "abbreviation": "CF"
+      }
+    },
+    "transactions_url": "https://statsapi.mlb.com/api/v1/transactions?playerId=664057&startDate=01%2F01%2F2026&endDate=11%2F24%2F2026",
+    "latest_transactions": [
+      {
+        "date": "2026-04-16",
+        "effectiveDate": "2026-04-16",
+        "typeCode": "ASG",
+        "typeDesc": "Assigned",
+        "description": "CF Andrew Stevenson assigned to Piratas de Campeche.",
+        "toTeam": {
+          "id": 523,
+          "name": "Piratas de Campeche",
+          "link": "/api/v1/teams/523"
+        },
+        "fromTeam": null
+      }
+    ]
+  },
+  {
+    "mlbam_id": "664314",
+    "profile_url": "https://statsapi.mlb.com/api/v1/people/664314?hydrate=currentTeam",
+    "profile": {
+      "id": 664314,
+      "fullName": "Estevan Florial",
+      "active": true,
+      "currentTeam": {
+        "id": 672,
+        "name": "Tigres del Licey",
+        "link": "/api/v1/teams/672",
+        "parentOrgId": 11
+      },
+      "primaryPosition": {
+        "code": "7",
+        "name": "Outfielder",
+        "type": "Outfielder",
+        "abbreviation": "LF"
+      }
+    },
+    "transactions_url": "https://statsapi.mlb.com/api/v1/transactions?playerId=664314&startDate=01%2F01%2F2026&endDate=11%2F24%2F2026",
+    "latest_transactions": [
+      {
+        "date": "2026-10-16",
+        "effectiveDate": "2026-10-16",
+        "typeCode": "ASG",
+        "typeDesc": "Assigned",
+        "description": "LF Estevan Florial assigned to Tigres del Licey.",
+        "toTeam": {
+          "id": 672,
+          "name": "Tigres del Licey",
+          "link": "/api/v1/teams/672"
+        },
+        "fromTeam": null
+      },
+      {
+        "date": "2026-08-07",
+        "effectiveDate": "2026-08-07",
+        "typeCode": "SC",
+        "typeDesc": "Status Change",
+        "description": "Caliente de Durango activated LF Estevan Florial from the reserve list.",
+        "toTeam": {
+          "id": 4444,
+          "name": "Caliente de Durango",
+          "link": "/api/v1/teams/4444"
+        },
+        "fromTeam": null
+      },
+      {
+        "date": "2026-08-06",
+        "effectiveDate": "2026-08-06",
+        "typeCode": "SC",
+        "typeDesc": "Status Change",
+        "description": "Caliente de Durango placed LF Estevan Florial on the reserve list.",
+        "toTeam": {
+          "id": 4444,
+          "name": "Caliente de Durango",
+          "link": "/api/v1/teams/4444"
+        },
+        "fromTeam": null
+      },
+      {
+        "date": "2026-05-23",
+        "effectiveDate": "2026-05-23",
+        "typeCode": "TR",
+        "typeDesc": "Trade",
+        "description": "Leones de Yucatan traded LF Estevan Florial to Caliente de Durango.",
+        "toTeam": {
+          "id": 4444,
+          "name": "Caliente de Durango",
+          "link": "/api/v1/teams/4444"
+        },
+        "fromTeam": {
+          "id": 496,
+          "name": "Leones de Yucatan",
+          "link": "/api/v1/teams/496"
+        }
+      },
+      {
+        "date": "2026-04-17",
+        "effectiveDate": "2026-04-17",
+        "typeCode": "SFA",
+        "typeDesc": "Signed as Free Agent",
+        "description": "Leones de Yucatan signed free agent LF Estevan Florial.",
+        "toTeam": {
+          "id": 496,
+          "name": "Leones de Yucatan",
+          "link": "/api/v1/teams/496"
+        },
+        "fromTeam": null
+      }
+    ]
+  },
+  {
+    "mlbam_id": "596748",
+    "profile_url": "https://statsapi.mlb.com/api/v1/people/596748?hydrate=currentTeam",
+    "profile": {
+      "id": 596748,
+      "fullName": "Maikel Franco",
+      "active": true,
+      "currentTeam": {
+        "id": 562,
+        "name": "Sultanes de Monterrey",
+        "link": "/api/v1/teams/562",
+        "parentOrgId": 11
+      },
+      "primaryPosition": {
+        "code": "5",
+        "name": "Third Base",
+        "type": "Infielder",
+        "abbreviation": "3B"
+      }
+    },
+    "transactions_url": "https://statsapi.mlb.com/api/v1/transactions?playerId=596748&startDate=01%2F01%2F2026&endDate=11%2F24%2F2026",
+    "latest_transactions": [
+      {
+        "date": "2026-10-16",
+        "effectiveDate": "2026-10-16",
+        "typeCode": "ASG",
+        "typeDesc": "Assigned",
+        "description": "3B Maikel Franco assigned to Tigres del Licey.",
+        "toTeam": {
+          "id": 672,
+          "name": "Tigres del Licey",
+          "link": "/api/v1/teams/672"
+        },
+        "fromTeam": null
+      },
+      {
+        "date": "2026-07-01",
+        "effectiveDate": "2026-07-01",
+        "typeCode": "SFA",
+        "typeDesc": "Signed as Free Agent",
+        "description": "Sultanes de Monterrey signed free agent 3B Maikel Franco.",
+        "toTeam": {
+          "id": 562,
+          "name": "Sultanes de Monterrey",
+          "link": "/api/v1/teams/562"
+        },
+        "fromTeam": null
+      },
+      {
+        "date": "2026-06-30",
+        "effectiveDate": "2026-06-30",
+        "typeCode": "REL",
+        "typeDesc": "Released",
+        "description": "El Aguila de Veracruz released 3B Maikel Franco.",
+        "toTeam": {
+          "id": 5567,
+          "name": "El Aguila de Veracruz",
+          "link": "/api/v1/teams/5567"
+        },
+        "fromTeam": null
+      },
+      {
+        "date": "2026-06-09",
+        "effectiveDate": "2026-06-09",
+        "typeCode": "TR",
+        "typeDesc": "Trade",
+        "description": "Diablos Rojos del Mexico traded 3B Maikel Franco to El Aguila de Veracruz.",
+        "toTeam": {
+          "id": 5567,
+          "name": "El Aguila de Veracruz",
+          "link": "/api/v1/teams/5567"
+        },
+        "fromTeam": {
+          "id": 532,
+          "name": "Diablos Rojos del Mexico",
+          "link": "/api/v1/teams/532"
+        }
+      },
+      {
+        "date": "2026-04-16",
+        "effectiveDate": "2026-04-16",
+        "typeCode": "SFA",
+        "typeDesc": "Signed as Free Agent",
+        "description": "Diablos Rojos del Mexico signed free agent 3B Maikel Franco.",
+        "toTeam": {
+          "id": 532,
+          "name": "Diablos Rojos del Mexico",
+          "link": "/api/v1/teams/532"
+        },
+        "fromTeam": null
+      }
+    ]
+  },
+  {
+    "mlbam_id": "609274",
+    "profile_url": "https://statsapi.mlb.com/api/v1/people/609274?hydrate=currentTeam",
+    "profile": {
+      "id": 609274,
+      "fullName": "Elier Hernandez",
+      "active": true,
+      "currentTeam": {
+        "id": 672,
+        "name": "Tigres del Licey",
+        "link": "/api/v1/teams/672",
+        "parentOrgId": 11
+      },
+      "primaryPosition": {
+        "code": "9",
+        "name": "Outfielder",
+        "type": "Outfielder",
+        "abbreviation": "RF"
+      }
+    },
+    "transactions_url": "https://statsapi.mlb.com/api/v1/transactions?playerId=609274&startDate=01%2F01%2F2026&endDate=11%2F24%2F2026",
+    "latest_transactions": [
+      {
+        "date": "2026-10-16",
+        "effectiveDate": "2026-10-16",
+        "typeCode": "ASG",
+        "typeDesc": "Assigned",
+        "description": "RF Elier Hernandez assigned to Tigres del Licey.",
+        "toTeam": {
+          "id": 672,
+          "name": "Tigres del Licey",
+          "link": "/api/v1/teams/672"
+        },
+        "fromTeam": null
+      },
+      {
+        "date": "2026-08-22",
+        "effectiveDate": "2026-08-22",
+        "typeCode": "SC",
+        "typeDesc": "Status Change",
+        "description": "Caliente de Durango placed RF Elier Hernandez on the reserve list.",
+        "toTeam": {
+          "id": 4444,
+          "name": "Caliente de Durango",
+          "link": "/api/v1/teams/4444"
+        },
+        "fromTeam": null
+      },
+      {
+        "date": "2026-04-17",
+        "effectiveDate": "2026-04-17",
+        "typeCode": "ASG",
+        "typeDesc": "Assigned",
+        "description": "RF Elier Hernandez assigned to Caliente de Durango.",
+        "toTeam": {
+          "id": 4444,
+          "name": "Caliente de Durango",
+          "link": "/api/v1/teams/4444"
+        },
+        "fromTeam": null
+      },
+      {
+        "date": "2026-01-30",
+        "effectiveDate": "2026-01-30",
+        "typeCode": "ASG",
+        "typeDesc": "Assigned",
+        "description": "RF Elier Hernandez assigned to Dominican Republic.",
+        "toTeam": {
+          "id": 1191,
+          "name": "Dominican Republic",
+          "link": "/api/v1/teams/1191"
+        },
+        "fromTeam": null
+      }
+    ]
+  },
+  {
+    "mlbam_id": "672478",
+    "profile_url": "https://statsapi.mlb.com/api/v1/people/672478?hydrate=currentTeam",
+    "profile": {
+      "id": 672478,
+      "fullName": "Jordan Diaz",
+      "active": true,
+      "currentTeam": {
+        "id": 496,
+        "name": "Leones de Yucatan",
+        "link": "/api/v1/teams/496",
+        "parentOrgId": 11
+      },
+      "primaryPosition": {
+        "code": "4",
+        "name": "Second Base",
+        "type": "Infielder",
+        "abbreviation": "2B"
+      }
+    },
+    "transactions_url": "https://statsapi.mlb.com/api/v1/transactions?playerId=672478&startDate=01%2F01%2F2026&endDate=11%2F24%2F2026",
+    "latest_transactions": [
+      {
+        "date": "2026-05-09",
+        "effectiveDate": "2026-05-09",
+        "typeCode": "SFA",
+        "typeDesc": "Signed as Free Agent",
+        "description": "Leones de Yucatan signed free agent 2B Jordan Diaz.",
+        "toTeam": {
+          "id": 496,
+          "name": "Leones de Yucatan",
+          "link": "/api/v1/teams/496"
+        },
+        "fromTeam": null
+      },
+      {
+        "date": "2026-05-09",
+        "effectiveDate": "2026-05-09",
+        "typeCode": "REL",
+        "typeDesc": "Released",
+        "description": "Leones de Yucatan released 2B Jordan Diaz.",
+        "toTeam": {
+          "id": 496,
+          "name": "Leones de Yucatan",
+          "link": "/api/v1/teams/496"
+        },
+        "fromTeam": null
+      },
+      {
+        "date": "2026-04-30",
+        "effectiveDate": "2026-04-30",
+        "typeCode": "REL",
+        "typeDesc": "Released",
+        "description": "Tecos de los Dos Laredos released 2B Jordan Diaz.",
+        "toTeam": {
+          "id": 536,
+          "name": "Tecos de los Dos Laredos",
+          "link": "/api/v1/teams/536"
+        },
+        "fromTeam": null
+      },
+      {
+        "date": "2026-04-17",
+        "effectiveDate": "2026-04-17",
+        "typeCode": "ASG",
+        "typeDesc": "Assigned",
+        "description": "2B Jordan Diaz assigned to Tecos de los Dos Laredos.",
+        "toTeam": {
+          "id": 536,
+          "name": "Tecos de los Dos Laredos",
+          "link": "/api/v1/teams/536"
+        },
+        "fromTeam": null
+      },
+      {
+        "date": "2026-02-05",
+        "effectiveDate": "2026-02-05",
+        "typeCode": "SC",
+        "typeDesc": "Status Change",
+        "description": "Colombia activated 2B Jordan Diaz.",
+        "toTeam": {
+          "id": 792,
+          "name": "Colombia",
+          "link": "/api/v1/teams/792"
+        },
+        "fromTeam": null
+      }
+    ]
+  },
+  {
+    "mlbam_id": "658668",
+    "profile_url": "https://statsapi.mlb.com/api/v1/people/658668?hydrate=currentTeam",
+    "profile": {
+      "id": 658668,
+      "fullName": "Edward Olivares",
+      "active": true,
+      "currentTeam": {
+        "id": 697,
+        "name": "Bravos de Margarita",
+        "link": "/api/v1/teams/697",
+        "parentOrgId": 11
+      },
+      "primaryPosition": {
+        "code": "9",
+        "name": "Outfielder",
+        "type": "Outfielder",
+        "abbreviation": "RF"
+      }
+    },
+    "transactions_url": "https://statsapi.mlb.com/api/v1/transactions?playerId=658668&startDate=01%2F01%2F2026&endDate=11%2F24%2F2026",
+    "latest_transactions": [
+      {
+        "date": "2026-10-13",
+        "effectiveDate": "2026-10-13",
+        "typeCode": "ASG",
+        "typeDesc": "Assigned",
+        "description": "RF Edward Olivares assigned to Bravos de Margarita.",
+        "toTeam": {
+          "id": 697,
+          "name": "Bravos de Margarita",
+          "link": "/api/v1/teams/697"
+        },
+        "fromTeam": null
+      },
+      {
+        "date": "2026-05-31",
+        "effectiveDate": "2026-05-31",
+        "typeCode": "SFA",
+        "typeDesc": "Signed as Free Agent",
+        "description": "Algodoneros Union Laguna signed free agent RF Edward Olivares.",
+        "toTeam": {
+          "id": 447,
+          "name": "Algodoneros Union Laguna",
+          "link": "/api/v1/teams/447"
+        },
+        "fromTeam": null
+      },
+      {
+        "date": "2026-04-11",
+        "effectiveDate": "2026-04-11",
+        "typeCode": "REL",
+        "typeDesc": "Released",
+        "description": "Durham Bulls released RF Edward Olivares.",
+        "toTeam": {
+          "id": 234,
+          "name": "Durham Bulls",
+          "link": "/api/v1/teams/234"
+        },
+        "fromTeam": null
+      },
+      {
+        "date": "2026-04-02",
+        "effectiveDate": "2026-04-02",
+        "typeCode": "SC",
+        "typeDesc": "Status Change",
+        "description": "Durham Bulls placed RF Edward Olivares on the 7-day injured list.",
+        "toTeam": {
+          "id": 234,
+          "name": "Durham Bulls",
+          "link": "/api/v1/teams/234"
+        },
+        "fromTeam": null
+      },
+      {
+        "date": "2026-04-02",
+        "effectiveDate": "2026-04-02",
+        "typeCode": "SC",
+        "typeDesc": "Status Change",
+        "description": "Durham Bulls placed RF Edward Olivares on the 7-day injured list.",
+        "toTeam": {
+          "id": 234,
+          "name": "Durham Bulls",
+          "link": "/api/v1/teams/234"
+        },
+        "fromTeam": null
+      }
+    ]
+  }
+]
