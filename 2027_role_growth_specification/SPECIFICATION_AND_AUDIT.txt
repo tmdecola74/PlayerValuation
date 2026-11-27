@@ -1,0 +1,207 @@
+2027 ROLE AND DEVELOPMENT MODEL: SPECIFICATION AND READINESS AUDIT
+As of November 26, 2026
+
+DECISION
+Retain the 2027 v1.43 working forecast. Historical usage-based development can proceed to data-adapter and cohort construction, but a chart-conditioned model cannot yet be validated. Current depth charts support conditional 2027 scenarios after explicit workload assumptions are registered. No model was fitted and no forecast error was scored in this deliverable.
+
+WHAT IS AVAILABLE
+Annual eligible MLB labels span 2015–2025 for historical selection. The existing pitcher overlay supplies 4,230 certified zero-participation player-seasons in its 2019–2025 cohorts. Cached game boxscores are present for 2019–2026, with original season certificates and sampled fields for per-game pitching outs, starts and batting order. Daily Statcast source windows are registered for 2015–2025, and earlier work verified complete 2021–2026 pitch scope. These are raw/registered sources, not already validated new model inputs. 2026 is allowed only as 2027 history.
+
+THE HISTORICAL-CHART GAP
+The scoped filename search found no certified 2023/2024/2025 preseason role snapshots. Of 30 standalone team workbooks, 30 are byte-identical to the new ZIP and 0 differ without certified preseason capture dates. A 2026 filename, Excel creation date or acquisition-year column does not establish a valid historical forecast vintage. FanGraphs projected-stat exports are external benchmarks, not our independent role model or timestamped historical roster evidence.
+
+NEW WORKLOAD DESIGN
+Separate skill, role/opportunity and participation. Use a distribution over future roles rather than an average of old annual totals. Estimate appearance, conditional role transitions and joint games/outings and workload per appearance. A recent full-time season informs next year's role; debut-year totals inform uncertainty and capacity rather than mechanically averaging down a healthy assumed full-time role. Do not guarantee annual growth. Team opportunity and replacement/depth allocations must reconcile. The first candidate holds skill rates fixed; age/development is a later experiment.
+
+HOW THIS DIFFERS FROM THE REJECTED EXPERIMENT
+The previous structured pitcher model already separated appearance, role, games and innings per outing, and failed adoption. Repeating that decomposition alone is not a new evidentiary basis. Its coefficients remain inactive. This proposal first reconstructs actual recent role transitions and per-game starts/relief innings, then separately admits chart context only when historical vintages are available. No new performance claim is made before tests.
+
+VALIDATION PROTOCOL
+Prepare 2023, 2024 and 2025 forecast origins using strictly earlier training targets. Keep the original >=3 supported folds, >=30 main rows/fold, >=1% mean objective MSE improvement, <=2% metric/recent/low-history degradation and cohort support requirements; retain applicable role/freshness and complete-count safeguards. Use identical supported memberships, report unknown outcomes and fallbacks, and include certified nonappearances. No 2026 forecast errors for fitting, tuning, selecting features or choosing thresholds. Historical errors already reviewed are development evidence, not a new independent holdout. No automatic adoption.
+
+THE CUTOFF MATTERS
+The current chart snapshot is November 26, 2026. A faithful historical version requires evidence available by November 26 before each forecast season. March preseason snapshots support a separately labeled spring forecast task, not a retrospective November forecast. Source retrieval date and effective transaction date are different fields. Retrospective stat revisions and schedule/calendar context must be documented. Never use target-year roles, injuries, actual innings or current service time as historical predictors.
+
+READINESS LIMITS
+Hitter annual G/PA is available, but a hitter-wide nonappearance certificate was not found. Positive-only training would omit demoted/inactive players and is insufficient for unconditional workload adoption. Cached boxscore availability is promising; schema samples are not a full parsing/reconciliation audit. Pitch data alone misses some no-pitch appearances and does not provide medical absence causes. Annual mixed-role IP/GS is not innings per start. Raw age coverage must be audited for meaning and dates; current chart AGE/service cannot be backdated. Missing IL evidence does not imply health. Missing chart players do not receive zero workload.
+
+WHICH 2027 OUTPUTS CAN BE PUBLISHED
+There are 772 primary-roster entries with same-role baseline skill support suitable for conditional scenario construction, and 8 without a baseline skill line. Publish chart-listed roles and baseline-versus-assumed-volume sensitivity with assumptions, timestamps and unchanged rate provenance. A scenario may state 'if this everyday/rotation role and this availability/workload occur'; do not attach invented scenario probabilities, expected-workload claims or calibrated intervals. Scenario counts are not adopted forecasts and are not fed into DRAFTTOOL. R/RBI/W/QS/SV/HLD need explicit context rules or remain unavailable. The Stewart and Misiorowski templates intentionally leave workload numbers unset.
+
+BUILD ORDER
+1. Reconcile historical game-by-game usage and start/relief labels. 2. Certify historical hitter appearance/nonappearance. 3. Freeze a fully executable usage-transition estimator, support minima and selection contract before scoring. 4. Test usage-only workload against v1.43 through 2025. 5. Register and publish chart-conditioned 2027 scenarios separately. 6. Acquire archived chart/availability data for chart-dependent historical validation. 7. Audit DOB/age/experience and separately specify player-development adjustments. 8. Review complete player changes, coverage, team totals and fallback behavior before adoption.
+
+ADDITIONAL ARCHIVES REQUESTED
+Highest priority: all-team role snapshots for historical origins with source capture dates and stable IDs. Next: longitudinal dated IL/roster transactions and a complete DOB/debut register. No 2027 FanGraphs projected-stat export is required to build our own model; any downloaded external forecast must remain a named comparison or external-opportunity arm.
+
+READINESS DETAILS
+[
+  {
+    "component": "MLB annual workload and skill history",
+    "status": "AVAILABLE_FOR_ADAPTER_AND_DESIGN",
+    "evidence": "Eligible annual PA/G and pitcher OUTS/G/GS in 2015\u20132025 labels; 2026 history quarantined from selection",
+    "can_validate": "Seasonal PA/IP and observed pitcher role transitions, after chronological cohort construction",
+    "gap": "Historical season totals do not establish preseason roles, medical causes or games actually available"
+  },
+  {
+    "component": "Pitcher nonappearance",
+    "status": "CERTIFIED_FOR_EXISTING_HISTORICAL_COHORT",
+    "evidence": "4230 certified zero player-seasons in 2019\u20132025 overlay",
+    "can_validate": "Appearance probability and workload including verified zeros within that cohort",
+    "gap": "Not proof of complete prospect/free-agent universe; preserve source cohort and zero-vs-unknown distinction"
+  },
+  {
+    "component": "Hitter nonappearance",
+    "status": "NEEDS_CERTIFICATION",
+    "evidence": "Positive/eligible annual hitter records exist; no hitter-wide zero-participation certificate found in scoped inventory",
+    "can_validate": "Conditional workload among observed hitters only, with survivorship limitation; not unconditional adoption",
+    "gap": "Construct prior-history cohort and certify season-wide MLB appearances/nonappearances before full appearance model"
+  },
+  {
+    "component": "Game-level pitcher start/relief split",
+    "status": "RAW_AVAILABLE_ADAPTER_REQUIRED",
+    "evidence": "2019\u20132026 cached game boxscores and existing season certificates; sampled game fields include outs and gamesStarted",
+    "can_validate": "Outs per start, outs per relief appearance and recent-role transitions after complete reconciliation",
+    "gap": "Do not divide mixed-role season IP by GS or reuse the rejected model coefficients"
+  },
+  {
+    "component": "Game-level hitter starts and lineup",
+    "status": "RAW_AVAILABLE_ADAPTER_REQUIRED",
+    "evidence": "Game boxscores contain battingOrder and per-game batting stats; targeted FanGraphs logs are a small discrepancy subset",
+    "can_validate": "Games, starts, PA per appearance and late-season lineup usage after full-season identity/order validation",
+    "gap": "Substitution order, starters without PA, two-way players, doubleheaders, team trades and no-pitch appearances need tests; logs are not complete archive"
+  },
+  {
+    "component": "Historical preseason depth charts",
+    "status": "NOT_FOUND_IN_SCOPED_SEARCH",
+    "evidence": "Only current/uncertified team workbook snapshots and external projection exports found",
+    "can_validate": "No chart-dependent historical forecast claim yet",
+    "gap": "Need dated 2023/2024/2025 preseason role snapshots, same cutoff convention, all 30 teams, IDs, injured/restricted/bench/depth context"
+  },
+  {
+    "component": "Historical injuries and availability restrictions",
+    "status": "NOT_READY_FOR_MEDICAL_MODEL",
+    "evidence": "Current/uncertified injury workbook and selective prior transaction evidence",
+    "can_validate": "Empirical low usage or appearance outcomes, described as participation rather than injury probability",
+    "gap": "Need dated longitudinal IL/roster transactions with effective dates AND evidence capture/availability dates; no healthy labels from absence of an injury flag"
+  },
+  {
+    "component": "Minor-league physical capacity",
+    "status": "AVAILABLE_WITH_SCOPE_FILTERS",
+    "evidence": "Exactly linked 2019\u20132026 multi-level stint files",
+    "can_validate": "Disjoint MLB+MiLB workload history after stint/level duplicate control",
+    "gap": "Unambiguous AAA/AA/A+/A/A- scope first; exclude ambiguous collapsed rookie/complex rows unless resolved; canceled 2020 MiLB is unavailable, not zero"
+  },
+  {
+    "component": "Age, MLB experience and development",
+    "status": "PARTIAL_BIOGRAPHY_AVAILABLE_ADAPTER_REQUIRED",
+    "evidence": "Cached identity DOB/debut fields inventoried by role in baseline_biography_coverage.csv; raw database Age inventory and current chart AGE/service also audited",
+    "can_validate": "Potential age/experience component after recomputing cutoff-specific ages from unique stable DOBs, with conflicts and remaining gaps quarantined",
+    "gap": "No assumption raw Age is correctly dated. Only fill remaining DOB/debut gaps; observed positive seasons are not official service time, and current team/service cannot be backdated"
+  },
+  {
+    "component": "2027 depth-chart role context",
+    "status": "READY_FOR_CONDITIONAL_SCENARIOS",
+    "evidence": "30 teams; 780 primary roster rows exactly linked; 772 have same-role baseline skill forecasts",
+    "can_validate": "Identity/role/coverage consistency now; no calibrated forecast-error claim",
+    "gap": "No numeric 2027 workload estimates supplied; current role is uncertain, not a guarantee; eight primary players lack baseline skills"
+  },
+  {
+    "component": "International coverage",
+    "status": "UNVALIDATED_TRANSLATION",
+    "evidence": "Corroborated priority IDs and international exception register",
+    "can_validate": "Identity and role context only",
+    "gap": "Independent justified priors or more historical transition evidence; no minor-coefficient substitution"
+  },
+  {
+    "component": "Statcast GB/LD/FB challenger",
+    "status": "REJECTED_REMAINS_INACTIVE",
+    "evidence": "Strengthened three-fold test failed 1% improvement for both roles",
+    "can_validate": "No change from prior decision",
+    "gap": "Separate future research only; no hidden feature inclusion in workload or development model"
+  }
+]
+
+MODEL SPECIFICATION
+{
+  "version": "ROLE_GROWTH_DESIGN_0.1_NOT_FITTED",
+  "objective": "Forecast next-season opportunity from role transitions and availability while preserving current skill rates; later test development separately",
+  "arms": [
+    {
+      "name": "A_BASELINE",
+      "status": "WORKING_UNCHANGED",
+      "definition": "Published 2027 v1.43; same per-origin replay for tests"
+    },
+    {
+      "name": "B_USAGE_TRANSITION",
+      "status": "DESIGN_NOT_FITTED",
+      "definition": "Historical usage-state transition model, with empirical participation and conditional workloads; no current chart, medical or external projection features"
+    },
+    {
+      "name": "C_CHART_CONTEXT",
+      "status": "SCENARIO_ONLY_UNTIL_ARCHIVED_INPUTS_EXIST",
+      "definition": "Condition opportunity on supplied current chart roles with explicit assumed availability/workload, preserving homegrown skills"
+    },
+    {
+      "name": "D_DEVELOPMENT",
+      "status": "LATER_SEPARATE_EXPERIMENT",
+      "definition": "Component-specific age/experience adjustment; never jointly fitted with first opportunity test"
+    }
+  ],
+  "chronology": {
+    "player_history": "Trailing four completed seasons for first test, matching baseline; latest-season and late-season role changes exposed explicitly. Any three-season variant is another prespecified arm, not a silent replacement.",
+    "scoring_origins": [
+      2023,
+      2024,
+      2025
+    ],
+    "fit": "Strictly earlier training targets than each origin, maximum 2025; at least three supported scoring folds, no hyperparameter/feature search on their errors",
+    "cutoff": "For November-26 forecasts, use prior-season data and role/evidence available by previous November 26; source-vintage limitations disclosed. Spring forecasts require a separate cutoff protocol.",
+    "year_2026": "Only 2027 player-history/source audit after method/model freeze; no 2026 forecast errors for selection"
+  },
+  "hitter": {
+    "states": [
+      "everyday",
+      "platoon_or_partial",
+      "bench_or_depth",
+      "no_MLB_appearance"
+    ],
+    "equation": "E[PA] = P(appearance) \u00d7 sum_role P(role | appearance, prior information) \u00d7 E[G \u00d7 PA_per_G | role, appearance, prior information]. Model joint state/usage dependence; do not multiply unrelated marginal averages.",
+    "inputs": "Prior observed workload, missing flags, late-season starting share and lineup slot after adapter validation, latest role transitions, position, disjoint minor workload, certified appearance history; age/experience only after audit",
+    "zero_rule": "Unknown participation is not zero; certify target cohort before training appearance model",
+    "not_ready": "No calibrated everyday/platoon classifier until historical game-start labels are validated"
+  },
+  "pitcher": {
+    "states": [
+      "rotation",
+      "mixed_or_swing",
+      "relief",
+      "no_MLB_appearance"
+    ],
+    "equation": "E[IP] = P(appearance) \u00d7 sum_role P(role | appearance, prior information) \u00d7 E[GS\u00d7IP_per_start + GR\u00d7IP_per_relief | role, appearance, prior information]. GS, GR and outing lengths are conditional joint quantities.",
+    "inputs": "Latest and late-season role, G/GS, reconstructed start/relief outs, recency and prior peaks of disjoint MLB/minor workloads, missingness and certified participation; chart inputs only in separate chart arm",
+    "capacity": "Empirical workload evidence and uncertainty, not automatic annual increases or an unvalidated universal IP cap. Injury risk is not inferred from a zero-season label.",
+    "no_mixed_split_shortcut": true
+  },
+  "estimation": {
+    "status": "Architecture specified; estimator settings must be frozen in an implementation contract before any scoring",
+    "first_candidate": "Shrunk empirical state-transition probabilities plus conditional workload distributions estimated on earlier role/usage cohorts; back off to broader cohorts only when prespecified support is met, otherwise baseline fallback",
+    "distinction_from_rejected": "Prior structured logistic/ridge starts-and-innings experiment remains rejected. New evidence is the validated recent role-state sequence and optional archived external role context, not a renamed reuse of its fit or coefficients.",
+    "training_support": "Document class, cohort and conditional-outing counts before fitting. Retain prior workload support minima as floors where applicable; define any state-specific additional minima before scoring. No ad hoc sparse-state merges after viewing errors.",
+    "model_uncertainty": "If calibrated probabilities are unavailable, publish conditional scenarios without scenario probabilities or advertised confidence intervals"
+  },
+  "team_constraints": "For chart scenarios reconcile all player opportunity jointly to a declared team schedule, batting-order shares and pitching outs. Preserve replacement/depth residuals explicitly; do not give each starter a full season independently. Do not impose 1458 IP/team as an exact rule: actual team outs vary with home losses and extras.",
+  "coherence": "Freeze supported homegrown skill components. Recompute AB and hit components/BB/HBP/SF/SH from coherent PA ratios; derive AVG/OBP/SLG/OPS. Pitcher counts use OUTS-based rates; derive IP/ERA/WHIP. GS/GR/G come from role model, not IP scaling. R/RBI/W/QS/SV/HLD require separately specified team/role rules or remain unavailable in scenario outputs; no assumed validated fantasy totals.",
+  "guards": "Use unchanged existing workload gate and complete-projection/cohort safeguards, plus prior role/freshness protections. No automatic promotion; review largest player changes and coverage before adoption.",
+  "fallback": "Unsupported identity, missing source role, sparse state, missing rate denominator or failed role gate retains full baseline vector in adopted output; exploratory scenarios remain separate. No baseline skill for a prospect/international arrival means no synthetic translated line.",
+  "implementation_sequence": [
+    "Reconcile game-level labels and historical cohorts",
+    "Certify missing hitter nonappearance labels",
+    "Freeze executable usage-transition contract and support thresholds",
+    "Run earlier-only B versus A",
+    "Publish current C conditional scenarios separately if assumptions are explicitly registered",
+    "Acquire dated charts before historical C validation",
+    "Later test D development with DOB/age/experience audit",
+    "Review complete lines and exceptions before any adoption"
+  ]
+}

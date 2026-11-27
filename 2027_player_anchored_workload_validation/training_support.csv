@@ -1,0 +1,7 @@
+﻿origin,role,max_training_target,training_rows,global_support,support_reasons,supported_pools,root_state_counts
+2023,hitter,2022,3640,True,,9,"{""NO_PA"": 2007, ""REGULAR_STARTER"": 991, ""LIMITED_OR_BENCH"": 326, ""PART_TIME_STARTER"": 316}"
+2023,pitcher,2022,4143,True,,10,"{""NO_PITCHING_APPEARANCE"": 2187, ""RELIEF"": 857, ""ROTATION"": 429, ""SWING_OR_LIMITED"": 670}"
+2024,hitter,2023,4850,True,,9,"{""NO_PA"": 2675, ""REGULAR_STARTER"": 1357, ""LIMITED_OR_BENCH"": 397, ""PART_TIME_STARTER"": 421}"
+2024,pitcher,2023,5596,True,,11,"{""NO_PITCHING_APPEARANCE"": 2972, ""RELIEF"": 1137, ""ROTATION"": 575, ""SWING_OR_LIMITED"": 912}"
+2025,hitter,2024,6028,True,,10,"{""NO_PA"": 3313, ""REGULAR_STARTER"": 1719, ""LIMITED_OR_BENCH"": 478, ""PART_TIME_STARTER"": 518}"
+2025,pitcher,2024,7078,True,,13,"{""NO_PITCHING_APPEARANCE"": 3781, ""RELIEF"": 1438, ""ROTATION"": 733, ""SWING_OR_LIMITED"": 1126}"

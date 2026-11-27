@@ -1,0 +1,3 @@
+﻿role,players,eligible_features,role_gate_pass,mean_objective_MSE_ratio,production_adopted
+hitter,1024,852,False,0.9926797150080828,False
+pitcher,1487,1149,False,0.9973259247862482,False

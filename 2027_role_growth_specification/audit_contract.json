@@ -1,0 +1,14 @@
+{
+  "as_of": "2026-11-26",
+  "scope": "Specification and bounded historical-data inventory only",
+  "no_model_fit": true,
+  "no_forecast_changes": true,
+  "no_2026_forecast_errors": true,
+  "search_roots": [
+    "D:\\JonAPythonClass\\pycharm\\research",
+    "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\data",
+    "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs"
+  ],
+  "limits": "Source availability and existing certification reviewed; sampled game schemas are not a new full boxscore audit. No claim to have searched all disks, remote archives or every prior chat.",
+  "working_baseline": "2027 v1.43, history 2023\u20132026, selection frozen through 2025"
+}

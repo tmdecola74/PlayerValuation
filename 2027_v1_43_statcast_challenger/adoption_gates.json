@@ -1,0 +1,51 @@
+[
+  {
+    "origin": 2026,
+    "role": "hitter",
+    "experiment": "SKILL",
+    "eligible": false,
+    "reasons": [
+      "INSUFFICIENT_EARLIER_FOLDS",
+      "RECENT_GUARD"
+    ],
+    "selected_for_research": "weighted_actuals",
+    "years": [
+      2025
+    ],
+    "mean_mse_ratio": 0.9860766801287892,
+    "default_changed": false,
+    "comparison": "STATCAST_RESEARCH_vs_V1_43",
+    "internal_guard_aliases": {
+      "weighted_actuals": "V1_43",
+      "skill_regression": "STATCAST_RESEARCH"
+    },
+    "production_source_2026_review_passed": false,
+    "adoptable_for_2027": false,
+    "release_reason": "INSUFFICIENT_EARLIER_FOLDS;RECENT_GUARD;2026_STATCAST_EVENT_SCOPE_PENDING"
+  },
+  {
+    "origin": 2026,
+    "role": "pitcher",
+    "experiment": "SKILL",
+    "eligible": false,
+    "reasons": [
+      "INSUFFICIENT_EARLIER_FOLDS",
+      "NO_ONE_PERCENT_MSE_IMPROVEMENT",
+      "RECENT_GUARD"
+    ],
+    "selected_for_research": "weighted_actuals",
+    "years": [
+      2025
+    ],
+    "mean_mse_ratio": 0.9974834224630487,
+    "default_changed": false,
+    "comparison": "STATCAST_RESEARCH_vs_V1_43",
+    "internal_guard_aliases": {
+      "weighted_actuals": "V1_43",
+      "skill_regression": "STATCAST_RESEARCH"
+    },
+    "production_source_2026_review_passed": false,
+    "adoptable_for_2027": false,
+    "release_reason": "INSUFFICIENT_EARLIER_FOLDS;NO_ONE_PERCENT_MSE_IMPROVEMENT;RECENT_GUARD;2026_STATCAST_EVENT_SCOPE_PENDING"
+  }
+]

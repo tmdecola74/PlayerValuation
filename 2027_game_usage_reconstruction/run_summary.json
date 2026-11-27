@@ -1,0 +1,31 @@
+{
+  "status": "RECONCILED_WITH_EXPLICIT_EXCEPTIONS",
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "completed_games": 17904,
+  "batting_stat_rows": 395620,
+  "all_MLB_game_team_player_rows": 527198,
+  "pitching_outings": 154798,
+  "label_comparisons": 77749,
+  "remaining_label_mismatches": 3,
+  "lineup_slot_exceptions": 0,
+  "historical_cohort_player_seasons": 10951,
+  "historical_certified_MLB_nonappearances": 4868,
+  "historical_certified_zero_PA_exposure": 6701,
+  "historical_zero_PA_with_MLB_appearance": 1833,
+  "game_files_bound_to_original_hashes": 17904,
+  "source_files_changed": false,
+  "baseline_changed": false,
+  "adoption_guards_changed": false,
+  "models_fitted": false,
+  "forecast_errors_scored": false,
+  "proposed_label_overlay_applied": false
+}

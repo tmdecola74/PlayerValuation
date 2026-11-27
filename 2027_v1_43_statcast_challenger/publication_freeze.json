@@ -1,0 +1,12 @@
+{
+  "selection_max_year": 2025,
+  "models_max_target_year": 2025,
+  "holdout_labels_opened": false,
+  "frozen_files": {
+    "experiment_contract.json": "a929532c97d086ade70efdcd6baed45996736136574ad5174056b5bf450e32fe",
+    "adoption_gates.json": "c0f5c206d6fcfa350b10f688c140e3a248b46df9a1bbef66a46a13252f1334a5",
+    "frozen_models.json": "d5af64e4eabf98f8f14a077bbbc1112661da4ee4a4a6e98a7f4febb7610e6e46"
+  },
+  "approved_role_adjustments": [],
+  "source_2026_event_review_complete": false
+}

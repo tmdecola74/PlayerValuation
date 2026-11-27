@@ -1,0 +1,7 @@
+﻿table,season,records,records_with_raw_Age,records_with_raw_birthDate,not_deduplicated_to_final_eligible_player_rows
+hitter_actuals,2024,651,0,0,True
+hitter_actuals,2025,673,0,0,True
+hitter_actuals,2026,662,0,0,True
+pitcher_actuals,2024,840,0,0,True
+pitcher_actuals,2025,864,0,0,True
+pitcher_actuals,2026,858,0,0,True

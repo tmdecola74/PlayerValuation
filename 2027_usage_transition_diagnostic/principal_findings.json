@@ -1,0 +1,20 @@
+{
+  "conclusion": "The failed challenger replaced different personal workloads with common role-group averages; latest numeric PA/IP was not a predictor. This is not simply excessive weighting of older individual seasons.",
+  "global_pool_backoffs": 0,
+  "full_specific_pool_can_still_erase_individual_variation": true,
+  "example_2024_established_regular_hitters": {
+    "players": 289,
+    "shared_PA": 393.2159835137967,
+    "previous_PA_min": 70.0,
+    "previous_PA_max": 753.0
+  },
+  "hitter_zero_guard_cause": "No original explicit prior PA=0 rows exist in the tested hitter cohort. Certified prior zeros live separately and retain UNKNOWN_RECENT under the unchanged baseline freshness mapping.",
+  "certified_prior_zero_supported_counts_by_fold": {
+    "2023": 522,
+    "2024": 527,
+    "2025": 597
+  },
+  "thresholds_unchanged": true,
+  "failed_test_not_reclassified": true,
+  "new_model_or_hyperparameter_tested": false
+}

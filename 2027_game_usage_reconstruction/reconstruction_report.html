@@ -1,0 +1,63 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><title>Game usage reconstruction</title><style>body{font:16px/1.6 system-ui;max-width:1300px;margin:40px auto;padding:20px;color:#183543}table{border-collapse:collapse;font-size:13px;width:100%}td,th{border:1px solid #cad8e2;padding:9px;text-align:left}th{background:#e2eef5}pre{white-space:pre-wrap}</style><h1>Game usage reconstruction and participation certification</h1><p>Read-only source reconstruction. Working 2027 v1.43 forecasts unchanged.</p><h2>Season checks</h2><div style="overflow:auto"><table><tr><th>season</th><th>complete_games</th><th>all_MLB_appearance_rows</th><th>pitching_outings</th><th>source_label_mismatches</th><th>certified_nonappearances</th><th>certified_zero_PA_exposure</th></tr><tr><td>2019</td><td>2429</td><td>71684</td><td>21429</td><td>0</td><td>737</td><td>903</td></tr><tr><td>2020</td><td>898</td><td>26721</td><td>7959</td><td>0</td><td>802</td><td>1184</td></tr><tr><td>2021</td><td>2429</td><td>71621</td><td>21541</td><td>0</td><td>633</td><td>773</td></tr><tr><td>2022</td><td>2430</td><td>70911</td><td>20878</td><td>0</td><td>668</td><td>1075</td></tr><tr><td>2023</td><td>2430</td><td>71144</td><td>20630</td><td>0</td><td>697</td><td>1013</td></tr><tr><td>2024</td><td>2429</td><td>71272</td><td>20693</td><td>1</td><td>638</td><td>869</td></tr><tr><td>2025</td><td>2430</td><td>71550</td><td>20868</td><td>0</td><td>693</td><td>884</td></tr><tr><td>2026</td><td>2429</td><td>72295</td><td>20800</td><td>2</td><td>490</td><td>502</td></tr></table></div><h2>Files</h2><p><a href="season_usage_totals.csv">Season usage</a> · <a href="last60_team_game_usage.csv">Recent role usage</a> · <a href="hitter_participation_certification.csv">Hitter certificates</a> · <a href="season_label_reconciliation.csv">Source reconciliation</a> · <a href="focused_2027_history_usage.csv">Stewart and Misiorowski history</a></p><h2>Definitions and next build</h2><pre>GAME-LEVEL USAGE RECONSTRUCTION AND HITTER PARTICIPATION CERTIFICATION
+
+{
+  &quot;status&quot;: &quot;RECONCILED_WITH_EXPLICIT_EXCEPTIONS&quot;,
+  &quot;years&quot;: [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  &quot;completed_games&quot;: 17904,
+  &quot;batting_stat_rows&quot;: 395620,
+  &quot;all_MLB_game_team_player_rows&quot;: 527198,
+  &quot;pitching_outings&quot;: 154798,
+  &quot;label_comparisons&quot;: 77749,
+  &quot;remaining_label_mismatches&quot;: 3,
+  &quot;lineup_slot_exceptions&quot;: 0,
+  &quot;historical_cohort_player_seasons&quot;: 10951,
+  &quot;historical_certified_MLB_nonappearances&quot;: 4868,
+  &quot;historical_certified_zero_PA_exposure&quot;: 6701,
+  &quot;historical_zero_PA_with_MLB_appearance&quot;: 1833,
+  &quot;game_files_bound_to_original_hashes&quot;: 17904,
+  &quot;source_files_changed&quot;: false,
+  &quot;baseline_changed&quot;: false,
+  &quot;adoption_guards_changed&quot;: false,
+  &quot;models_fitted&quot;: false,
+  &quot;forecast_errors_scored&quot;: false,
+  &quot;proposed_label_overlay_applied&quot;: false
+}
+
+SCOPE
+All cached completed MLB regular-season games for 2019–2026 were read and hash-bound to the original season certificates. Schedules reconcile to standings team-game counts. Every game validates official pitcher lists/credited appearances and outs, player batting counts to team batting totals, and initial batting-order slots. No new statistics were downloaded and no original label, model, guard or forecast was edited.
+
+GAME DEFINITIONS
+Annual source G counts credited MLB games, including pitching-only games. Batting-only gamesPlayed is a different quantity. Canonical hitter_game_usage files use the union of credited batting and pitching game/team/player records and retain BATTING_G, CREDITED_PITCHING_G and PITCHING_ONLY_G. The original batting-only extraction is preserved in batting_stat_game_usage files. PA and other batting counts are not altered. A pitching-only appearance contributes G but no PA. Zero PA is not proof of no MLB appearance. Starting batting-order code and substitute order are retained separately; final team battingOrder is not treated as the starting lineup.
+
+PITCHER SPLITS
+Each credited outing has gamesStarted 0/1 and observed outs. Seasonal GS+GR=G and START_OUTS+RELIEF_OUTS=OUTS hold exactly. IP is decimal OUTS/3, with original baseball innings notation retained per outing. Zero-out/no-pitch credited appearances remain. Mixed-role innings are split from observed outings rather than season IP divided by GS.
+
+HITTER COHORT AND ZERO CERTIFICATES
+For target Y, freeze exact IDs with positive eligible MLB PA in Y-4 through Y-1. This matches the baseline history window, intentionally including pitchers with prior batting exposure. It is not a complete prospective MLB roster or a prospect-arrival universe. A certified MLB nonappearance requires complete season coverage, no credited MLB appearance and no conflicting eligible source label. Zero-PA exposure is certified separately for players who pitched or otherwise appeared without PA. Proposed overlays are separate and are NOT applied to baseline/training labels. Future model design must distinguish primary hitter opportunity from secondary pitcher batting records, without silently changing the registered comparison sample.
+
+HISTORICAL VERSUS 2027 HISTORY
+2019–2025 tables are historical adapter/certification evidence. The 2026 season is published in separate quarantine/history tables for 2027 inputs only. No 2026 forecast errors were calculated or used. Last60 features use the last60 completed games of each source team, retain trades/game identities and store source season; they become predictors only for later target years. Actual target-year roles, availability or workloads must never become preseason features.
+
+LIMITATIONS
+Retrospective source vintages remain. Games/starts/lineup position are observed usage, not evidence of health or a guaranteed future roster role. Historical preseason depth charts are still required for chart-dependent validation. This reconstruction does not fit a workload model or demonstrate adoption improvement. Remaining source discrepancies, if any, are explicit and quarantined; no target count is silently repaired.
+
+NEXT BUILD
+After reviewing remaining exceptions and the appearance-versus-positive-PA label definition, register the executable usage-transition model and support/fallback rules before historical scoring. Keep the current baseline and rejected workload/Statcast methods unchanged.
+</pre><h2>Independent verification and exceptions</h2><pre>
+
+INDEPENDENT CHECKS AND EXCEPTION DISPOSITION
+All eight seasons passed an independent check of unique game/team/player keys, exactly nine credited initial batting-order starters per team/game, valid appearance flags and exact pitching outing partitions. Josh Walker&#x27;s credited zero-out appearance is preserved. Danny Jansen&#x27;s 2024 game 746942 contains separate Toronto and Boston records; both are retained. The frozen annual source still reports 94 G versus 92 reconstructed G, so his 2024 hitter usage remains quarantined. No unsupported correction is applied.
+
+The two 2026 PA differences are localized to Ryan Jeffers in game 823732 (April 3) and Sean Keys in game 824784 (September 23). Each official boxscore reports 4 PA while AB/BB/HBP/SF/SH/CI account for 3. The original season labels match the smaller annual tally. Archived event traces are supplied as evidence, but no unverified cause or substitute PA is assigned. These player-seasons remain quarantined from the new usage inputs; 2026 is history-only, never a scoring target.
+
+Annual and last60 files carry source_reconciliation_status. historical_source_reconciled_season_usage.csv excludes the one unresolved historical player-season. It is a source-reconciled dataset, not authorization to fit or change the comparison sample silently. The next model contract must explicitly define shared supported memberships, role-state labels, secondary pitcher batting treatment and fallbacks before scoring.
+</pre></html>

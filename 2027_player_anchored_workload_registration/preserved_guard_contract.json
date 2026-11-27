@@ -1,0 +1,51 @@
+{
+  "core": {
+    "version": "1.42.0",
+    "origins": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "weights": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "skill_prior_exposure": {
+      "hitter_AB": 200,
+      "pitcher_OUTS": 300
+    },
+    "minimum_population_exposure": 10000,
+    "workload_group_prior_players": 50,
+    "minimum_selection_folds": 3,
+    "minimum_rows_per_fold": 30,
+    "minimum_improvement": 0.01,
+    "maximum_individual_metric_degradation": 0.02,
+    "maximum_recent_degradation": 0.02,
+    "maximum_low_history_degradation": 0.02,
+    "minimum_cohort_rows": 15,
+    "final_selection_max_season": 2025,
+    "include_2020_2021": true,
+    "default_skill": "weighted_actuals",
+    "default_workload": "accepted_ip",
+    "automatic_promotion": false,
+    "valuation_enabled": false
+  },
+  "legacy_workload": {
+    "minimum_supported_years": 3,
+    "minimum_rows_per_fold": 30,
+    "mean_IP_MSE_ratio_max": 0.99,
+    "each_metric_mean_ratio_max": 1.02,
+    "last_two_year_each_IP_ratio_max": 1.02,
+    "low_history_mean_IP_ratio_max": 1.02,
+    "minimum_subgroup_rows": 15,
+    "additional_prior_role_and_freshness_IP_guards_max": 1.02,
+    "additional_G_GS_mean_MSE_guard_max": 1.02,
+    "minor_increment_mean_IP_ratio_max": 0.99
+  }
+}

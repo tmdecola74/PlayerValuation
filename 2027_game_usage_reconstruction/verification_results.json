@@ -1,0 +1,23 @@
+{
+  "all_game_sources_hash_bound_to_original_certificates": true,
+  "all_schedule_and_standings_scopes_verified": true,
+  "no_source_positive_player_silently_missing": true,
+  "unique_game_team_player_keys": true,
+  "pitcher_start_relief_partitions_exact": true,
+  "frozen_hitter_cohort_keys": 12003,
+  "all_source_label_comparisons": 77749,
+  "remaining_mismatches": 3,
+  "protected_non_game_files_reverified": true,
+  "baseline_changed": false,
+  "models_fitted": false,
+  "forecast_errors_scored": false,
+  "certified_zeros_not_written_into_original_labels": true,
+  "independent_season_structural_checks_passed": 8,
+  "all_game_team_starting_orders_have_exactly_nine_credited_starters": true,
+  "known_no_pitch_and_same_game_two_team_edge_cases_preserved": true,
+  "cohort_membership_exactly_preserved": true,
+  "certified_zeros_require_reconciled_usage": true,
+  "unresolved_player_seasons_explicitly_quarantined": 3,
+  "historical_unresolved_player_seasons": 1,
+  "future_2026_unresolved_player_seasons": 2
+}

@@ -1,0 +1,16 @@
+{
+  "unique_player_role_keys": 2511,
+  "all_2027_forecasts_independently_replayed": true,
+  "published_2026_and_2027_snapshots_match_sources": true,
+  "material_change_explanations": 334,
+  "count_decompositions_reconciled": 26222,
+  "consistency_checks": 61273,
+  "consistency_failures": 0,
+  "undefined_zero_AB_secondary_batting_records": 1,
+  "protected_input_files_verified": 28,
+  "source_files_changed": false,
+  "forecast_values_changed": false,
+  "adoption_guards_changed": false,
+  "Statcast_role_gates_still_failed": true,
+  "model_selection_performed": false
+}

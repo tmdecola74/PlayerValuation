@@ -1,0 +1,19 @@
+{
+  "original_registered_files_unchanged": true,
+  "source_hashes_verified": 37,
+  "all_origin_training_targets_strictly_earlier": true,
+  "panel_target_maximum": 2025,
+  "fitted_target_maximum": 2024,
+  "baseline_fields_exactly_replayed": 151504,
+  "all_scoring_memberships_frozen_before_errors": true,
+  "paired_memberships_identical": true,
+  "full_cohort_fallbacks_retained": true,
+  "no_hyperparameter_changes": true,
+  "no_2026_errors": true,
+  "no_forecast_changes": true,
+  "independent_workload_values_recomputed": 17136,
+  "independent_fallback_metric_checks": 783,
+  "independent_aggregate_error_checks": 162,
+  "independent_training_cutoff_checks": true,
+  "conditional_complete_count_build_triggered": false
+}

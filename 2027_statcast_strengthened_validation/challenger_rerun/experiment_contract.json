@@ -1,0 +1,83 @@
+{
+  "version": "2027_V1_43_STATCAST_BB_EXTENDED_0.2",
+  "status": "SEPARATE_RESEARCH_NOT_PRODUCTION",
+  "registered_before_loading_or_scoring": true,
+  "baseline": "Exact v1.43 skill-regressed 2027 release; player history 2023\u20132026, fixed population priors through 2025",
+  "features": [
+    "gb_rate",
+    "ld_rate",
+    "fb_rate"
+  ],
+  "feature_definition": "Official exported fraction of all BBE; BBE>=30 and existing v1.21 masks. Historical rows must additionally pass v1.22 RESEARCH_ELIGIBLE_RECONCILED_DEFINITION. No archive proxy substitution.",
+  "excluded_feature_families": "direction/pull-air, EV, bat tracking, baserunning, pitch arsenal and other unresolved or short-history families are audited but not predictors",
+  "targets": {
+    "hitter": [
+      "1B",
+      "2B",
+      "3B"
+    ],
+    "pitcher": [
+      "SO",
+      "BB"
+    ]
+  },
+  "feature_pooling": "Within prior four source years, BBE x 1:2:3:4 exposure weighting; all three metrics from a complete compatible source season; unknown not zero.",
+  "training": "Identical residual model with newly supported training targets 2022\u20132025; each fit uses targets strictly earlier than origin, none from 2026.",
+  "model": "Single fixed ridge per role, penalty 20, intercept unpenalized; earlier training-weighted standardization, z clipped [-4,4], sample weights=min(target denominator,600) normalized to mean 1; minimum100 training players/seasons. No hyperparameter or feature search.",
+  "application": "Half predicted residual x frozen forecast denominator, capped to plus/minus half baseline count. Hitters adjust 1B/2B/3B while holding HR fixed and respecting AB; pitchers adjust SO/BB and recompute WHIP.",
+  "anchors": "PA/AB/IP/OUTS, HR, pitcher H/ER/ERA/W/SV/HLD/G/GS/QS and hitter R/RBI/SB/BB/HBP/SF/SH unchanged; no workload, minor, park or international changes",
+  "guards": {
+    "version": "1.42.0",
+    "origins": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "weights": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "skill_prior_exposure": {
+      "hitter_AB": 200,
+      "pitcher_OUTS": 300
+    },
+    "minimum_population_exposure": 10000,
+    "workload_group_prior_players": 50,
+    "minimum_selection_folds": 3,
+    "minimum_rows_per_fold": 30,
+    "minimum_improvement": 0.01,
+    "maximum_individual_metric_degradation": 0.02,
+    "maximum_recent_degradation": 0.02,
+    "maximum_low_history_degradation": 0.02,
+    "minimum_cohort_rows": 15,
+    "final_selection_max_season": 2025,
+    "include_2020_2021": true,
+    "default_skill": "weighted_actuals",
+    "default_workload": "accepted_ip",
+    "automatic_promotion": false,
+    "valuation_enabled": false
+  },
+  "guard_comparator": "V1_43 versus STATCAST_RESEARCH using original phase.gate math; internal aliases weighted_actuals/skill_regression map to those arms only for executing unchanged guard code",
+  "historical_scoring": "2023,2024,2025 forecast folds; first training target2022 uses2021 compatible archived observations.",
+  "release_policy": "Publish replayed baseline, exploratory candidate, adoption-gated candidate and long differences. Failed role gates or missing inputs retain entire baseline vector. Exploratory values never silently replace production.",
+  "2026_MLB_targets_fit_or_score": false,
+  "2026_data_usage": "2027 player history/input audit only; frozen decision and model hashes written before opening holdout labels",
+  "Steamer_read": false,
+  "production_changes": false,
+  "limitations": [
+    "Retrospective source vintages",
+    "At most one independent earlier-supported scoring origin with supplied official definitions",
+    "No new MLB opportunity for minor/international-only players",
+    "Metric eligibility differs and missing features are explicit",
+    "No inference that a CSV family existing means its scope is validated"
+  ],
+  "source_2026_quality": "Every admitted 2026 export bundle must match hash-verified full-season archived categorical counts and all-BBE denominator; mismatches excluded rather than repaired.",
+  "permitted_changes": "Input source history extension and audit-based source exclusions only; predictor names/targets/ridge/scaling/pooling/damping/caps/priors/guards unchanged.",
+  "publication": "Role gates establish statistical eligibility only; review largest player changes before considering production adoption. Working baseline stays immutable."
+}

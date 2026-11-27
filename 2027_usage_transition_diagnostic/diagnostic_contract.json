@@ -1,0 +1,14 @@
+{
+  "task": "Diagnostic review of fixed failed challenger only",
+  "selection_errors_allowed": [
+    2023,
+    2024,
+    2025
+  ],
+  "future_2026": "Never score; prior published2027 illustrative history only in separate appendix",
+  "groups": "Pre-origin descriptive proxies; no change to original comparison memberships or guards",
+  "pool_counterfactuals": "Root/latest/selected node arithmetic only, never new forecast-error or adoption tests",
+  "model_fits": 0,
+  "new_forecasts": false,
+  "threshold_changes": false
+}

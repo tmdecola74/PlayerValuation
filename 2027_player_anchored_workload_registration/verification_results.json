@@ -1,0 +1,16 @@
+{
+  "source_hashes_verified": 24,
+  "registered_files_unchanged": true,
+  "no_historical_fit": true,
+  "no_historical_error_score": true,
+  "no_2026_error": true,
+  "no_new_candidate_forecast": true,
+  "all_residual_identities_checked": true,
+  "original_membership_and_eligibility_preserved": true,
+  "baseline_numeric_history_unchanged": true,
+  "guard_thresholds_unchanged": true,
+  "independent_signed_vector_reconciliations": 17905,
+  "shared_ledger_unique_keys_verified": true,
+  "exact_latest_anchor_year_verified": true,
+  "prepared_data_hashes_frozen": true
+}

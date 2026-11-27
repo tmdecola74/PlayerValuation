@@ -1,0 +1,193 @@
+{
+  "status": "REVIEW_REQUIRED",
+  "seasons": [
+    {
+      "season": 2019,
+      "scheduled_completed_games": 2429,
+      "verified_games": 2429,
+      "team_batting_sums_verified": 4858,
+      "full_scope_verified": true,
+      "lineup_slot_exceptions": 0,
+      "hitter_usage_rows": 61095,
+      "pitcher_usage_rows": 21429,
+      "hitter_players": 1287,
+      "pitcher_players": 831,
+      "hitter_source_usage_mismatches": 307,
+      "pitcher_source_usage_mismatches": 0,
+      "source_positive_hitters_missing": 0,
+      "source_positive_pitchers_missing": 0,
+      "cohort_players": 1688,
+      "hitter_status_counts": {
+        "VERIFIED_NO_APPEARANCE": 784,
+        "APPEARANCE_VERIFIED_USAGE_RECONCILIATION_PENDING": 233,
+        "VERIFIED_APPEARED": 671
+      },
+      "usage": "HISTORICAL_ADAPTER_ONLY"
+    },
+    {
+      "season": 2020,
+      "scheduled_completed_games": 898,
+      "verified_games": 898,
+      "team_batting_sums_verified": 1796,
+      "full_scope_verified": true,
+      "lineup_slot_exceptions": 0,
+      "hitter_usage_rows": 18821,
+      "pitcher_usage_rows": 7959,
+      "hitter_players": 620,
+      "pitcher_players": 735,
+      "hitter_source_usage_mismatches": 17,
+      "pitcher_source_usage_mismatches": 0,
+      "source_positive_hitters_missing": 0,
+      "source_positive_pitchers_missing": 0,
+      "cohort_players": 1688,
+      "hitter_status_counts": {
+        "VERIFIED_NO_APPEARANCE": 1161,
+        "VERIFIED_APPEARED": 511,
+        "APPEARANCE_VERIFIED_USAGE_RECONCILIATION_PENDING": 16
+      },
+      "usage": "HISTORICAL_ADAPTER_ONLY"
+    },
+    {
+      "season": 2021,
+      "scheduled_completed_games": 2429,
+      "verified_games": 2429,
+      "team_batting_sums_verified": 4858,
+      "full_scope_verified": true,
+      "lineup_slot_exceptions": 0,
+      "hitter_usage_rows": 61317,
+      "pitcher_usage_rows": 21541,
+      "hitter_players": 1374,
+      "pitcher_players": 909,
+      "hitter_source_usage_mismatches": 316,
+      "pitcher_source_usage_mismatches": 0,
+      "source_positive_hitters_missing": 0,
+      "source_positive_pitchers_missing": 0,
+      "cohort_players": 1553,
+      "hitter_status_counts": {
+        "VERIFIED_NO_APPEARANCE": 665,
+        "VERIFIED_APPEARED": 680,
+        "APPEARANCE_VERIFIED_USAGE_RECONCILIATION_PENDING": 208
+      },
+      "usage": "HISTORICAL_ADAPTER_ONLY"
+    },
+    {
+      "season": 2022,
+      "scheduled_completed_games": 2430,
+      "verified_games": 2430,
+      "team_batting_sums_verified": 4860,
+      "full_scope_verified": true,
+      "lineup_slot_exceptions": 0,
+      "hitter_usage_rows": 50290,
+      "pitcher_usage_rows": 20878,
+      "hitter_players": 794,
+      "pitcher_players": 871,
+      "hitter_source_usage_mismatches": 37,
+      "pitcher_source_usage_mismatches": 0,
+      "source_positive_hitters_missing": 0,
+      "source_positive_pitchers_missing": 0,
+      "cohort_players": 1606,
+      "hitter_status_counts": {
+        "VERIFIED_NO_APPEARANCE": 1028,
+        "VERIFIED_APPEARED": 546,
+        "APPEARANCE_VERIFIED_USAGE_RECONCILIATION_PENDING": 32
+      },
+      "usage": "HISTORICAL_ADAPTER_ONLY"
+    },
+    {
+      "season": 2023,
+      "scheduled_completed_games": 2430,
+      "verified_games": 2430,
+      "team_batting_sums_verified": 4860,
+      "full_scope_verified": true,
+      "lineup_slot_exceptions": 0,
+      "hitter_usage_rows": 50754,
+      "pitcher_usage_rows": 20630,
+      "hitter_players": 769,
+      "pitcher_players": 863,
+      "hitter_source_usage_mismatches": 38,
+      "pitcher_source_usage_mismatches": 0,
+      "source_positive_hitters_missing": 0,
+      "source_positive_pitchers_missing": 0,
+      "cohort_players": 1557,
+      "hitter_status_counts": {
+        "VERIFIED_NO_APPEARANCE": 974,
+        "VERIFIED_APPEARED": 548,
+        "APPEARANCE_VERIFIED_USAGE_RECONCILIATION_PENDING": 35
+      },
+      "usage": "HISTORICAL_ADAPTER_ONLY"
+    },
+    {
+      "season": 2024,
+      "scheduled_completed_games": 2429,
+      "verified_games": 2429,
+      "team_batting_sums_verified": 4858,
+      "full_scope_verified": true,
+      "lineup_slot_exceptions": 0,
+      "hitter_usage_rows": 50748,
+      "pitcher_usage_rows": 20693,
+      "hitter_players": 742,
+      "pitcher_players": 855,
+      "hitter_source_usage_mismatches": 25,
+      "pitcher_source_usage_mismatches": 0,
+      "source_positive_hitters_missing": 0,
+      "source_positive_pitchers_missing": 0,
+      "cohort_players": 1411,
+      "hitter_status_counts": {
+        "VERIFIED_NO_APPEARANCE": 842,
+        "VERIFIED_APPEARED": 545,
+        "APPEARANCE_VERIFIED_USAGE_RECONCILIATION_PENDING": 24
+      },
+      "usage": "HISTORICAL_ADAPTER_ONLY"
+    },
+    {
+      "season": 2025,
+      "scheduled_completed_games": 2430,
+      "verified_games": 2430,
+      "team_batting_sums_verified": 4860,
+      "full_scope_verified": true,
+      "lineup_slot_exceptions": 0,
+      "hitter_usage_rows": 50887,
+      "pitcher_usage_rows": 20868,
+      "hitter_players": 765,
+      "pitcher_players": 873,
+      "hitter_source_usage_mismatches": 44,
+      "pitcher_source_usage_mismatches": 0,
+      "source_positive_hitters_missing": 0,
+      "source_positive_pitchers_missing": 0,
+      "cohort_players": 1448,
+      "hitter_status_counts": {
+        "VERIFIED_NO_APPEARANCE": 866,
+        "VERIFIED_APPEARED": 543,
+        "APPEARANCE_VERIFIED_USAGE_RECONCILIATION_PENDING": 39
+      },
+      "usage": "HISTORICAL_ADAPTER_ONLY"
+    },
+    {
+      "season": 2026,
+      "scheduled_completed_games": 2429,
+      "verified_games": 2429,
+      "team_batting_sums_verified": 4858,
+      "full_scope_verified": true,
+      "lineup_slot_exceptions": 0,
+      "hitter_usage_rows": 51708,
+      "pitcher_usage_rows": 20800,
+      "hitter_players": 751,
+      "pitcher_players": 868,
+      "hitter_source_usage_mismatches": 40,
+      "pitcher_source_usage_mismatches": 0,
+      "source_positive_hitters_missing": 0,
+      "source_positive_pitchers_missing": 0,
+      "cohort_players": 1052,
+      "hitter_status_counts": {
+        "VERIFIED_NO_APPEARANCE": 500,
+        "VERIFIED_APPEARED": 517,
+        "APPEARANCE_VERIFIED_USAGE_RECONCILIATION_PENDING": 35
+      },
+      "usage": "2027_HISTORY_ONLY"
+    }
+  ],
+  "issue_counts": {},
+  "models_fitted": false,
+  "forecast_errors_scored": false,
+  "baseline_changed": false
+}

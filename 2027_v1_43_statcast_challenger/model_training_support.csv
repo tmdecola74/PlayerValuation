@@ -1,0 +1,7 @@
+﻿origin,role,n,training_years,max_target_year,model_supported
+2024,hitter,0,,,False
+2024,pitcher,0,,,False
+2025,hitter,456,2024,2024,True
+2025,pitcher,519,2024,2024,True
+2026,hitter,957,2024;2025,2025,True
+2026,pitcher,1106,2024;2025,2025,True

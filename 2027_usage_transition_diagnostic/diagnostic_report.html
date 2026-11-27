@@ -1,0 +1,232 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><title>Workload failure diagnostic</title><style>body{font:16px/1.6 system-ui;max-width:1450px;margin:40px auto;padding:20px;color:#183543}table{border-collapse:collapse;font-size:13px;width:100%;margin-bottom:20px}td,th{border:1px solid #cad8e2;padding:9px;text-align:left;vertical-align:top}th{background:#e2edf5}pre{white-space:pre-wrap}</style><h1>Why the workload challenger failed</h1><p>Diagnostic only. No model fitted, forecast changed or adoption guard relaxed.</p><h2>Principal findings</h2><pre>PRINCIPAL FINDINGS
+
+The failed challenger did not retain each player&#x27;s numeric recent workload. It assigned a shared workload to everyone in a categorical role pool. In2024, 289 established regular hitters with prior workloads from 70 to 753 PA all received 393.2 PA. The source code and all8,134 supported traces confirm this behavior. None used the global pool: the loss of detail occurred even in the full latest/recent/experience pools.
+
+Among recently active hitters, median probability shrinkage toward a parent was5.8%; among pitchers8.3%. These weights alone do not explain the failure. The absolute conditional workloads were peer averages with no individual PA/IP anchor. Parent conditional-mean borrowing is traced separately; its share is arithmetic, not a causal attribution of error. Large prior workloads can be pulled down while small prior workloads are pushed up. Workload-band tables show both directions; aggregate bias alone hides this compression.
+
+For recently active established/stable hitters, mean fold MSE worsened44.39%; the recent-callup proxy was nearly unchanged (+0.04%), and the role-change proxy worsened15.09%. Recently active pitcher groups worsened2.40%,12.65% and10.67%, respectively. These are descriptive partitions/proxies with sample sizes, not new adoption tests. Returners are reported separately outside the recent-positive subset.
+
+The known-zero hitter guard has a definition mismatch, not an absence of all supporting evidence. Its original freshness label has zero explicit-zero rows in each scoring fold. The separate pre-origin certificate supplies 522, 527 and 597 supported prior-zero-PA cases. All have missing original PA, so unchanged freshness calls them unknown. A later preregistered protocol can align the cohort ledger without changing baseline numbers or15-row/2% thresholds. That is not a retroactive pass: the active-player accuracy failure remains.
+
+Recommend exactly one next experiment: learn workload change around each player&#x27;s own latest reconciled workload instead of replacing it with an absolute group mean. Retain certified nonappearances as negative-change outcomes and do not add a universal growth bonus. Register the joint-vector/feasibility, shared cohort ledger, support and fallback rules before a separate test. This recommendation is informed by already reviewed development errors and is not fresh independent validation. No such model was built or tested here.
+
+Stewart and Misiorowski remain unscored source-history illustrations. Their2025 debuts kept them outside these prior-MLB-history scoring folds. No2027 challenger projection was manufactured and no2026 projection error was calculated.
+
+</pre><h2>Where workload became too high or too low</h2><div style="overflow:auto"><table><tr><th>role</th><th>band</th><th>n</th><th>mean fold MSE change pct</th><th>mean fold baseline bias</th><th>mean fold candidate bias</th><th>candidate over</th><th>candidate under</th></tr><tr><td>hitter</td><td>PA200–399</td><td>459</td><td>13.736303908442714</td><td>38.089568671898846</td><td>86.01751125785836</td><td>305</td><td>154</td></tr><tr><td>hitter</td><td>PA400–599</td><td>413</td><td>-5.97223987747717</td><td>26.41517324340791</td><td>-12.02835432273772</td><td>184</td><td>229</td></tr><tr><td>hitter</td><td>PA&lt;200</td><td>904</td><td>29.323119350864403</td><td>-1.5138354763824247</td><td>75.41166311002577</td><td>698</td><td>206</td></tr><tr><td>hitter</td><td>PA&gt;=600</td><td>211</td><td>166.44461528979755</td><td>-22.664761039054827</td><td>-189.85482496518122</td><td>20</td><td>191</td></tr><tr><td>pitcher</td><td>IP100–149</td><td>202</td><td>-2.674568530698973</td><td>12.420297402543781</td><td>-13.691260882575913</td><td>84</td><td>118</td></tr><tr><td>pitcher</td><td>IP40–99</td><td>828</td><td>0.6883398403763286</td><td>5.322803155437247</td><td>-6.916341082420726</td><td>332</td><td>496</td></tr><tr><td>pitcher</td><td>IP&lt;40</td><td>1366</td><td>10.418781680441636</td><td>1.1689625129517074</td><td>8.931406694933466</td><td>1038</td><td>328</td></tr><tr><td>pitcher</td><td>IP&gt;=150</td><td>191</td><td>20.66154826336579</td><td>16.033235933543004</td><td>-27.325883543277996</td><td>60</td><td>131</td></tr></table></div><p>Positive bias means overprojection; negative bias means underprojection. Bands are descriptive, not candidate settings. Role/group tables and overlapping cohorts do not change original memberships or guards.</p><h2>Recently active players</h2><div style="overflow:auto"><table><tr><th>role</th><th>cohort</th><th>player seasons</th><th>mean fold MSE change pct</th><th>mean fold baseline bias</th><th>mean fold candidate bias</th></tr><tr><td>hitter</td><td>ALL</td><td>1987</td><td>25.46078795540232</td><td>11.606746682206703</td><td>31.549633282114304</td></tr><tr><td>hitter</td><td>ESTABLISHED_STABLE</td><td>1032</td><td>44.38932118858443</td><td>28.39031187067216</td><td>15.082435859583283</td></tr><tr><td>hitter</td><td>OVERLAP_RECENT_CALLUP</td><td>380</td><td>0.04256398021194041</td><td>-69.90002010291865</td><td>11.538469468213492</td></tr><tr><td>hitter</td><td>OVERLAP_ROLE_CHANGE</td><td>643</td><td>12.4738351682681</td><td>22.519527947684967</td><td>63.81577013465545</td></tr><tr><td>hitter</td><td>RECENT_CALLUP_PROXY</td><td>380</td><td>0.04256398021194041</td><td>-69.90002010291865</td><td>11.538469468213492</td></tr><tr><td>hitter</td><td>ROLE_CHANGE_PROXY</td><td>575</td><td>15.088154533140475</td><td>34.04678934750302</td><td>74.98649777977103</td></tr><tr><td>pitcher</td><td>ALL</td><td>2587</td><td>6.149241562773877</td><td>4.4256497110006</td><td>-0.5679241300656342</td></tr><tr><td>pitcher</td><td>ESTABLISHED_STABLE</td><td>1352</td><td>2.4015027772129605</td><td>6.89681701011724</td><td>-1.7451448532084017</td></tr><tr><td>pitcher</td><td>OVERLAP_RECENT_CALLUP</td><td>587</td><td>12.648167052572813</td><td>-3.746660524312381</td><td>5.031981139598278</td></tr><tr><td>pitcher</td><td>OVERLAP_ROLE_CHANGE</td><td>661</td><td>9.502570271065757</td><td>6.875079234294497</td><td>-3.735247875808446</td></tr><tr><td>pitcher</td><td>RECENT_CALLUP_PROXY</td><td>587</td><td>12.648167052572813</td><td>-3.746660524312381</td><td>5.031981139598278</td></tr><tr><td>pitcher</td><td>ROLE_CHANGE_PROXY</td><td>648</td><td>10.66832323105218</td><td>6.63220821479928</td><td>-3.2666811923952923</td></tr></table></div><h2>Returners and other sparse histories</h2><p>Returner/history-absence groups are separate from recently active players. Hitter returner-proxy mean MSE improved86.88%, and pitcher returner-proxy mean MSE improved32.16%. These observable history groups are not verified future returners. Their improvements help explain why the hitter overall average improved despite worse active-player errors. The other sparse/inactive category also includes pre-origin active cases not in an established/callup/change group; do not interpret every member as confirmed absent. Latest-actual medians in the pooling summary use available annual rows; paired change medians use matched records, not differences between marginal medians.</p><table><tr><th>role</th><th>cohort</th><th>player seasons</th><th>mean fold MSE change pct</th><th>mean fold baseline bias</th><th>mean fold candidate bias</th></tr><tr><td>hitter</td><td>OTHER_SPARSE_OR_INACTIVE</td><td>1022</td><td>-96.85681954201421</td><td>33.13578919565652</td><td>4.039271734465985</td></tr><tr><td>hitter</td><td>RETURNER_HISTORY_PROXY</td><td>222</td><td>-86.88028425125792</td><td>234.2234679608373</td><td>-8.00264366845957</td></tr><tr><td>pitcher</td><td>OTHER_SPARSE_OR_INACTIVE</td><td>1026</td><td>5.741471529341302</td><td>0.8041790521847174</td><td>0.5448328982694428</td></tr><tr><td>pitcher</td><td>RETURNER_HISTORY_PROXY</td><td>230</td><td>-32.16308456921526</td><td>21.58001643130154</td><td>-5.400399554721091</td></tr></table><h2>Pooling decisions</h2><div style="overflow:auto"><table><tr><th>role</th><th>scope</th><th>n</th><th>global backoff</th><th>latest state pool</th><th>full specific pool</th><th>median probability parent weight</th><th>median candidate minus latest</th><th>median zero exposure mixture reduction</th></tr><tr><td>hitter</td><td>ALL_SUPPORTED</td><td>3633</td><td>0</td><td>708</td><td>2925</td><td>0.04642525533890436</td><td>29.27576215558856</td><td>89.23234457129814</td></tr><tr><td>hitter</td><td>RECENT_POSITIVE_SUPPORTED</td><td>1987</td><td>0</td><td>708</td><td>1279</td><td>0.05787037037037037</td><td>35.7322718534127</td><td>40.32615330851439</td></tr><tr><td>pitcher</td><td>ALL_SUPPORTED</td><td>4501</td><td>0</td><td>689</td><td>3812</td><td>0.059880239520958084</td><td>-2.3124802368498933</td><td>20.487680156746123</td></tr><tr><td>pitcher</td><td>RECENT_POSITIVE_SUPPORTED</td><td>2587</td><td>0</td><td>689</td><td>1898</td><td>0.08347245409015025</td><td>-2.35286168267611</td><td>17.76893510209326</td></tr></table></div><h2>Hitter known-zero support</h2><div style="overflow:auto"><table><tr><th>origin</th><th>definition</th><th>all cohort rows</th><th>supported rows</th><th>original missing PA labels</th><th>original explicit zero labels</th><th>required minimum per fold</th></tr><tr><td>2023</td><td>ORIGINAL_KNOWN_ZERO</td><td>0</td><td>0</td><td>0</td><td>0</td><td>15</td></tr><tr><td>2023</td><td>PRIOR_ZERO_PA_CERTIFIED</td><td>864</td><td>522</td><td>864</td><td>0</td><td>15</td></tr><tr><td>2023</td><td>PRIOR_NO_MLB_APPEARANCE_CERTIFIED</td><td>487</td><td>487</td><td>487</td><td>0</td><td>15</td></tr><tr><td>2024</td><td>ORIGINAL_KNOWN_ZERO</td><td>0</td><td>0</td><td>0</td><td>0</td><td>15</td></tr><tr><td>2024</td><td>PRIOR_ZERO_PA_CERTIFIED</td><td>755</td><td>527</td><td>755</td><td>0</td><td>15</td></tr><tr><td>2024</td><td>PRIOR_NO_MLB_APPEARANCE_CERTIFIED</td><td>497</td><td>497</td><td>497</td><td>0</td><td>15</td></tr><tr><td>2025</td><td>ORIGINAL_KNOWN_ZERO</td><td>0</td><td>0</td><td>0</td><td>0</td><td>15</td></tr><tr><td>2025</td><td>PRIOR_ZERO_PA_CERTIFIED</td><td>797</td><td>597</td><td>797</td><td>0</td><td>15</td></tr><tr><td>2025</td><td>PRIOR_NO_MLB_APPEARANCE_CERTIFIED</td><td>569</td><td>569</td><td>569</td><td>0</td><td>15</td></tr></table></div><h2>Detailed files</h2><p><a href="error_breakdown_by_fold.csv">Fold/group errors</a> · <a href="player_error_diagnostics.csv">Player-level errors</a> · <a href="pooling_trace_by_player.csv">Pooling trace</a> · <a href="shared_pool_prediction_ranges.csv">Within-pool workload ranges</a> · <a href="hitter_guard_label_crosswalk.csv">Guard-label crosswalk</a> · <a href="one_proposed_experiment.json">One proposed experiment</a></p><h2>Method and limitations</h2><pre>WORKLOAD CHALLENGER FAILURE DIAGNOSTIC
+
+{
+  &quot;status&quot;: &quot;DIAGNOSTIC_ONLY_V1_43_UNCHANGED&quot;,
+  &quot;prediction_records&quot;: 8917,
+  &quot;supported_traces&quot;: 8134,
+  &quot;error_breakdown_rows&quot;: 147,
+  &quot;models_fitted&quot;: 0,
+  &quot;new_candidate_forecasts&quot;: 0,
+  &quot;errors_2026_scored&quot;: false,
+  &quot;prior_guards_or_memberships_changed&quot;: false,
+  &quot;source_files_changed&quot;: false,
+  &quot;pooling_summary&quot;: [
+    {
+      &quot;role&quot;: &quot;hitter&quot;,
+      &quot;scope&quot;: &quot;ALL_SUPPORTED&quot;,
+      &quot;n&quot;: 3633,
+      &quot;global_backoff&quot;: 0,
+      &quot;latest_state_pool&quot;: 708,
+      &quot;full_specific_pool&quot;: 2925,
+      &quot;latest_pool_zero_support_failures&quot;: 0,
+      &quot;specific_pool_zero_support_failures&quot;: 410,
+      &quot;median_probability_parent_weight&quot;: 0.04642525533890436,
+      &quot;median_latest_actual&quot;: 222.5,
+      &quot;median_candidate&quot;: 63.27576215558856,
+      &quot;median_candidate_minus_latest&quot;: 29.27576215558856,
+      &quot;median_active_conditional_workload&quot;: 153.6728393177292,
+      &quot;median_zero_exposure_mixture_reduction&quot;: 89.23234457129814
+    },
+    {
+      &quot;role&quot;: &quot;hitter&quot;,
+      &quot;scope&quot;: &quot;RECENT_POSITIVE_SUPPORTED&quot;,
+      &quot;n&quot;: 1987,
+      &quot;global_backoff&quot;: 0,
+      &quot;latest_state_pool&quot;: 708,
+      &quot;full_specific_pool&quot;: 1279,
+      &quot;latest_pool_zero_support_failures&quot;: 0,
+      &quot;specific_pool_zero_support_failures&quot;: 410,
+      &quot;median_probability_parent_weight&quot;: 0.05787037037037037,
+      &quot;median_latest_actual&quot;: 240.0,
+      &quot;median_candidate&quot;: 356.1176488215933,
+      &quot;median_candidate_minus_latest&quot;: 35.7322718534127,
+      &quot;median_active_conditional_workload&quot;: 396.4438021301077,
+      &quot;median_zero_exposure_mixture_reduction&quot;: 40.32615330851439
+    },
+    {
+      &quot;role&quot;: &quot;pitcher&quot;,
+      &quot;scope&quot;: &quot;ALL_SUPPORTED&quot;,
+      &quot;n&quot;: 4501,
+      &quot;global_backoff&quot;: 0,
+      &quot;latest_state_pool&quot;: 689,
+      &quot;full_specific_pool&quot;: 3812,
+      &quot;latest_pool_zero_support_failures&quot;: 0,
+      &quot;specific_pool_zero_support_failures&quot;: 424,
+      &quot;median_probability_parent_weight&quot;: 0.059880239520958084,
+      &quot;median_latest_actual&quot;: 36.333333333333336,
+      &quot;median_candidate&quot;: 19.25997643776331,
+      &quot;median_candidate_minus_latest&quot;: -2.3124802368498933,
+      &quot;median_active_conditional_workload&quot;: 37.59125580212604,
+      &quot;median_zero_exposure_mixture_reduction&quot;: 20.487680156746123
+    },
+    {
+      &quot;role&quot;: &quot;pitcher&quot;,
+      &quot;scope&quot;: &quot;RECENT_POSITIVE_SUPPORTED&quot;,
+      &quot;n&quot;: 2587,
+      &quot;global_backoff&quot;: 0,
+      &quot;latest_state_pool&quot;: 689,
+      &quot;full_specific_pool&quot;: 1898,
+      &quot;latest_pool_zero_support_failures&quot;: 0,
+      &quot;specific_pool_zero_support_failures&quot;: 424,
+      &quot;median_probability_parent_weight&quot;: 0.08347245409015025,
+      &quot;median_latest_actual&quot;: 36.333333333333336,
+      &quot;median_candidate&quot;: 29.363483716611352,
+      &quot;median_candidate_minus_latest&quot;: -2.35286168267611,
+      &quot;median_active_conditional_workload&quot;: 44.92848670861134,
+      &quot;median_zero_exposure_mixture_reduction&quot;: 17.76893510209326
+    }
+  ],
+  &quot;subgroup_support&quot;: [
+    {
+      &quot;origin&quot;: 2023,
+      &quot;definition&quot;: &quot;ORIGINAL_KNOWN_ZERO&quot;,
+      &quot;all_cohort_rows&quot;: 0,
+      &quot;supported_rows&quot;: 0,
+      &quot;fallback_rows&quot;: 0,
+      &quot;original_missing_PA_labels&quot;: 0,
+      &quot;original_explicit_zero_labels&quot;: 0,
+      &quot;required_minimum_per_fold&quot;: 15,
+      &quot;sample_support_if_this_definition_used&quot;: false,
+      &quot;used_for_new_guard_test&quot;: false
+    },
+    {
+      &quot;origin&quot;: 2023,
+      &quot;definition&quot;: &quot;PRIOR_ZERO_PA_CERTIFIED&quot;,
+      &quot;all_cohort_rows&quot;: 864,
+      &quot;supported_rows&quot;: 522,
+      &quot;fallback_rows&quot;: 342,
+      &quot;original_missing_PA_labels&quot;: 864,
+      &quot;original_explicit_zero_labels&quot;: 0,
+      &quot;required_minimum_per_fold&quot;: 15,
+      &quot;sample_support_if_this_definition_used&quot;: true,
+      &quot;used_for_new_guard_test&quot;: false
+    },
+    {
+      &quot;origin&quot;: 2023,
+      &quot;definition&quot;: &quot;PRIOR_NO_MLB_APPEARANCE_CERTIFIED&quot;,
+      &quot;all_cohort_rows&quot;: 487,
+      &quot;supported_rows&quot;: 487,
+      &quot;fallback_rows&quot;: 0,
+      &quot;original_missing_PA_labels&quot;: 487,
+      &quot;original_explicit_zero_labels&quot;: 0,
+      &quot;required_minimum_per_fold&quot;: 15,
+      &quot;sample_support_if_this_definition_used&quot;: true,
+      &quot;used_for_new_guard_test&quot;: false
+    },
+    {
+      &quot;origin&quot;: 2024,
+      &quot;definition&quot;: &quot;ORIGINAL_KNOWN_ZERO&quot;,
+      &quot;all_cohort_rows&quot;: 0,
+      &quot;supported_rows&quot;: 0,
+      &quot;fallback_rows&quot;: 0,
+      &quot;original_missing_PA_labels&quot;: 0,
+      &quot;original_explicit_zero_labels&quot;: 0,
+      &quot;required_minimum_per_fold&quot;: 15,
+      &quot;sample_support_if_this_definition_used&quot;: false,
+      &quot;used_for_new_guard_test&quot;: false
+    },
+    {
+      &quot;origin&quot;: 2024,
+      &quot;definition&quot;: &quot;PRIOR_ZERO_PA_CERTIFIED&quot;,
+      &quot;all_cohort_rows&quot;: 755,
+      &quot;supported_rows&quot;: 527,
+      &quot;fallback_rows&quot;: 228,
+      &quot;original_missing_PA_labels&quot;: 755,
+      &quot;original_explicit_zero_labels&quot;: 0,
+      &quot;required_minimum_per_fold&quot;: 15,
+      &quot;sample_support_if_this_definition_used&quot;: true,
+      &quot;used_for_new_guard_test&quot;: false
+    },
+    {
+      &quot;origin&quot;: 2024,
+      &quot;definition&quot;: &quot;PRIOR_NO_MLB_APPEARANCE_CERTIFIED&quot;,
+      &quot;all_cohort_rows&quot;: 497,
+      &quot;supported_rows&quot;: 497,
+      &quot;fallback_rows&quot;: 0,
+      &quot;original_missing_PA_labels&quot;: 497,
+      &quot;original_explicit_zero_labels&quot;: 0,
+      &quot;required_minimum_per_fold&quot;: 15,
+      &quot;sample_support_if_this_definition_used&quot;: true,
+      &quot;used_for_new_guard_test&quot;: false
+    },
+    {
+      &quot;origin&quot;: 2025,
+      &quot;definition&quot;: &quot;ORIGINAL_KNOWN_ZERO&quot;,
+      &quot;all_cohort_rows&quot;: 0,
+      &quot;supported_rows&quot;: 0,
+      &quot;fallback_rows&quot;: 0,
+      &quot;original_missing_PA_labels&quot;: 0,
+      &quot;original_explicit_zero_labels&quot;: 0,
+      &quot;required_minimum_per_fold&quot;: 15,
+      &quot;sample_support_if_this_definition_used&quot;: false,
+      &quot;used_for_new_guard_test&quot;: false
+    },
+    {
+      &quot;origin&quot;: 2025,
+      &quot;definition&quot;: &quot;PRIOR_ZERO_PA_CERTIFIED&quot;,
+      &quot;all_cohort_rows&quot;: 797,
+      &quot;supported_rows&quot;: 597,
+      &quot;fallback_rows&quot;: 200,
+      &quot;original_missing_PA_labels&quot;: 797,
+      &quot;original_explicit_zero_labels&quot;: 0,
+      &quot;required_minimum_per_fold&quot;: 15,
+      &quot;sample_support_if_this_definition_used&quot;: true,
+      &quot;used_for_new_guard_test&quot;: false
+    },
+    {
+      &quot;origin&quot;: 2025,
+      &quot;definition&quot;: &quot;PRIOR_NO_MLB_APPEARANCE_CERTIFIED&quot;,
+      &quot;all_cohort_rows&quot;: 569,
+      &quot;supported_rows&quot;: 569,
+      &quot;fallback_rows&quot;: 0,
+      &quot;original_missing_PA_labels&quot;: 569,
+      &quot;original_explicit_zero_labels&quot;: 0,
+      &quot;required_minimum_per_fold&quot;: 15,
+      &quot;sample_support_if_this_definition_used&quot;: true,
+      &quot;used_for_new_guard_test&quot;: false
+    }
+  ],
+  &quot;recommendation&quot;: &quot;Player-anchored workload residual estimator&quot;
+}
+
+DEFINITIONS
+Error is forecast minus actual; negative bias means underprojection. Fold-mean MSE ratios reproduce the original convention. Summed error contributions and pooled counts are separately labeled. Recent-call-up is a proxy for fewer than two positive MLB seasons in the prior four-year window, not independently verified rookie/service status. Role-change uses only pre-origin annual-to-annual or annual-to-last60 state changes. Returner is the existing observable earlier-substantial/no-recent-positive cohort, not a future signing. Primary diagnostic groups are mutually exclusive in returner/callup/role-change/established/other order; overlap tables are explicitly labeled. These groups do not alter scoring or adoption.
+
+POOLING MECHANISM
+The executable uses categorical latest/recent/experience groups, not each player&#x27;s numeric latest workload. Every player in the same selected pool receives the same workload. Full-specific pools still discard within-group individual variation. Backoff can occur because a pool lacks200 rows or20 zero/positive outcomes. The conditional means additionally inherit their parent in states with fewer than20 cases, or shrink toward the parent with50 pseudo-rows. Probability smoothing and workload-mean smoothing are separate; node-level arithmetic traces do not constitute a new model or forecast-error test.
+
+SUBGROUP SUPPORT
+The failed guard uses unchanged baseline freshness. Original missing PA is UNKNOWN_RECENT, even when the candidate&#x27;s separately certified source ledger establishes zero PA. The support crosswalk distinguishes data absence from a definition/mapping mismatch. Existing numerical thresholds and failed decisions are not changed. A future protocol must register consistent as-of zero-versus-missing cohort definitions for both arms, document full-cohort IDs and secondary-role fallbacks, and still fail unsupported guards. Sufficient certified counts do not establish acceptable accuracy and are not a retroactive pass.
+
+ILLUSTRATIVE CASES
+Stewart and Misiorowski are source-history illustrations only. Their2025 MLB debuts leave them outside the prior-MLB-history scoring pool for2023–2025. No2027 candidate projection is manufactured for this diagnostic, and2026 performance is not used as a forecast-error target. Their histories cannot determine a replacement formula.
+
+ONE RECOMMENDATION
+{
+  &quot;status&quot;: &quot;RECOMMENDATION_ONLY_NOT_REGISTERED_NOT_IMPLEMENTED&quot;,
+  &quot;one_experiment&quot;: &quot;Player-anchored workload residual estimator&quot;,
+  &quot;hypothesis&quot;: &quot;Replacing each player with an absolute peer-group workload mean discarded individual workload variation. Test learning workload change relative to each player latest reconciled workload, rather than another absolute cohort mean.&quot;,
+  &quot;target&quot;: &quot;Observed target joint workload/calendar minus the player own prior-season joint workload/prior calendar; include certified zero outcomes as negative residuals. At prediction add the estimated change to the individual prior workload vector.&quot;,
+  &quot;fixed&quot;: &quot;Same historical source policy, baseline comparator, full comparison cohort, support floors, prior50 and deterministic pool hierarchy where applicable; no new age/chart/Statcast/minor features and no hyperparameter search.&quot;,
+  &quot;risk&quot;: &quot;This is a point-estimate residual model, not a calibrated medical or appearance-probability model. Retain nonappearances, negative changes and uncertainty. No automatic growth increment, minimum workload floor or deletion of injury/role-loss cases.&quot;,
+  &quot;coherence&quot;: &quot;Register component-vector construction and nonnegative joint projection rules before testing; derive pitcher G/OUTS from component partitions; do not claim full fantasy counts or team budgets are solved.&quot;,
+  &quot;guard_prerequisite&quot;: &quot;Register a consistent pre-origin freshness ledger for both arms using certified zero-PA evidence, keeping original baseline predictions unchanged. Preserve15-row subgroup and2% thresholds. Do not retroactively relabel this failed run or call it a pass.&quot;,
+  &quot;validation&quot;: &quot;This recommendation is informed by2023\u20132025 development errors. A future separately registered test must retain existing earlier-only guards and exclude2026 errors; repeated development folds are not fresh independent validation. Independent prospective evidence would still be needed.&quot;,
+  &quot;model_fitted&quot;: false,
+  &quot;projections_changed&quot;: false
+}
+</pre></html>

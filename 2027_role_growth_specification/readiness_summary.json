@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-26",
+  "decision": "Proceed with source adapters and cohort certification; do not fit or adopt chart-dependent workloads yet",
+  "current_chart_primary_entries": 780,
+  "scenario_rate_ready": 772,
+  "coverage_only_primary_entries": 8,
+  "standalone_team_workbook_exact_duplicates": 30,
+  "standalone_team_workbook_different_uncertified_vintages": 0,
+  "certified_pitcher_zero_player_seasons": 4230,
+  "historical_chart_scoring_folds_ready": 0,
+  "annual_history_min_season": 2015,
+  "annual_selection_history_max_season": 2025,
+  "game_schema_samples": 8,
+  "source_pitch_registry_years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "source_files_changed": false,
+  "baseline_changed": false,
+  "models_fitted": false,
+  "forecast_errors_scored": false,
+  "cached_biography_coverage": [
+    {
+      "role": "hitter",
+      "baseline_players": 1024,
+      "with_unique_cached_DOB": 179,
+      "with_unique_cached_debut": 179,
+      "DOB_conflicts": 0,
+      "policy": "Use audited stable DOB/debut facts only; recompute age at each cutoff. Do not backdate current service time, current team or medical status."
+    },
+    {
+      "role": "pitcher",
+      "baseline_players": 1487,
+      "with_unique_cached_DOB": 815,
+      "with_unique_cached_debut": 815,
+      "DOB_conflicts": 0,
+      "policy": "Use audited stable DOB/debut facts only; recompute age at each cutoff. Do not backdate current service time, current team or medical status."
+    }
+  ]
+}

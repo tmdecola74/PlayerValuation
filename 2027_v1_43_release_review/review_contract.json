@@ -1,0 +1,28 @@
+{
+  "purpose": "Descriptive release review only; no changes to projections, adoption guards or model selection",
+  "comparison": "Published 2026 v1.43 (2022\u20132025) versus working 2027 v1.43 (2023\u20132026)",
+  "material_thresholds": {
+    "PA": 100,
+    "HR": 8,
+    "SB": 8,
+    "AVG": 0.025,
+    "OPS": 0.08,
+    "IP": 35,
+    "SO": 35,
+    "W": 4,
+    "QS": 5,
+    "ERA": 0.75,
+    "WHIP": 0.15
+  },
+  "triage": "P1: unexpected component failure or stale history with >=200 PA/60 IP. Expected zero-AB secondary batting rates are P2, not a broken ordinary hitter forecast. Remaining priorities follow registered descriptive rules.",
+  "sparse": "Fewer than two positive MLB seasons or <200 MLB AB/<300 MLB outs in 2023\u20132026",
+  "stale": "No positive 2026 MLB exposure; missing is not zero",
+  "rehab": "Recorded rehab transactions and affiliate/year overlaps are evidence only; short annual MiLB stints are candidates, not proven rehab samples.",
+  "injury_roster": "Existing dated/undated evidence only; no claim of current status or future opportunity",
+  "count_decomposition": "Exact symmetric Shapley decomposition; hit components use PA x AB/PA x component/AB, other counts PA or decimal IP x count/exposure; this is an algebraic attribution, not causal talent inference.",
+  "history_attribution": "Exact changes in weighted seasonal exposure contributions, including missing-versus-zero handling; season labels never used as 2026 forecast errors",
+  "selection_through": 2025,
+  "statcast": "Rejected GB/LD/FB challenger inactive",
+  "minor_park_international": "No new translation or playing-time substitution",
+  "production_changed": false
+}

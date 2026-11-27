@@ -1,0 +1,74 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><title>Player-anchored development validation</title><style>body{font:16px/1.6 system-ui;max-width:1300px;margin:40px auto;padding:20px;color:#183441}table{border-collapse:collapse;width:100%;font-size:13px}td,th{padding:10px;border:1px solid #ccd9e2;text-align:left}th{background:#e1edf5}pre{white-space:pre-wrap}</style><h1>Player-anchored development test:2023–2025</h1><p>November27,2026 · No2026 errors · Unchanged v1.43 working forecast</p><h2>Development result</h2><pre>
+
+FINAL DEVELOPMENT REVIEW
+The hitter workload candidate passes the registered core and additional workload safeguards: mean supported PA MSE falls31.47%, with9.50% improvement among recent-positive players. The shared known-zero subgroup is now supported under the pre-registered ledger; both arms use the same grouping and the thresholds remain unchanged. This does not relabel the previous failed experiment. The result supports a separate hitter complete-count/team-opportunity build, not immediate forecast adoption.
+
+Pitcher mean supported IP MSE falls2.88%, but the low-history guard fails (mean MSE worsens6.30%) and the swing-role guard fails (+9.11%). These safeguards remain binding. Do not adopt the pitcher method, weaken thresholds or tune the frozen model after these results.
+
+All8917 player-seasons remain visible. There are8113 supported predictions and804 full-baseline fallbacks, including one unscored quarantined target. Of the fallbacks,21 are new infeasible component combinations detected by the registered rules; independent recalculation verifies those conditions.331 supported rows receive the predeclared nonnegative/coherence projection. Full-cohort known-target reporting includes all8916 scored records on paired identical memberships. No fallbacks are discarded to improve results.
+
+The independent checker reconstructs raw anchors plus frozen mean residuals, reapplies the registered feasibility rules, verifies all fallback workload values, and recalculates ALL-cohort MSE/MAE/bias and membership hashes. Source code, data, baseline files and guard thresholds remain unchanged. No2026 target or new2027 candidate projection is included; Stewart and Misiorowski remain unscored illustrations.
+
+These2023–2025 seasons informed the design. The fold construction is strictly earlier-only, but that does not turn this development test into fresh independent validation. Coherent fantasy counts, team budgets, player-level review and independent evidence remain unresolved steps before any adoption.
+</pre><h2>Role decisions</h2><div style="overflow:auto"><table><tr><th>role</th><th>mean_objective_MSE_ratio</th><th>workload_pass</th><th>core_reasons</th><th>extra_reasons</th></tr><tr><td>hitter</td><td>0.6853343981078207</td><td>True</td><td>[]</td><td>[]</td></tr><tr><td>pitcher</td><td>0.9711779787103986</td><td>False</td><td>[&#x27;LOW_HISTORY_GUARD&#x27;]</td><td>[&#x27;SUBGROUP_WORKLOAD_GUARD_SWING&#x27;]</td></tr></table></div><h2>Fold results, including fallbacks</h2><div style="overflow:auto"><table><tr><th>season</th><th>role</th><th>pool</th><th>n</th><th>baseline_MSE</th><th>candidate_MSE</th><th>MSE_ratio</th></tr><tr><td>2023</td><td>hitter</td><td>FALLBACK</td><td>347</td><td>497.28190572578694</td><td>497.28190572578694</td><td>1.0</td></tr><tr><td>2023</td><td>hitter</td><td>FULL_COHORT</td><td>1557</td><td>17229.04415781242</td><td>12848.366929105337</td><td>0.7457388124041294</td></tr><tr><td>2023</td><td>hitter</td><td>SUPPORTED</td><td>1210</td><td>22027.32639043561</td><td>16390.372303578646</td><td>0.7440926789324481</td></tr><tr><td>2023</td><td>pitcher</td><td>FALLBACK</td><td>9</td><td>295.1758723937677</td><td>295.1758723937677</td><td>1.0</td></tr><tr><td>2023</td><td>pitcher</td><td>FULL_COHORT</td><td>1453</td><td>970.0743249766876</td><td>1031.5399177890818</td><td>1.0633617355184317</td></tr><tr><td>2023</td><td>pitcher</td><td>SUPPORTED</td><td>1444</td><td>974.2807557753346</td><td>1036.1294443878062</td><td>1.0634813817740374</td></tr><tr><td>2024</td><td>hitter</td><td>FALLBACK</td><td>234</td><td>590.8666497143729</td><td>590.8666497143729</td><td>1.0</td></tr><tr><td>2024</td><td>hitter</td><td>FULL_COHORT</td><td>1410</td><td>19134.96977052565</td><td>13631.805662791143</td><td>0.7124027801595355</td></tr><tr><td>2024</td><td>hitter</td><td>SUPPORTED</td><td>1176</td><td>22824.867840483</td><td>16226.686384780909</td><td>0.710921373047369</td></tr><tr><td>2024</td><td>pitcher</td><td>FALLBACK</td><td>3</td><td>364.1929629629629</td><td>364.1929629629629</td><td>1.0</td></tr><tr><td>2024</td><td>pitcher</td><td>FULL_COHORT</td><td>1482</td><td>1152.3297179659762</td><td>1047.020449794319</td><td>0.908611861232267</td></tr><tr><td>2024</td><td>pitcher</td><td>SUPPORTED</td><td>1479</td><td>1153.9283726414387</td><td>1048.405495406553</td><td>0.9085533558782899</td></tr><tr><td>2025</td><td>hitter</td><td>FALLBACK</td><td>204</td><td>538.6253852652172</td><td>538.6253852652172</td><td>1.0</td></tr><tr><td>2025</td><td>hitter</td><td>FULL_COHORT</td><td>1448</td><td>21874.22103760702</td><td>13176.447755808631</td><td>0.6023733477482541</td></tr><tr><td>2025</td><td>hitter</td><td>SUPPORTED</td><td>1244</td><td>25372.984311785254</td><td>15248.888080238581</td><td>0.6009891423436451</td></tr><tr><td>2025</td><td>pitcher</td><td>FALLBACK</td><td>6</td><td>725.5516175359033</td><td>725.5516175359033</td><td>1.0</td></tr><tr><td>2025</td><td>pitcher</td><td>FULL_COHORT</td><td>1566</td><td>1097.2711041539228</td><td>1033.242490941496</td><td>0.9416474078556935</td></tr><tr><td>2025</td><td>pitcher</td><td>SUPPORTED</td><td>1560</td><td>1098.700794487069</td><td>1034.4259173776716</td><td>0.9414991984788685</td></tr></table></div><h2>Additional protections</h2><div style="overflow:auto"><table><tr><th>role</th><th>guard</th><th>metric</th><th>cohort</th><th>supported_folds</th><th>mean_MSE_ratio</th><th>status</th></tr><tr><td>hitter</td><td>ROLE_OR_FRESHNESS</td><td>PA</td><td>RECENT_POSITIVE</td><td>3</td><td>0.9049525392135038</td><td>PASS</td></tr><tr><td>hitter</td><td>ROLE_OR_FRESHNESS</td><td>PA</td><td>KNOWN_ZERO_RECENT</td><td>3</td><td>0.11168431068826308</td><td>PASS</td></tr><tr><td>pitcher</td><td>ROLE_OR_FRESHNESS</td><td>IP</td><td>RECENT_POSITIVE</td><td>3</td><td>0.993237976131817</td><td>PASS</td></tr><tr><td>pitcher</td><td>ROLE_OR_FRESHNESS</td><td>IP</td><td>KNOWN_ZERO_RECENT</td><td>3</td><td>0.7669585671150027</td><td>PASS</td></tr><tr><td>pitcher</td><td>ROLE_OR_FRESHNESS</td><td>IP</td><td>STARTER</td><td>3</td><td>1.005293001796007</td><td>PASS</td></tr><tr><td>pitcher</td><td>ROLE_OR_FRESHNESS</td><td>IP</td><td>SWING</td><td>3</td><td>1.091085714500396</td><td>FAIL</td></tr><tr><td>pitcher</td><td>ROLE_OR_FRESHNESS</td><td>IP</td><td>RELIEVER</td><td>3</td><td>0.9152140633039906</td><td>PASS</td></tr><tr><td>pitcher</td><td>OPPORTUNITY_COUNT</td><td>G</td><td>ALL</td><td>3</td><td>0.9312830635996049</td><td>PASS</td></tr><tr><td>pitcher</td><td>OPPORTUNITY_COUNT</td><td>GS</td><td>ALL</td><td>3</td><td>0.9829890440152282</td><td>PASS</td></tr></table></div><p><a href="historical_workload_predictions.csv">All historical predictions</a> · <a href="fallback_inventory.csv">Fallback inventory</a> · <a href="training_support.csv">Training support</a> · <a href="frozen_scoring_memberships.csv">Frozen memberships</a></p><h2>Method and limits</h2><pre>PLAYER-ANCHORED WORKLOAD DEVELOPMENT VALIDATION
+
+{
+  &quot;status&quot;: &quot;DEVELOPMENT_TEST_COMPLETE_NOT_ADOPTED&quot;,
+  &quot;origins&quot;: [
+    2023,
+    2024,
+    2025
+  ],
+  &quot;players_by_role&quot;: {
+    &quot;hitter&quot;: 4416,
+    &quot;pitcher&quot;: 4501
+  },
+  &quot;prediction_rows&quot;: 8917,
+  &quot;supported_rows&quot;: 8113,
+  &quot;fallback_rows&quot;: 804,
+  &quot;unscored_quarantined_rows&quot;: 1,
+  &quot;baseline_fields_replayed&quot;: 151504,
+  &quot;models_fitted&quot;: 3,
+  &quot;maximum_fit_target&quot;: 2024,
+  &quot;forecast_errors_2026_scored&quot;: false,
+  &quot;registered_model_changed&quot;: false,
+  &quot;thresholds_changed&quot;: false,
+  &quot;production_changed&quot;: false,
+  &quot;role_decisions&quot;: [
+    {
+      &quot;role&quot;: &quot;hitter&quot;,
+      &quot;mean_objective_MSE_ratio&quot;: 0.6853343981078207,
+      &quot;workload_pass&quot;: true,
+      &quot;core_reasons&quot;: [],
+      &quot;extra_reasons&quot;: []
+    },
+    {
+      &quot;role&quot;: &quot;pitcher&quot;,
+      &quot;mean_objective_MSE_ratio&quot;: 0.9711779787103986,
+      &quot;workload_pass&quot;: false,
+      &quot;core_reasons&quot;: [
+        &quot;LOW_HISTORY_GUARD&quot;
+      ],
+      &quot;extra_reasons&quot;: [
+        &quot;SUBGROUP_WORKLOAD_GUARD_SWING&quot;
+      ]
+    }
+  ],
+  &quot;conditional_complete_count_build_triggered&quot;: true,
+  &quot;evidence_status&quot;: &quot;Diagnostic-informed development; not fresh independent validation&quot;,
+  &quot;feasibility_adjusted_supported_rows&quot;: 331,
+  &quot;shared_freshness_used_for_both_arms&quot;: true
+}
+
+METHOD
+The frozen executable model was used unchanged. For2023 train targets2020–2022;2024 uses2020–2023;2025 uses2020–2024. The pre-scoring freeze binds models, all predictions and exact metric/cohort memberships before error calculation. The baseline accepted workload vector is independently replayed against the saved original historical vectors. Candidate-only nonappearance certificates supply shared truth and candidate states; they are not injected into baseline history. Planned calendar is162; realized target calendar is used only to invert registered labels to observed counts.
+
+MEMBERSHIPS
+SUPPORTED is the frozen eligible candidate with known target. FALLBACK keeps the entire baseline workload. FULL_COHORT includes both on common known targets. Quarantined targets remain in prediction reporting but are unscored. Secondary pitcher batting is unsupported by design, not silently removed from full-cohort reporting. Sparse pool backoff is the registered model rule; pool and training support are exposed. No source year2026 is a scoring target.
+
+GUARDS
+The original phase.gate implementation applies workload mean improvement, fold/sample, recent and low-history requirements without alteration. The previous role/freshness and pitcher G/GS safeguards retain their thresholds. Unsupported safeguards are explicit failures. Internal method aliases weighted_actuals/freshness_workload only execute original guard math; report labels identify V1_43 and PLAYER_ANCHORED_RESIDUAL.
+
+COUNTS AND ADOPTION
+This model emits workload only. It does not alter skill rates or publish incomplete replacement stat lines. Full fantasy-count and team-opportunity safeguards are not claimed to pass; adoption remains blocked. A passing workload role would trigger a separately specified complete-count/team handling build. Failed workload roles do not trigger that conditional build. The shared freshness ledger is used for both arms without modifying baseline numbers or old failed-run decisions. Feasibility edits and fallbacks are exposed. Current charts, international estimates, age/skill-development adjustments and rejected models remain inactive. This design was informed by already reviewed2023–2025 diagnostics, so these results are development evidence and not fresh independent validation.
+</pre></html>

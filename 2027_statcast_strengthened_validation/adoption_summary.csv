@@ -1,0 +1,3 @@
+﻿role,supported_folds,minimum_folds,mean_objective_MSE_ratio,MSE_change_pct,required_improvement_pct,gate_pass,failure_reasons,source_scope_review,production_adoption
+hitter,3,3,0.9926797150080828,-0.732028499191717,1,False,NO_ONE_PERCENT_MSE_IMPROVEMENT,PASSED_WITH_EXCLUSIONS,False
+pitcher,3,3,0.9973259247862482,-0.26740752137518475,1,False,NO_ONE_PERCENT_MSE_IMPROVEMENT,PASSED_WITH_EXCLUSIONS,False

@@ -1,0 +1,11 @@
+{
+  "status": "FROZEN_BEFORE_HISTORICAL_PANEL_BUILD",
+  "registered_files": {
+    "experiment_contract.json": "bf770ba04fe9446a6644a75c29963bcf3cf274c49e2e9880380b9f381b788e5f",
+    "usage_transition_model.py": "6e70bd3080798456011c87878aaa55cfe7a05292b6e8788b2195a82d964d000a",
+    "preserved_guard_contract.json": "52c802ed7ae9c3f78b594267f749c3fe392f4c590642e9aad29930f373b444e6"
+  },
+  "historical_models_fitted": false,
+  "historical_errors_scored": false,
+  "feature_selection_from_errors": false
+}

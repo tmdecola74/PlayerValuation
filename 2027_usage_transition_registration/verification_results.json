@@ -1,0 +1,14 @@
+{
+  "frozen_registered_files_unchanged": true,
+  "source_hashes_verified": 22,
+  "historical_models_fitted": 0,
+  "historical_errors_scored": 0,
+  "synthetic_test_count": 19,
+  "guard_contract_unchanged": true,
+  "baseline_unchanged": true,
+  "source_labels_unchanged": true,
+  "targets_after2025_prohibited": true,
+  "real_panel_hash": "b3ec53defb09eb09cd0bb9b12ca10bb184117573aefd3f18ac4a7c0d46694199",
+  "candidate_only_pitcher_zero_certificates": 1116,
+  "additional_target_labels_2020_2025": 957
+}

@@ -1,0 +1,9 @@
+{
+  "registered_after_first_source_reconciliation_before_any_model_fit": true,
+  "reason": "Eligible annual G counts all credited MLB games, including pitching-only games. Initial batting gamesPlayed alone undercounted G for some players, while PA and other batting counts matched.",
+  "canonical_G": "Union of credited batting gamesPlayed=1 and pitching gamesPitched=1 by season/game/team/MLBAM; all games checked. No imputed player-season count or name matching.",
+  "batting_G": "Retained separately as BATTING_G; not a substitute for all-MLB G",
+  "zero_PA": "A player can have MLB G>0 and PA=0. Such a player is not an MLB nonappearance; positive-PA exposure outcome is recorded separately.",
+  "secondary_roles": "Prior-positive-PA cohort intentionally retains pitchers with batting history. Expose pitching-only games so a later hitter opportunity model does not confuse them with ordinary bench hitters.",
+  "no_forecast_or_guard_changes": true
+}

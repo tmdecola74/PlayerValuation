@@ -1,0 +1,1 @@
+Start with comparison_report.html or REVIEW_REPORT.txt. Working v1.43 baseline unchanged. Both role bundles have three supported folds but miss the 1% improvement guard. No production adoption or conditional adoption player review. Older feature observations were reconstructed from verified category counts, not downloaded or guessed.

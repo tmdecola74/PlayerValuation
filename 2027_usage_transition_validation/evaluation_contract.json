@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-27",
+  "build": "SEPARATE_SCORED_BUILD_USING_UNCHANGED_REGISTRATION",
+  "model": "USAGE_TRANSITION_0.1",
+  "origins": [
+    2023,
+    2024,
+    2025
+  ],
+  "training": "Fixed registered panel with target<origin; targets never after2025",
+  "planned_calendar": 162,
+  "baseline": "Exact project() accepted workload using original certified overlay only; no candidate-only zero certificates injected into A history",
+  "truth": "Registered normalized target vector multiplied by its label calendar; separate candidate-only zero certificates supply common target truth to both arms, never rewrite baseline history",
+  "membership": "Freeze status, support, target availability and per-metric/cohort pools before computing errors. All supported and fallback members appear in full-cohort reporting. Quarantined targets are explicitly unscored.",
+  "core_guard": "Invoke unchanged projection_phase_v1_42.gate with WORKLOAD and internal aliases only. Same minimum folds/rows, improvement/recent/low-history thresholds.",
+  "extra_guards": "Original pitcher prior-role/freshness and G/GS count safeguards; hitter freshness with same subgroup support and2% cap. Report unsupported safeguards as failures.",
+  "complete_count_protection": "No modified full stat lines. Fantasy-count and team-opportunity protections remain pending and block adoption even if workload passes; no count guard is declared passed without a test.",
+  "forbidden": [
+    "2026 forecast errors",
+    "fitting or modifying registered hyperparameters",
+    "current depth chart features",
+    "rejected fits or Statcast methods",
+    "2027 forecast adoption"
+  ],
+  "production_changed": false
+}

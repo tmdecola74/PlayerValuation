@@ -1,0 +1,102 @@
+{
+  "core": {
+    "version": "1.42.0",
+    "origins": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "weights": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "skill_prior_exposure": {
+      "hitter_AB": 200,
+      "pitcher_OUTS": 300
+    },
+    "minimum_population_exposure": 10000,
+    "workload_group_prior_players": 50,
+    "minimum_selection_folds": 3,
+    "minimum_rows_per_fold": 30,
+    "minimum_improvement": 0.01,
+    "maximum_individual_metric_degradation": 0.02,
+    "maximum_recent_degradation": 0.02,
+    "maximum_low_history_degradation": 0.02,
+    "minimum_cohort_rows": 15,
+    "final_selection_max_season": 2025,
+    "include_2020_2021": true,
+    "default_skill": "weighted_actuals",
+    "default_workload": "accepted_ip",
+    "automatic_promotion": false,
+    "valuation_enabled": false
+  },
+  "rejected_workload_experiment_contract": {
+    "version": "pitcher_workload_components_0.1",
+    "status": "RESEARCH_ONLY",
+    "registered_before_scoring": true,
+    "historical_test_origins": [
+      2023,
+      2024,
+      2025
+    ],
+    "training_target_origins": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "why_warmup": "MiLB coverage begins 2019; 2021 is first training target with pre-origin source coverage after the canceled 2020 minor season. 2020 shortened MLB target excluded from fitting by specification, not by errors; baseline retains original historical 2020 workloads.",
+    "fit_rule": "Only training target seasons strictly before each origin; final coefficients fit through 2025 and freeze for 2026/2027",
+    "baseline": "Exact v1.43 accepted_ip weighted average with certified historical participation zeros",
+    "arms": [
+      "STRUCTURED_MLB",
+      "STRUCTURED_MLB_MINOR"
+    ],
+    "model": "P(MLB appearance) x sum over conditional roles of P(role | appearance) x [conditional starts x IP/start + conditional relief appearances x IP/relief appearance]",
+    "components": [
+      "logistic appearance probability including certified nonappearance",
+      "three one-vs-rest logistic role models, normalized conditional on appearance",
+      "ridge conditional games given role, with role indicator features",
+      "ridge start fraction given role weighted by games",
+      "ridge IP/start fit to pure-start seasons only, weighted by starts",
+      "ridge IP/relief appearance fit to zero-start seasons only, weighted by games"
+    ],
+    "mixed_IP_split": "No observed start/relief innings split. Mixed roles use pure-role outing-rate estimates; do not invent per-start labels from IP/GS in mixed seasons.",
+    "availability": "Appearance probability plus learned conditional games captures reduced usage and nonappearance. Games divided by earlier-role 90th percentile is a descriptive season-usage proxy, NOT medical injury probability. No dated injury labels available.",
+    "capacity": "Prior raw MLB plus MiLB innings/games/starts, combined annual workloads, prior peaks and level exposure shares. Physical workload only; no minor performance equivalencies or park adjustments.",
+    "features": "Four prior seasons; MLB IP/G/GS, missing flags, starting share, outing length, recency weighted IP and prior role/history. Additional arm uses MiLB and disjoint combined workloads, exposure missing/vintage flags; canceled 2020 MiLB year stays unavailable.",
+    "estimation": "Standardize on earlier training rows only; ridge/logistic penalty 10, intercept unpenalized; no hyperparameter search. Rate regression weights capped at 40 outings.",
+    "bounds": "P 0..1, conditional G 0..85, GS <=35 and <=G, fraction 0..1, outing IP .1..9; conditional total IP <=250 through proportional opportunity scaling, exposed in audit. No minimum innings floor.",
+    "support": "At least 200 known appearance labels, 20 each class, 20 each conditional role, 50 pure-start and 100 pure-relief target seasons. Unsupported component causes whole-arm baseline fallback, never silent partial fit.",
+    "gates": {
+      "minimum_supported_years": 3,
+      "minimum_rows_per_fold": 30,
+      "mean_IP_MSE_ratio_max": 0.99,
+      "each_metric_mean_ratio_max": 1.02,
+      "last_two_year_each_IP_ratio_max": 1.02,
+      "low_history_mean_IP_ratio_max": 1.02,
+      "minimum_subgroup_rows": 15,
+      "additional_prior_role_and_freshness_IP_guards_max": 1.02,
+      "additional_G_GS_mean_MSE_guard_max": 1.02,
+      "minor_increment_mean_IP_ratio_max": 0.99
+    },
+    "samples": "Same baseline MLB-history pitchers and identical known eligible outcomes per arm/metric; unknown labels excluded, no invented event zeros. Minor-only players reported coverage-only.",
+    "selection_max_year": 2025,
+    "Steamer_used": false,
+    "2026_outcomes_scored": false,
+    "current_roster_or_injury_snapshot_used": false,
+    "production_changes": false,
+    "international_and_park_changes": false,
+    "future_outputs": "2026 research workload predictions without scoring; 2027 predictions may use 2026 as player history only after decisions/coefficients freeze. No complete skill/count projection replacement.",
+    "minor_level_policy": "AAA/AA/A+/A/A- only; source-year/player/organization/level keys unique in these levels. DSL/CPX/R have multiple affiliate rows under collapsed organization labels and are excluded before any model fitting. Combined workload is observed eligible exposure, not a complete career total.",
+    "input_audit_amendment": "Initial ingestion assertion found repeated collapsed keys only at DSL/CPX/R, before fitting/scoring. Restrict physical-capacity inputs to unambiguous full-season/A- rows and retain every excluded source row in an audit."
+  },
+  "interpretation": "Original gate implementations remain authoritative. New components must pass applicable existing workload and complete-projection safeguards; no reduced threshold, weakened cohort requirement or automatic promotion."
+}

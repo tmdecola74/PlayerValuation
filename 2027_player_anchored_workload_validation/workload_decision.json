@@ -1,0 +1,54 @@
+[
+  {
+    "role": "hitter",
+    "core_guard": {
+      "origin": 2026,
+      "role": "hitter",
+      "experiment": "WORKLOAD",
+      "eligible": true,
+      "reasons": [],
+      "selected_for_research": "freshness_workload",
+      "years": [
+        2023,
+        2024,
+        2025
+      ],
+      "mean_mse_ratio": 0.6853343981078207,
+      "default_changed": false
+    },
+    "extra_guard_reasons": [],
+    "workload_pass": true,
+    "full_count_guards": "NOT_EVALUATED_NO_COMPLETE_COUNT_REPLACEMENT",
+    "team_opportunity_checks": "NOT_IMPLEMENTED",
+    "adoptable": false,
+    "baseline_changed": false
+  },
+  {
+    "role": "pitcher",
+    "core_guard": {
+      "origin": 2026,
+      "role": "pitcher",
+      "experiment": "WORKLOAD",
+      "eligible": false,
+      "reasons": [
+        "LOW_HISTORY_GUARD"
+      ],
+      "selected_for_research": "weighted_actuals",
+      "years": [
+        2023,
+        2024,
+        2025
+      ],
+      "mean_mse_ratio": 0.9711779787103986,
+      "default_changed": false
+    },
+    "extra_guard_reasons": [
+      "SUBGROUP_WORKLOAD_GUARD_SWING"
+    ],
+    "workload_pass": false,
+    "full_count_guards": "NOT_EVALUATED_NO_COMPLETE_COUNT_REPLACEMENT",
+    "team_opportunity_checks": "NOT_IMPLEMENTED",
+    "adoptable": false,
+    "baseline_changed": false
+  }
+]

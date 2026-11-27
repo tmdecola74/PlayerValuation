@@ -1,0 +1,11 @@
+{
+  "stage": "BEFORE_ERROR_CALCULATION",
+  "files": {
+    "evaluation_contract.json": "82d480bfa27ad42fe2119760a932db4ab772b13197faa12696a89452d2214b38",
+    "frozen_historical_models.json": "5673e1fe2b0832fe2e6641acc3099dffe0b5ede429af50752915670f24750d7b",
+    "historical_workload_predictions.csv": "dd2b23f9fa26f4e1b46eb3dc49b402fc6724ea9fabc0779807ebbaf0923e796a",
+    "frozen_scoring_memberships.csv": "92de6dc340f27a4bf063c88de4f57361eafba079dc69478580cd1b13142842cf"
+  },
+  "selection_max_year": 2025,
+  "registered_model_sha256": "6e70bd3080798456011c87878aaa55cfe7a05292b6e8788b2195a82d964d000a"
+}

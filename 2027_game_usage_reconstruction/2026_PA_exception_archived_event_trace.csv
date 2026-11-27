@@ -1,0 +1,9 @@
+﻿source_date,game_pk,at_bat_number,pitch_number,batter,pitcher,events,description,type
+2026-04-03,823732,15,3,680777,671212,strikeout,called_strike,S
+2026-04-03,823732,33,2,680777,671212,single,hit_into_play,X
+2026-04-03,823732,50,4,680777,671212,field_error,hit_into_play,X
+2026-04-03,823732,64,3,680777,687330,single,hit_into_play,X
+2026-09-23,824784,12,4,815873,694346,field_out,hit_into_play,X
+2026-09-23,824784,27,2,815873,694346,field_out,hit_into_play,X
+2026-09-23,824784,46,4,815873,694346,field_error,hit_into_play,X
+2026-09-23,824784,61,4,815873,642585,single,hit_into_play,X

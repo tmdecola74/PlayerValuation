@@ -1,0 +1,13 @@
+﻿target_season,role,baseline_history_cohort,candidate_records,cohort_membership_unchanged
+2020,hitter,1688,1688,True
+2020,pitcher,1363,1363,True
+2021,hitter,1553,1553,True
+2021,pitcher,1357,1357,True
+2022,hitter,1606,1606,True
+2022,pitcher,1423,1423,True
+2023,hitter,1557,1557,True
+2023,pitcher,1453,1453,True
+2024,hitter,1411,1411,True
+2024,pitcher,1482,1482,True
+2025,hitter,1448,1448,True
+2025,pitcher,1566,1566,True

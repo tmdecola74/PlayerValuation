@@ -1,0 +1,10 @@
+{
+  "stage": "BEFORE_HISTORICAL_PANEL_BUILD_AND_ANY_FIT",
+  "files": {
+    "experiment_contract.json": "0c7675171e9d6e862770bbd117f342ceee3b0cc77c92e1b4d122da295bc03ace",
+    "player_anchored_workload.py": "dbd44198bf84ad8d90db96ecb114e4fbe006e9b95dfe1cddf783bca878b7e6d5",
+    "preserved_guard_contract.json": "52c802ed7ae9c3f78b594267f749c3fe392f4c590642e9aad29930f373b444e6"
+  },
+  "historical_fit": false,
+  "historical_errors_scored": false
+}

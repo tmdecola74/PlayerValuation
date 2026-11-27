@@ -1,0 +1,3 @@
+﻿player,team,source_role,condition,input_active_games,input_PA_per_game,input_starts,input_IP_per_start,formula,status
+Sal Stewart,Reds,LINEUP_3_1B,Everyday role retained,UNSET,UNSET,NOT_APPLICABLE,NOT_APPLICABLE,PA = active_games × PA_per_game; preserve frozen baseline skill rates,TEMPLATE_ONLY_NOT_A_FORECAST
+Jacob Misiorowski,Brewers,ROTATION_SP1,Rotation role retained,NOT_APPLICABLE,NOT_APPLICABLE,UNSET,UNSET,IP = starts × IP_per_start + relief_IP; preserve frozen baseline component rates,TEMPLATE_ONLY_NOT_A_FORECAST

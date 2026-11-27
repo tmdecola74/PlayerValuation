@@ -1,0 +1,171 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><title>Usage-transition registration</title><style>body{font:16px/1.6 system-ui;max-width:1250px;margin:40px auto;padding:20px;color:#183441}table{border-collapse:collapse;font-size:13px;width:100%}td,th{border:1px solid #cad9e1;padding:9px;text-align:left}th{background:#e3eff5}pre{white-space:pre-wrap}</style><h1>Usage-transition model: registered and unscored</h1><p>Executable candidate, fixed rules, unchanged v1.43 baseline.</p><p><a href="experiment_contract.json">Frozen contract</a> · <a href="support_preflight_without_fit.csv">Support inventory</a> · <a href="executable_tests.csv">Executable checks</a> · <a href="exception_disposition.csv">Exception decisions</a></p><h2>Historical support: no fitted model or errors</h2><table><tr><th>origin</th><th>role</th><th>known_labels</th><th>positive</th><th>zero</th><th>global_support_pass</th><th>support_reasons</th></tr><tr><td>2023</td><td>hitter</td><td>3640</td><td>1633</td><td>2007</td><td>True</td><td></td></tr><tr><td>2023</td><td>pitcher</td><td>4143</td><td>1956</td><td>2187</td><td>True</td><td></td></tr><tr><td>2024</td><td>hitter</td><td>4850</td><td>2175</td><td>2675</td><td>True</td><td></td></tr><tr><td>2024</td><td>pitcher</td><td>5596</td><td>2624</td><td>2972</td><td>True</td><td></td></tr><tr><td>2025</td><td>hitter</td><td>6028</td><td>2715</td><td>3313</td><td>True</td><td></td></tr><tr><td>2025</td><td>pitcher</td><td>7078</td><td>3297</td><td>3781</td><td>True</td><td></td></tr><tr><td>2026</td><td>hitter</td><td>7273</td><td>3275</td><td>3998</td><td>True</td><td></td></tr><tr><td>2026</td><td>pitcher</td><td>8644</td><td>3996</td><td>4648</td><td>True</td><td></td></tr></table><h2>Registration and limits</h2><pre>EXECUTABLE USAGE-TRANSITION MODEL REGISTRATION
+
+{
+  &quot;status&quot;: &quot;REGISTERED_EXECUTABLE_UNSCORED&quot;,
+  &quot;historical_panel_rows&quot;: 17907,
+  &quot;eligible_panel_rows&quot;: 15917,
+  &quot;ineligible_rows&quot;: 1990,
+  &quot;exclusion_counts&quot;: {
+    &quot;SECONDARY_PITCHER_BATTING&quot;: 1988,
+    &quot;UNKNOWN_OR_QUARANTINED_TARGET_USAGE&quot;: 1,
+    &quot;QUARANTINED_LATEST_PLAYER_SEASON&quot;: 1
+  },
+  &quot;target_years&quot;: [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  &quot;historical_models_fitted&quot;: 0,
+  &quot;historical_errors_scored&quot;: 0,
+  &quot;synthetic_tests_passed&quot;: 19,
+  &quot;real_data_support_preflight&quot;: [
+    {
+      &quot;origin&quot;: 2023,
+      &quot;role&quot;: &quot;hitter&quot;,
+      &quot;training_target_years&quot;: &quot;2020;2021;2022&quot;,
+      &quot;known_labels&quot;: 3640,
+      &quot;positive&quot;: 1633,
+      &quot;zero&quot;: 2007,
+      &quot;state_counts&quot;: &quot;{\&quot;NO_PA\&quot;: 2007, \&quot;REGULAR_STARTER\&quot;: 991, \&quot;LIMITED_OR_BENCH\&quot;: 326, \&quot;PART_TIME_STARTER\&quot;: 316}&quot;,
+      &quot;pure_start&quot;: 0,
+      &quot;pure_relief&quot;: 0,
+      &quot;global_support_pass&quot;: true,
+      &quot;support_reasons&quot;: &quot;&quot;,
+      &quot;model_fitted&quot;: false,
+      &quot;errors_scored&quot;: false
+    },
+    {
+      &quot;origin&quot;: 2023,
+      &quot;role&quot;: &quot;pitcher&quot;,
+      &quot;training_target_years&quot;: &quot;2020;2021;2022&quot;,
+      &quot;known_labels&quot;: 4143,
+      &quot;positive&quot;: 1956,
+      &quot;zero&quot;: 2187,
+      &quot;state_counts&quot;: &quot;{\&quot;NO_PITCHING_APPEARANCE\&quot;: 2187, \&quot;RELIEF\&quot;: 857, \&quot;ROTATION\&quot;: 429, \&quot;SWING_OR_LIMITED\&quot;: 670}&quot;,
+      &quot;pure_start&quot;: 371,
+      &quot;pure_relief&quot;: 1096,
+      &quot;global_support_pass&quot;: true,
+      &quot;support_reasons&quot;: &quot;&quot;,
+      &quot;model_fitted&quot;: false,
+      &quot;errors_scored&quot;: false
+    },
+    {
+      &quot;origin&quot;: 2024,
+      &quot;role&quot;: &quot;hitter&quot;,
+      &quot;training_target_years&quot;: &quot;2020;2021;2022;2023&quot;,
+      &quot;known_labels&quot;: 4850,
+      &quot;positive&quot;: 2175,
+      &quot;zero&quot;: 2675,
+      &quot;state_counts&quot;: &quot;{\&quot;NO_PA\&quot;: 2675, \&quot;REGULAR_STARTER\&quot;: 1357, \&quot;LIMITED_OR_BENCH\&quot;: 397, \&quot;PART_TIME_STARTER\&quot;: 421}&quot;,
+      &quot;pure_start&quot;: 0,
+      &quot;pure_relief&quot;: 0,
+      &quot;global_support_pass&quot;: true,
+      &quot;support_reasons&quot;: &quot;&quot;,
+      &quot;model_fitted&quot;: false,
+      &quot;errors_scored&quot;: false
+    },
+    {
+      &quot;origin&quot;: 2024,
+      &quot;role&quot;: &quot;pitcher&quot;,
+      &quot;training_target_years&quot;: &quot;2020;2021;2022;2023&quot;,
+      &quot;known_labels&quot;: 5596,
+      &quot;positive&quot;: 2624,
+      &quot;zero&quot;: 2972,
+      &quot;state_counts&quot;: &quot;{\&quot;NO_PITCHING_APPEARANCE\&quot;: 2972, \&quot;RELIEF\&quot;: 1137, \&quot;ROTATION\&quot;: 575, \&quot;SWING_OR_LIMITED\&quot;: 912}&quot;,
+      &quot;pure_start&quot;: 496,
+      &quot;pure_relief&quot;: 1453,
+      &quot;global_support_pass&quot;: true,
+      &quot;support_reasons&quot;: &quot;&quot;,
+      &quot;model_fitted&quot;: false,
+      &quot;errors_scored&quot;: false
+    },
+    {
+      &quot;origin&quot;: 2025,
+      &quot;role&quot;: &quot;hitter&quot;,
+      &quot;training_target_years&quot;: &quot;2020;2021;2022;2023;2024&quot;,
+      &quot;known_labels&quot;: 6028,
+      &quot;positive&quot;: 2715,
+      &quot;zero&quot;: 3313,
+      &quot;state_counts&quot;: &quot;{\&quot;NO_PA\&quot;: 3313, \&quot;REGULAR_STARTER\&quot;: 1719, \&quot;LIMITED_OR_BENCH\&quot;: 478, \&quot;PART_TIME_STARTER\&quot;: 518}&quot;,
+      &quot;pure_start&quot;: 0,
+      &quot;pure_relief&quot;: 0,
+      &quot;global_support_pass&quot;: true,
+      &quot;support_reasons&quot;: &quot;&quot;,
+      &quot;model_fitted&quot;: false,
+      &quot;errors_scored&quot;: false
+    },
+    {
+      &quot;origin&quot;: 2025,
+      &quot;role&quot;: &quot;pitcher&quot;,
+      &quot;training_target_years&quot;: &quot;2020;2021;2022;2023;2024&quot;,
+      &quot;known_labels&quot;: 7078,
+      &quot;positive&quot;: 3297,
+      &quot;zero&quot;: 3781,
+      &quot;state_counts&quot;: &quot;{\&quot;NO_PITCHING_APPEARANCE\&quot;: 3781, \&quot;RELIEF\&quot;: 1438, \&quot;ROTATION\&quot;: 733, \&quot;SWING_OR_LIMITED\&quot;: 1126}&quot;,
+      &quot;pure_start&quot;: 649,
+      &quot;pure_relief&quot;: 1830,
+      &quot;global_support_pass&quot;: true,
+      &quot;support_reasons&quot;: &quot;&quot;,
+      &quot;model_fitted&quot;: false,
+      &quot;errors_scored&quot;: false
+    },
+    {
+      &quot;origin&quot;: 2026,
+      &quot;role&quot;: &quot;hitter&quot;,
+      &quot;training_target_years&quot;: &quot;2020;2021;2022;2023;2024;2025&quot;,
+      &quot;known_labels&quot;: 7273,
+      &quot;positive&quot;: 3275,
+      &quot;zero&quot;: 3998,
+      &quot;state_counts&quot;: &quot;{\&quot;NO_PA\&quot;: 3998, \&quot;REGULAR_STARTER\&quot;: 2063, \&quot;LIMITED_OR_BENCH\&quot;: 570, \&quot;PART_TIME_STARTER\&quot;: 642}&quot;,
+      &quot;pure_start&quot;: 0,
+      &quot;pure_relief&quot;: 0,
+      &quot;global_support_pass&quot;: true,
+      &quot;support_reasons&quot;: &quot;&quot;,
+      &quot;model_fitted&quot;: false,
+      &quot;errors_scored&quot;: false
+    },
+    {
+      &quot;origin&quot;: 2026,
+      &quot;role&quot;: &quot;pitcher&quot;,
+      &quot;training_target_years&quot;: &quot;2020;2021;2022;2023;2024;2025&quot;,
+      &quot;known_labels&quot;: 8644,
+      &quot;positive&quot;: 3996,
+      &quot;zero&quot;: 4648,
+      &quot;state_counts&quot;: &quot;{\&quot;NO_PITCHING_APPEARANCE\&quot;: 4648, \&quot;RELIEF\&quot;: 1742, \&quot;ROTATION\&quot;: 904, \&quot;SWING_OR_LIMITED\&quot;: 1350}&quot;,
+      &quot;pure_start&quot;: 789,
+      &quot;pure_relief&quot;: 2220,
+      &quot;global_support_pass&quot;: true,
+      &quot;support_reasons&quot;: &quot;&quot;,
+      &quot;model_fitted&quot;: false,
+      &quot;errors_scored&quot;: false
+    }
+  ],
+  &quot;baseline_changed&quot;: false,
+  &quot;guard_thresholds_changed&quot;: false,
+  &quot;source_files_changed&quot;: false,
+  &quot;forecast_files_published&quot;: false,
+  &quot;candidate_only_additional_pitcher_zero_certificates&quot;: 1116,
+  &quot;additional_pitcher_zero_targets_2020_2025&quot;: 957
+}
+
+LABEL DECISION
+Hitters model positive PA, not simply any MLB appearance. Zero PA and no MLB G are distinct labels in the source certificates. Pitchers model credited pitching appearance, retaining zero-out/no-pitch cases. Secondary pitcher batting is a pre-origin fallback rule (&gt;=5 prior-year pitching games and &lt;100 PA); those records are retained in the baseline cohort and disclosed as unsupported rather than silently removed.
+
+EXCEPTIONS
+Danny Jansen&#x27;s2024 player-season remains quarantined for target use and required latest usage in2025. Ryan Jeffers/Sean Keys2026 are outside this historical panel; later2027 feature construction must retain their quarantine. No source count has been repaired.
+
+EXECUTABLE MODEL
+usage_transition_model.py exposes usage_state, recent_state, vector, global_support, fit and predict. It has no import-time fitting or I/O. The frozen JSON contract gives thresholds, label/calendar definitions, support, smoothing and hierarchy. Whole-role global support failure and unsupported latest histories retain the full baseline; sparse supported role pools back off deterministically with parent support disclosed. The root and cell means preserve joint workload quantities, so expected starts and innings per start are not multiplied as independent averages. No medical risk, growth bonus, minimum PA/IP floor or chart assumption is imposed.
+
+REGISTRATION AND TESTS
+Contract, implementation and preserved guards were hashed before historical panel construction. Historical support counts are preflight only; no estimator was fitted to historical rows and no historical forecast error was scored. Executable tests use synthetic records for probability sums, chronological restrictions, joint partitions, sparse support and fallbacks.
+
+IMPORTANT LIMITS
+State definitions and calendar normalization are hypotheses awaiting testing. Pitcher normalized outing counts and hitter PA do not yet form complete fantasy projections. Team opportunity budgets and role/team-dependent count recomputation are not implemented in this arm. No adoption or2027 replacement is possible from this build. Current depth charts, age/development, minor translations, injury effects and rejected workload/Statcast methods remain inactive. Source vintages are retrospective; earlier reviewed years are not new independent holdouts.
+
+NEXT BUILD
+Run the fixed model against the unchanged v1.43 baseline for2023/2024/2025 using strictly earlier training targets and frozen supported memberships. Carry every fallback in full-cohort reporting, retain unchanged adoption guards and extra role/freshness/count protections, and report support failures without threshold changes. Keep2026 errors excluded. If workload passes, separately implement/review complete-count and team-opportunity handling before any forecast adoption.
+</pre><h2>Additional candidate-only zero labels</h2><p>Additional label certification: 1,116 candidate-only pitcher nonappearance certificates cover 2019-2025; 957 close target-label gaps in the 2020-2025 modeling panel. They require complete reconstructed season coverage, a pre-origin positive-OUTS identity and no positive source contradiction. Original labels and baselines remain unchanged. The initial unscored freeze and pre-scoring data amendment are retained. All 19 executable checks use synthetic or structural evidence; none score historical projection errors.</p><p><a href="candidate_only_pitcher_nonappearance_certificate.csv">Nonappearance certificate</a></p></html>

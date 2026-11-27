@@ -1,0 +1,23 @@
+{
+  "outputs\\2027_statcast_strengthened_validation\\audit_contract.json": "0521aef18116445538cec0b56d444b1cf8ca2e9a7460b8c14d9ab5fb415e99fb",
+  "outputs\\2027_statcast_strengthened_validation\\source_scope_summary.json": "1261f21dc2e684cfb025040dbaaa4deaeb13dd1514db3cb707e6966c7a28bb75",
+  "outputs\\2027_statcast_strengthened_validation\\compatible_2021_2022_features.csv": "7191d35273f6b3d1dbc9e5555605f678df7729b488d3021b78b7527d912af2f4",
+  "outputs\\2027_statcast_strengthened_validation\\export_archive_scope_comparison.csv": "9cab6d6cbd8a823ea4904857f298333acdddebb6f0c8bba99c980a9717cb1038",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\training_labels_v1_0\\output_sha256.json": "8d746c9f67490b772cb3d0e9373a1e324cfb95f9a519d535ef660414d0759b4f",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\training_labels_v1_0\\training_labels.parquet": "0627f1d5e0c1e52f7c177938542aa36e48d3b1efbade9ba0d696ea8406ffe254",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\recent_history_skills_v1_23\\output_sha256.json": "19c3ec9a023590e7ffd1130e3d139a3f3d9d00098720ed72e11fe7f5503784af",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\recent_history_skills_v1_23\\historical_forecasts.csv": "894e63b303b0e6736047a46d4a1cc91387ea960d352d38eb46e8532645b721fc",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\participation_label_overlay_v1_27\\output_sha256.json": "2df3179b17ad5124a2252696c043e9dcb4af00a8c750aa7a96c3cf879ab25821",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\participation_label_overlay_v1_27\\report.json": "07631b2994818dcd9ee461daa10e4dd51f9df3add9578c2377c9237fca43302d",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\participation_label_overlay_v1_27\\participation_label_overlay.csv": "917a4afba286e349236e7bf74bb9c11fc048f2b518b0a990d99de6fda0934f81",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\projection_phase_v1_42\\output_sha256.json": "1fbd3f0c7a76c4902702e054d7ab1dfe17a1615b4d09e5204499c573fdc2770e",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\projection_phase_v1_42\\frozen_choices.json": "50ce359bf102810d333b83a1561755278d69eee3e9e9eb75542d57e398d78ab3",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\skill_regressed_release_v1_43\\output_sha256.json": "1012e7e8a00dc76613ce246ea177c20d9001298ce6178f40f401e420c56fb484",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\skill_regressed_release_v1_43\\projections_2027_hitters.csv": "2cd5cd51ec7c47906141a82442720e5895008e5ec7df6d58118efdf55fa6da2a",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\skill_regressed_release_v1_43\\projections_2027_pitchers.csv": "1cb2834bb4a165ac4bff9d6f45f7db5d9a83dccdada65307d871c79ee19ea328",
+  "outputs\\2027_v1_43_statcast_challenger\\build_2027_statcast_challenger.py": "c88f7e07e58cebde2f3a312c7df8c3627b5767cb4e37b09caaa713fcbc15f159",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\training_labels_v1_0\\holdout_labels.parquet": "b7afd8434eb169da0da40adddc4e7532989367c9989dce1377ac66cb84c03b5b",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\pitcher_evaluation_v1_29\\output_sha256.json": "90d44b28758de44614f9fc01df1acb42ad180ca7e06b67afd2873a9b379d5f13",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\pitcher_evaluation_v1_29\\report.json": "2fd3518b0357801e442e8e1c96949d80e58d87d3b0194c8ed8381cf74e73c848",
+  "D:\\JonAPythonClass\\pycharm\\PlayerValuation\\outputs\\pitcher_evaluation_v1_29\\evaluation_label_overlay_2026.csv": "645409158e83ae2cfe545776f1a1ae3e096cbe4d59b694a8f9d0a38531f47ba2"
+}

@@ -1,0 +1,27 @@
+{
+  "archive_windows_verified": 1471,
+  "archived_pitches": 4284433,
+  "complete_schedule_and_standings_scope": true,
+  "overlap_bundles_exactly_matched": 3593,
+  "overlap_bridge_mismatches": 0,
+  "older_compatible_bundles": 2429,
+  "scope_2026_export_rows": 1495,
+  "scope_2026_eligible_bundles": 1193,
+  "scope_2026_small_sample_exclusions": 300,
+  "scope_2026_classification_exclusions": 2,
+  "unclassified_physical_events_traced": 1,
+  "working_baseline_statistical_fields_checked": 42224,
+  "exploratory_anchor_fields_checked": 29571,
+  "pooled_2027_features_checked": 6003,
+  "supported_forecast_years": [
+    2023,
+    2024,
+    2025
+  ],
+  "unchanged_guard_function": true,
+  "protected_source_files_verified": 4460,
+  "source_files_changed": false,
+  "models_fit_or_scored_2026_forecast_errors": false,
+  "production_files_changed": false,
+  "conditional_adoption_player_review_triggered": false
+}

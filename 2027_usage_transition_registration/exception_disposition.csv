@@ -1,0 +1,4 @@
+﻿season,role,mlbam_id,name,metric,eligible_source,reconstructed,delta,status,source,decision,source_corrected,threshold_relaxed
+2024,hitter,643376,Danny Jansen,G,94.0,92,-2.0,MISMATCH,Frozen eligible labels with existing certified participation correction; no new label edits,QUARANTINE_HISTORICAL_TARGET_AND_FEATURE,False,False
+2026,hitter,680777,Ryan Jeffers,PA,368.0,369,1.0,MISMATCH,Frozen eligible labels with existing certified participation correction; no new label edits,OUTSIDE_BUILD_2026_HISTORY_ONLY_QUARANTINE,False,False
+2026,hitter,815873,Sean Keys,PA,66.0,67,1.0,MISMATCH,Frozen eligible labels with existing certified participation correction; no new label edits,OUTSIDE_BUILD_2026_HISTORY_ONLY_QUARANTINE,False,False

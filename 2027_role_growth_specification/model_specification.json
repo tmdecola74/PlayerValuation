@@ -1,0 +1,82 @@
+{
+  "version": "ROLE_GROWTH_DESIGN_0.1_NOT_FITTED",
+  "objective": "Forecast next-season opportunity from role transitions and availability while preserving current skill rates; later test development separately",
+  "arms": [
+    {
+      "name": "A_BASELINE",
+      "status": "WORKING_UNCHANGED",
+      "definition": "Published 2027 v1.43; same per-origin replay for tests"
+    },
+    {
+      "name": "B_USAGE_TRANSITION",
+      "status": "DESIGN_NOT_FITTED",
+      "definition": "Historical usage-state transition model, with empirical participation and conditional workloads; no current chart, medical or external projection features"
+    },
+    {
+      "name": "C_CHART_CONTEXT",
+      "status": "SCENARIO_ONLY_UNTIL_ARCHIVED_INPUTS_EXIST",
+      "definition": "Condition opportunity on supplied current chart roles with explicit assumed availability/workload, preserving homegrown skills"
+    },
+    {
+      "name": "D_DEVELOPMENT",
+      "status": "LATER_SEPARATE_EXPERIMENT",
+      "definition": "Component-specific age/experience adjustment; never jointly fitted with first opportunity test"
+    }
+  ],
+  "chronology": {
+    "player_history": "Trailing four completed seasons for first test, matching baseline; latest-season and late-season role changes exposed explicitly. Any three-season variant is another prespecified arm, not a silent replacement.",
+    "scoring_origins": [
+      2023,
+      2024,
+      2025
+    ],
+    "fit": "Strictly earlier training targets than each origin, maximum 2025; at least three supported scoring folds, no hyperparameter/feature search on their errors",
+    "cutoff": "For November-26 forecasts, use prior-season data and role/evidence available by previous November 26; source-vintage limitations disclosed. Spring forecasts require a separate cutoff protocol.",
+    "year_2026": "Only 2027 player-history/source audit after method/model freeze; no 2026 forecast errors for selection"
+  },
+  "hitter": {
+    "states": [
+      "everyday",
+      "platoon_or_partial",
+      "bench_or_depth",
+      "no_MLB_appearance"
+    ],
+    "equation": "E[PA] = P(appearance) \u00d7 sum_role P(role | appearance, prior information) \u00d7 E[G \u00d7 PA_per_G | role, appearance, prior information]. Model joint state/usage dependence; do not multiply unrelated marginal averages.",
+    "inputs": "Prior observed workload, missing flags, late-season starting share and lineup slot after adapter validation, latest role transitions, position, disjoint minor workload, certified appearance history; age/experience only after audit",
+    "zero_rule": "Unknown participation is not zero; certify target cohort before training appearance model",
+    "not_ready": "No calibrated everyday/platoon classifier until historical game-start labels are validated"
+  },
+  "pitcher": {
+    "states": [
+      "rotation",
+      "mixed_or_swing",
+      "relief",
+      "no_MLB_appearance"
+    ],
+    "equation": "E[IP] = P(appearance) \u00d7 sum_role P(role | appearance, prior information) \u00d7 E[GS\u00d7IP_per_start + GR\u00d7IP_per_relief | role, appearance, prior information]. GS, GR and outing lengths are conditional joint quantities.",
+    "inputs": "Latest and late-season role, G/GS, reconstructed start/relief outs, recency and prior peaks of disjoint MLB/minor workloads, missingness and certified participation; chart inputs only in separate chart arm",
+    "capacity": "Empirical workload evidence and uncertainty, not automatic annual increases or an unvalidated universal IP cap. Injury risk is not inferred from a zero-season label.",
+    "no_mixed_split_shortcut": true
+  },
+  "estimation": {
+    "status": "Architecture specified; estimator settings must be frozen in an implementation contract before any scoring",
+    "first_candidate": "Shrunk empirical state-transition probabilities plus conditional workload distributions estimated on earlier role/usage cohorts; back off to broader cohorts only when prespecified support is met, otherwise baseline fallback",
+    "distinction_from_rejected": "Prior structured logistic/ridge starts-and-innings experiment remains rejected. New evidence is the validated recent role-state sequence and optional archived external role context, not a renamed reuse of its fit or coefficients.",
+    "training_support": "Document class, cohort and conditional-outing counts before fitting. Retain prior workload support minima as floors where applicable; define any state-specific additional minima before scoring. No ad hoc sparse-state merges after viewing errors.",
+    "model_uncertainty": "If calibrated probabilities are unavailable, publish conditional scenarios without scenario probabilities or advertised confidence intervals"
+  },
+  "team_constraints": "For chart scenarios reconcile all player opportunity jointly to a declared team schedule, batting-order shares and pitching outs. Preserve replacement/depth residuals explicitly; do not give each starter a full season independently. Do not impose 1458 IP/team as an exact rule: actual team outs vary with home losses and extras.",
+  "coherence": "Freeze supported homegrown skill components. Recompute AB and hit components/BB/HBP/SF/SH from coherent PA ratios; derive AVG/OBP/SLG/OPS. Pitcher counts use OUTS-based rates; derive IP/ERA/WHIP. GS/GR/G come from role model, not IP scaling. R/RBI/W/QS/SV/HLD require separately specified team/role rules or remain unavailable in scenario outputs; no assumed validated fantasy totals.",
+  "guards": "Use unchanged existing workload gate and complete-projection/cohort safeguards, plus prior role/freshness protections. No automatic promotion; review largest player changes and coverage before adoption.",
+  "fallback": "Unsupported identity, missing source role, sparse state, missing rate denominator or failed role gate retains full baseline vector in adopted output; exploratory scenarios remain separate. No baseline skill for a prospect/international arrival means no synthetic translated line.",
+  "implementation_sequence": [
+    "Reconcile game-level labels and historical cohorts",
+    "Certify missing hitter nonappearance labels",
+    "Freeze executable usage-transition contract and support thresholds",
+    "Run earlier-only B versus A",
+    "Publish current C conditional scenarios separately if assumptions are explicitly registered",
+    "Acquire dated charts before historical C validation",
+    "Later test D development with DOB/age/experience audit",
+    "Review complete lines and exceptions before any adoption"
+  ]
+}

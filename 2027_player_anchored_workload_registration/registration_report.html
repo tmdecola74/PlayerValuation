@@ -1,0 +1,51 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><title>Player-anchored workload registration</title><style>body{font:16px/1.6 system-ui;max-width:1250px;margin:40px auto;padding:20px;color:#183441}table{border-collapse:collapse;font-size:13px;width:100%}td,th{border:1px solid #cad8e2;padding:10px;text-align:left}th{background:#e3edf5}pre{white-space:pre-wrap}</style><h1>Player-anchored workload: registered and unscored</h1><p>One new candidate. Own latest workload plus learned signed change. v1.43 unchanged.</p><h2>Declines and zero outcomes retained</h2><div style="overflow:auto"><table><tr><th>role</th><th>eligible rows</th><th>negative primary residuals</th><th>zero primary exposure targets</th><th>positive anchor to zero targets</th></tr><tr><td>hitter</td><td>7273</td><td>2435</td><td>3998</td><td>841</td></tr><tr><td>pitcher</td><td>8644</td><td>3319</td><td>4653</td><td>1487</td></tr></table></div><h2>Future subgroup sample support</h2><div style="overflow:auto"><table><tr><th>origin</th><th>role</th><th>shared freshness</th><th>full cohort n</th><th>candidate eligible n</th><th>minimum guard n</th><th>sample support</th></tr><tr><td>2023</td><td>hitter</td><td>RECENT_POSITIVE</td><td>693</td><td>688</td><td>15</td><td>True</td></tr><tr><td>2023</td><td>hitter</td><td>KNOWN_ZERO_RECENT</td><td>864</td><td>522</td><td>15</td><td>True</td></tr><tr><td>2023</td><td>hitter</td><td>UNKNOWN_RECENT</td><td>0</td><td>0</td><td>15</td><td>False</td></tr><tr><td>2023</td><td>pitcher</td><td>RECENT_POSITIVE</td><td>871</td><td>871</td><td>15</td><td>True</td></tr><tr><td>2023</td><td>pitcher</td><td>KNOWN_ZERO_RECENT</td><td>582</td><td>582</td><td>15</td><td>True</td></tr><tr><td>2023</td><td>pitcher</td><td>UNKNOWN_RECENT</td><td>0</td><td>0</td><td>15</td><td>False</td></tr><tr><td>2024</td><td>hitter</td><td>RECENT_POSITIVE</td><td>656</td><td>651</td><td>15</td><td>True</td></tr><tr><td>2024</td><td>hitter</td><td>KNOWN_ZERO_RECENT</td><td>755</td><td>527</td><td>15</td><td>True</td></tr><tr><td>2024</td><td>hitter</td><td>UNKNOWN_RECENT</td><td>0</td><td>0</td><td>15</td><td>False</td></tr><tr><td>2024</td><td>pitcher</td><td>RECENT_POSITIVE</td><td>863</td><td>863</td><td>15</td><td>True</td></tr><tr><td>2024</td><td>pitcher</td><td>KNOWN_ZERO_RECENT</td><td>619</td><td>619</td><td>15</td><td>True</td></tr><tr><td>2024</td><td>pitcher</td><td>UNKNOWN_RECENT</td><td>0</td><td>0</td><td>15</td><td>False</td></tr><tr><td>2025</td><td>hitter</td><td>RECENT_POSITIVE</td><td>650</td><td>648</td><td>15</td><td>True</td></tr><tr><td>2025</td><td>hitter</td><td>KNOWN_ZERO_RECENT</td><td>797</td><td>597</td><td>15</td><td>True</td></tr><tr><td>2025</td><td>hitter</td><td>UNKNOWN_RECENT</td><td>1</td><td>0</td><td>15</td><td>False</td></tr><tr><td>2025</td><td>pitcher</td><td>RECENT_POSITIVE</td><td>853</td><td>853</td><td>15</td><td>True</td></tr><tr><td>2025</td><td>pitcher</td><td>KNOWN_ZERO_RECENT</td><td>713</td><td>713</td><td>15</td><td>True</td></tr><tr><td>2025</td><td>pitcher</td><td>UNKNOWN_RECENT</td><td>0</td><td>0</td><td>15</td><td>False</td></tr></table></div><p><a href="experiment_contract.json">Frozen contract</a> · <a href="shared_preorigin_freshness_ledger.csv">Shared freshness ledger</a> · <a href="executable_tests.csv">Executable checks</a> · <a href="support_preflight_without_fit.csv">Training support</a></p><h2>Method and limitations</h2><pre>PLAYER-ANCHORED WORKLOAD RESIDUAL EXPERIMENT
+
+{
+  &quot;status&quot;: &quot;REGISTERED_EXECUTABLE_UNSCORED&quot;,
+  &quot;panel_rows&quot;: 17907,
+  &quot;eligible_rows&quot;: 15917,
+  &quot;cohort_and_eligibility_unchanged&quot;: true,
+  &quot;historical_fits&quot;: 0,
+  &quot;historical_errors_scored&quot;: 0,
+  &quot;new_forecasts&quot;: 0,
+  &quot;synthetic_and_structural_tests&quot;: 26,
+  &quot;retained_declines_and_zeros&quot;: [
+    {
+      &quot;role&quot;: &quot;hitter&quot;,
+      &quot;eligible_rows&quot;: 7273,
+      &quot;negative_primary_residuals&quot;: 2435,
+      &quot;zero_primary_exposure_targets&quot;: 3998,
+      &quot;positive_anchor_to_zero_targets&quot;: 841
+    },
+    {
+      &quot;role&quot;: &quot;pitcher&quot;,
+      &quot;eligible_rows&quot;: 8644,
+      &quot;negative_primary_residuals&quot;: 3319,
+      &quot;zero_primary_exposure_targets&quot;: 4653,
+      &quot;positive_anchor_to_zero_targets&quot;: 1487
+    }
+  ],
+  &quot;baseline_changed&quot;: false,
+  &quot;guards_thresholds_changed&quot;: false,
+  &quot;old_failed_run_reclassified&quot;: false,
+  &quot;independent_validation_claimed&quot;: false
+}
+
+DECISION AND DESIGN
+One diagnostic-informed experiment is registered, not fitted to historical players. The candidate predicts signed workload change and adds that change to each player&#x27;s own latest reconciled workload. This replaces the rejected absolute peer mean with an individual offset. Nonappearance and declining seasons remain, including large negative residuals. There is no universal growth bonus, positive PA/IP floor, new injury feature or chart assumption.
+
+EXPOSURE AND COHERENCE
+Anchors and targets are normalized by their own observed source-season calendars, preserving the prior calendar policy. Hitter G/PA and pitcher start/relief components remain joint vectors. Only nonnegative feasibility projection is applied, with no positive workload floor. Infeasible positive counts without matching appearances fall back to the entire baseline. Raw vectors/feasibility edits are exposed for a future scored build. The estimator is an unconditional residual point estimator; it does not advertise calibrated role/medical probabilities or uncertainty intervals.
+
+SHARED FRESHNESS LEDGER
+Both arms will use the same pre-origin cohort labels: positive, certified zero, or unknown. Original context labels and their provenance remain in the ledger, and the baseline&#x27;s original numerical inputs/forecasts stay untouched. This fixes a comparison-protocol mapping issue identified in the failed test, not a shortage of all absence evidence. The15-row and2% subgroup thresholds are unchanged. The old failed run is not retroactively relabeled or declared a pass.
+
+SCOPE
+The entire17907-record historical comparison pool and prior eligibility rules are retained. Danny Jansen2024 is quarantined as a target and a required latest anchor; Jeffers/Keys2026 remain outside this historical build. Secondary pitcher batting retains its pre-origin fallback. No current charts, age curves, minor/international translations or rejected Statcast predictors enter. Stewart and Misiorowski remain in an unscored source-history appendix, with no candidate projections.
+
+TESTING AND LIMITS
+The executable&#x27;s tests fit synthetic examples only. They check preserved individual workload differences within a shared pool, retained declines/nonappearances, chronology, sparse support and coherent outputs. Historical label/support counts are not accuracy tests. No historical estimator was fitted, no historical forecast errors were scored, and no2026 errors were used. Support floors, prior50 and deterministic pool backoff are fixed before scoring. Full fantasy counts and team-opportunity constraints are still pending future work; no forecast adoption is authorized by this registration.
+
+NEXT BUILD
+Run this frozen candidate against unchanged v1.43 for2023/2024/2025 with strictly earlier training and shared freshness labels. Freeze metric memberships before errors, carry every fallback, and retain all prior workload/count/role/freshness guards. Treat results as diagnostic-informed development on already reviewed seasons, not fresh independent validation. Only after workload passes may complete-count and team-opportunity work be separately implemented/reviewed.
+</pre></html>

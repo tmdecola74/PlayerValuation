@@ -1,0 +1,68 @@
+{
+  "working_forecast": "2027 v1.43 unchanged",
+  "comparison_2026": "Published 2026 v1.43 unchanged 2022\u20132025 history",
+  "players_reviewed": 2511,
+  "by_role": {
+    "hitter": 1024,
+    "pitcher": 1487
+  },
+  "matched_by_role": {
+    "hitter": 912,
+    "pitcher": 1306
+  },
+  "new_by_role": {
+    "hitter": 112,
+    "pitcher": 181
+  },
+  "exited_by_role": {
+    "hitter": 140,
+    "pitcher": 206
+  },
+  "exceptions": 2471,
+  "priority_counts": {
+    "P1": 92,
+    "P2": 2316,
+    "P3": 63
+  },
+  "flag_counts": {
+    "SPARSE_MLB_HISTORY": 1340,
+    "NO_POSITIVE_2026_MLB_HISTORY": 981,
+    "UNRESOLVED_ORIGINAL_DISPLAY_NAME": 300,
+    "MINOR_HISTORY_NOT_IN_WORKING_BASELINE": 2252,
+    "MATERIAL_YEAR_OVER_YEAR_CHANGE": 334,
+    "SHORT_MINOR_STINT_POSSIBLE_REHAB": 875,
+    "UNALLOCATED_PA_COMPONENT_RESIDUAL": 155,
+    "FORECAST_VS_LATEST_WORKLOAD_DIVERGENCE": 242,
+    "MISSING_FORECAST_COMPONENT": 1,
+    "SECONDARY_ROLE_ZERO_AB_UNDEFINED_RATES": 1,
+    "SKILL_GROUP_BASELINE_FALLBACK": 1,
+    "NEW_TO_FORECAST_POOL": 293,
+    "INJURY_SNAPSHOT_REQUIRES_REVIEW": 111,
+    "INTERNATIONAL_HISTORY_UNTRANSLATED": 118,
+    "REHAB_AFFILIATE_YEAR_OVERLAP": 29,
+    "MLB_ROLE_CHANGE": 236,
+    "MINOR_MLB_ROLE_DIFFERENCE": 360,
+    "SAVED_RETIREMENT_TRANSACTION_REQUIRES_STATUS_REVIEW": 1
+  },
+  "consistency_checks": 61273,
+  "consistency_failures": 0,
+  "missing_forecast_components": 9,
+  "PA_residuals": 155,
+  "count_changes_reconciled": 26222,
+  "coverage_only_minor_players": 12832,
+  "P1_international_coverage_only": 4,
+  "input_files_verified": 28,
+  "forecast_values_changed": false,
+  "model_selection_performed": false,
+  "2026_forecast_errors_used": false,
+  "release_recommendation": "Retain v1.43 as the unchanged research baseline with visible exceptions. Arithmetic checks pass; retain undefined zero-AB batting rates as flagged secondary-role exceptions. Complete a dated opportunity/status review before presenting it as a roster-ready or complete draft forecast. No Statcast, workload, minor, park or international replacement is adopted.",
+  "still_unresolved_review_names": 0,
+  "original_2027_names_missing": 300,
+  "no_positive_recent_observation_counts": {
+    "UNKNOWN": 362,
+    "KNOWN_ZERO": 619
+  },
+  "undefined_secondary_batting_rate_record": "Miles Mikolas, MLBAM 571945: 1 PA, 0 AB, 1 SH; nine unavailable output fields remain blank",
+  "PA_residual_total": 106.90476190476228,
+  "PA_residual_max": 4.199999999999989
+}

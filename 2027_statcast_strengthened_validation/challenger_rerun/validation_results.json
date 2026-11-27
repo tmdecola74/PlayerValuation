@@ -1,0 +1,42 @@
+{
+  "recipe_functions_checked": [
+    {
+      "function": "baseline",
+      "original_sha256": "e5ebb62cdd4e6350e10da66f2c654e97fcf543bcdafa658cd426324749a87995",
+      "executed_sha256": "e5ebb62cdd4e6350e10da66f2c654e97fcf543bcdafa658cd426324749a87995",
+      "change": "NONE"
+    },
+    {
+      "function": "features",
+      "original_sha256": "529cb696aff09100da92dc551aa4aff0bbfac57ea6e9cd5caedaf392fe179fb9",
+      "executed_sha256": "529cb696aff09100da92dc551aa4aff0bbfac57ea6e9cd5caedaf392fe179fb9",
+      "change": "NONE"
+    },
+    {
+      "function": "cases",
+      "original_sha256": "845137a8c5be94981f744c9de7855cce6bd24488dde68112077ef38a3eeaa0ce",
+      "executed_sha256": "845137a8c5be94981f744c9de7855cce6bd24488dde68112077ef38a3eeaa0ce",
+      "change": "NONE"
+    },
+    {
+      "function": "fit",
+      "original_sha256": "cb14cf3e61ebdc2e44337977a382ce031bc10ecb5ba7f763c45b37468f454ec8",
+      "executed_sha256": "8090dcb57bf24bf9ddfbe0fb0b23e096ebba1ef1211b7c89b5c3654c3bd95fbc",
+      "change": "TRAINING_TARGET_YEARS_ONLY"
+    },
+    {
+      "function": "apply",
+      "original_sha256": "a4cc50cef34302397c0bca1e81ed7157c2df03d05ae17deacab0e556c24488de",
+      "executed_sha256": "a4cc50cef34302397c0bca1e81ed7157c2df03d05ae17deacab0e556c24488de",
+      "change": "NONE"
+    }
+  ],
+  "baseline_vectors_reproduced": 2511,
+  "all_2027_player_source_years_within_2023_2026": true,
+  "working_v1_43_copies_byte_identical": true,
+  "frozen_models_and_gates_unchanged_after_2026_history_read": true,
+  "models_fit_or_scored_2026_forecast_errors": false,
+  "workload_changed": false,
+  "production_files_changed": false,
+  "source_2026_included_only_if_archive_counts_match": true
+}

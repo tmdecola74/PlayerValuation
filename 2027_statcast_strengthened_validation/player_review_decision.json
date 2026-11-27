@@ -1,0 +1,6 @@
+{
+  "trigger": "Only after statistical gates pass",
+  "triggered_roles": [],
+  "reason": "Both role bundles failed the unchanged minimum improvement guard; no adoption recommendation or player overrides.",
+  "working_baseline_unchanged": true
+}

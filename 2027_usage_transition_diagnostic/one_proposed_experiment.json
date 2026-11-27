@@ -1,0 +1,13 @@
+{
+  "status": "RECOMMENDATION_ONLY_NOT_REGISTERED_NOT_IMPLEMENTED",
+  "one_experiment": "Player-anchored workload residual estimator",
+  "hypothesis": "Replacing each player with an absolute peer-group workload mean discarded individual workload variation. Test learning workload change relative to each player latest reconciled workload, rather than another absolute cohort mean.",
+  "target": "Observed target joint workload/calendar minus the player own prior-season joint workload/prior calendar; include certified zero outcomes as negative residuals. At prediction add the estimated change to the individual prior workload vector.",
+  "fixed": "Same historical source policy, baseline comparator, full comparison cohort, support floors, prior50 and deterministic pool hierarchy where applicable; no new age/chart/Statcast/minor features and no hyperparameter search.",
+  "risk": "This is a point-estimate residual model, not a calibrated medical or appearance-probability model. Retain nonappearances, negative changes and uncertainty. No automatic growth increment, minimum workload floor or deletion of injury/role-loss cases.",
+  "coherence": "Register component-vector construction and nonnegative joint projection rules before testing; derive pitcher G/OUTS from component partitions; do not claim full fantasy counts or team budgets are solved.",
+  "guard_prerequisite": "Register a consistent pre-origin freshness ledger for both arms using certified zero-PA evidence, keeping original baseline predictions unchanged. Preserve15-row subgroup and2% thresholds. Do not retroactively relabel this failed run or call it a pass.",
+  "validation": "This recommendation is informed by2023\u20132025 development errors. A future separately registered test must retain existing earlier-only guards and exclude2026 errors; repeated development folds are not fresh independent validation. Independent prospective evidence would still be needed.",
+  "model_fitted": false,
+  "projections_changed": false
+}

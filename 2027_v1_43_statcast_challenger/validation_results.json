@@ -1,0 +1,22 @@
+{
+  "baseline_vectors_replayed": 2511,
+  "baseline_fields_replayed": 42224,
+  "original_baseline_copies_byte_identical": true,
+  "role_guard_code_unchanged": true,
+  "source_files_unchanged": true,
+  "forecast_2026_errors_scored": false,
+  "models_fit_2026_targets": false,
+  "model_decision_freeze_unchanged_after_2026_history_read": true,
+  "production_files_changed": false,
+  "workload_changed": false,
+  "minor_or_park_or_international_coefficients_used": false,
+  "approved_numeric_changes": 0,
+  "exploratory_changed_cells": 10263,
+  "protected_source_files": 42,
+  "independent_guarded_stat_fields_verified": 42224,
+  "independent_exploratory_anchor_fields_verified": 29571,
+  "independent_feature_pool_calculations_verified": 6003,
+  "all_guarded_player_ids_match": true,
+  "all_statcast_production_permissions_explicitly_false": true,
+  "display_name_annotation": "Exact MLBAM and role from 2023\u20132026 FanGraphs snapshot; not a model predictor"
+}

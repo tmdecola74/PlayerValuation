@@ -1,0 +1,22 @@
+{
+  "decline_and_nonappearance_retention.csv": "65e89ab1859402ddd62ffac435b44650899c626935d2ed67dea416feb6a90c3a",
+  "executable_tests.csv": "c8087a5f08b64be8e24d4eb14f97171449ee5053d96d55d2347ec79424241ff2",
+  "experiment_contract.json": "0c7675171e9d6e862770bbd117f342ceee3b0cc77c92e1b4d122da295bc03ace",
+  "future_subgroup_support_inventory.csv": "475818ec6099e14a5e7734c87bfd867c9cd8cf463d02af49959291ef36f9a205",
+  "historical_panel_inventory.csv": "f179330ad73866a99cb48bfe1c62dcde5a3f3d926b7ff24a23aac21930120f73",
+  "historical_panel_unscored.json": "8caf8e38b3873d42ceaa29ee93944b5443a53c8e0b5c87983616aefb8ee9c484",
+  "illustrative_cases_not_scored.csv": "8a14653d19f395097d58a553730d6646c0fb103572d42f179d40c4d27e99493d",
+  "player_anchored_workload.py": "dbd44198bf84ad8d90db96ecb114e4fbe006e9b95dfe1cddf783bca878b7e6d5",
+  "prepared_data_freeze.json": "8d344aea12e7c302e191e140d981a8a08d82ac2d103936afb614bb3b166e3192",
+  "preserved_guard_contract.json": "52c802ed7ae9c3f78b594267f749c3fe392f4c590642e9aad29930f373b444e6",
+  "READ_ME.txt": "86054eb239938d5df4a24f587b4070bad4f33bcf212ae25fe45a2366da75b00e",
+  "register_player_anchored_workload.py": "7a1c8776f181c377a923bec646711bd675ffc6d61b64c7753d312119cd871c03",
+  "registration_freeze.json": "53190413d840e3577f9ebfd2e5edb820a593c1522290387191887c074a1b3857",
+  "registration_report.html": "6be1c41de1070d10a0a5a672674d6890423ac91ee84bed71015e101419c02c12",
+  "registration_summary.json": "1e4e5c402de441de01ba015df431a3395afbcba89ed942ba297b3afd6116a6e5",
+  "shared_preorigin_freshness_ledger.csv": "65b18076ee8b624f429e911e68fc48f903b43c53f96ff69759e536ac84df5e74",
+  "signed_change_label_audit.csv": "0f321088f3891564315f4be33f501dd340fa16d3a31e41e566cd5b5f647bbb71",
+  "source_manifest.json": "8007679cf62dd81da62a6b210d568215817a938ee4e20c5141e9db9bc21de66d",
+  "support_preflight_without_fit.csv": "70dd90c8026d2092d0fe8d7cb9ebab04e509fc89999937a1505a970e43ce59c3",
+  "verification_results.json": "257b94d0f3b2860ee4b6826d498c1626469500e15f5ed04e5a639f930c1c1523"
+}

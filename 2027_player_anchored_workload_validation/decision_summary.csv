@@ -1,0 +1,3 @@
+﻿role,supported_mean_fold_MSE_change_pct,full_cohort_mean_fold_MSE_change_pct,recent_positive_mean_fold_MSE_change_pct,workload_guards_pass,forecast_adopted,next_step,evidence
+hitter,-31.46656018921793,-31.316168656269372,-9.504746078649617,True,False,Separate coherent hitter-count and team-opportunity implementation/review,Development informed by prior errors; not fresh independent validation
+pitcher,-2.882202128960143,-2.879299846453598,-0.6762023868183031,False,False,Retain v1.43; failed subgroup protections remain binding,Development informed by prior errors; not fresh independent validation

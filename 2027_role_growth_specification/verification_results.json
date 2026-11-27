@@ -1,0 +1,13 @@
+{
+  "input_files_hash_verified": 172,
+  "baseline_players": 2511,
+  "scenario_scope_rows": 780,
+  "scenario_volume_values_assigned": 0,
+  "baseline_changed": false,
+  "production_changed": false,
+  "models_fitted": false,
+  "forecast_errors_scored": false,
+  "guard_thresholds_changed": false,
+  "search_root_scope_documented": true,
+  "raw_cache_schemas_sampled_not_full_reaudit": true
+}

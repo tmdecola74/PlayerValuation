@@ -1,0 +1,11 @@
+{
+  "stage": "AFTER_UNSCORED_PANEL_PREPARATION_BEFORE_ANY_HISTORICAL_FIT",
+  "files": {
+    "historical_panel_unscored.json": "8caf8e38b3873d42ceaa29ee93944b5443a53c8e0b5c87983616aefb8ee9c484",
+    "shared_preorigin_freshness_ledger.csv": "65b18076ee8b624f429e911e68fc48f903b43c53f96ff69759e536ac84df5e74",
+    "support_preflight_without_fit.csv": "70dd90c8026d2092d0fe8d7cb9ebab04e509fc89999937a1505a970e43ce59c3",
+    "future_subgroup_support_inventory.csv": "475818ec6099e14a5e7734c87bfd867c9cd8cf463d02af49959291ef36f9a205"
+  },
+  "historical_fit": false,
+  "historical_error_scoring": false
+}

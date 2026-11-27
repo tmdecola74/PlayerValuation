@@ -1,0 +1,13 @@
+{
+  "source_hashes_verified": 58,
+  "all_supported_workloads_reproduced_from_frozen_nodes": true,
+  "all_shared_pool_predictions_identical": true,
+  "no_model_fit": true,
+  "no_new_forecast": true,
+  "no_2026_errors": true,
+  "no_baseline_or_guard_changes": true,
+  "independent_state_contribution_sums_verified": 8134,
+  "active_error_ratios_match_original_guard_results": true,
+  "zero_guard_mapping_audited": true,
+  "global_backoff_count_verified_zero": true
+}

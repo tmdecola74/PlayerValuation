@@ -1,0 +1,10 @@
+﻿step,acceptance,status
+1,"Per-game IDs unique by season/game/team/player; deduplicate substitutions, trades and doubleheaders correctly",NOT_RUN_IN_THIS_DELIVERABLE
+2,Reconcile G/GS/OUTS and hitter G/PA against certified season labels; list every mismatch and no-pitch edge case,NOT_RUN_IN_THIS_DELIVERABLE
+3,Certify hitter nonappearances within a frozen prior-history cohort; unknown labels remain unknown,NOT_RUN_IN_THIS_DELIVERABLE
+4,"Freeze role-state definitions, probability smoothing, estimator/support settings, fallback and complete-count rules before any target-error scoring",NOT_RUN_IN_THIS_DELIVERABLE
+5,Use pre-origin transforms/priors and exact same player memberships; count at least three supported origins,NOT_RUN_IN_THIS_DELIVERABLE
+6,"Preserve shortened-season observations and original inclusion policy; any calendar input must be known by forecast cutoff, not actual target schedule hindsight",NOT_RUN_IN_THIS_DELIVERABLE
+7,"Run unchanged adoption guards; report unsupported cohorts, missingness and coverage rather than reducing thresholds",NOT_RUN_IN_THIS_DELIVERABLE
+8,"Audit team opportunity budgets, coherent rate/count outputs, zero-denominator rows and uncertainty statements",NOT_RUN_IN_THIS_DELIVERABLE
+9,Review largest changes and current exceptions; keep scenario output separate from production and DRAFTTOOL,NOT_RUN_IN_THIS_DELIVERABLE

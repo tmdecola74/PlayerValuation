@@ -1,0 +1,6 @@
+﻿case,season,evidence,result,mlbam_id,game_pk,source_date
+Josh Walker credited no-out appearance,2023,"[[677020, 717170, 1, 0, 0]]",PRESERVED,,,
+Danny Jansen same game for both teams,2024,"[[746942, 111, 643376, 1, 4, 701], [746942, 141, 643376, 1, 0, 700]]",BOTH_GAME_TEAM_RECORDS_PRESERVED_NOT_DEDUPLICATED_ACROSS_TEAMS,,,
+One observed PA not allocated among boxscore components,2026,"[""Ryan Jeffers"", 680777, 823732, ""2026-04-03"", 4, 3, 0, 0, 0, 0, 0, ""D:\\JonAPythonClass\\pycharm\\PlayerValuation\\cache\\pitcher_appearance_mlb\\2026\\game_823732.json""]",SOURCE_DISCREPANCY_QUARANTINED_NOT_REPAIRED,680777,823732,2026-04-03
+One observed PA not allocated among boxscore components,2026,"[""Sean Keys"", 815873, 824784, ""2026-09-23"", 4, 3, 0, 0, 0, 0, 0, ""D:\\JonAPythonClass\\pycharm\\PlayerValuation\\cache\\pitcher_appearance_mlb\\2026\\game_824784.json""]",SOURCE_DISCREPANCY_QUARANTINED_NOT_REPAIRED,815873,824784,2026-09-23
+Misiorowski pitching-only game is MLB appearance with zero PA,2026,"[1, 0, 0, 1, 1]",SEPARATE_APPEARANCE_AND_PA_LABELS,,,

@@ -1,0 +1,10 @@
+﻿origin,definition,all_cohort_rows,supported_rows,fallback_rows,original_missing_PA_labels,original_explicit_zero_labels,required_minimum_per_fold,sample_support_if_this_definition_used,used_for_new_guard_test
+2023,ORIGINAL_KNOWN_ZERO,0,0,0,0,0,15,False,False
+2023,PRIOR_ZERO_PA_CERTIFIED,864,522,342,864,0,15,True,False
+2023,PRIOR_NO_MLB_APPEARANCE_CERTIFIED,487,487,0,487,0,15,True,False
+2024,ORIGINAL_KNOWN_ZERO,0,0,0,0,0,15,False,False
+2024,PRIOR_ZERO_PA_CERTIFIED,755,527,228,755,0,15,True,False
+2024,PRIOR_NO_MLB_APPEARANCE_CERTIFIED,497,497,0,497,0,15,True,False
+2025,ORIGINAL_KNOWN_ZERO,0,0,0,0,0,15,False,False
+2025,PRIOR_ZERO_PA_CERTIFIED,797,597,200,797,0,15,True,False
+2025,PRIOR_NO_MLB_APPEARANCE_CERTIFIED,569,569,0,569,0,15,True,False

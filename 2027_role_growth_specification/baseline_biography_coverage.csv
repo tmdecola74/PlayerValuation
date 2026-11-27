@@ -1,0 +1,3 @@
+﻿role,baseline_players,with_unique_cached_DOB,with_unique_cached_debut,DOB_conflicts,policy
+hitter,1024,179,179,0,"Use audited stable DOB/debut facts only; recompute age at each cutoff. Do not backdate current service time, current team or medical status."
+pitcher,1487,815,815,0,"Use audited stable DOB/debut facts only; recompute age at each cutoff. Do not backdate current service time, current team or medical status."

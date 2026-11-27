@@ -1,0 +1,181 @@
+FINAL REVIEW FINDINGS
+
+Retain v1.43 as the unchanged research baseline with visible exceptions. Arithmetic checks pass; retain undefined zero-AB batting rates as flagged secondary-role exceptions. Complete a dated opportunity/status review before presenting it as a roster-ready or complete draft forecast. No Statcast, workload, minor, park or international replacement is adopted.
+
+Reviewed 1,024 hitters and 1,487 pitchers. There are 334 material year-over-year changes and 92 P1 workload/status exceptions. P1 here means a review priority, not a forecast-error finding.
+
+Of 981 records with no positive recent MLB exposure, observation states are {'UNKNOWN': 362, 'KNOWN_ZERO': 619}. Unknown observations must not be described as confirmed zero or proof a player did not appear.
+
+All 61,273 arithmetic checks passed. Nine unavailable output fields occur only in Miles Mikolas's secondary hitter record (1 PA, 0 AB, 1 SH). AVG and related rates are undefined at zero AB. Keep these exceptions visible; do not invent rates. There are also 155 nonzero PA-component residuals, totaling 106.905 PA across players, maximum 4.200 PA for one player. These satisfy the original component bound but are not forced to reconcile to equality; no unverified cause is assigned.
+
+The source 2027 files lack 300 display names. Exact same-MLBAM annotations from the published 2026/2027 files supply review names for 268; 32 remain unresolved. Original names and forecasts were not overwritten.
+
+Coverage lists include 12,832 linked minor-player/role records outside the MLB baseline, 118 working-baseline international exceptions, and four corroborated P1 international identities without validated forecasts. The minor list includes all available linked levels, stale records and secondary roles; it is not a list of likely MLB arrivals. Coverage ranking is triage only.
+
+The 2026 reference is the saved four-season v1.43 reconstruction, not a three-season rebuild or proof of a preseason publication. New forecasts: 112 hitters and 181 pitchers. Pool exits: 140 hitters and 206 pitchers. Exit means outside this history-based projection pool, not a verified roster event.
+
+No current injury or roster status was certified. Saved snapshots and limited transaction histories retain their dates and limitations. Absence of an injury/rehab flag is not evidence of health or availability.
+
+No 2026 forecast error was calculated or used for selection. The Statcast challenger remains rejected under its unchanged guards. Suggested experiments are specified separately and were not run.
+
+DETAILED REVIEW
+
+2027 v1.43 PLAYER RELEASE REVIEW
+
+RECOMMENDATION
+Retain v1.43 as the unchanged research baseline with visible exceptions. Arithmetic checks pass; retain undefined zero-AB batting rates as flagged secondary-role exceptions. Complete a dated opportunity/status review before presenting it as a roster-ready or complete draft forecast. No Statcast, workload, minor, park or international replacement is adopted.
+
+{
+  "working_forecast": "2027 v1.43 unchanged",
+  "comparison_2026": "Published 2026 v1.43 unchanged 2022\u20132025 history",
+  "players_reviewed": 2511,
+  "by_role": {
+    "hitter": 1024,
+    "pitcher": 1487
+  },
+  "matched_by_role": {
+    "hitter": 912,
+    "pitcher": 1306
+  },
+  "new_by_role": {
+    "hitter": 112,
+    "pitcher": 181
+  },
+  "exited_by_role": {
+    "hitter": 140,
+    "pitcher": 206
+  },
+  "exceptions": 2471,
+  "priority_counts": {
+    "P1": 92,
+    "P2": 2316,
+    "P3": 63
+  },
+  "flag_counts": {
+    "SPARSE_MLB_HISTORY": 1340,
+    "NO_POSITIVE_2026_MLB_HISTORY": 981,
+    "UNRESOLVED_ORIGINAL_DISPLAY_NAME": 300,
+    "MINOR_HISTORY_NOT_IN_WORKING_BASELINE": 2252,
+    "MATERIAL_YEAR_OVER_YEAR_CHANGE": 334,
+    "SHORT_MINOR_STINT_POSSIBLE_REHAB": 875,
+    "UNALLOCATED_PA_COMPONENT_RESIDUAL": 155,
+    "FORECAST_VS_LATEST_WORKLOAD_DIVERGENCE": 242,
+    "MISSING_FORECAST_COMPONENT": 1,
+    "SECONDARY_ROLE_ZERO_AB_UNDEFINED_RATES": 1,
+    "SKILL_GROUP_BASELINE_FALLBACK": 1,
+    "NEW_TO_FORECAST_POOL": 293,
+    "INJURY_SNAPSHOT_REQUIRES_REVIEW": 111,
+    "INTERNATIONAL_HISTORY_UNTRANSLATED": 118,
+    "REHAB_AFFILIATE_YEAR_OVERLAP": 29,
+    "MLB_ROLE_CHANGE": 236,
+    "MINOR_MLB_ROLE_DIFFERENCE": 360,
+    "SAVED_RETIREMENT_TRANSACTION_REQUIRES_STATUS_REVIEW": 1
+  },
+  "consistency_checks": 61273,
+  "consistency_failures": 0,
+  "missing_forecast_components": 9,
+  "PA_residuals": 155,
+  "count_changes_reconciled": 26222,
+  "coverage_only_minor_players": 12832,
+  "P1_international_coverage_only": 4,
+  "input_files_verified": 26,
+  "forecast_values_changed": false,
+  "model_selection_performed": false,
+  "2026_forecast_errors_used": false,
+  "release_recommendation": "Retain v1.43 as the unchanged research baseline with visible exceptions. Arithmetic checks pass; retain undefined zero-AB batting rates as flagged secondary-role exceptions. Complete a dated opportunity/status review before presenting it as a roster-ready or complete draft forecast. No Statcast, workload, minor, park or international replacement is adopted."
+}
+
+METHOD AND LIMITATIONS
+The published 2026 comparison is the actual saved 2022–2025 four-season v1.43 file, not the pending three-season rebuild and not an archived preseason release. The 2027 forecast uses 2023–2026 player history. The entire working baseline was independently replayed; original forecast files were not edited. No 2026 forecast error was scored, and no new adoption decision was fitted from this review.
+
+Count differences are exactly separated into projected PA/IP, AB share (hit components only), and component rates. Rate changes reflect weighted history, regression and exposure composition; they do not prove a change in underlying talent. Count units are fractional expectations. IP is decimal innings, not baseball .1/.2 notation.
+
+Workload traces show each source-year contribution, including the 2022 exit, the 2026 entry and reweighting of retained years. Unknown exposure is omitted by the existing model; a certified zero is retained. History and shrinkage traces explain the model mechanically, not a probability of playing.
+
+Saved injury/depth snapshots have uncertified capture dates; saved transactions cover only previously reviewed players. Their absence never means healthy, active or guaranteed opportunity. Rehab overlaps are affiliate/year evidence, not isolated rehab counts. No current roster or injury status has been asserted. International snapshots retain their evidence dates; no current market claims are made.
+
+Minor data counts cover the existing exactly linked intake only, not every prospect or every unlinked source player. Minor and overseas histories remain inactive in this baseline; coverage lists are not automatic draft candidates. Four P1 identities are carried from the later corroborated review, superseding earlier unresolved queues.
+
+RANKING
+Priority is descriptive review urgency, then largest absolute delta divided by existing material-review thresholds. Not a talent ranking or model confidence score. Full lists preserve low-volume exceptions; substantial lists use >=200 PA or >=60 IP in either projection. Rate deltas for tiny denominators should not be interpreted as draft impact. Existing guards and coefficients are unchanged.
+
+1. P1 pitcher José Berríos: IP: 179.2 to 107.2. Largest workload contributions: 2024: -19.2 IP, 2023: -19.0 IP. Largest normalized change: IP -72.000. SO change -62.76: PA/IP contribution -62.12, AB-share contribution +0.00, component-rate contribution -0.64. No positive 2026 MLB IP; weighted older history remains, not a verified 2027 opportunity. Saved injury report: Tommy John surgery; Out 12-18 months (capture date uncertified; no current status inferred). Minor data exists but is not an input to the working baseline.  Flags: NO_POSITIVE_2026_MLB_HISTORY;INJURY_SNAPSHOT_REQUIRES_REVIEW;SHORT_MINOR_STINT_POSSIBLE_REHAB;MINOR_HISTORY_NOT_IN_WORKING_BASELINE;MATERIAL_YEAR_OVER_YEAR_CHANGE
+
+2. P1 pitcher Charlie Morton: IP: 156.3 to 92.0. Largest workload contributions: 2022: -17.2 IP, 2024: -16.5 IP. Largest normalized change: SO -69.499. SO change -69.50: PA/IP contribution -66.93, AB-share contribution +0.00, component-rate contribution -2.57. No positive 2026 MLB IP; weighted older history remains, not a verified 2027 opportunity.  Flags: NO_POSITIVE_2026_MLB_HISTORY;MATERIAL_YEAR_OVER_YEAR_CHANGE
+
+3. P1 pitcher Pablo López: IP: 142.7 to 79.2. Largest workload contributions: 2023: -19.4 IP, 2024: -18.5 IP. Largest normalized change: SO -67.303. SO change -67.30: PA/IP contribution -66.75, AB-share contribution +0.00, component-rate contribution -0.56. No positive 2026 MLB IP; weighted older history remains, not a verified 2027 opportunity. Saved injury report: Tommy John surgery (internal brace); Questionable for Opening Day (capture date uncertified; no current status inferred). Minor data exists but is not an input to the working baseline.  Flags: NO_POSITIVE_2026_MLB_HISTORY;INJURY_SNAPSHOT_REQUIRES_REVIEW;SHORT_MINOR_STINT_POSSIBLE_REHAB;MINOR_HISTORY_NOT_IN_WORKING_BASELINE;MATERIAL_YEAR_OVER_YEAR_CHANGE
+
+4. P1 pitcher Tyler Anderson: IP: 154.4 to 90.9. Largest workload contributions: 2024: -17.9 IP, 2022: -17.9 IP. Largest normalized change: IP -63.533. SO change -51.12: PA/IP contribution -51.75, AB-share contribution +0.00, component-rate contribution +0.63. No positive 2026 MLB IP; weighted older history remains, not a verified 2027 opportunity.  Flags: NO_POSITIVE_2026_MLB_HISTORY;MATERIAL_YEAR_OVER_YEAR_CHANGE
+
+5. P1 pitcher Spencer Schwellenbach: IP: 116.2 to 64.4. Largest workload contributions: 2025: -26.3 IP, 2024: -25.5 IP. Largest normalized change: IP -51.868. SO change -51.20: PA/IP contribution -51.10, AB-share contribution +0.00, component-rate contribution -0.10. No positive 2026 MLB IP; weighted older history remains, not a verified 2027 opportunity. Saved injury report: Elbow surgery (fracture); Questionable for Opening Day (capture date uncertified; no current status inferred). Minor data exists but is not an input to the working baseline.  Flags: NO_POSITIVE_2026_MLB_HISTORY;INJURY_SNAPSHOT_REQUIRES_REVIEW;SHORT_MINOR_STINT_POSSIBLE_REHAB;MINOR_HISTORY_NOT_IN_WORKING_BASELINE;MATERIAL_YEAR_OVER_YEAR_CHANGE
+
+6. P1 pitcher Kyle Hendricks: IP: 140.9 to 89.2. Largest workload contributions: 2025: -16.5 IP, 2023: -13.7 IP. Largest normalized change: IP -51.667. SO change -37.22: PA/IP contribution -37.72, AB-share contribution +0.00, component-rate contribution +0.50. No positive 2026 MLB IP; weighted older history remains, not a verified 2027 opportunity. Minor data exists but is not an input to the working baseline.  Flags: NO_POSITIVE_2026_MLB_HISTORY;SHORT_MINOR_STINT_POSSIBLE_REHAB;MINOR_HISTORY_NOT_IN_WORKING_BASELINE;MATERIAL_YEAR_OVER_YEAR_CHANGE
+
+7. P1 pitcher Andrew Heaney: IP: 133.7 to 83.4. Largest workload contributions: 2024: -16.0 IP, 2023: -14.7 IP. Largest normalized change: IP -50.233. SO change -49.93: PA/IP contribution -45.58, AB-share contribution +0.00, component-rate contribution -4.35. No positive 2026 MLB IP; weighted older history remains, not a verified 2027 opportunity. Minor data exists but is not an input to the working baseline.  Flags: NO_POSITIVE_2026_MLB_HISTORY;SHORT_MINOR_STINT_POSSIBLE_REHAB;MINOR_HISTORY_NOT_IN_WORKING_BASELINE;MATERIAL_YEAR_OVER_YEAR_CHANGE
+
+8. P1 pitcher Austin Gomber: IP: 112.8 to 64.2. Largest workload contributions: 2024: -16.5 IP, 2023: -13.9 IP. Largest normalized change: IP -48.633. SO change -34.52: PA/IP contribution -35.16, AB-share contribution +0.00, component-rate contribution +0.64. No positive 2026 MLB IP; weighted older history remains, not a verified 2027 opportunity. Minor data exists but is not an input to the working baseline.  Flags: NO_POSITIVE_2026_MLB_HISTORY;SHORT_MINOR_STINT_POSSIBLE_REHAB;MINOR_HISTORY_NOT_IN_WORKING_BASELINE;MATERIAL_YEAR_OVER_YEAR_CHANGE
+
+9. P1 hitter C.J. Cron: PA: 396.0 to 278.0. Largest workload contributions: 2022: -210.7 PA, 2023: +92.7 PA. Largest normalized change: PA -118.000. HR change -5.94: PA/IP contribution -4.71, AB-share contribution +0.14, component-rate contribution -1.37. No positive 2026 MLB PA; weighted older history remains, not a verified 2027 opportunity. Only 1 positive MLB seasons in the four-year window. Minor data exists but is not an input to the working baseline.  Flags: SPARSE_MLB_HISTORY;NO_POSITIVE_2026_MLB_HISTORY;UNRESOLVED_ORIGINAL_DISPLAY_NAME;MINOR_HISTORY_NOT_IN_WORKING_BASELINE;MATERIAL_YEAR_OVER_YEAR_CHANGE
+
+10. P1 pitcher Ryan Pepiot: IP: 118.1 to 80.5. Largest workload contributions: 2025: -16.8 IP, 2024: -13.0 IP. Largest normalized change: SO -38.506. SO change -38.51: PA/IP contribution -38.02, AB-share contribution +0.00, component-rate contribution -0.48. No positive 2026 MLB IP; weighted older history remains, not a verified 2027 opportunity. Observed MLB role sequence: 2023 SWING, 2024 STARTER, 2025 STARTER. Saved injury report: Hip surgery; Expected to be ready for Opening Day (capture date uncertified; no current status inferred). Minor data exists but is not an input to the working baseline.  Flags: NO_POSITIVE_2026_MLB_HISTORY;INJURY_SNAPSHOT_REQUIRES_REVIEW;SHORT_MINOR_STINT_POSSIBLE_REHAB;MINOR_HISTORY_NOT_IN_WORKING_BASELINE;MLB_ROLE_CHANGE;MATERIAL_YEAR_OVER_YEAR_CHANGE
+
+11. P1 pitcher Quinn Priester: IP: 97.6 to 62.1. Largest workload contributions: 2025: -22.7 IP, 2024: -6.6 IP. Largest normalized change: IP -35.459. SO change -29.49: PA/IP contribution -29.70, AB-share contribution +0.00, component-rate contribution +0.20. No positive 2026 MLB IP; weighted older history remains, not a verified 2027 opportunity. Saved injury report: Thoracic outlet decompression surgery; Expected to be ready for Opening Day (capture date uncertified; no current status inferred). Minor data exists but is not an input to the working baseline.  Flags: NO_POSITIVE_2026_MLB_HISTORY;INJURY_SNAPSHOT_REQUIRES_REVIEW;SHORT_MINOR_STINT_POSSIBLE_REHAB;MINOR_HISTORY_NOT_IN_WORKING_BASELINE;MATERIAL_YEAR_OVER_YEAR_CHANGE
+
+12. P1 hitter José Abreu: PA: 371.2 to 278.0. Largest workload contributions: 2022: -113.2 PA, 2024: +20.0 PA. Largest normalized change: AVG -0.024. HR change -2.11: PA/IP contribution -2.52, AB-share contribution +0.11, component-rate contribution +0.30. No positive 2026 MLB PA; weighted older history remains, not a verified 2027 opportunity. Minor data exists but is not an input to the working baseline.  Flags: NO_POSITIVE_2026_MLB_HISTORY;SHORT_MINOR_STINT_POSSIBLE_REHAB;MINOR_HISTORY_NOT_IN_WORKING_BASELINE
+
+13. P1 pitcher Luis Ortiz: IP: 95.1 to 62.4. Largest workload contributions: 2024: -13.6 IP, 2025: -8.9 IP. Largest normalized change: IP -32.700. SO change -28.47: PA/IP contribution -29.60, AB-share contribution +0.00, component-rate contribution +1.13. No positive 2026 MLB IP; weighted older history remains, not a verified 2027 opportunity. Observed MLB role sequence: 2023 STARTER, 2024 SWING, 2025 STARTER. Minor data exists but is not an input to the working baseline.  Flags: NO_POSITIVE_2026_MLB_HISTORY;MINOR_HISTORY_NOT_IN_WORKING_BASELINE;MLB_ROLE_CHANGE
+
+14. P1 hitter Wander Franco: PA: 442.0 to 491.0. Largest workload contributions: 2023: +163.7 PA, 2022: -114.7 PA. Largest normalized change: SB +7.333. HR change +3.00: PA/IP contribution +1.56, AB-share contribution -0.05, component-rate contribution +1.49. No positive 2026 MLB PA; weighted older history remains, not a verified 2027 opportunity. Only 1 positive MLB seasons in the four-year window.  Flags: SPARSE_MLB_HISTORY;NO_POSITIVE_2026_MLB_HISTORY;UNRESOLVED_ORIGINAL_DISPLAY_NAME
+
+15. P1 hitter Kolten Wong: PA: 332.3 to 250.0. Largest workload contributions: 2022: -165.7 PA, 2023: +83.3 PA. Largest normalized change: PA -82.333. HR change -2.55: PA/IP contribution -1.96, AB-share contribution +0.12, component-rate contribution -0.71. No positive 2026 MLB PA; weighted older history remains, not a verified 2027 opportunity. Only 1 positive MLB seasons in the four-year window. Minor data exists but is not an input to the working baseline.  Flags: SPARSE_MLB_HISTORY;NO_POSITIVE_2026_MLB_HISTORY;MINOR_HISTORY_NOT_IN_WORKING_BASELINE
+
+16. P1 hitter Jordan Diaz: PA: 212.3 to 293.0. Largest workload contributions: 2023: +97.7 PA, 2022: -17.0 PA. Largest normalized change: PA +80.667. HR change +2.99: PA/IP contribution +2.60, AB-share contribution -0.02, component-rate contribution +0.41. No positive 2026 MLB PA; weighted older history remains, not a verified 2027 opportunity. Overseas performance has no validated translation in this forecast. Only 1 positive MLB seasons in the four-year window. Minor data exists but is not an input to the working baseline.  Flags: SPARSE_MLB_HISTORY;NO_POSITIVE_2026_MLB_HISTORY;UNRESOLVED_ORIGINAL_DISPLAY_NAME;INTERNATIONAL_HISTORY_UNTRANSLATED;MINOR_HISTORY_NOT_IN_WORKING_BASELINE
+
+17. P1 hitter Eduardo Escobar: PA: 386.7 to 309.0. Largest workload contributions: 2022: -180.7 PA, 2023: +103.0 PA. Largest normalized change: PA -77.667. HR change -3.44: PA/IP contribution -2.05, AB-share contribution +0.09, component-rate contribution -1.48. No positive 2026 MLB PA; weighted older history remains, not a verified 2027 opportunity. Only 1 positive MLB seasons in the four-year window.  Flags: SPARSE_MLB_HISTORY;NO_POSITIVE_2026_MLB_HISTORY;UNRESOLVED_ORIGINAL_DISPLAY_NAME
+
+18. P1 hitter Garrett Cooper: PA: 288.5 to 229.7. Largest workload contributions: 2022: -78.2 PA, 2024: +19.3 PA. Largest normalized change: PA -58.833. HR change -1.31: PA/IP contribution -1.65, AB-share contribution +0.09, component-rate contribution +0.25. No positive 2026 MLB PA; weighted older history remains, not a verified 2027 opportunity. Minor data exists but is not an input to the working baseline.  Flags: NO_POSITIVE_2026_MLB_HISTORY;SHORT_MINOR_STINT_POSSIBLE_REHAB;MINOR_HISTORY_NOT_IN_WORKING_BASELINE
+
+19. P1 hitter Harold Castro: PA: 327.7 to 270.0. Largest workload contributions: 2022: -147.7 PA, 2023: +90.0 PA. Largest normalized change: PA -57.667. HR change -0.46: PA/IP contribution -0.89, AB-share contribution +0.02, component-rate contribution +0.42. No positive 2026 MLB PA; weighted older history remains, not a verified 2027 opportunity. Overseas performance has no validated translation in this forecast. Only 1 positive MLB seasons in the four-year window. Minor data exists but is not an input to the working baseline.  Flags: SPARSE_MLB_HISTORY;NO_POSITIVE_2026_MLB_HISTORY;INTERNATIONAL_HISTORY_UNTRANSLATED;MINOR_HISTORY_NOT_IN_WORKING_BASELINE
+
+20. P1 hitter Brandon Drury: PA: 449.0 to 414.3. Largest workload contributions: 2022: -94.7 PA, 2024: +60.0 PA. Largest normalized change: OPS -0.046. HR change -3.49: PA/IP contribution -1.07, AB-share contribution -0.02, component-rate contribution -2.40. No positive 2026 MLB PA; weighted older history remains, not a verified 2027 opportunity. Minor data exists but is not an input to the working baseline.  Flags: NO_POSITIVE_2026_MLB_HISTORY;SHORT_MINOR_STINT_POSSIBLE_REHAB;MINOR_HISTORY_NOT_IN_WORKING_BASELINE
+
+21. P1 hitter Elvis Andrus: PA: 463.0 to 406.0. Largest workload contributions: 2022: -192.3 PA, 2023: +135.3 PA. Largest normalized change: PA -57.000. HR change -2.26: PA/IP contribution -1.24, AB-share contribution -0.03, component-rate contribution -1.00. No positive 2026 MLB PA; weighted older history remains, not a verified 2027 opportunity. Only 1 positive MLB seasons in the four-year window. Minor data exists but is not an input to the working baseline.  Flags: SPARSE_MLB_HISTORY;NO_POSITIVE_2026_MLB_HISTORY;UNRESOLVED_ORIGINAL_DISPLAY_NAME;MINOR_HISTORY_NOT_IN_WORKING_BASELINE
+
+22. P1 hitter Nick Pratto: PA: 290.7 to 345.0. Largest workload contributions: 2023: +115.0 PA, 2022: -60.7 PA. Largest normalized change: PA +54.333. HR change +0.85: PA/IP contribution +1.35, AB-share contribution +0.04, component-rate contribution -0.54. No positive 2026 MLB PA; weighted older history remains, not a verified 2027 opportunity. Only 1 positive MLB seasons in the four-year window. Recorded rehab/affiliate-year overlap does not isolate annual rehab statistics. Minor data exists but is not an input to the working baseline.  Flags: SPARSE_MLB_HISTORY;NO_POSITIVE_2026_MLB_HISTORY;REHAB_AFFILIATE_YEAR_OVERLAP;MINOR_HISTORY_NOT_IN_WORKING_BASELINE
+
+23. P1 hitter DJ LeMahieu: PA: 291.7 to 240.7. Largest workload contributions: 2022: -54.1 PA, 2023: -18.7 PA. Largest normalized change: PA -51.033. HR change -1.21: PA/IP contribution -1.05, AB-share contribution +0.03, component-rate contribution -0.19. No positive 2026 MLB PA; weighted older history remains, not a verified 2027 opportunity. Minor data exists but is not an input to the working baseline.  Flags: NO_POSITIVE_2026_MLB_HISTORY;SHORT_MINOR_STINT_POSSIBLE_REHAB;MINOR_HISTORY_NOT_IN_WORKING_BASELINE
+
+24. P1 hitter Christian Arroyo: PA: 237.3 to 206.0. Largest workload contributions: 2022: -100.0 PA, 2023: +68.7 PA. Largest normalized change: AVG -0.012. HR change -0.28: PA/IP contribution -0.70, AB-share contribution +0.03, component-rate contribution +0.40. No positive 2026 MLB PA; weighted older history remains, not a verified 2027 opportunity. Only 1 positive MLB seasons in the four-year window. Minor data exists but is not an input to the working baseline.  Flags: SPARSE_MLB_HISTORY;NO_POSITIVE_2026_MLB_HISTORY;MINOR_HISTORY_NOT_IN_WORKING_BASELINE
+
+25. P1 hitter Jean Segura: PA: 346.3 to 326.0. Largest workload contributions: 2022: -129.0 PA, 2023: +108.7 PA. Largest normalized change: AVG -0.012. HR change -0.77: PA/IP contribution -0.38, AB-share contribution +0.02, component-rate contribution -0.41. No positive 2026 MLB PA; weighted older history remains, not a verified 2027 opportunity. Only 1 positive MLB seasons in the four-year window. Minor data exists but is not an input to the working baseline.  Flags: SPARSE_MLB_HISTORY;NO_POSITIVE_2026_MLB_HISTORY;MINOR_HISTORY_NOT_IN_WORKING_BASELINE
+
+26. P1 hitter Seth Brown: PA: 281.5 to 234.3. Largest workload contributions: 2022: -55.5 PA, 2024: +13.3 PA. Largest normalized change: PA -47.167. HR change -2.26: PA/IP contribution -1.56, AB-share contribution +0.02, component-rate contribution -0.72. No positive 2026 MLB PA; weighted older history remains, not a verified 2027 opportunity. Minor data exists but is not an input to the working baseline.  Flags: NO_POSITIVE_2026_MLB_HISTORY;SHORT_MINOR_STINT_POSSIBLE_REHAB;MINOR_HISTORY_NOT_IN_WORKING_BASELINE
+
+27. P1 hitter Hunter Renfroe: PA: 332.2 to 286.7. Largest workload contributions: 2022: -52.2 PA, 2023: -18.3 PA. Largest normalized change: PA -45.533. HR change -2.80: PA/IP contribution -1.44, AB-share contribution +0.01, component-rate contribution -1.36. No positive 2026 MLB PA; weighted older history remains, not a verified 2027 opportunity. Minor data exists but is not an input to the working baseline.  Flags: NO_POSITIVE_2026_MLB_HISTORY;SHORT_MINOR_STINT_POSSIBLE_REHAB;MINOR_HISTORY_NOT_IN_WORKING_BASELINE
+
+28. P1 hitter Joey Votto: PA: 286.7 to 242.0. Largest workload contributions: 2022: -125.3 PA, 2023: +80.7 PA. Largest normalized change: PA -44.667. HR change -1.06: PA/IP contribution -1.88, AB-share contribution +0.02, component-rate contribution +0.81. No positive 2026 MLB PA; weighted older history remains, not a verified 2027 opportunity. Only 1 positive MLB seasons in the four-year window. Minor data exists but is not an input to the working baseline.  Flags: SPARSE_MLB_HISTORY;NO_POSITIVE_2026_MLB_HISTORY;UNRESOLVED_ORIGINAL_DISPLAY_NAME;MINOR_HISTORY_NOT_IN_WORKING_BASELINE
+
+29. P1 hitter Mark Canha: PA: 344.2 to 301.0. Largest workload contributions: 2022: -54.2 PA, 2023: -16.9 PA. Largest normalized change: PA -43.200. HR change -1.07: PA/IP contribution -0.81, AB-share contribution +0.02, component-rate contribution -0.28. No positive 2026 MLB PA; weighted older history remains, not a verified 2027 opportunity. Minor data exists but is not an input to the working baseline.  Flags: NO_POSITIVE_2026_MLB_HISTORY;SHORT_MINOR_STINT_POSSIBLE_REHAB;MINOR_HISTORY_NOT_IN_WORKING_BASELINE
+
+30. P1 hitter Thairo Estrada: PA: 340.4 to 297.8. Largest workload contributions: 2022: -54.1 PA, 2023: -17.7 PA. Largest normalized change: PA -42.567. HR change -1.12: PA/IP contribution -1.05, AB-share contribution +0.06, component-rate contribution -0.12. No positive 2026 MLB PA; weighted older history remains, not a verified 2027 opportunity. Minor data exists but is not an input to the working baseline.  Flags: NO_POSITIVE_2026_MLB_HISTORY;SHORT_MINOR_STINT_POSSIBLE_REHAB;MINOR_HISTORY_NOT_IN_WORKING_BASELINE
+
+31. P1 hitter Alex Verdugo: PA: 456.3 to 413.8. Largest workload contributions: 2022: -64.4 PA, 2025: +21.3 PA. Largest normalized change: PA -42.467. HR change -0.86: PA/IP contribution -0.77, AB-share contribution -0.01, component-rate contribution -0.08. No positive 2026 MLB PA; weighted older history remains, not a verified 2027 opportunity. Minor data exists but is not an input to the working baseline.  Flags: NO_POSITIVE_2026_MLB_HISTORY;SHORT_MINOR_STINT_POSSIBLE_REHAB;MINOR_HISTORY_NOT_IN_WORKING_BASELINE
+
+32. P1 hitter Anthony Santander: PA: 483.8 to 441.5. Largest workload contributions: 2022: -64.7 PA, 2024: +22.2 PA. Largest normalized change: PA -42.300. HR change -2.44: PA/IP contribution -2.03, AB-share contribution -0.01, component-rate contribution -0.40. No positive 2026 MLB PA; weighted older history remains, not a verified 2027 opportunity. Minor data exists but is not an input to the working baseline.  Flags: NO_POSITIVE_2026_MLB_HISTORY;SHORT_MINOR_STINT_POSSIBLE_REHAB;MINOR_HISTORY_NOT_IN_WORKING_BASELINE
+
+33. P1 hitter Anthony Rizzo: PA: 419.2 to 390.3. Largest workload contributions: 2022: -91.3 PA, 2024: +62.5 PA. Largest normalized change: HR -3.326. HR change -3.33: PA/IP contribution -0.82, AB-share contribution +0.14, component-rate contribution -2.64. No positive 2026 MLB PA; weighted older history remains, not a verified 2027 opportunity. Minor data exists but is not an input to the working baseline.  Flags: NO_POSITIVE_2026_MLB_HISTORY;UNRESOLVED_ORIGINAL_DISPLAY_NAME;SHORT_MINOR_STINT_POSSIBLE_REHAB;MINOR_HISTORY_NOT_IN_WORKING_BASELINE
+
+34. P1 hitter Robbie Grossman: PA: 342.0 to 303.3. Largest workload contributions: 2022: -79.5 PA, 2024: +40.8 PA. Largest normalized change: PA -38.667. HR change -0.44: PA/IP contribution -0.78, AB-share contribution -0.03, component-rate contribution +0.36. No positive 2026 MLB PA; weighted older history remains, not a verified 2027 opportunity. Minor data exists but is not an input to the working baseline.  Flags: NO_POSITIVE_2026_MLB_HISTORY;SHORT_MINOR_STINT_POSSIBLE_REHAB;MINOR_HISTORY_NOT_IN_WORKING_BASELINE
+
+35. P1 hitter David Peralta: PA: 352.3 to 314.0. Largest workload contributions: 2022: -81.7 PA, 2024: +43.3 PA. Largest normalized change: PA -38.333. HR change -0.57: PA/IP contribution -0.98, AB-share contribution +0.04, component-rate contribution +0.37. No positive 2026 MLB PA; weighted older history remains, not a verified 2027 opportunity. Minor data exists but is not an input to the working baseline.  Flags: NO_POSITIVE_2026_MLB_HISTORY;SHORT_MINOR_STINT_POSSIBLE_REHAB;MINOR_HISTORY_NOT_IN_WORKING_BASELINE
+
+36. P1 hitter Tim Anderson: PA: 248.2 to 212.7. Largest workload contributions: 2022: -35.1 PA, 2023: -17.5 PA. Largest normalized change: AVG -0.009. HR change -0.23: PA/IP contribution -0.30, AB-share contribution +0.00, component-rate contribution +0.06. No positive 2026 MLB PA; weighted older history remains, not a verified 2027 opportunity. Minor data exists but is not an input to the working baseline.  Flags: NO_POSITIVE_2026_MLB_HISTORY;SHORT_MINOR_STINT_POSSIBLE_REHAB;MINOR_HISTORY_NOT_IN_WORKING_BASELINE
+
+37. P1 hitter Chris Taylor: PA: 246.0 to 208.5. Largest workload contributions: 2022: -45.4 PA, 2023: -12.8 PA. Largest normalized change: PA -37.500. HR change -1.05: PA/IP contribution -0.94, AB-share contribution -0.00, component-rate contribution -0.10. No positive 2026 MLB PA; weighted older history remains, not a verified 2027 opportunity. Minor data exists but is not an input to the working baseline.  Flags: NO_POSITIVE_2026_MLB_HISTORY;UNRESOLVED_ORIGINAL_DISPLAY_NAME;SHORT_MINOR_STINT_POSSIBLE_REHAB;MINOR_HISTORY_NOT_IN_WORKING_BASELINE
+
+38. P1 hitter Justin Turner: PA: 416.5 to 379.5. Largest workload contributions: 2022: -53.2 PA, 2023: -20.9 PA. Largest normalized change: PA -37.000. HR change -1.26: PA/IP contribution -0.93, AB-share contribution -0.03, component-rate contribution -0.31. No positive 2026 MLB PA; weighted older history remains, not a verified 2027 opportunity.  Flags: NO_POSITIVE_2026_MLB_HISTORY
+
+39. P1 hitter Jesse Winker: PA: 278.9 to 242.7. Largest workload contributions: 2022: -54.7 PA, 2024: +16.9 PA. Largest normalized change: PA -36.233. HR change -0.78: PA/IP contribution -0.85, AB-share contribution +0.02, component-rate contribution +0.05. No positive 2026 MLB PA; weighted older history remains, not a verified 2027 opportunity. Minor data exists but is not an input to the working baseline.  Flags: NO_POSITIVE_2026_MLB_HISTORY;SHORT_MINOR_STINT_POSSIBLE_REHAB;MINOR_HISTORY_NOT_IN_WORKING_BASELINE
+
+40. P1 hitter Whit Merrifield: PA: 456.5 to 420.7. Largest workload contributions: 2022: -91.7 PA, 2024: +55.8 PA. Largest normalized change: PA -35.833. HR change -0.72: PA/IP contribution -0.66, AB-share contribution -0.06, component-rate contribution -0.00. No positive 2026 MLB PA; weighted older history remains, not a verified 2027 opportunity.  Flags: NO_POSITIVE_2026_MLB_HISTORY
+

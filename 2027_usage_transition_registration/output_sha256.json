@@ -1,0 +1,23 @@
+{
+  "candidate_only_pitcher_nonappearance_certificate.csv": "ee35bfa4f0c87943672c189666166adb9905d78ffb2e1fbabb1b3e8a8d15233c",
+  "cohort_preservation.csv": "568d0b9c6f41b0b5305644b9df1e53521a3a6df283cf7e99aca9829c97d260f7",
+  "exception_disposition.csv": "029e984435ee03573e241f85fd88a07d076d25a21a4969144f13339d6de4bd19",
+  "executable_tests.csv": "3e354845ff9933876218db0360ed46cea4431afd2f723902cc6f3f152219fe18",
+  "experiment_contract.json": "bf770ba04fe9446a6644a75c29963bcf3cf274c49e2e9880380b9f381b788e5f",
+  "feature_and_target_exclusions.csv": "4b958d6b91a5c98602dbd669e9c2c3199295ae39f6a0c59af2f41a840d5efc05",
+  "historical_panel_inventory.csv": "8cb05d4353aa594b57c8068be0c3af40d06e825fc3d0ab81719aabf7200f6030",
+  "historical_panel_unscored.json": "b3ec53defb09eb09cd0bb9b12ca10bb184117573aefd3f18ac4a7c0d46694199",
+  "initial_unscored_registration_freeze.json": "da546291f48c1fcb3dbec5716f0ada7a6e0e7704e9b402e88cfd9a2f707a7c0f",
+  "label_calendar_normalization.csv": "ddd50813a500b17ced95f09814ab92bf16a603d373c106af0e582b55e903323e",
+  "preserved_guard_contract.json": "52c802ed7ae9c3f78b594267f749c3fe392f4c590642e9aad29930f373b444e6",
+  "pre_scoring_data_amendment.json": "8cfea656e1e71fa37747df6a3df7e26a56ef50d1ae82cb889d2fb9aada301eff",
+  "READ_ME.txt": "616464dc91e2c012f8774c5f438e143df78816792c0519de679d4050cb4baa3a",
+  "register_usage_transition.py": "93644840560ccd2c5d57a0b599eb8b1232f1f96abec5d78d7c30003417983de7",
+  "registration_freeze.json": "9d4b715aeba60144b8bee15e658290836d9f0b97f011dcb76752acacd546c31d",
+  "registration_report.html": "dc6e9628be3ae81cd44c79e62181ca8690248297f939b392e8991bfa1a69979f",
+  "registration_summary.json": "0a1e582364b733f4643053e8d1e07f6ae7852e7575e92d98e3b7f734ad7e3d06",
+  "source_manifest.json": "3896e16bef674cb33af6c1122f81b550f7bcd88d5ae392ab724b2e31f6b19c1c",
+  "support_preflight_without_fit.csv": "a7199d1660faead16153e66892adc49eabdd091f86f8de1441b0c5934125abd8",
+  "usage_transition_model.py": "6e70bd3080798456011c87878aaa55cfe7a05292b6e8788b2195a82d964d000a",
+  "verification_results.json": "9ea4a7e6351b4d1bf10b6505afc61797bb09d33bb5fbc7ed4868337d7c2998c9"
+}

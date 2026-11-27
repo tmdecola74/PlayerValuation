@@ -1,0 +1,11 @@
+--- prior_fit
++++ extended_fit
+@@ -1,7 +1,7 @@
+ def fit(origin):
+  model={}
+  for role in TARGETS:
+-  training=[r for y in [2024,2025] if y<origin for r in cases(y,role)]
++  training=[r for y in [2022,2023,2024,2025] if y<origin for r in cases(y,role)]
+   years=sorted({r['target'] for r in training});entry=dict(n=len(training),target_years=years,max_target_year=max(years) if years else None,coefficients=None)
+   if len(training)>=100:
+    x=np.array([r['x'] for r in training]);t=np.array([r['residual'] for r in training]);w=np.array([r['weight'] for r in training],dtype=float);mu=np.average(x,axis=0,weights=w);sd=np.sqrt(np.average((x-mu)**2,axis=0,weights=w));sd=np.where(sd<1e-8,1,sd);z=np.column_stack((np.ones(len(x)),np.clip((x-mu)/sd,-4,4)));w/=w.mean();penalty=20*np.eye(4);penalty[0,0]=0;beta=np.linalg.solve(z.T@(z*w[:,None])+penalty,z.T@(t*w[:,None]));entry['coefficients']=dict(mean=mu.tolist(),scale=sd.tolist(),beta=beta.tolist())

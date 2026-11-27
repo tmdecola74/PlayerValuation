@@ -1,0 +1,26 @@
+{
+  "version": "GAME_USAGE_0.1",
+  "registered_before_reconstruction": true,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "scope": "MLB regular season only. 2019\u20132025 historical adapter/certification; 2026 separate 2027-history-only outputs.",
+  "hitter_cohort": "For target Y, freeze exact MLBAM IDs with positive eligible MLB PA in any of Y-4..Y-1, matching baseline history policy. Includes secondary-role batting records; no roster/debut/prospect expansion.",
+  "appearance": "Credited batting gamesPlayed=1, including zero-PA appearances; roster listing is not appearance. Pitching gamesPitched=1, including zero-out/no-pitch appearances.",
+  "starts": "Batting initial order code 100..900 ending00, corroborated with isSubstitute where present. A starting batting-order assignment is distinct from credited G. Pitching gamesStarted splits actual outing outs; never season IP/GS.",
+  "lineup": "Store each batting order code, slot, substitution index and starting flag; no inference from final team battingOrder alone.",
+  "late_window": "Last60 completed regular-season team games in each source season, sorted officialDate/gameNumber/gamePk; trades remain in game/team records. No target-season features.",
+  "zero_policy": "Only certify absent members of frozen prior-positive-PA cohort when full-season schedule/standings and every game validate and no eligible source positive label contradicts absence. Numeric mismatches quarantine affected player usage. Unknown is not zero.",
+  "identity": "Canonical positive MLBAM from eligible prior-history labels; source role and each boxscore person.id exact. No name-only links and no current roster requirement for historical nonappearance.",
+  "source": "Read-only existing cached official MLB JSON wrappers, bound to original certification hashes; no new download or current depth charts",
+  "forecast_changes": false,
+  "model_fits": false,
+  "forecast_errors_scored": false
+}

@@ -1,0 +1,64 @@
+[
+  {
+    "role": "hitter",
+    "core_guard": {
+      "origin": 2026,
+      "role": "hitter",
+      "experiment": "WORKLOAD",
+      "eligible": true,
+      "reasons": [],
+      "selected_for_research": "freshness_workload",
+      "years": [
+        2023,
+        2024,
+        2025
+      ],
+      "mean_mse_ratio": 0.9417327330676272,
+      "default_changed": false
+    },
+    "extra_guard_reasons": [
+      "SUBGROUP_WORKLOAD_GUARD_RECENT_POSITIVE",
+      "UNSUPPORTED_GUARD_KNOWN_ZERO_RECENT"
+    ],
+    "workload_pass": false,
+    "full_count_guards": "NOT_EVALUATED_NO_COMPLETE_COUNT_REPLACEMENT",
+    "team_opportunity_checks": "NOT_IMPLEMENTED",
+    "adoptable": false,
+    "baseline_changed": false
+  },
+  {
+    "role": "pitcher",
+    "core_guard": {
+      "origin": 2026,
+      "role": "pitcher",
+      "experiment": "WORKLOAD",
+      "eligible": false,
+      "reasons": [
+        "LOW_HISTORY_GUARD",
+        "METRIC_REGRESSION_IP",
+        "NO_ONE_PERCENT_MSE_IMPROVEMENT",
+        "RECENT_GUARD_2024"
+      ],
+      "selected_for_research": "weighted_actuals",
+      "years": [
+        2023,
+        2024,
+        2025
+      ],
+      "mean_mse_ratio": 1.0335285756344532,
+      "default_changed": false
+    },
+    "extra_guard_reasons": [
+      "SUBGROUP_WORKLOAD_GUARD_RECENT_POSITIVE",
+      "SUBGROUP_WORKLOAD_GUARD_STARTER",
+      "SUBGROUP_WORKLOAD_GUARD_SWING",
+      "SUBGROUP_WORKLOAD_GUARD_RELIEVER",
+      "OPPORTUNITY_COUNT_GUARD_GS"
+    ],
+    "workload_pass": false,
+    "full_count_guards": "NOT_EVALUATED_NO_COMPLETE_COUNT_REPLACEMENT",
+    "team_opportunity_checks": "NOT_IMPLEMENTED",
+    "adoptable": false,
+    "baseline_changed": false
+  }
+]

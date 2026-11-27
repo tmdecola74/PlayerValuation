@@ -1,0 +1,1 @@
+Start with comparison_report.html or REVIEW_REPORT.txt. For usable forecasts choose 2027_hitters_after_adoption_guards.csv and 2027_pitchers_after_adoption_guards.csv. Statcast exploratory files are not adopted. PA/IP and all production files are unchanged.

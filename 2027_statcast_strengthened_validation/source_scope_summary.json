@@ -1,0 +1,86 @@
+{
+  "bridge_passed": true,
+  "prior_admitted_historical_bundles_compared": 3593,
+  "prior_admitted_bridge_mismatches": 0,
+  "older_compatible_bundles": 2429,
+  "scope_2026": {
+    "ELIGIBLE_MATCH": 1193,
+    "EXCLUDED": 302
+  },
+  "scope_2026_exact_matches": 1493,
+  "archive_years": [
+    {
+      "year": 2021,
+      "windows": 246,
+      "first_day": "2021-03-01",
+      "last_day": "2021-11-01",
+      "pitch_rows": 712320,
+      "regular_games": 2429,
+      "inplay_BBE": 121706,
+      "empty_windows": 64,
+      "all_hashes_verified": true,
+      "all_scheduled_regular_games_present": true
+    },
+    {
+      "year": 2022,
+      "windows": 246,
+      "first_day": "2022-03-01",
+      "last_day": "2022-11-01",
+      "pitch_rows": 710210,
+      "regular_games": 2430,
+      "inplay_BBE": 124267,
+      "empty_windows": 67,
+      "all_hashes_verified": true,
+      "all_scheduled_regular_games_present": true
+    },
+    {
+      "year": 2023,
+      "windows": 246,
+      "first_day": "2023-03-01",
+      "last_day": "2023-11-01",
+      "pitch_rows": 720684,
+      "regular_games": 2430,
+      "inplay_BBE": 124234,
+      "empty_windows": 64,
+      "all_hashes_verified": true,
+      "all_scheduled_regular_games_present": true
+    },
+    {
+      "year": 2024,
+      "windows": 246,
+      "first_day": "2024-03-01",
+      "last_day": "2024-11-01",
+      "pitch_rows": 711899,
+      "regular_games": 2429,
+      "inplay_BBE": 124203,
+      "empty_windows": 61,
+      "all_hashes_verified": true,
+      "all_scheduled_regular_games_present": true
+    },
+    {
+      "year": 2025,
+      "windows": 246,
+      "first_day": "2025-03-01",
+      "last_day": "2025-11-01",
+      "pitch_rows": 712528,
+      "regular_games": 2430,
+      "inplay_BBE": 124888,
+      "empty_windows": 62,
+      "all_hashes_verified": true,
+      "all_scheduled_regular_games_present": true
+    },
+    {
+      "year": 2026,
+      "windows": 241,
+      "first_day": "2026-03-01",
+      "last_day": "2026-10-27",
+      "pitch_rows": 716792,
+      "regular_games": 2429,
+      "inplay_BBE": 124611,
+      "empty_windows": 57,
+      "all_hashes_verified": true,
+      "all_scheduled_regular_games_present": true
+    }
+  ],
+  "2026_forecast_errors_read": false
+}

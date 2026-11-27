@@ -1,0 +1,129 @@
+{
+  "version": "PLAYER_ANCHORED_WORKLOAD_0.1",
+  "date": "2026-11-27",
+  "status": "REGISTERED_EXECUTABLE_UNSCORED_NO_HISTORICAL_FIT",
+  "informed_by": "Reviewed2023\u20132025 usage-transition development errors; not fresh independent validation",
+  "hypothesis": "Retain individual workload variation by predicting a signed workload change relative to the player own latest reconciled season, rather than replacing the player with an absolute peer mean.",
+  "arms": [
+    "A_UNCHANGED_V1_43",
+    "B_PLAYER_ANCHORED_RESIDUAL"
+  ],
+  "origins": [
+    2023,
+    2024,
+    2025
+  ],
+  "training_targets": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "chronology": "Fit strictly earlier targets, maximum2025. Origin2026 means final coefficient freeze through2025, not evaluation of2026. No2026 target errors, forecasts or new2027 predictions in this build.",
+  "anchor": "Latest prior completed season only: source season Y-1, normalized by that season observed maximum team games. Missing is unknown; use zero only with source-reconciled zero or the separate certified participation ledger. No fallback to an older or peak season.",
+  "response": "Residual = target joint workload/target observed calendar minus anchor joint workload/anchor observed calendar. Preserve signed components, all nonappearances and declines. Unknown/conflicting rows remain excluded/fallback, never imputed.",
+  "estimator": "One unconditional residual mean per registered pool; root sample mean and child (sum residual+50\u00d7parent mean)/(n+50). Preserve root\u2192latest_state\u2192latest/recent/experience hierarchy. No search or fitted coefficient multiplying the anchor; anchor coefficient fixed at1.",
+  "departure_from_failed_model": "Replace absolute probability-weighted conditional workload means with a signed residual point estimator plus personal anchor. No state-probability output: nonappearance risk enters through observed zero target residuals, not a claim of calibrated medical probabilities.",
+  "settings": {
+    "minimum_known": 200,
+    "minimum_positive": 20,
+    "minimum_zero": 20,
+    "minimum_each_active_state": 20,
+    "minimum_pure_start_seasons": 50,
+    "minimum_pure_relief_seasons": 100,
+    "parent_prior_rows": 50
+  },
+  "states": {
+    "hitter": [
+      "NO_PA",
+      "LIMITED_OR_BENCH",
+      "PART_TIME_STARTER",
+      "REGULAR_STARTER"
+    ],
+    "pitcher": [
+      "NO_PITCHING_APPEARANCE",
+      "RELIEF",
+      "SWING_OR_LIMITED",
+      "ROTATION"
+    ]
+  },
+  "fields": {
+    "hitter": [
+      "MLB_G",
+      "BATTING_G",
+      "STARTS",
+      "PA"
+    ],
+    "pitcher": [
+      "G",
+      "GS",
+      "GR",
+      "START_OUTS",
+      "RELIEF_OUTS"
+    ]
+  },
+  "support": "Retain >=200 known global/cell cases, >=20 positive and20 zero, >=20 each active global state, pitcher >=50 pure-start and100 pure-relief target seasons. Same deterministic sparse-pool backoff; no support threshold reduction.",
+  "states_and_secondary_roles": "Retain frozen pre-origin state definitions, last60 source and history bins. Retain predictor-time secondary pitcher batting fallback (>=5 pitching G and <100 PA). No current charts, age, injury features, translations or Statcast.",
+  "projection": "Prediction normalized = own anchor + selected mean residual; multiply by explicit planned calendar(default162). Clip negative components to0, with no positive workload floor. Hitter BATTING_G<=MLB_G and STARTS<=BATTING_G; pitcher G=GS+GR and OUTS=START_OUTS+RELIEF_OUTS. Infeasible positive PA without batting G or positive outing outs without corresponding appearances returns full-baseline fallback. Expose raw vector and feasibility edits.",
+  "freshness_protocol": "Build a shared pre-origin ledger for BOTH comparator arms: reconciled positive exposure =>RECENT_POSITIVE; reconciled/certified zero=>KNOWN_ZERO_RECENT; otherwise UNKNOWN_RECENT. Keep separate actual MLB appearance and exposure labels. Do not inject ledger zeros into baseline historical numeric inputs or change baseline forecasts.",
+  "exceptions": "Jansen2024 excluded as a target and required latest anchor for2025. Jeffers/Keys2026 remain quarantined outside this historical build. Do not repair source counts.",
+  "comparison": "Preserve frozen full cohort, eligible target policy and fallback reporting. Future scorer must use shared ledger and identical metric memberships for both arms. Preserve baseline original-context columns for provenance; do not rewrite old failed-run guards.",
+  "guards": {
+    "core": {
+      "version": "1.42.0",
+      "origins": [
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "weights": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "skill_prior_exposure": {
+        "hitter_AB": 200,
+        "pitcher_OUTS": 300
+      },
+      "minimum_population_exposure": 10000,
+      "workload_group_prior_players": 50,
+      "minimum_selection_folds": 3,
+      "minimum_rows_per_fold": 30,
+      "minimum_improvement": 0.01,
+      "maximum_individual_metric_degradation": 0.02,
+      "maximum_recent_degradation": 0.02,
+      "maximum_low_history_degradation": 0.02,
+      "minimum_cohort_rows": 15,
+      "final_selection_max_season": 2025,
+      "include_2020_2021": true,
+      "default_skill": "weighted_actuals",
+      "default_workload": "accepted_ip",
+      "automatic_promotion": false,
+      "valuation_enabled": false
+    },
+    "legacy_workload": {
+      "minimum_supported_years": 3,
+      "minimum_rows_per_fold": 30,
+      "mean_IP_MSE_ratio_max": 0.99,
+      "each_metric_mean_ratio_max": 1.02,
+      "last_two_year_each_IP_ratio_max": 1.02,
+      "low_history_mean_IP_ratio_max": 1.02,
+      "minimum_subgroup_rows": 15,
+      "additional_prior_role_and_freshness_IP_guards_max": 1.02,
+      "additional_G_GS_mean_MSE_guard_max": 1.02,
+      "minor_increment_mean_IP_ratio_max": 0.99
+    }
+  },
+  "guard_limits_unchanged": true,
+  "adoption": "No automatic adoption. Full count, skill preservation and team-opportunity handling remain mandatory future work even after any workload pass.",
+  "present_build": "Register code/contracts before panel preparation; synthetic tests and historical label/support counts only. No historical fitting, forecast-error scoring, calibrated uncertainty intervals or forecasts.",
+  "illustrations": "Stewart and Misiorowski remain unscored published-history illustrations; no new numerical candidate projection for them.",
+  "future_validation": "Existing earlier-only guards remain necessary; repeated2023\u20132025 development tests are not an untouched holdout. Any future independent evidence must be labeled separately."
+}

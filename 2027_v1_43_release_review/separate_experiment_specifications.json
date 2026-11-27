@@ -1,0 +1,25 @@
+{
+  "status": "SPECIFIED_NOT_RUN",
+  "not_authorized_by_this_review": "No formula, threshold, production forecast or player-specific override changed",
+  "experiments": [
+    {
+      "name": "MLB opportunity and stale history coverage",
+      "trigger": "Positive PA/IP survives from older MLB seasons with no positive latest season, or documented non-MLB/retirement evidence",
+      "candidate": "Externally timestamped availability/roster evidence kept separate from skill; define missingness, returner, injury and nonappearance rules before testing",
+      "validation": "Earlier-only rolling origins through 2025; retain existing adoption guards, >=3 supported folds and common player samples; 2026 forecast errors excluded; no handpicked-player fitting",
+      "rejected_workload_model": "Remains inactive; this is not permission to reactivate it"
+    },
+    {
+      "name": "Minor-history coverage and rehab robustness",
+      "trigger": "Minor-only prospects lack forecasts and MLB players have available but inactive minor history",
+      "candidate": "Separately registered complete skill-plus-opportunity approach, with documented rehab, role and sample policies; do not merge previously reviewed minor coefficients automatically",
+      "validation": "Earlier-only common-cohort complete-projection evaluation under unchanged guards, followed by player review"
+    },
+    {
+      "name": "International coverage",
+      "trigger": "Corroborated identity does not imply validated MLB translation or workload",
+      "candidate": "Independently justified league/component priors or more transition evidence; explicit uncertainty; no minor coefficient substitution",
+      "validation": "No adoption until independently specified evidence supports eligible earlier-only tests"
+    }
+  ]
+}

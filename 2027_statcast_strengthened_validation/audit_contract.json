@@ -1,0 +1,109 @@
+{
+  "version": "STATCAST_COMPATIBILITY_EXTENSION_0.1",
+  "registered_before_reconstruction_or_model_scoring": true,
+  "source_years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "features": [
+    "gb_rate",
+    "ld_rate",
+    "fb_rate"
+  ],
+  "unchanged_recipe": {
+    "version": "2027_V1_43_STATCAST_BB_0.1",
+    "status": "SEPARATE_RESEARCH_NOT_PRODUCTION",
+    "registered_before_loading_or_scoring": true,
+    "baseline": "Exact v1.43 skill-regressed 2027 release; player history 2023\u20132026, fixed population priors through 2025",
+    "features": [
+      "gb_rate",
+      "ld_rate",
+      "fb_rate"
+    ],
+    "feature_definition": "Official exported fraction of all BBE; BBE>=30 and existing v1.21 masks. Historical rows must additionally pass v1.22 RESEARCH_ELIGIBLE_RECONCILED_DEFINITION. No archive proxy substitution.",
+    "excluded_feature_families": "direction/pull-air, EV, bat tracking, baserunning, pitch arsenal and other unresolved or short-history families are audited but not predictors",
+    "targets": {
+      "hitter": [
+        "1B",
+        "2B",
+        "3B"
+      ],
+      "pitcher": [
+        "SO",
+        "BB"
+      ]
+    },
+    "feature_pooling": "Within prior four source years, BBE x 1:2:3:4 exposure weighting; all three metrics from a complete compatible source season; unknown not zero.",
+    "training": "Residual target count/exposure minus exact historical v1.43-style component rate. Train only on eligible targets strictly earlier than origin. Targets 2024 and 2025 available; 2026 targets prohibited.",
+    "model": "Single fixed ridge per role, penalty 20, intercept unpenalized; earlier training-weighted standardization, z clipped [-4,4], sample weights=min(target denominator,600) normalized to mean 1; minimum100 training players/seasons. No hyperparameter or feature search.",
+    "application": "Half predicted residual x frozen forecast denominator, capped to plus/minus half baseline count. Hitters adjust 1B/2B/3B while holding HR fixed and respecting AB; pitchers adjust SO/BB and recompute WHIP.",
+    "anchors": "PA/AB/IP/OUTS, HR, pitcher H/ER/ERA/W/SV/HLD/G/GS/QS and hitter R/RBI/SB/BB/HBP/SF/SH unchanged; no workload, minor, park or international changes",
+    "guards": {
+      "version": "1.42.0",
+      "origins": [
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "weights": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "skill_prior_exposure": {
+        "hitter_AB": 200,
+        "pitcher_OUTS": 300
+      },
+      "minimum_population_exposure": 10000,
+      "workload_group_prior_players": 50,
+      "minimum_selection_folds": 3,
+      "minimum_rows_per_fold": 30,
+      "minimum_improvement": 0.01,
+      "maximum_individual_metric_degradation": 0.02,
+      "maximum_recent_degradation": 0.02,
+      "maximum_low_history_degradation": 0.02,
+      "minimum_cohort_rows": 15,
+      "final_selection_max_season": 2025,
+      "include_2020_2021": true,
+      "default_skill": "weighted_actuals",
+      "default_workload": "accepted_ip",
+      "automatic_promotion": false,
+      "valuation_enabled": false
+    },
+    "guard_comparator": "V1_43 versus STATCAST_RESEARCH using original phase.gate math; internal aliases weighted_actuals/skill_regression map to those arms only for executing unchanged guard code",
+    "historical_scoring": "2024 warmup unsupported without earlier compatible Statcast targets. 2025 is the first possible out-of-sample forecast. Unsupported warmup does not count as a supported fold.",
+    "2026_source_quality": "Structural sample/range/BBE checks only; no saved full 2026 event reconciliation. 2026-dependent Statcast production adjustments forbidden until source definition/event scope is reviewed.",
+    "release_policy": "Publish replayed baseline, exploratory candidate, adoption-gated candidate and long differences. Failed role gates or missing inputs retain entire baseline vector. Exploratory values never silently replace production.",
+    "2026_MLB_targets_fit_or_score": false,
+    "2026_data_usage": "2027 player history/input audit only; frozen decision and model hashes written before opening holdout labels",
+    "Steamer_read": false,
+    "production_changes": false,
+    "limitations": [
+      "Retrospective source vintages",
+      "At most one independent earlier-supported scoring origin with supplied official definitions",
+      "No new MLB opportunity for minor/international-only players",
+      "Metric eligibility differs and missing features are explicit",
+      "No inference that a CSV family existing means its scope is validated"
+    ]
+  },
+  "allowed_change": "Add earlier compatible source observations and apply independently specified scope masks, increasing earlier training/scoring years. No changes to target components, pooling, ridge penalty, damping, caps, baseline or adoption thresholds.",
+  "older_definition": "Use actual bb_type categorical counts on regular-season type=X physical in-play records, divided by ALL in-play BBE. Require every in-play record classified as ground_ball/line_drive/fly_ball/popup and total BBE>=30. No angle threshold or direction proxy.",
+  "compatibility_bridge": "Before admitting 2021/2022 require deterministic all-BBE category fractions and BBE denominator to match every formerly admitted 2023-2025 research bundle against archived pitches. Any mismatch is held and prevents declaring an unconditional bridge.",
+  "2026_scope": "Check every 2026 batted-ball export row against the season archive, including exact all-BBE denominator, categorical numerators, regular-season/game identity and missing classification. Admit only matching row bundles with existing masks and BBE>=30. Never fix counts by substitution.",
+  "rate_tolerance": 1e-08,
+  "archive_integrity": "Read frozen windows for2021-2025; use COMPLETE ledger windows for2026. Verify all raw/parquet/schedule hashes and row counts. Unique physical pitch keys, no multiple type=X per PA. Check archive game IDs against cached, previously certified full-season MLB schedules and standings.",
+  "schedule_scope": "Final regular-season games only; cancelled/postponed entries not performance outcomes. Scope proof is retrospective as of preserved source snapshots.",
+  "2026_performance_usage": "Audit/2027 source history only. No 2026 target, residual, forecast error, tuning or fold is allowed.",
+  "publication": "Working v1.43 baseline immutable. Candidate must pass unchanged role guards before player-level adoption review. No automatic production installation.",
+  "documentation_url": "https://baseballsavant.mlb.com/csv-docs",
+  "documentation_basis": "MLB documents type X as in play and bb_type as the four named classes; no release-position or ABS measurement enters these fractions."
+}

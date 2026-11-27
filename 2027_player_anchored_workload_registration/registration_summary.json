@@ -1,0 +1,30 @@
+{
+  "status": "REGISTERED_EXECUTABLE_UNSCORED",
+  "panel_rows": 17907,
+  "eligible_rows": 15917,
+  "cohort_and_eligibility_unchanged": true,
+  "historical_fits": 0,
+  "historical_errors_scored": 0,
+  "new_forecasts": 0,
+  "synthetic_and_structural_tests": 26,
+  "retained_declines_and_zeros": [
+    {
+      "role": "hitter",
+      "eligible_rows": 7273,
+      "negative_primary_residuals": 2435,
+      "zero_primary_exposure_targets": 3998,
+      "positive_anchor_to_zero_targets": 841
+    },
+    {
+      "role": "pitcher",
+      "eligible_rows": 8644,
+      "negative_primary_residuals": 3319,
+      "zero_primary_exposure_targets": 4653,
+      "positive_anchor_to_zero_targets": 1487
+    }
+  ],
+  "baseline_changed": false,
+  "guards_thresholds_changed": false,
+  "old_failed_run_reclassified": false,
+  "independent_validation_claimed": false
+}

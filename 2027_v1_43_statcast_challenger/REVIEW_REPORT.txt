@@ -1,0 +1,46 @@
+2027 V1.43 BASELINE AND STATCAST CHALLENGER
+
+Decision: keep the reproduced v1.43 baseline as the usable forecast. The Statcast adjustment is exploratory and did not meet adoption requirements. All after-adoption-guards statistical values equal the baseline. No original project or DRAFTTOOL files were changed.
+
+1. Input audit
+The audited player-history window is 2023-2026. Existing eligible FanGraphs MLB labels and the certified pitcher G/OUTS overlay supply the baseline. Per-year/per-metric coverage and per-player missing or ineligible labels are saved separately; missing observations are never manufactured as zero. The complete baseline includes 1,024 hitters and 1,487 pitchers with prior positive MLB history, not every possible 2027 arrival.
+
+All thirteen registered Statcast source snapshots were hash-checked against the existing inventory. The normalized historical and 2026 quarantine tables were checked for duplicate season/role/player/family/metric identities. The full metric audit includes all available families, while the challenger uses only GB, LD and FB fractions of all BBE. An individual season requires all three values, at least 30 exported BBE, existing sample/definition eligibility, consistent denominators, and valid sum/range checks. Historical 2023-2025 rows must also have RESEARCH_ELIGIBLE_RECONCILED_DEFINITION from the saved v1.22 audit. Source absence, a sample mask and an unresolved definition remain distinguishable.
+
+Official direction/pull-air, exit velocity, bat tracking, baserunning and pitch-type fields are not automatically treated as predictors. The prior scope audit held direction proxies separately, held unresolved measurement scope and identified short/partial history. Their data remain visible in statcast_metric_availability.csv. Available data is not automatically model-ready data.
+
+2026 rows pass structural checks only. A saved complete 2026 event/measurement-scope reconciliation is unavailable. These rows are admitted for the explicitly unapproved experiment as 2027 history, not certified as production-ready. No held historical definition was silently substituted with an archive proxy. Source filter settings and retrospective export status remain as recorded.
+
+2. Baseline replay
+All 2,511 saved v1.43 2027 player-role forecasts were reproduced, checking 42,224 fields. Baseline CSV copies are byte-identical to the original release. Recency weights are 1,2,3,4 for 2023,2024,2025,2026. Workload is the unchanged weighted actuals calculation. Hitter hit types and pitcher H/ER/BB/SO/HR use the original skill regression. The frozen population priors remain based on eligible 2022-2025 observations; they were not refit to 2026 outcomes. This deliberately reproduces v1.43 rather than silently introducing a new prior pool.
+
+3. Separately specified Statcast experiment
+A single fixed ridge model per role predicts next-year component-rate residuals relative to a historical v1.43-style baseline. Hitters predict 1B/AB, 2B/AB and 3B/AB residuals. Pitchers predict SO/OUTS and BB/OUTS residuals. Inputs are the three official batted-ball fractions pooled over available prior-four-season history with recency times BBE weights. The penalty is 20, training-weighted scaling uses only earlier records, z-scores are clipped to +/-4, target-exposure weights are capped at 600 and normalized to mean one, and at least 100 training player-seasons are required. There is no tuning search.
+
+The exploratory forecast adds half the predicted rate residual at fixed projected exposure, with a +/-50% relative cap per affected baseline count. Hitters preserve HR and AB, bound non-HR hits by available AB, and recompute H and slash-line ratios. Pitchers preserve H and ER, adjust SO/BB and recompute WHIP. PA/IP and other opportunity anchors remain unchanged. GB/LD/FB predictors for SO/BB are a testable limited recipe, not a claim to capture velocity, whiff skill or arsenal changes.
+
+4. Earlier-only validation and gates
+Official compatible feature history begins in 2023. A 2024 forecast has no earlier target season with these inputs from which to fit the specified model. It therefore remains an unsupported warmup, not an additional successful validation fold. For the 2025 forecast, models train on 2024 targets only: 456 hitter and 519 pitcher cases. This supplies one supported scoring fold, with 501 eligible hitter and 587 pitcher comparisons in its supported pools.
+
+The original guard function and thresholds were preserved. Its internal method-name aliases are documented in the gate JSON; the actual comparator is v1.43, not the older unregressed baseline. Gates require at least three supported historical folds, sufficient rows, at least 1% mean objective MSE improvement, individual/count protections, supported low-history checks and two recent supported years. Each comparison uses the same eligible player IDs for both methods per metric/pool, with membership hashes. Unsupported warmup fallbacks cannot add fake support.
+
+The single 2025 fold has hitter mean objective MSE ratio 0.986077 (about 1.39% improvement) and pitcher ratio 0.997483 (about 0.25% improvement). The hitter improvement is insufficient evidence because only one fold is available. The pitcher also misses the 1% improvement requirement; WHIP worsens even though SO and BB have some improvement. Neither role passes. A separate source-readiness guard also blocks production use of the unreconciled 2026 Statcast scope. No threshold was weakened and no 2026 forecast error was scored.
+
+5. Freeze and 2027 coverage
+After historical testing and gate decisions, final research coefficients were fitted to 2024-2025 targets and frozen: 957 hitter and 1,106 pitcher cases. Model and decision hashes were saved before opening 2026 actual labels. Those labels were then used only as 2027 player history; no model was refitted or selected from them.
+
+Eligible Statcast history exists for 852 hitters and 1,149 pitchers, so those receive exploratory adjustments. The remaining 172 hitters and 338 pitchers retain their baseline even in the exploratory file. Of the full baseline population, 538 hitters and 657 pitchers have a complete eligible 2026 Statcast bundle. Other pooled forecasts can use earlier eligible observations, with missing latest-year coverage flagged; a complete pooled feature vector does not certify current playing opportunity. All adopted/after-guards forecasts remain baseline for both roles.
+
+6. Exceptions and release boundaries
+Inherited sparse/stale history and missing-field exceptions remain visible. Existing international performance gaps remain flagged for 39 hitters and 79 pitchers. A separate outside-baseline international ledger is copied without translating its performance, inferring MLB workload or refreshing its previously recorded roster status. No MiLB coefficient, new park factor or unsupported international estimate fills a gap. The rejected pitcher workload model stays inactive. None of these files is imported into the 2026 DRAFTTOOL setup.
+
+7. Which files to use
+2027_hitters_after_adoption_guards.csv and 2027_pitchers_after_adoption_guards.csv are the usable, guarded release. They preserve v1.43 statistics and identify the rejected Statcast adjustment.
+2027_*_v1_43_baseline.csv are original byte-identical copies.
+2027_*_statcast_exploratory.csv are explicitly unapproved forecasts for inspecting the experiment, including baseline fallbacks for missing features.
+2027_*_comparison.csv and baseline_vs_statcast_differences.csv show baseline, research and guarded values separately. The comparison tables annotate missing original display names from exact-ID FanGraphs rows, without changing the original baseline copies.
+ranked_statcast_player_exceptions.csv and largest_exploratory_changes_by_metric.csv support player-level review. Material thresholds are review triage, not new adoption rules.
+Input-audit CSVs distinguish missing source rows, ineligible samples, unresolved scope, older-only histories and model-ready versus merely available metrics. Frozen coefficients, contract, training support, historical scores, gates, source hashes and validation checks are included.
+
+8. What would support a new adoption test
+Matching official 2021-2022 history for this exact batted-ball family would allow earlier fit/forecast origins without using 2026 for model selection, potentially supplying 2023-2025 supported scoring folds. Those older observations would be for model calibration/validation, not an extension of the 2027 player's 2023-2026 history window. The 2026 source scope also needs reconciliation. These are input/validation requirements, not a request to hand-adjust individual players or to infer results from the single favorable fold.
